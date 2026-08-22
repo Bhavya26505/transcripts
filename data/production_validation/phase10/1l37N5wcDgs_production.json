@@ -1,0 +1,274 @@
+{
+  "video_id": "1l37N5wcDgs",
+  "source_language": "hi",
+  "promise_status": "EXPLICIT_PROMISE",
+  "promised_points_count": 1,
+  "point_coverage": 100.0,
+  "point_coverage_status": "CALCULATED",
+  "hook": {
+    "text": "स्कैम का अमाउंट इतना बड़ा है कि अगर आप इसे कैलकुलेटर पर टाइप करेंगे तो एरर दिखाएगा",
+    "start_time": 0.2,
+    "end_time": 5.98,
+    "hook_type": "curiosity",
+    "confidence": 0.95
+  },
+  "creator_promise": {
+    "description": "Will tell detailed story of the scam in next few minutes",
+    "explicit": true,
+    "confidence": 0.92,
+    "evidence": {
+      "start_time": 45.0,
+      "end_time": 50.98,
+      "text": "लेकिन अगले कुछ ही मिनटों में मैं आपको डिटेल में इस स्टोरी को बताने वाला हूं"
+    }
+  },
+  "expected_points": [
+    {
+      "point_id": "P1",
+      "description": "Detailed narrative of the property developer scam story",
+      "explicitly_promised": true,
+      "confidence": 0.9,
+      "evidence": {
+        "start_time": 45.0,
+        "end_time": 50.98,
+        "text": "मैं आपको डिटेल में इस स्टोरी को बताने वाला हूं"
+      }
+    }
+  ],
+  "segment_analysis": [
+    {
+      "segment_id": 3,
+      "start_time": 93.84,
+      "end_time": 139.419,
+      "primary_point": "P1",
+      "function": "SUPPORTING_EXPLANATION",
+      "relevance": "DIRECT",
+      "confidence": 0.92,
+      "evidence": "गवर्नमेंट बदल गई लेकिन गवर्नमेंट ने आगे चलकर कुछ रिफॉर्म्स लाए रिफॉर्म्स क्या थे कि अब कोई भी प्राइवेट कंपनी लैंड ले सकती है",
+      "evidence_validation": "PASSED"
+    },
+    {
+      "segment_id": 4,
+      "start_time": 139.419,
+      "end_time": 180.44,
+      "primary_point": "P1",
+      "function": "SUPPORTING_EXPLANATION",
+      "relevance": "DIRECT",
+      "confidence": 0.95,
+      "evidence": "उस लैंड को फिर जैसे क्योंकि प्राइसेस बहुत तेजी से बढ़ रही है तो ज्यादा प्राइस पर बेचकर लोन का पैसा चुका करर अपना पैसा बना लेंगे",
+      "evidence_validation": "PASSED"
+    },
+    {
+      "segment_id": 5,
+      "start_time": 180.44,
+      "end_time": 222.859,
+      "primary_point": "P1",
+      "function": "DIRECT_POINT",
+      "relevance": "DIRECT",
+      "confidence": 0.94,
+      "evidence": "लान ने सोचा कि क्यों ना मैं बैंक ही बना लू अपनी अब बैंक अपनी होगी तो घुस देने की जरूरत नहीं है",
+      "evidence_validation": "PASSED"
+    },
+    {
+      "segment_id": 6,
+      "start_time": 222.859,
+      "end_time": 266.86,
+      "primary_point": "NONE",
+      "function": "OFF_TOPIC",
+      "relevance": "OFF_TOPIC",
+      "confidence": 0.98,
+      "evidence": "आईआरडीएआई जो कि इंडिया की इंश्योरेंस रेगुलेटरी बॉडी है उसने एक डेटा पब्लिश किया है",
+      "evidence_validation": "PASSED"
+    },
+    {
+      "segment_id": 7,
+      "start_time": 266.86,
+      "end_time": 307.08,
+      "primary_point": "NONE",
+      "function": "OFF_TOPIC",
+      "relevance": "OFF_TOPIC",
+      "confidence": 0.96,
+      "evidence": "एक स्पों सर्ड वीडियो नहीं है नीचे जो भी दो लिंक्स दी गई है डिस्क्रिप्शन और कमेंट बॉक्स में वो हमारी अफिटेक लिंक है",
+      "evidence_validation": "PASSED"
+    },
+    {
+      "segment_id": 8,
+      "start_time": 307.08,
+      "end_time": 350.04,
+      "primary_point": "P1",
+      "function": "SUPPORTING_EXPLANATION",
+      "relevance": "DIRECT",
+      "confidence": 0.95,
+      "evidence": "लान ने थोड़ा पीआर पर फोकस किया और अपना पीआर उन्होंने बहुत सटीक तरीके सेया पीआर ये था कि कैसे गरीब घर की लड़की एक बिलिनियर बन गई",
+      "evidence_validation": "PASSED"
+    },
+    {
+      "segment_id": 9,
+      "start_time": 350.04,
+      "end_time": 390.7,
+      "primary_point": "P1",
+      "function": "SUPPORTING_EXPLANATION",
+      "relevance": "DIRECT",
+      "confidence": 0.95,
+      "evidence": "तो मैक्सिमम आपका 5 पर हो गया लेकिन 5 पर में कंट्रोल तो नहीं आ र आपके पास तो इसीलिए लान ने क्या किया बहुत सारी शेल कंपनीज बनाई",
+      "evidence_validation": "PASSED"
+    },
+    {
+      "segment_id": 10,
+      "start_time": 390.7,
+      "end_time": 432.1,
+      "primary_point": "P1",
+      "function": "EVIDENCE",
+      "relevance": "DIRECT",
+      "confidence": 0.95,
+      "evidence": "एनी केसेस 44 बिलियन डॉलर 3 लाख करोड़ से भी ज्यादा का पैसा वियतनाम जैसे की छोटी सी कंट्री के एक बैंक ने शेल कंपनीज को ट्रांसफर किया",
+      "evidence_validation": "PASSED"
+    },
+    {
+      "segment_id": 11,
+      "start_time": 432.1,
+      "end_time": 476.239,
+      "primary_point": "P1",
+      "function": "SUPPORTING_EXPLANATION",
+      "relevance": "DIRECT",
+      "confidence": 0.95,
+      "evidence": "एससीबी बैंक के कुछ एक्स एंप्लॉयज ने कुछ लोगों को इस चीज के बारे में बताया कि ट्राउ मिलान काफी सारा पैसा बैंक से निकाल कर अपनी शेल कंपनीज को भेज रही है",
+      "evidence_validation": "PASSED"
+    },
+    {
+      "segment_id": 12,
+      "start_time": 476.239,
+      "end_time": 518.84,
+      "primary_point": "P1",
+      "function": "SUPPORTING_EXPLANATION",
+      "relevance": "DIRECT",
+      "confidence": 0.95,
+      "evidence": "अब जैसे ही लोगों ने ये पोस्ट देखी भाग कर चले गए एससीबी में चलो मुझे अपना पैसा निकालना है",
+      "evidence_validation": "PASSED"
+    },
+    {
+      "segment_id": 13,
+      "start_time": 518.84,
+      "end_time": 566.5,
+      "primary_point": "P1",
+      "function": "SUPPORTING_EXPLANATION",
+      "relevance": "DIRECT",
+      "confidence": 0.95,
+      "evidence": "44 बिलियन डॉलर में से लगभग 17 बिलियन डॉलर तो सरकार ने रिकवर कर लिए",
+      "evidence_validation": "PASSED"
+    },
+    {
+      "segment_id": 14,
+      "start_time": 566.5,
+      "end_time": 612.7,
+      "primary_point": "P1",
+      "function": "SUPPORTING_EXPLANATION",
+      "relevance": "DIRECT",
+      "confidence": 0.95,
+      "evidence": "सारा पैसा हमारा डूबा है हम शांति से नहीं बैठ सकते आप इमेजिन कर सकते एक छोटी कंट्री जहां का जीडीपी 46 बिलियन डॉलर का है वहां पर 44 बिलियन डॉलर यानी जीडीपी का लगभग 10 पर से ज्यादा का फ्रॉड हो जाता है फ्रॉड बहुत बड़े लेवल पर किया गया है तो पब्लिक से आते हुए प्रेशर को देखकर सरकार और कोर्ट ने जल्दी इस पर एक्शन लेना शुरू किया और 2 साल के अंदर इसका रिजल्ट लगाया अब देखिए इसमें कई सारे लोग आए वहां पर जो एविडेंसेस थे वो कितने थे उसका वेट किया गया तो लगभग 6000 किग्रा इतने एविडेंसेस आए 200 लॉयर्स इन में इवॉल्व थे और जो गवाही देने के लिए लोग आए उनकी संख्या थी 2700 बहुत बड़े लेवल पर ही हुआ और फिर फाइनली कोर्ट ने बता दिया कि ट्रंग मलान स्मर दोषी पाई जाती है और उनको सजाए मौत यहां पर दी जाती है उनके हस्बैंड को करीब 9 साल की सजा हुई बैंक के कई सारे एंप्लॉयज ने किसी को 2 साल 4 साल 10 साल",
+      "evidence_validation": "PASSED"
+    },
+    {
+      "segment_id": 15,
+      "start_time": 612.7,
+      "end_time": 642.279,
+      "primary_point": "P1",
+      "function": "CONCLUSION",
+      "relevance": "DIRECT",
+      "confidence": 0.92,
+      "evidence": "गवर्नमेंट अभी भी ट्राई कर रही है पैसा रिकवर करने के लिए लेकिन इस 44 बिलियन डॉलर में से $7 बिलियन डलर अभी भी मिसिंग है",
+      "evidence_validation": "PASSED"
+    }
+  ],
+  "metrics": {
+    "point_coverage": {
+      "P1": {
+        "description": "Detailed narrative of the property developer scam story",
+        "coverage_type": "DIRECTLY_COVERED",
+        "segment_count": 11,
+        "duration": 464.22,
+        "percentage_of_analyzed_duration": 84.64,
+        "function_counts": {
+          "DIRECT_POINT": 1,
+          "SUPPORTING_EXPLANATION": 8,
+          "EVIDENCE": 1,
+          "EXAMPLE": 0,
+          "COMPARISON": 0,
+          "TRANSITION": 0,
+          "CONTEXT": 0,
+          "CONCLUSION": 1,
+          "RELATED_EXTENSION": 0,
+          "OFF_TOPIC": 0,
+          "UNCERTAIN": 0
+        },
+        "non_zero_function_counts": {
+          "DIRECT_POINT": 1,
+          "SUPPORTING_EXPLANATION": 8,
+          "EVIDENCE": 1,
+          "CONCLUSION": 1
+        },
+        "segment_ids": [
+          3,
+          4,
+          5,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15
+        ]
+      }
+    },
+    "clear_relevance": {
+      "rel_durations": {
+        "DIRECT": 464.22,
+        "SUPPORTING": 0.0,
+        "RELATED": 0.0,
+        "TRANSITION": 0.0,
+        "UNCERTAIN": 0.0,
+        "OFF_TOPIC": 84.22
+      },
+      "rel_percentages": {
+        "DIRECT": 84.64,
+        "SUPPORTING": 0.0,
+        "RELATED": 0.0,
+        "TRANSITION": 0.0,
+        "UNCERTAIN": 0.0,
+        "OFF_TOPIC": 15.36
+      },
+      "clearly_relevant_duration": 464.22,
+      "clearly_relevant_percentage": 84.64,
+      "off_topic_duration": 84.22,
+      "off_topic_percentage": 15.36
+    },
+    "off_topic_percentage": 15.36,
+    "off_topic_episode_count": 1,
+    "missing_points": []
+  },
+  "adherence_score": {
+    "point_coverage_weight": 0.6,
+    "clear_relevance_weight": 0.25,
+    "topic_discipline_weight": 0.15,
+    "point_coverage_score": 100.0,
+    "clear_relevance_score": 84.64,
+    "topic_discipline_score": 84.64,
+    "final_score": 93.86
+  },
+  "validation": {
+    "timeline_integrity": true,
+    "evidence_integrity": true,
+    "metric_integrity": true,
+    "score_integrity": true,
+    "all_validations_pass": true
+  },
+  "performance": {
+    "phase7_latency": 0.0,
+    "phase8_latency": 0.0,
+    "llm_calls_count": 0,
+    "retries_count": 0,
+    "total_processing_time": 0.01
+  }
+}

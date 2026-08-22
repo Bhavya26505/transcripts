@@ -1,0 +1,154 @@
+{
+  "video_id": "-SZBrXciDLg",
+  "promise_meta": {
+    "promise_status": "NO_EXPLICIT_PROMISE",
+    "promised_points_count": 0,
+    "point_coverage_status": "NOT_APPLICABLE",
+    "point_coverage_score": null,
+    "adherence_score": null
+  },
+  "analysis_window": {
+    "start_time": 95.32,
+    "end_time": 581.16,
+    "duration": 485.84
+  },
+  "timeline_integrity": {
+    "status": "PASS",
+    "expected_segments": 13,
+    "analyzed_segments": 13,
+    "missing_segments": [],
+    "duplicate_segments": [],
+    "timestamp_errors": [],
+    "overlap_duration": 0.0,
+    "uncovered_duration": 0.0
+  },
+  "duration_metrics": {
+    "fn_durations": {
+      "DIRECT_POINT": 228.96,
+      "SUPPORTING_EXPLANATION": 44.36,
+      "EVIDENCE": 44.68,
+      "EXAMPLE": 0.0,
+      "COMPARISON": 0.0,
+      "TRANSITION": 71.08,
+      "CONTEXT": 0.0,
+      "CONCLUSION": 48.68,
+      "RELATED_EXTENSION": 0.0,
+      "OFF_TOPIC": 48.08,
+      "UNCERTAIN": 0.0
+    },
+    "fn_percentages": {
+      "DIRECT_POINT": 47.13,
+      "SUPPORTING_EXPLANATION": 9.13,
+      "EVIDENCE": 9.2,
+      "EXAMPLE": 0.0,
+      "COMPARISON": 0.0,
+      "TRANSITION": 14.63,
+      "CONTEXT": 0.0,
+      "CONCLUSION": 10.02,
+      "RELATED_EXTENSION": 0.0,
+      "OFF_TOPIC": 9.9,
+      "UNCERTAIN": 0.0
+    }
+  },
+  "relevance_metrics": {
+    "rel_durations": {
+      "DIRECT": 407.12,
+      "SUPPORTING": 0.0,
+      "RELATED": 0.0,
+      "TRANSITION": 30.64,
+      "UNCERTAIN": 0.0,
+      "OFF_TOPIC": 48.08
+    },
+    "rel_percentages": {
+      "DIRECT": 83.8,
+      "SUPPORTING": 0.0,
+      "RELATED": 0.0,
+      "TRANSITION": 6.31,
+      "UNCERTAIN": 0.0,
+      "OFF_TOPIC": 9.9
+    },
+    "clearly_relevant_duration": 407.12,
+    "clearly_relevant_percentage": 83.8,
+    "off_topic_duration": 48.08,
+    "off_topic_percentage": 9.9
+  },
+  "point_coverage": null,
+  "point_order": {
+    "first_appearance_order": [],
+    "first_appearances": {}
+  },
+  "point_returns": {},
+  "off_topic": {
+    "episode_count": 1,
+    "episodes": [
+      {
+        "episode_id": 1,
+        "start_segment": 6,
+        "end_segment": 6,
+        "start_time": 212.88,
+        "end_time": 260.959,
+        "duration": 48.08,
+        "segment_ids": [
+          6
+        ],
+        "percentage_of_analyzed_duration": 9.9,
+        "returned_to_topic": true
+      }
+    ],
+    "longest_episode": {
+      "episode_id": 1,
+      "duration": 48.08,
+      "percentage_of_analyzed_duration": 9.9
+    }
+  },
+  "transitions": {
+    "raw_segment_sequence": [
+      "NONE",
+      "P1",
+      "P1",
+      "OFF_TOPIC",
+      "P1",
+      "P1 | P2 | P3 | P4 | NONE | MULTIPLE | UNCERTAIN",
+      "P1 | P2 | P3 | P4 | NONE | MULTIPLE | UNCERTAIN",
+      "P1 | P2 | P3 | P4 | NONE | MULTIPLE | UNCERTAIN",
+      "P1 | P2 | P3 | P4 | NONE | MULTIPLE | UNCERTAIN",
+      "P1 | P2 | P3 | P4 | NONE | MULTIPLE | UNCERTAIN",
+      "P1 | P2 | P3 | P4 | NONE | MULTIPLE | UNCERTAIN",
+      "P1 | P2 | P3 | P4 | NONE | MULTIPLE | UNCERTAIN",
+      "P1 | P2 | P3 | P4 | NONE | MULTIPLE | UNCERTAIN"
+    ],
+    "normalized_run_sequence": [
+      "NONE",
+      "P1",
+      "OFF_TOPIC",
+      "P1",
+      "P1 | P2 | P3 | P4 | NONE | MULTIPLE | UNCERTAIN"
+    ],
+    "total_run_count": 5,
+    "point_transitions_count": 2,
+    "off_topic_transitions_count": 2
+  },
+  "mathematical_validation": {
+    "status": "PASS",
+    "assertion_results": [
+      {
+        "assertion": "sum(unique segment durations) == total_analyzed_duration",
+        "expected": 485.84,
+        "actual": 485.84,
+        "passed": true
+      },
+      {
+        "assertion": "sum(relevance category durations) == total_analyzed_duration",
+        "expected": 485.84,
+        "actual": 485.84,
+        "passed": true
+      },
+      {
+        "assertion": "sum(function category durations) == total_analyzed_duration",
+        "expected": 485.84,
+        "actual": 485.84,
+        "passed": true
+      }
+    ]
+  }
+}

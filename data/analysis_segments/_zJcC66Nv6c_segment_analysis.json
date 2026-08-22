@@ -1,0 +1,161 @@
+{
+  "video_id": "_zJcC66Nv6c",
+  "opening_segments_count": 2,
+  "analyzed_segments_count": 14,
+  "segments": [
+    {
+      "segment_id": 3,
+      "start_time": 91.3,
+      "end_time": 141.06,
+      "primary_point": "P1 | P2 | P3 | P4 | NONE | MULTIPLE | UNCERTAIN",
+      "function": "DIRECT_POINT",
+      "relevance": "DIRECT",
+      "confidence": 0.95,
+      "evidence": "तो आज हायत के टोटल सात होटल्स हैं ऑल ओवर इंडिया अलग-अलग लोकेशंस पर दिल्ली में दो है मुंबई में एक है",
+      "evidence_validation": "PASSED"
+    },
+    {
+      "segment_id": 4,
+      "start_time": 141.06,
+      "end_time": 189.1,
+      "primary_point": "P1 | P2 | P3 | P4 | NONE | MULTIPLE | UNCERTAIN",
+      "function": "EVIDENCE",
+      "relevance": "DIRECT",
+      "confidence": 0.95,
+      "evidence": "कंपनी का जो एवरेज रूम रेट है वो पिछले 4 सालों में डबल हो गया है व 5600 से 10000 के ऊपर चला गया है",
+      "evidence_validation": "PASSED"
+    },
+    {
+      "segment_id": 5,
+      "start_time": 189.1,
+      "end_time": 234.679,
+      "primary_point": "P1 | P2 | P3 | P4 | NONE | MULTIPLE | UNCERTAIN",
+      "function": "SUPPORTING_EXPLANATION",
+      "relevance": "DIRECT",
+      "confidence": 0.95,
+      "evidence": "हम देखें 2022 से तो धीरे-धीरे रिकवरी यहां पर देखने मिली और फिलहाल जो ऑक्युपेंसी रेट है वो 70 पर से ज्यादा है अब शायद आपको ये 70 पर से जो 73 74 के नंबर्स वो शायद कम लगे लेकिन जब आप बाकी होटल चेंसी से कंपेयर करते हैं यहां पर तो आपको पता चलेगा कि इनका जो रेट है अबोव 70 पर का वो काफी अच्छा है तो यहां से आपको कंपनी की पॉजिटिव साइड तो पता चले लेकिन हमें नेगेटिव साइड समझना भी बहुत जरूरी है देखिए लग्जरी सेगमेंट हालांकि देखा जाए लग्जरी होटल सेगमेंट तो इंडिया में बहुत सारे लोग जो है लोअर मिडिल क्लास वाले अप्पर मिडल क्लास में जा रहे हैं अपर मिडल क्लास वाले रिच क्लास में जा रहे हैं और ये पॉपुलेशन जो है वो बहुत तेजी से शिफ्ट होती जा रही है मतलब ऊपर की तरफ ही शिफ्ट हो रही है इसका फायदा किसे हो रहा है तो ये जो लग्जरी होटल चेंस है और फिर लग्जरी ब्रांड्स होंगे अलग-अलग इन्हें बहुत ज्यादा फायदा हो रहा है और ये विजिबल भी",
+      "evidence_validation": "PASSED"
+    },
+    {
+      "segment_id": 6,
+      "start_time": 234.679,
+      "end_time": 278.98,
+      "primary_point": "P1 | P2 | P3 | P4 | NONE | MULTIPLE | UNCERTAIN",
+      "function": "DIRECT_POINT",
+      "relevance": "DIRECT",
+      "confidence": 0.95,
+      "evidence": "तो देखिए एक तो दो चीजें यहां पर सबसे बड़े रेड फ्लैग्स हैं पहला तो कंपनी एक लॉस मेकिंग कंपनी है",
+      "evidence_validation": "PASSED"
+    },
+    {
+      "segment_id": 7,
+      "start_time": 278.98,
+      "end_time": 322.82,
+      "primary_point": "P1 | P2 | P3 | P4 | NONE | MULTIPLE | UNCERTAIN",
+      "function": "SUPPORTING_EXPLANATION",
+      "relevance": "DIRECT",
+      "confidence": 0.95,
+      "evidence": "लेकिन शॉकिंगली ये जो पैसा आईपीओ के जरिए रेज हो रहा है इसका उपयोग होटल बनाने के लिए शायद नहीं हो रहा है क्योंकि इसका उपयोग जो हो रहा है वो मेनली डेट रीपेमेंट के लिए हो रहा है",
+      "evidence_validation": "PASSED"
+    },
+    {
+      "segment_id": 8,
+      "start_time": 322.82,
+      "end_time": 364.579,
+      "primary_point": "NONE",
+      "function": "TRANSITION",
+      "relevance": "SUPPORTING",
+      "confidence": 0.95,
+      "evidence": "जब भी किसी आईपीओ का एनालिसिस करते हैं तो हमारा यह मकसद नहीं होता है कि आपको यह बताना कि कौन सा आईपीओ अच्छा है और कौन सा खराब है",
+      "evidence_validation": "PASSED"
+    },
+    {
+      "segment_id": 9,
+      "start_time": 364.579,
+      "end_time": 405.899,
+      "primary_point": "NONE",
+      "function": "OFF_TOPIC",
+      "relevance": "OFF_TOPIC",
+      "confidence": 0.95,
+      "evidence": "मनी मास्टरी प्रोग्राम में जो होने वाला है इस संडे यानी 25th फरवरी को शाम 6:00 बजे से 8:00 बजे के बीच",
+      "evidence_validation": "PASSED"
+    },
+    {
+      "segment_id": 10,
+      "start_time": 405.899,
+      "end_time": 449.4,
+      "primary_point": "P3",
+      "function": "DIRECT_POINT",
+      "relevance": "DIRECT",
+      "confidence": 0.95,
+      "evidence": "जब भी कंपनी प्रॉफिटेबल नहीं होती है तो आप प्राइस टू अर्निंग नहीं निकाल सकते तब हमें प्राइस टू सेल्स रेशो निकाल के वैल्युएशन निकालना पड़ता है",
+      "evidence_validation": "PASSED"
+    },
+    {
+      "segment_id": 11,
+      "start_time": 449.4,
+      "end_time": 495.5,
+      "primary_point": "P3",
+      "function": "COMPARISON",
+      "relevance": "DIRECT",
+      "confidence": 0.95,
+      "evidence": "लेट के अलावा किसी भी कंपनी का जो प्राइस टू अर्निंग रेशो है वो जूनि परर होटल से ज्यादा नहीं है",
+      "evidence_validation": "PASSED"
+    },
+    {
+      "segment_id": 12,
+      "start_time": 495.5,
+      "end_time": 541.24,
+      "primary_point": "P3",
+      "function": "COMPARISON",
+      "relevance": "DIRECT",
+      "confidence": 0.95,
+      "evidence": "पिछले साल ही 2023 में तीन इंटरनेशनल होटल्स ने अनाउंस किया है कि हम इंडिया में आ रहे हैं",
+      "evidence_validation": "PASSED"
+    },
+    {
+      "segment_id": 13,
+      "start_time": 541.24,
+      "end_time": 586.56,
+      "primary_point": "P1 | P2 | P3 | P4 | NONE | MULTIPLE | UNCERTAIN",
+      "function": "SUPPORTING_EXPLANATION",
+      "relevance": "DIRECT",
+      "confidence": 0.95,
+      "evidence": "कंपनी बोल रही है कि हम गोवा में होटल खोलने का प्लान कर रहे हैं हम हैदराबाद में होटल खोलने का प्लान करें",
+      "evidence_validation": "PASSED"
+    },
+    {
+      "segment_id": 14,
+      "start_time": 586.56,
+      "end_time": 630.28,
+      "primary_point": "P2 | P3",
+      "function": "SUPPORTING_EXPLANATION",
+      "relevance": "DIRECT",
+      "confidence": 0.95,
+      "evidence": "कंपनी का सिर्फ ₹10 का चल रहा है यानी कि कंपनी ने यहां पर मतलब जिस हिसाब से वैल्यूएशन रखा है तो मुझे नहीं दिखता कि इन्वेस्टर्स के लिए कुछ छोड़ा भी है",
+      "evidence_validation": "PASSED"
+    },
+    {
+      "segment_id": 15,
+      "start_time": 630.28,
+      "end_time": 673.42,
+      "primary_point": "P3",
+      "function": "SUPPORTING_EXPLANATION",
+      "relevance": "DIRECT",
+      "confidence": 0.95,
+      "evidence": "करना का गोल यह है कर्ज लिया है रिपे करना मुश्किल जा रहा है क्योंकि प्रॉफिट ही नहीं है तो दैट इज द मेन प्रॉब्लम तो कंपनी को शायद इससे बाहर निकलने तो कुछ अलग कुछ करना पड़ेगा तो आने वाले टाइम में वो क्या कुछ करते हैं वो डिपेंड करेगा लेकिन उन्हें बिजनेस ग्रो करने के लिए नंबर ऑफ होटल्स बढ़ाने पड़ेंगे जो कि अगर आप देखेंगे ये जो भी होटल्स इन्होंने बनाए हैं यह पिछले 25 साल सेय बना रहे हैं तो जो ग्रोथ का जो स्पीड है वह काफी कम है और यह चीज भी आपको ध्यान में रखनी चाहिए और वैल्युएशन पॉइंट ऑफ व्यू कुछ खास नहीं है ग्रे मार्केट प्रीमियम भी कुछ नहीं है तो आप मुझे अब बताइए कि क्या आप इस आईपीओ में इन्वेस्ट करना चाहेंगे हां तो क्यों ना तो क्यों नहीं एक वैलिड रीजन अच्छा खासा रीजन नीचे कमेंट करके जरूर बताइए और इस आईपीओ को आपके आईपीओ में इन्वेस्ट करने वाले दोस्तों के साथ जरूर शेयर कीजिए ताकि उन तक भी इंफॉर्मेशन पहुंचे बहुत सारे लोग",
+      "evidence_validation": "PASSED"
+    },
+    {
+      "segment_id": 16,
+      "start_time": 673.42,
+      "end_time": 716.36,
+      "primary_point": "P1 | P2 | P3 | P4",
+      "function": "CONCLUSION",
+      "relevance": "DIRECT",
+      "confidence": 0.95,
+      "evidence": "ब्लाइंड कि आजकल किसी भी आईपीओ में इन्वेस्ट कर रहे ये सोच कर के आईपीओ मतलब पैसा बनेगा ही बनेगा लेकिन ऐसी चीज नहीं है आपको बिजनेस को सही से देखना पड़ेगा अभी फिलहाल बुल मार्केट चल रहा है तो बुल मार्केट में कई सारी ऐसी कंपनीज आ जाती है बीच में जो फंडामेंटली वीक होती है लेकिन उस बुल मार्केट का फायदा लेकर हाई वैल्यूएशन पर अपना आईपीओ लाना चाहती है है तो ऐसी कंपनी से बच के रहना आपका काम है और इसीलिए हर कंपनी को फंडामेंटली सारे एंगल से चेक करना आपका काम है और ऐसी वीडियोस हम फिनो शस बाय प्रसाद पर लाते रहते हैं तो उसके लिए हमें जरूर सब्सक्राइब कीजिए और बेल आइकन पर भी क्लिक कीजिए ताकि आप हमारा एक भी वीडियो मिस ना करें मिलते हैं अगले वीडियो में थैंक यू सो मच फॉर वाचिंग दिस वीडियो और जाते-जाते हमारे मनी मास्टरी प्रोग्राम को जरूर चेक आउट कीजिए यहां पर हम आपको बनाएंगे एक इंडिपेंडेंट इन्वेस्टर जिसे आगे चलकर किसी पर भी डिपेंड रहने की जरूरत नहीं पड़ेगी",
+      "evidence_validation": "PASSED"
+    }
+  ]
+}

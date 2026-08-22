@@ -1,0 +1,142 @@
+{
+  "raw_record": {
+    "log_metrics": {
+      "video_id": "lmpKVhN-5FY",
+      "model_id": "qwen3.5-9b-claude-4.6-opus-reasoning-distilled-v2",
+      "target_window_seconds": 90.0,
+      "max_window_seconds": 120.0,
+      "actual_opening_duration": 112.84,
+      "final_end_timestamp": 112.88,
+      "number_of_segments": 3,
+      "input_character_count": 5553,
+      "output_character_count": 4695,
+      "latency_seconds": 280.673,
+      "temperature": 0.1,
+      "max_tokens": 2500,
+      "json_valid": true,
+      "validation_issues": [],
+      "parse_error": ""
+    },
+    "formatted_prompt_input": "[SEGMENT 1]\nTIME: 0.04 - 39.62\nLANGUAGE: HINDI\nTEXT:\nचाहे टर्म इंश्योरेंस हो या फिर हेल्थ इंश्योरेंस उन्हें खरीदने से पहले हमारे दिमाग में कुछ ऐसे यूनिक सवाल आते हैं जिनका जवाब हमें कहीं नहीं मिल पाता जैसे कई बार यह सवाल आता है कि नॉमिनी किसे रखें वाइफ को रखें या फिर मां को और फिर हार्दिक पांडे का केस सुनने के बाद फिर दिमाग में आता है कि क्या दोनों को नॉमिनी रख सकते हैं अगर हां तो उसकी प्रोसेस क्या है उसके बाद सवाल ये आता है कि कौन सी इंश्योरेंस कंपनी से इंश्योरेंस खरीदें कौन से राइडर ले क्या टर्म इंश्योरेंस लेने के लिए कोई एजुकेशनल क्वालिफिकेशन की जरूरत होती है उसके बाद आजकल ज़ीरो कॉस्ट टर्म इंश्योरेंस की काफी सारी ऐड्स चल रही है तो क्या सही में ऐसा कुछ एजिस्ट करता है और आखिर में मैं यह भी बता दूंगा कि मैंने कौन सा इंश्योरेंस लिया है कौन सी कंपनी से लिया है इसके अलावा और भी कई सारे यूनिक और एंटिक सवाल हैं जिसके जवाब आपको आज मिल जाएंगे और अगर कोई सवाल आपका ऐसा है जिसका जवाब इस वीडियो में आपको\n\n[SEGMENT 2]\nTIME: 39.62 - 81.48\nLANGUAGE: HINDI\nTEXT:\nनहीं मिलता है नीचे कमेंट करके बताइए मैं पर्सनली उसका भी कमेंट करके आपको वही के वही जवाब दूंगा तो आज के इस वीडियो के बाद आपका कोई भी ऐसा सवाल नहीं रहेगा जिसका जवाब आपको ना मिले नमस्कार मैं प्रसाद आपका आज के इस वीडियो में स्वागत करता हूं शुरुआत करते हैं पहले सवाल से जो कि सबसे ज्यादा कॉमन तो दया पूछती है कि क्या पांचवी फेल को टर्म इंश्योरेंस मिल सकता है पांचवीं फेल को भी टर्म इंश्योरेंस मिल सकता है तो मोस्ट प्रैक्टिकली आप को इनकम प्रूफ देना पड़ता है वो आपके पास होना चाहिए क्योंकि अल्टीमेटली आपको प्रीमियम तो भरना पड़ेगा अगर आप सैलरीड एंप्लॉयड हैं तो आपको पिछले न महीने की सैलरी स्लिप सबमिट करनी पड़ेगी और अगर आप सेल्फ एंप्लॉयड हैं तो आपको पिछले 2 साल का आईटीआर देना पड़ेगा अगला सवाल पूछा है हार्दिक ने कि नॉमिनी किसे रख सकते हैं और क्या दो लोगों को नॉमिनी रख सकते हैं क्या अब ये दो लोगों का सवाल हार्दिक ने क्यों पूछा ये मुझे पता नहीं बट उसका जवाब मैं\n\n[SEGMENT 3]\nTIME: 81.48 - 112.88\nLANGUAGE: HINDI\nTEXT:\nआपको दे देता हूं देखिए जनरली लोगों को लगता है कि नॉमिनी आप अपनी माता को पिता को हस्बैंड वाइफ उनको रख सकते हैं उनको तो रख ही सकते हैं लेकिन अगर आप लीगली बात करें तो आप हर उस इंसान को नॉमिनी रख सकते हैं जो आप पर फाइनेंशली डिपेंडेंट है जैसे कि आप इंश्योरेंस एक्ट 1938 का यह पार्ट स्क्रीन पर देख सकते हो इसके तहत आप उस किसी भी शख्स को नॉमिनी बना सकते हैं जो आप पर",
+    "raw_response": "{\n    \"video_id\": \"lmpKVhN-5FY\",\n    \"opening_analysis\": {\n        \"hook\": {\n            \"text\": \"चाहे टर्म इंश्योरेंस हो या फिर हेल्थ इंश्योरेंस उन्हें खरीदने से पहले हमारे दिमाग में कुछ ऐसे यूनिक सवाल आते हैं जिनका जवाब हमें कहीं नहीं मिल पाता\",\n            \"start_time\": 0.04,\n            \"end_time\": 39.62,\n            \"hook_type\": \"curiosity\",\n            \"confidence\": 0.95\n        },\n        \"core_topic\": {\n            \"description\": \"Term insurance eligibility, nominee selection rules, and company comparison in Hindi.\",\n            \"explicit\": true,\n            \"confidence\": 0.95,\n            \"evidence\": {\n                \"start_time\": 39.62,\n                \"end_time\": 81.48,\n                \"text\": \"पहले सवाल से जो कि सबसे ज्यादा कॉमन तो दया पूछती है कि क्या पांचवी फेल को टर्म इंश्योरेंस मिल सकता है\"\n            }\n        },\n        \"viewer_problem_or_question\": {\n            \"description\": \"Confusion about nominee selection, eligibility for 5th grade fail students, and company choice.\",\n            \"explicit\": true,\n            \"confidence\": 0.90,\n            \"evidence\": {\n                \"start_time\": 0.04,\n                \"end_time\": 39.62,\n                \"text\": \"जैसे कई बार यह सवाल आता है कि नॉमिनी किसे रखें वाइफ को रखें या फिर मां को\"\n            }\n        },\n        \"promise\": {\n            \"description\": \"Will answer all insurance questions and personally respond to additional viewer queries in comments.\",\n            \"explicit\": true,\n            \"confidence\": 0.90,\n            \"evidence\": {\n                \"start_time\": 39.62,\n                \"end_time\": 81.48,\n                \"text\": \"नीचे कमेंट करके बताइए मैं पर्सनली उसका भी कमेंट करके आपको वही के वही जवाब दूंगा\"\n            }\n        },\n        \"expected_points\": [\n            {\n                \"point_id\": \"P1\",\n                \"description\": \"Term insurance eligibility for 5th grade fail students with income proof requirements.\",\n                \"explicitly_promised\": true,\n                \"confidence\": 0.90,\n                \"evidence\": {\n                    \"start_time\": 39.62,\n                    \"end_time\": 81.48,\n                    \"text\": \"क्या पांचवी फेल को टर्म इंश्योरेंस मिल सकता है पांचवीं फेल को भी टर्म इंश्योरेंस मिल सकता है\"\n                }\n            },\n            {\n                \"point_id\": \"P2\",\n                \"description\": \"Nominee selection rules including whether multiple nominees can be added.\",\n                \"explicitly_promised\": true,\n                \"confidence\": 0.90,\n                \"evidence\": {\n                    \"start_time\": 39.62,\n                    \"end_time\": 81.48,\n                    \"text\": \"नॉमिनी किसे रख सकते हैं और क्या दो लोगों को नॉमिनी रख सकते हैं\"\n                }\n            },\n            {\n                \"point_id\": \"P3\",\n                \"description\": \"Insurance company recommendations and rider options for term insurance.\",\n                \"explicitly_promised\": true,\n                \"confidence\": 0.85,\n                \"evidence\": {\n                    \"start_time\": 0.04,\n                    \"end_time\": 39.62,\n                    \"text\": \"कौन सी इंश्योरेंस कंपनी से इंश्योरेंस खरीदें कौन से राइडर ले\"\n                }\n            },\n            {\n                \"point_id\": \"P4\",\n                \"description\": \"Educational qualification requirements for term insurance and zero cost claims.\",\n                \"explicitly_promised\": true,\n                \"confidence\": 0.85,\n                \"evidence\": {\n                    \"start_time\": 0.04,\n                    \"end_time\": 39.62,\n                    \"text\": \"क्या टर्म इंश्योरेंस लेने के लिए कोई एजुकेशनल क्वालिफिकेशन की जरूरत होती है\"\n                }\n            },\n            {\n                \"point_id\": \"P5\",\n                \"description\": \"Creator's personal term insurance choice and company recommendation.\",\n                \"explicitly_promised\": true,\n                \"confidence\": 0.85,\n                \"evidence\": {\n                    \"start_time\": 0.04,\n                    \"end_time\": 39.62,\n                    \"text\": \"मैंने कौन सा इंश्योरेंस लिया है कौन सी कंपनी से लिया है\"\n                }\n            }\n        ],\n        \"expected_direction\": \"Explain term insurance fundamentals including eligibility criteria, nominee selection rules under Indian law, company comparisons, rider options, and provide practical buying guidance.\",\n        \"opening_summary\": \"Creator introduces common questions about term insurance before purchase, promising to answer them. The video begins addressing the first question about 5th grade fail student eligibility with income proof requirements.\",\n        \"analysis_confidence\": 0.92\n    }\n}"
+  },
+  "parsed_analysis": {
+    "video_id": "lmpKVhN-5FY",
+    "opening_analysis": {
+      "hook": {
+        "text": "चाहे टर्म इंश्योरेंस हो या फिर हेल्थ इंश्योरेंस उन्हें खरीदने से पहले हमारे दिमाग में कुछ ऐसे यूनिक सवाल आते हैं जिनका जवाब हमें कहीं नहीं मिल पाता",
+        "start_time": 0.04,
+        "end_time": 39.62,
+        "hook_type": "curiosity",
+        "confidence": 0.95
+      },
+      "core_topic": {
+        "description": "Term insurance eligibility, nominee selection rules, and company comparison in Hindi.",
+        "explicit": true,
+        "confidence": 0.95,
+        "evidence": {
+          "start_time": 39.62,
+          "end_time": 81.48,
+          "text": "पहले सवाल से जो कि सबसे ज्यादा कॉमन तो दया पूछती है कि क्या पांचवी फेल को टर्म इंश्योरेंस मिल सकता है"
+        }
+      },
+      "viewer_problem_or_question": {
+        "description": "Confusion about nominee selection, eligibility for 5th grade fail students, and company choice.",
+        "explicit": true,
+        "confidence": 0.9,
+        "evidence": {
+          "start_time": 0.04,
+          "end_time": 39.62,
+          "text": "जैसे कई बार यह सवाल आता है कि नॉमिनी किसे रखें वाइफ को रखें या फिर मां को"
+        }
+      },
+      "promise": {
+        "description": "Will answer all insurance questions and personally respond to additional viewer queries in comments.",
+        "explicit": true,
+        "confidence": 0.9,
+        "evidence": {
+          "start_time": 39.62,
+          "end_time": 81.48,
+          "text": "नीचे कमेंट करके बताइए मैं पर्सनली उसका भी कमेंट करके आपको वही के वही जवाब दूंगा"
+        }
+      },
+      "expected_points": [
+        {
+          "point_id": "P1",
+          "description": "Term insurance eligibility for 5th grade fail students with income proof requirements.",
+          "explicitly_promised": true,
+          "confidence": 0.9,
+          "evidence": {
+            "start_time": 39.62,
+            "end_time": 81.48,
+            "text": "क्या पांचवी फेल को टर्म इंश्योरेंस मिल सकता है पांचवीं फेल को भी टर्म इंश्योरेंस मिल सकता है"
+          }
+        },
+        {
+          "point_id": "P2",
+          "description": "Nominee selection rules including whether multiple nominees can be added.",
+          "explicitly_promised": true,
+          "confidence": 0.9,
+          "evidence": {
+            "start_time": 39.62,
+            "end_time": 81.48,
+            "text": "नॉमिनी किसे रख सकते हैं और क्या दो लोगों को नॉमिनी रख सकते हैं"
+          }
+        },
+        {
+          "point_id": "P3",
+          "description": "Insurance company recommendations and rider options for term insurance.",
+          "explicitly_promised": true,
+          "confidence": 0.85,
+          "evidence": {
+            "start_time": 0.04,
+            "end_time": 39.62,
+            "text": "कौन सी इंश्योरेंस कंपनी से इंश्योरेंस खरीदें कौन से राइडर ले"
+          }
+        },
+        {
+          "point_id": "P4",
+          "description": "Educational qualification requirements for term insurance and zero cost claims.",
+          "explicitly_promised": true,
+          "confidence": 0.85,
+          "evidence": {
+            "start_time": 0.04,
+            "end_time": 39.62,
+            "text": "क्या टर्म इंश्योरेंस लेने के लिए कोई एजुकेशनल क्वालिफिकेशन की जरूरत होती है"
+          }
+        },
+        {
+          "point_id": "P5",
+          "description": "Creator's personal term insurance choice and company recommendation.",
+          "explicitly_promised": true,
+          "confidence": 0.85,
+          "evidence": {
+            "start_time": 0.04,
+            "end_time": 39.62,
+            "text": "मैंने कौन सा इंश्योरेंस लिया है कौन सी कंपनी से लिया है"
+          }
+        }
+      ],
+      "expected_direction": "Explain term insurance fundamentals including eligibility criteria, nominee selection rules under Indian law, company comparisons, rider options, and provide practical buying guidance.",
+      "opening_summary": "Creator introduces common questions about term insurance before purchase, promising to answer them. The video begins addressing the first question about 5th grade fail student eligibility with income proof requirements.",
+      "analysis_confidence": 0.92
+    }
+  },
+  "log_metrics": {
+    "video_id": "lmpKVhN-5FY",
+    "model_id": "qwen3.5-9b-claude-4.6-opus-reasoning-distilled-v2",
+    "target_window_seconds": 90.0,
+    "max_window_seconds": 120.0,
+    "actual_opening_duration": 112.84,
+    "final_end_timestamp": 112.88,
+    "number_of_segments": 3,
+    "input_character_count": 5553,
+    "output_character_count": 4695,
+    "latency_seconds": 280.673,
+    "temperature": 0.1,
+    "max_tokens": 2500,
+    "json_valid": true,
+    "validation_issues": [],
+    "parse_error": ""
+  }
+}

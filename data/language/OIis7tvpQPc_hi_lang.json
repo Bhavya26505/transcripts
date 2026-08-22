@@ -1,0 +1,682 @@
+{
+  "video_id": "OIis7tvpQPc",
+  "source_language_header": "ENGLISH",
+  "duration_seconds": 1179.2,
+  "language_profile": {
+    "primary_language": "MIXED",
+    "language_distribution": {
+      "HINDI": 0.0,
+      "ENGLISH": 0.062,
+      "HINGLISH": 0.0,
+      "MIXED": 0.938,
+      "UNKNOWN": 0.0
+    },
+    "code_switching": true,
+    "segment_counts": {
+      "HINDI": 0,
+      "ENGLISH": 2,
+      "HINGLISH": 0,
+      "MIXED": 30,
+      "UNKNOWN": 0
+    }
+  },
+  "statistics": {
+    "source_subtitle_count": 258,
+    "semantic_segment_count": 32,
+    "average_segment_duration": 36.85,
+    "median_segment_duration": 35.93,
+    "min_segment_duration": 22.6,
+    "max_segment_duration": 50.78,
+    "average_words_per_segment": 128.28,
+    "overlapping_semantic_segments_count": 0,
+    "sentence_boundary_splits": 28,
+    "uncovered_timeline_seconds": 0.0,
+    "high_word_count_segments": [],
+    "short_duration_segments": [],
+    "word_count_integrity": true
+  },
+  "segments": [
+    {
+      "segment_id": 1,
+      "start_time": 0.08,
+      "end_time": 34.699,
+      "duration": 34.619,
+      "source_subtitle_ids": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "language": "MIXED",
+      "text": "This person has done a scam of Rs 500 crore with Bollywood actor Annu Kapoor and around 800 people. This scam includes many Bollywood people and Mumbai businessmen. This scam was such that people could not believe it. That they have been scammed. Many elderly people got fever after hearing that they have been trapped by a person whom they have trusted for years. This is a very strange scam which can happen to any of you tomorrow. So listen to all the things carefully, Hello, I Prasad welcome you in today's video.",
+      "language_confidence": 0.82,
+      "language_reason": "Latin script with sparse Romanized Hindi (2 word(s)) and English"
+    },
+    {
+      "segment_id": 2,
+      "start_time": 34.699,
+      "end_time": 72.207,
+      "duration": 37.508,
+      "source_subtitle_ids": [
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15
+      ],
+      "language": "MIXED",
+      "text": "Just a few days ago, Annu Kapoor called a meeting. What was this meeting about? The meeting related to the people whom this person has trapped. Then Annu Kapoor thought that some 15-20 people would come to the meeting but shockingly a lot of people came there who were trapped by this person, then after that everyone came to know that this is not a small scam, it is a very big scam worth about Rs 500 crores and for this now they will have to take further steps but now if we talk about its back story then in Lokhandwala Complex, Mumbai. There is a very good CA, whose name is Amber Dalal and his office is in Lokhandwala Complex.",
+      "language_confidence": 0.82,
+      "language_reason": "Latin script with sparse Romanized Hindi (4 word(s)) and English"
+    },
+    {
+      "segment_id": 3,
+      "start_time": 72.207,
+      "end_time": 112.665,
+      "duration": 40.458,
+      "source_subtitle_ids": [
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22
+      ],
+      "language": "MIXED",
+      "text": "And from past many years, Amber is now 59 years old. You can understand Amber is guiding people for a long time. Whether it is taxation or how you should invest to save tax, all those tricks Amber used to tell all these things to his clients. Now the problem in India is that people do not know the difference between CA and Financial Advisor. They think that CA is the person who will look after our taxes and also give us financial advice. Where should one invest or not, all this will also be told by CA, now awareness is needed for this, that is a separate part, so what used to happen now is that when many people used to come to Amber, then Amber used to say that if you want to save tax then so much money should be invested in NPS.",
+      "language_confidence": 0.82,
+      "language_reason": "Latin script with sparse Romanized Hindi (8 word(s)) and English"
+    },
+    {
+      "segment_id": 4,
+      "start_time": 112.665,
+      "end_time": 144.116,
+      "duration": 31.451,
+      "source_subtitle_ids": [
+        23,
+        24,
+        25,
+        26,
+        27,
+        28,
+        29
+      ],
+      "language": "MIXED",
+      "text": "This much money, you can invest in ELSS mutual fund, then after talking about all these things, a common query of people came to Amber that tell me some things with better returns in the fix where we can get returns of 15-20%. In such a situation, where there is no risk, then see, Amber had been working for many years and was now nearing the retirement age, but Amber had realized one thing that people have a blind trust on Amber that whatever Amber tells them, people do that and with its help people have also got benefits. Then one day I don't know what came to Amber's mind.",
+      "language_confidence": 0.82,
+      "language_reason": "Latin script with sparse Romanized Hindi (3 word(s)) and English"
+    },
+    {
+      "segment_id": 5,
+      "start_time": 144.116,
+      "end_time": 176.732,
+      "duration": 32.616,
+      "source_subtitle_ids": [
+        30,
+        31,
+        32,
+        33,
+        34,
+        35
+      ],
+      "language": "MIXED",
+      "text": "Amber decided that why not take advantage of this trust. So as people came to Amber and asked for his opinion for investment, Amber used to tell them that see, recently a few days ago I have started trading in commodities and there I have come out with a strategy which is risk free, absolutely risk free, there is no risk there. And from there I mean I am earning a return of around 1.8% per month, without any hassle i.e. it comes out to around 20% per year and I am happy with this return and everything is going well.",
+      "language_confidence": 0.82,
+      "language_reason": "Latin script with sparse Romanized Hindi (3 word(s)) and English"
+    },
+    {
+      "segment_id": 6,
+      "start_time": 176.732,
+      "end_time": 210.535,
+      "duration": 33.803,
+      "source_subtitle_ids": [
+        36,
+        37,
+        38,
+        39,
+        40,
+        41,
+        42
+      ],
+      "language": "MIXED",
+      "text": "So of course, after saying this, the person in front used to reply that Amber, now I also have some Rs. 20 lakhs lying with me, if you don't mind, If you invest it there too, do trading in commodities, whatever return you get. How about you take 1-2% commission from it and give the remaining amount to me. Then how will it be? Amber said, yes, it is possible, I can definitely do it, then Amber said, but see what, I am a respected person in Lokhandwala. I have been working for many years, so I will not do these things directly. We do one thing, we get everything written on a stamp paper.",
+      "language_confidence": 0.82,
+      "language_reason": "Latin script with sparse Romanized Hindi (4 word(s)) and English"
+    },
+    {
+      "segment_id": 7,
+      "start_time": 210.535,
+      "end_time": 261.32,
+      "duration": 50.785,
+      "source_subtitle_ids": [
+        43,
+        44,
+        45,
+        46,
+        47,
+        48,
+        49,
+        50,
+        51,
+        52,
+        53
+      ],
+      "language": "MIXED",
+      "text": "So Amber ordered a stamp paper and wrote on it that whatever money is in it, Investments will be made in commodities such as crude oil, gold, silver etc. which will give risk free returns here. He also further wrote that the funds invested in the commodities and futures market are invested to yield risk free returns i.e. whatever money is invested. It will be invested to earn risk free returns. It will not be invested in any risky asset class or risky place. It will be in commodities but you will get risk free returns. He kept one copy of it with himself and gave another copy to the other person and also did some other documentation processing and after that process, everyone understood one thing that whatever Amber is doing, he is doing it very transparently, we did not ask for it but he ordered for the stamp paper, all the things have been done properly, so everyone felt everything right and Amber then also said that do not worry about the returns,",
+      "language_confidence": 0.82,
+      "language_reason": "Latin script with sparse Romanized Hindi (3 word(s)) and English"
+    },
+    {
+      "segment_id": 8,
+      "start_time": 261.32,
+      "end_time": 293.604,
+      "duration": 32.284,
+      "source_subtitle_ids": [
+        54,
+        55,
+        56,
+        57,
+        58,
+        59
+      ],
+      "language": "MIXED",
+      "text": "the returns of 1.8% on the 10th of every month will come directly into your bank account. You neither need to call me nor do you need to do anything. Our team is sitting, they do all these things from time to time, then initially people started investing 10 lakhs, some 20 lakhs, some 50 lakhs, 5-6 months have passed, one year has passed, they are getting very consistent returns due to which people started increasing their investment that if we are getting 6% in FD Then why let the return of 20% go? Then this gap of 14% is our loss, so why let this loss happen?",
+      "language_confidence": 0.82,
+      "language_reason": "Latin script with sparse Romanized Hindi (5 word(s)) and English"
+    },
+    {
+      "segment_id": 9,
+      "start_time": 293.604,
+      "end_time": 329.605,
+      "duration": 36.001,
+      "source_subtitle_ids": [
+        60,
+        61,
+        62,
+        63,
+        64,
+        65,
+        66,
+        67,
+        68
+      ],
+      "language": "MIXED",
+      "text": "So what did people did they took out money from FD and invested it there and slowly investment in crores started coming to Amber. There were many elderly people who emptied their entire savings account and wondered What was happening in Savings Account, only getting returns of 2-3% In FD only 6% returns. Lets put in 20% and Amber is our own and has been working so transparently for many years, so there is no need to worry, then people started giving money to him. Then what used to happen was that as it happens, two elderly people are sitting and there is a conversation between them about what is going on, how it is going on, then whenever there was talk of investment, the people who invested with Amber.",
+      "language_confidence": 0.82,
+      "language_reason": "Latin script with sparse Romanized Hindi (4 word(s)) and English"
+    },
+    {
+      "segment_id": 10,
+      "start_time": 329.605,
+      "end_time": 368.88,
+      "duration": 39.275,
+      "source_subtitle_ids": [
+        69,
+        70,
+        71,
+        72,
+        73,
+        74,
+        75,
+        76,
+        77
+      ],
+      "language": "MIXED",
+      "text": "He used to tell others that I am doing very well, all the expenses are covered, the interest of 1.8% on whatever investment comes from Amber's side, the expenses are covered only by that, the principal amount is safe for me, I am managing my old agein the returns, then other people also used to think that we are not getting that much then what is it, Amber was doing this for many years, so there was a trust factor of a different level, so people also slowly started investing money with Amber in such a situation, Bollywood actor Annu Kapoor, her sister and one of her friends told him that look Annu, there is a big opportunity in the market, if you invest then you can get very good returns here.",
+      "language_confidence": 0.82,
+      "language_reason": "Latin script with sparse Romanized Hindi (3 word(s)) and English"
+    },
+    {
+      "segment_id": 11,
+      "start_time": 368.88,
+      "end_time": 409.067,
+      "duration": 40.187,
+      "source_subtitle_ids": [
+        78,
+        79,
+        80,
+        81,
+        82,
+        83,
+        84,
+        85
+      ],
+      "language": "MIXED",
+      "text": "We have been investing for a long time, you too can do it if you want, according to some reports Annu Kapoor invested around Rs 2.5 crores in this scheme where returns of 1.8% are coming monthly. So Annu Kapoor monthly returns also started coming, everything was going well then suddenly the returns stopped coming for the last one and a half month. Now initially people thought that how did this happen, then they waited that let date 10th pass, let it be two to four more days. Because Amber is generally not late, then 5-6 days passed and people again called Amber and after calling Amber, Amber told that my wife has undergone surgery and due to which I will not be able to give any money.",
+      "language_confidence": 0.82,
+      "language_reason": "Latin script with sparse Romanized Hindi (4 word(s)) and English"
+    },
+    {
+      "segment_id": 12,
+      "start_time": 409.067,
+      "end_time": 451.396,
+      "duration": 42.329,
+      "source_subtitle_ids": [
+        86,
+        87,
+        88,
+        89,
+        90,
+        91,
+        92,
+        93,
+        94,
+        95
+      ],
+      "language": "MIXED",
+      "text": "Now, I am running very packed, please wait for some time, I will update you myself, but this had never happened before, so people also thought that let's wait for a few days, but still some people had doubts in their minds. So they did a little cross check to see where Amber's family is at the moment, is there really some family emergency and they came to know that Amber's wife had undergone surgery at Lilavati Hospital. When they came to know, they felt a sigh of relief that whatever Amber is telling, is telling the truth. They started scolding themself that why did we cross check, I mean everyone trusts Amber, so we should not have done it like this. After that, a few days passed. So people thought that why not talk to Amber once again, then Amber said that right now I am busy.",
+      "language_confidence": 0.82,
+      "language_reason": "Latin script with sparse Romanized Hindi (4 word(s)) and English"
+    },
+    {
+      "segment_id": 13,
+      "start_time": 451.396,
+      "end_time": 485.588,
+      "duration": 34.192,
+      "source_subtitle_ids": [
+        96,
+        97,
+        98,
+        99,
+        100,
+        101,
+        102
+      ],
+      "language": "MIXED",
+      "text": "Amber gave the contact number of his friend and said that you should talk to him for the time being, I am a little busy. People thought that it's okay lets wait for few more days, so many days passed by, in such a situation, Babita ji had also invested money in it. See, this is not the Babita ji that you are thinking, her name is Babita Malkani, who is a fashion designer. She initially invested around ₹10 lakh in this scheme but later when she started getting continuous returns, then she invested another ₹ 25 lakh, thus she had invested around ₹ 35 lakh in the scheme and that too when she didn't get a proper response.",
+      "language_confidence": 0.82,
+      "language_reason": "Latin script with sparse Romanized Hindi (1 word(s)) and English"
+    },
+    {
+      "segment_id": 14,
+      "start_time": 485.588,
+      "end_time": 520.265,
+      "duration": 34.677,
+      "source_subtitle_ids": [
+        103,
+        104,
+        105,
+        106,
+        107,
+        108,
+        109
+      ],
+      "language": "MIXED",
+      "text": "Then she thought why not let's go to his office Lokhandwala Complex and check. Going there she came to knew there are many people like me here., who is sitting outside the door. Then this people decided and arranged some meetings like Annu Kapoor did and then they decided to do something. Meanwhile, Babita Malkani filed a complaint with the police. In the complaint, she wrote that we have invested so and so money. And this person who had given us this promise, took those stamp papers etc. They thought that maybe by showing the stamp paper we would get the money back but later they came to know that it has no value when it comes to getting your money back.",
+      "language_confidence": 0.82,
+      "language_reason": "Latin script with sparse Romanized Hindi (6 word(s)) and English"
+    },
+    {
+      "segment_id": 15,
+      "start_time": 520.265,
+      "end_time": 550.8,
+      "duration": 30.535,
+      "source_subtitle_ids": [
+        110,
+        111,
+        112,
+        113,
+        114,
+        115,
+        116
+      ],
+      "language": "MIXED",
+      "text": "Now gradually as the police complaint was filed it appeared in the news that Amber Malik has targeted Bollywood celebrities, businessmen, then everyone else started coming out, then around 300-400, then gradually the number of people started increasing and then it came to light that this is not a small scam, it is a very big scam. So what did the police do that the entire matter was passed to the EOW (Economic Offence Wing) and now they saw that given the scale, there was a lot of pressure on it because of huge money from very big people.",
+      "language_confidence": 0.82,
+      "language_reason": "Latin script with sparse Romanized Hindi (2 word(s)) and English"
+    },
+    {
+      "segment_id": 16,
+      "start_time": 550.8,
+      "end_time": 586.573,
+      "duration": 35.773,
+      "source_subtitle_ids": [
+        117,
+        118,
+        119,
+        120,
+        121,
+        122,
+        123
+      ],
+      "language": "MIXED",
+      "text": "Then when they started investigation, they came to know that Amber had run away. Now see, Amber's family had also filed a complaint in Oshiwara police station that Amber is missing. The day he did not return from office, now the police did not know. What is going on, then EOW saw that let's start its investigation. A team was formed and different teams were told to trace, but Amber was also very clever because according to the way he started the scam. If you did it, then it means one thing that you can know that Amber is very smart and his timing was very dangerous.",
+      "language_confidence": 0.82,
+      "language_reason": "Latin script with sparse Romanized Hindi (3 word(s)) and English"
+    },
+    {
+      "segment_id": 17,
+      "start_time": 586.573,
+      "end_time": 624.845,
+      "duration": 38.272,
+      "source_subtitle_ids": [
+        124,
+        125,
+        126,
+        127,
+        128,
+        129,
+        130
+      ],
+      "language": "ENGLISH",
+      "text": "Amber will not make any minor mistake. Amber will play smartly, So EOW was also playing smartly. In the meantime, many days passed but there was no update. Investors are coming daily asking what happened, when will we get our money and the EOW and police had no answer. Meanwhile, EOw got a tip. The tip was that in a hotel in Uttarakhand, Rishikesh Amber Dalal is there. Now as soon as the tip was received, the police started checking all the CCTV cameras there, at different places, be it the bus depot or other things. They started searching all the big hotels, etc.",
+      "language_confidence": 0.95,
+      "language_reason": "Pure Latin script (100%)"
+    },
+    {
+      "segment_id": 18,
+      "start_time": 624.845,
+      "end_time": 668.8,
+      "duration": 43.955,
+      "source_subtitle_ids": [
+        131,
+        132,
+        133,
+        134,
+        135,
+        136,
+        137,
+        138,
+        139,
+        140
+      ],
+      "language": "MIXED",
+      "text": "And meanwhile, I mean, if such a big man left with crores of rupees, he would have stayed in a good hotel, but when they started checking small hotels, he was found near a lodge, then the police went from there and arrested him and when he was asked. So he told that look, that means everyone would believe that if there is a lot of money then I would probably go by plane, that is why I avoided the airport and if I go by railway because there are CCTVs there too, so I avoided that too, I caught a travel bus where there my chances of coming in CCTV will be reduced, most people will not even be able to see me, so in this way I went to Gujarat from Mumbai, stayed in Gujarat for a few days but even there I did not stay in big hotels, I stayed in small lodges on which no one should have any doubt, from there I went to Rajasthan,",
+      "language_confidence": 0.82,
+      "language_reason": "Latin script with sparse Romanized Hindi (4 word(s)) and English"
+    },
+    {
+      "segment_id": 19,
+      "start_time": 668.8,
+      "end_time": 705.039,
+      "duration": 36.239,
+      "source_subtitle_ids": [
+        141,
+        142,
+        143,
+        144,
+        145,
+        146,
+        147
+      ],
+      "language": "MIXED",
+      "text": "from Rajasthan came to Uttarakhand, he told this kind of story, then from there he was brought from Uttarakhand to Mumbai and now the rest of the investigation is going on, now some people believe this. It is said that his son is also involved in it because many times he used to tell people that he is training his son in this business but his family says that we have nothing to do with it, we ourselves do not know. that Amber was doing all this and Amber ran away, we did not even know that, the family says this but people say that Amber has taken properties in Dubai, has taken properties at different places and the properties have also been taken in the name of family members.",
+      "language_confidence": 0.82,
+      "language_reason": "Latin script with sparse Romanized Hindi (4 word(s)) and English"
+    },
+    {
+      "segment_id": 20,
+      "start_time": 705.039,
+      "end_time": 737.215,
+      "duration": 32.176,
+      "source_subtitle_ids": [
+        148,
+        149,
+        150,
+        151,
+        152,
+        153,
+        154,
+        155
+      ],
+      "language": "MIXED",
+      "text": "Now see, all these things will be known only after investigation, but one thing that happens most of the time, 99.99% of the time, is that in such things, people do not get their entire money back. This is the track record till now. There are two solutions to avoid such things. First, if you do not understand the stock market and other things, then investing in mutual funds is a very good option, but then of course your next question will come. How to invest in mutual fund? how to pick mutual fund? I will tell you the solution for that too and the second part is that if you understand the market then you can directly invest in the stock market yourself.",
+      "language_confidence": 0.82,
+      "language_reason": "Latin script with sparse Romanized Hindi (3 word(s)) and English"
+    },
+    {
+      "segment_id": 21,
+      "start_time": 737.215,
+      "end_time": 769.777,
+      "duration": 32.562,
+      "source_subtitle_ids": [
+        156,
+        157,
+        158,
+        159,
+        160,
+        161,
+        162
+      ],
+      "language": "MIXED",
+      "text": "If you have the knowledge yourself or you can learn by yourself, now you will ask where to learn and how to learn, for this we have brought a complete package of six animated share market courses and mutual fund courses worth Rs. 21700 which you can get for free. Here you will get Stock Market for Beginners course in which your basics will be cleared. In Fundamental Analysis, you will learn advanced level analytics which will help you in selecting shares. There you will get tools which will help you in selecting shares. After this, Stock Market for Intermediate course is there.",
+      "language_confidence": 0.82,
+      "language_reason": "Latin script with sparse Romanized Hindi (2 word(s)) and English"
+    },
+    {
+      "segment_id": 22,
+      "start_time": 769.777,
+      "end_time": 812.122,
+      "duration": 42.345,
+      "source_subtitle_ids": [
+        163,
+        164,
+        165,
+        166,
+        167,
+        168,
+        169,
+        170,
+        171,
+        172
+      ],
+      "language": "MIXED",
+      "text": "There is a course on value investing and also we have talked about how to use future options for hedging and how to manage risk with its help and in the last we have also talked about mutual funds. Which teaches you mutual funds from basic to advanced level, so you can get all these courses for free, for this you simply have to open a free investment account, the link of which is given in the description and comment box below. And after opening the account from the link given below, you have to contact us on this number, after which within 3 days you will get access to all these courses, so instead of trusting others, it is better to learn all the things yourself be it mutual funds or share market and after that take the right decision because to take the right decision you need that knowledge and you will get that knowledge from here.",
+      "language_confidence": 0.82,
+      "language_reason": "Latin script with sparse Romanized Hindi (8 word(s)) and English"
+    },
+    {
+      "segment_id": 23,
+      "start_time": 812.122,
+      "end_time": 844.126,
+      "duration": 32.004,
+      "source_subtitle_ids": [
+        173,
+        174,
+        175,
+        176,
+        177,
+        178,
+        179,
+        180
+      ],
+      "language": "MIXED",
+      "text": "We have created all the things keeping the beginners in mind because any beginner can take these animated courses. With the help of this course, you can easily learn share market and mutual funds, then the account opening link is given below in the description and comment box and make sure that you use these links while opening the account and this is our Holi offer going on. So this offer is valid only for the next three days. So this was the investors' side. If I look at Amber's side, then see Amber has figured out the timing, so what did Amber do that Amber knew that people will get trapped easily, I don't have to do anything, I just have to get some stamp papers etc done in the name of transparency.",
+      "language_confidence": 0.82,
+      "language_reason": "Latin script with sparse Romanized Hindi (2 word(s)) and English"
+    },
+    {
+      "segment_id": 24,
+      "start_time": 844.126,
+      "end_time": 888.48,
+      "duration": 44.354,
+      "source_subtitle_ids": [
+        181,
+        182,
+        183,
+        184,
+        185,
+        186,
+        187,
+        188,
+        189,
+        190,
+        191
+      ],
+      "language": "MIXED",
+      "text": "See, there is no use of this kind of stamp paper. Firstly, there is nothing called fixed return. Except FD and Government Bond, there is no such thing as fixed return in this world. Even if mutual funds are there then it is written along with it that mutual funds are subject to market risk, please read all scheme related documents carefully, etc. Then it is fixed, there is no such thing, meaning in FD where you are getting 6% then government bond will be give 1-2% more than that. Then in total if we see, you will not get anything more than 8% fixed return in this time. But if someone says they are investing money in stock market trading I can give you fixed return. Because I am seeing these days that be it Maharashtra, Gujarat, Uttar Pradesh, it has become very common in these states that any person comes and says that you can give me money Rs. 10 lakhs.",
+      "language_confidence": 0.82,
+      "language_reason": "Latin script with sparse Romanized Hindi (2 word(s)) and English"
+    },
+    {
+      "segment_id": 25,
+      "start_time": 888.48,
+      "end_time": 921.514,
+      "duration": 33.034,
+      "source_subtitle_ids": [
+        192,
+        193,
+        194,
+        195,
+        196,
+        197,
+        198
+      ],
+      "language": "MIXED",
+      "text": "I will give you this much fixed return, it will be written in the bond, I will get it written in Rs. 500 stamp paper, see, these things are not valid, your money is lost, it is very difficult to get it back because it is going due to your stupidity, it becomes clear because things like these. See, for investment advisory, you must have a Sebi license and things like this, you can write anything on the stamp paper, you can also write that I will give this person a return of 10,000% every month, that's fine. Who is going to see? There is an agreement between both of you. Whatever you write, it is you who is the trusting party.",
+      "language_confidence": 0.82,
+      "language_reason": "Latin script with sparse Romanized Hindi (3 word(s)) and English"
+    },
+    {
+      "segment_id": 26,
+      "start_time": 921.514,
+      "end_time": 969.196,
+      "duration": 47.682,
+      "source_subtitle_ids": [
+        199,
+        200,
+        201,
+        202,
+        203,
+        204,
+        205,
+        206,
+        207,
+        208,
+        209,
+        210
+      ],
+      "language": "MIXED",
+      "text": "So, it depends on your understanding. So, the first thing Amber knew was that by using stamp paper, we could make people crazy in the name of transparency and run our scheme as long as new people are investing their money. Since Amber was trusted, people got enough word of mouth publicity. If a person got returns, he told to another, to another, to a third because the returns were extraordinary 20%, this is not a joke, it is a big deal to get such crazy returns in the name of risk free and then as long as new people keep putting in money, their scheme will continue to work, this was clear to Amber But no matter how clever a scamster is, such schemes fail when new money stops coming because new money is what drives you because from where will you bring 20%. It doesn't come from the market, so from where will he bring so you just take the money of the new investor and keep distributing it among the old ones,",
+      "language_confidence": 0.82,
+      "language_reason": "Latin script with sparse Romanized Hindi (6 word(s)) and English"
+    },
+    {
+      "segment_id": 27,
+      "start_time": 969.196,
+      "end_time": 1005.44,
+      "duration": 36.244,
+      "source_subtitle_ids": [
+        211,
+        212,
+        213,
+        214,
+        215,
+        216,
+        217,
+        218,
+        219
+      ],
+      "language": "MIXED",
+      "text": "so as long as the new money is coming, things are going on, then the new money stops coming, you take all the money deposited with you and run away. Then see what is the stock market and what is the commodity market. Recently we also did a podcast with Mr. Rajeev Thakkar who is the Chief Investment Officer of Parag Parikh Mutual Fund and his own fund has given returns of 20% compounded annual returns for the last 10 years. But when we asked him, he said that till now they have come to 20% because the market is doing well but from here onwards there is no guarantee that that will come further and there is no guarantee of anything in the market at all. How much return will come in which year, anything can happen at any time, so he is a legendary investor, it is difficult to hold his hand.",
+      "language_confidence": 0.82,
+      "language_reason": "Latin script with sparse Romanized Hindi (2 word(s)) and English"
+    },
+    {
+      "segment_id": 28,
+      "start_time": 1005.44,
+      "end_time": 1041.306,
+      "duration": 35.866,
+      "source_subtitle_ids": [
+        220,
+        221,
+        222,
+        223,
+        224,
+        225,
+        226,
+        227
+      ],
+      "language": "MIXED",
+      "text": "Such investors have brought 20%, that too with risk and with medium risk. If you are taking risk free 20%, then we should understand finance and investment somewhere. So we must work on it, that is why we make videos through FinnovationZ Channel. Whether it is about such scams or it is about teaching all these things so that every Indian is aware and does not get trapped in such things and invests properly, then the second thing that Amber knew was that If there is stamp paper etc. then it is not valid anywhere. it is not much of a risk but actually big people had invested the money so that thing became a bit of a problem for Amber and then he had to go to jail.",
+      "language_confidence": 0.82,
+      "language_reason": "Latin script with sparse Romanized Hindi (2 word(s)) and English"
+    },
+    {
+      "segment_id": 29,
+      "start_time": 1041.306,
+      "end_time": 1074.16,
+      "duration": 32.854,
+      "source_subtitle_ids": [
+        228,
+        229,
+        230,
+        231,
+        232,
+        233,
+        234,
+        235
+      ],
+      "language": "MIXED",
+      "text": "Now, after going to jail, cases go on for years in India. As you know, now what happens to people who have invested their entire savings, to get the full money, situations like this are very tough because many times the person does not open his mouth. He doesn't even tell that he will be in jail for 3- 8 years and then he will come out but what about people's money, that's why if someone makes such a promise to you, then better avoid these things and go towards simple investments If you don't know how to invest, then go towards mutual funds. If you know how to invest, then you can go towards the stock market.",
+      "language_confidence": 0.82,
+      "language_reason": "Latin script with sparse Romanized Hindi (6 word(s)) and English"
+    },
+    {
+      "segment_id": 30,
+      "start_time": 1074.16,
+      "end_time": 1118.196,
+      "duration": 44.036,
+      "source_subtitle_ids": [
+        236,
+        237,
+        238,
+        239,
+        240,
+        241,
+        242,
+        243,
+        244
+      ],
+      "language": "MIXED",
+      "text": "You can explore other investment options. Then you cannot give money to anyone blindly, thinking that we are getting risk free returns, we are getting so much guarantee, he has given it in writing, nothing like this happens. In today's date, there are thousands of such scams going on, it will be difficult for us to cover everyone, it will definitely happen and we have it almost every day be it our instagram, youtube, emails are flooded with this. Where there is same kind of queries that this scam happened with me, in our area this is going on. So overall this is a very common scam, so I thought it would reach people So that if this kind of scam is going on around then you should raise your voice or save the people because the ultimate result is going to be this. Sooner or Later.",
+      "language_confidence": 0.82,
+      "language_reason": "Latin script with sparse Romanized Hindi (4 word(s)) and English"
+    },
+    {
+      "segment_id": 31,
+      "start_time": 1118.196,
+      "end_time": 1156.679,
+      "duration": 38.483,
+      "source_subtitle_ids": [
+        245,
+        246,
+        247,
+        248,
+        249,
+        250,
+        251,
+        252,
+        253
+      ],
+      "language": "MIXED",
+      "text": "So, I hope that from Amber Dalal's story, from Annu Kapoor's story and many others who who are trapped in this We can definitely learn from all those that investment is not a toy that someone will say something and you will trust him. Things like mutual funds can be seen by looking at their long track record. It is transparent, go into such things even if you get less returns of 2-4% and if you want to invest after learning yourself then it is better in other places but do not invest in the market by trusting anyone like this, chances of losing your money will increase because in the beginning these people will definitely give you returns because otherwise this whole scam of theirs does not work then they will definitely give you returns in the beginning.",
+      "language_confidence": 0.82,
+      "language_reason": "Latin script with sparse Romanized Hindi (1 word(s)) and English"
+    },
+    {
+      "segment_id": 32,
+      "start_time": 1156.679,
+      "end_time": 1179.28,
+      "duration": 22.601,
+      "source_subtitle_ids": [
+        254,
+        255,
+        256,
+        257,
+        258
+      ],
+      "language": "ENGLISH",
+      "text": "Do not get misled by them and invest in the right way and in the right way. Learn things and for that definitely subscribe the channel and also click on the bell icon. So that you remain aware of such things and become a better investor. See you in the next video. Thank you so much for watching this video and Share this video more and more people. Share it with everyone so that they can avoid scams like these.",
+      "language_confidence": 0.95,
+      "language_reason": "Pure Latin script (100%)"
+    }
+  ]
+}

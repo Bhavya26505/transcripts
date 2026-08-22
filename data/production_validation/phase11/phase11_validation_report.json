@@ -1,0 +1,50 @@
+{
+  "phase": "PHASE_11_PRODUCTION_USER_UPLOAD_ANALYSIS",
+  "overall_status": "FAIL",
+  "lm_studio_endpoint": "http://127.0.0.1:1234/v1",
+  "lm_studio_model_id": "qwen3.5-9b-claude-4.6-opus-reasoning-distilled-v2",
+  "no_204_dataset_touch": true,
+  "tests_executed": [
+    {
+      "test": "TEST 1: Valid SRT with explicit promises",
+      "status": "PASS",
+      "promise_status": "EXPLICIT_PROMISE",
+      "adherence_score": 100.0,
+      "point_coverage": 100.0
+    },
+    {
+      "test": "TEST 2: Valid SRT with ZERO explicit promises",
+      "status": "FAIL",
+      "promise_status": null,
+      "adherence_score": null,
+      "point_coverage": null
+    },
+    {
+      "test": "TEST 3: Invalid / Empty file validation",
+      "status": "PASS",
+      "error_caught": "Uploaded transcript is empty."
+    },
+    {
+      "test": "TEST 4: LM Studio connectivity & strict model check",
+      "status": "PASS",
+      "endpoint": "http://127.0.0.1:9999/v1",
+      "error_handled": "Failed to connect to LM Studio at http://127.0.0.1:9999/v1/models.\nError detail: timed out\nPlease ensure LM Studio local server is running on port 1234."
+    },
+    {
+      "test": "TEST 5: SHA-256 Hashing & Cache Reuse Check",
+      "status": "PASS",
+      "cache_hit": true
+    },
+    {
+      "test": "TEST 6: Timeline Integrity Check",
+      "status": "PASS",
+      "timeline_integrity": "PASS",
+      "overlap_seconds": 0.0
+    },
+    {
+      "test": "TEST 7: Evidence Integrity Check",
+      "status": "PASS",
+      "segments_checked": 3
+    }
+  ]
+}

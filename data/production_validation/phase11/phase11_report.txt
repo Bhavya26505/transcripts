@@ -1,0 +1,27 @@
+==========================================================================================
+ PHASE 11 BATCH PRODUCTION VALIDATION REPORT (10 NEW VIDEOS)
+==========================================================================================
+Video ID        | Lang  | Pts | Cov %    | Rel %   | Disc %  | Off-Top % | Score   | Calls | Time    | Status
+------------------------------------------------------------------------------------------------------------------------
+-SZBrXciDLg     | HI    | 0   | N/A      |  83.80% |  90.10% |     9.90% | N/A     | 3     |  508.6s | [PASS]
+7dQQa91RLls     | HI    | 0   | N/A      |  93.22% |  93.22% |     6.78% | N/A     | 5     |  989.2s | [PASS]
+EAWwPQGDJpU     | HI    | 0   | N/A      |  91.65% |  91.65% |     8.35% | N/A     | 4     |  749.9s | [PASS]
+JWb4E_6wYPA     | HI    | 0   | N/A      | 100.00% | 100.00% |     0.00% | N/A     | 3     |  588.5s | [PASS]
+OIis7tvpQPc     | HI    | 0   | N/A      | 100.00% | 100.00% |     0.00% | N/A     | 0     |    0.0s | [PASS]
+V7FSbEYZiX0     | HI    | 0   | N/A      | 100.00% | 100.00% |     0.00% | N/A     | 4     |  918.0s | [PASS]
+_zJcC66Nv6c     | HI    | 0   | N/A      |  93.39% |  93.39% |     6.61% | N/A     | 4     |  931.5s | [PASS]
+gY6unuo8Q9I     | HI    | 0   | N/A      | 100.00% | 100.00% |     0.00% | N/A     | 4     |  766.5s | [PASS]
+lmpKVhN-5FY     | HI    | 0   | N/A      | 100.00% | 100.00% |     0.00% | N/A     | 4     |  859.0s | [PASS]
+qa6Qzztj-10     | HI    | 0   | N/A      | 100.00% | 100.00% |     0.00% | N/A     | 6     | 1209.6s | [PASS]
+------------------------------------------------------------------------------------------------------------------------
+OVERALL PHASE 11 BATCH VALIDATION STATUS : PASS
+Total Selected Videos                    : 10
+Successfully Completed Videos           : 10
+Failed Videos                            : 0
+Explicit Promise Videos Count            : 0
+No Explicit Promise Videos Count         : 10
+Total Qwen Calls Executed                : 37
+Total Batch Processing Time              : 0.03s (0.00 minutes)
+Average Processing Time per Video        : 0.00s
+Average Explicit-Promise Adherence Score : N/A
+==========================================================================================

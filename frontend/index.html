@@ -1,0 +1,583 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Transcript Adherence Analyzer — Production Dashboard</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&family=Outfit:wght@500;600;700&display=swap" rel="stylesheet">
+  <style>
+    :root {
+      --bg-gradient: linear-gradient(135deg, #0f172a 0%, #1e1b4b 50%, #0f172a 100%);
+      --card-bg: rgba(30, 41, 59, 0.7);
+      --card-border: rgba(255, 255, 255, 0.1);
+      --text-main: #f8fafc;
+      --text-muted: #94a3b8;
+      --primary: #6366f1;
+      --primary-hover: #4f46e5;
+      --accent: #38bdf8;
+      --success: #10b981;
+      --warning: #f59e0b;
+      --danger: #ef4444;
+      --radius: 16px;
+    }
+
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    body {
+      font-family: 'Inter', sans-serif;
+      background: var(--bg-gradient);
+      color: var(--text-main);
+      min-height: 100vh;
+      padding: 32px 16px;
+      line-height: 1.5;
+    }
+
+    .container {
+      max-width: 1200px;
+      margin: 0 auto;
+    }
+
+    header {
+      text-align: center;
+      margin-bottom: 40px;
+    }
+
+    h1 {
+      font-family: 'Outfit', sans-serif;
+      font-size: 2.5rem;
+      font-weight: 700;
+      background: linear-gradient(90deg, #38bdf8, #818cf8, #c084fc);
+      -webkit-background-clip: text;
+      -webkit-text-fill-color: transparent;
+      margin-bottom: 8px;
+    }
+
+    p.subtitle {
+      color: var(--text-muted);
+      font-size: 1.05rem;
+    }
+
+    /* GLASS CARD */
+    .glass-card {
+      background: var(--card-bg);
+      backdrop-filter: blur(16px);
+      -webkit-backdrop-filter: blur(16px);
+      border: 1px solid var(--card-border);
+      border-radius: var(--radius);
+      padding: 28px;
+      margin-bottom: 28px;
+      box-shadow: 0 20px 40px rgba(0, 0, 0, 0.3);
+    }
+
+    /* DROPZONE */
+    .dropzone {
+      border: 2px dashed rgba(99, 102, 241, 0.4);
+      border-radius: 12px;
+      padding: 48px 24px;
+      text-align: center;
+      background: rgba(15, 23, 42, 0.4);
+      transition: all 0.3s ease;
+      cursor: pointer;
+    }
+    .dropzone:hover, .dropzone.dragover {
+      border-color: var(--accent);
+      background: rgba(56, 189, 248, 0.05);
+    }
+    .dropzone-icon {
+      font-size: 48px;
+      margin-bottom: 16px;
+      color: var(--accent);
+    }
+    .dropzone p {
+      font-size: 1.1rem;
+      margin-bottom: 12px;
+    }
+    .badge {
+      display: inline-block;
+      padding: 4px 12px;
+      border-radius: 20px;
+      font-size: 0.85rem;
+      font-weight: 500;
+      background: rgba(255, 255, 255, 0.08);
+      color: var(--accent);
+    }
+
+    .btn {
+      display: inline-flex;
+      align-items: center;
+      gap: 8px;
+      padding: 12px 28px;
+      border-radius: 10px;
+      font-size: 1rem;
+      font-weight: 600;
+      border: none;
+      cursor: pointer;
+      transition: all 0.2s ease;
+      background: linear-gradient(135deg, var(--primary), var(--primary-hover));
+      color: white;
+      box-shadow: 0 4px 14px rgba(99, 102, 241, 0.4);
+      margin-top: 16px;
+    }
+    .btn:hover {
+      transform: translateY(-2px);
+      box-shadow: 0 6px 20px rgba(99, 102, 241, 0.6);
+    }
+    .btn-secondary {
+      background: rgba(255, 255, 255, 0.1);
+      box-shadow: none;
+    }
+    .btn-secondary:hover {
+      background: rgba(255, 255, 255, 0.18);
+      box-shadow: none;
+    }
+
+    /* STAGE TRACKER */
+    .stages-tracker {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+      gap: 12px;
+      margin-top: 20px;
+    }
+    .stage-item {
+      background: rgba(15, 23, 42, 0.6);
+      padding: 14px 16px;
+      border-radius: 10px;
+      border: 1px solid rgba(255, 255, 255, 0.05);
+      display: flex;
+      align-items: center;
+      gap: 12px;
+      font-size: 0.9rem;
+    }
+    .stage-icon {
+      font-size: 18px;
+      width: 24px;
+      height: 24px;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      border-radius: 50%;
+    }
+    .status-completed .stage-icon { background: rgba(16, 185, 129, 0.2); color: var(--success); }
+    .status-running .stage-icon { background: rgba(56, 189, 248, 0.2); color: var(--accent); animation: pulse 1.5s infinite; }
+    .status-failed .stage-icon { background: rgba(239, 68, 68, 0.2); color: var(--danger); }
+    .status-pending .stage-icon { background: rgba(255, 255, 255, 0.05); color: var(--text-muted); }
+
+    @keyframes pulse {
+      0% { opacity: 0.5; }
+      50% { opacity: 1; }
+      100% { opacity: 0.5; }
+    }
+
+    /* GRID DASHBOARD */
+    .grid-2 {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 24px;
+    }
+    @media (max-width: 768px) {
+      .grid-2 { grid-template-columns: 1fr; }
+    }
+
+    .metric-box {
+      text-align: center;
+      padding: 20px;
+      background: rgba(15, 23, 42, 0.5);
+      border-radius: 12px;
+      border: 1px solid rgba(255, 255, 255, 0.05);
+    }
+    .metric-val {
+      font-family: 'Outfit', sans-serif;
+      font-size: 2.2rem;
+      font-weight: 700;
+      color: var(--accent);
+      margin-top: 6px;
+    }
+    .metric-label {
+      font-size: 0.85rem;
+      color: var(--text-muted);
+      text-transform: uppercase;
+      letter-spacing: 0.5px;
+    }
+
+    .score-badge {
+      font-size: 2.8rem;
+      font-weight: 700;
+      color: #38bdf8;
+    }
+
+    /* TABLE */
+    .table-container {
+      overflow-x: auto;
+      margin-top: 16px;
+    }
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      font-size: 0.9rem;
+      text-align: left;
+    }
+    th {
+      background: rgba(15, 23, 42, 0.8);
+      padding: 12px 16px;
+      color: var(--text-muted);
+      font-weight: 600;
+      border-bottom: 1px solid var(--card-border);
+    }
+    td {
+      padding: 14px 16px;
+      border-bottom: 1px solid rgba(255, 255, 255, 0.05);
+    }
+    tr:hover td {
+      background: rgba(255, 255, 255, 0.02);
+    }
+
+    .tag {
+      padding: 2px 8px;
+      border-radius: 6px;
+      font-size: 0.8rem;
+      font-weight: 600;
+    }
+    .tag-direct { background: rgba(16, 185, 129, 0.2); color: #34d399; }
+    .tag-supporting { background: rgba(56, 189, 248, 0.2); color: #38bdf8; }
+    .tag-offtopic { background: rgba(239, 68, 68, 0.2); color: #f87171; }
+
+    .hidden { display: none; }
+    .alert {
+      padding: 16px 20px;
+      border-radius: 12px;
+      background: rgba(239, 68, 68, 0.15);
+      border: 1px solid rgba(239, 68, 68, 0.3);
+      color: #fca5a5;
+      margin-bottom: 24px;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <header>
+      <h1>Transcript Adherence Analyzer</h1>
+      <p class="subtitle">Upload SRT transcript to evaluate creator promise adherence using local Qwen reasoning</p>
+    </header>
+
+    <!-- UPLOAD CARD -->
+    <div class="glass-card" id="uploadCard">
+      <div class="dropzone" id="dropzone">
+        <div class="dropzone-icon">📄</div>
+        <p><strong>Drag & Drop your transcript file here</strong> or click to browse</p>
+        <span class="badge">Supported formats: .srt, .vtt, .txt</span>
+        <input type="file" id="fileInput" accept=".srt,.vtt,.txt" class="hidden">
+      </div>
+      <div style="text-align: center; margin-top: 16px;">
+        <button class="btn" id="analyzeBtn" disabled>Analyze Transcript</button>
+      </div>
+    </div>
+
+    <!-- ERROR ALERT -->
+    <div class="alert hidden" id="errorAlert"></div>
+
+    <!-- PROGRESS CARD -->
+    <div class="glass-card hidden" id="progressCard">
+      <h2>Processing Pipeline</h2>
+      <p class="subtitle" style="margin-bottom: 16px;" id="progressFilename">Analyzing transcript...</p>
+      <div style="background: rgba(56, 189, 248, 0.1); border: 1px solid rgba(56, 189, 248, 0.3); border-radius: 8px; padding: 12px 16px; margin-bottom: 20px; color: #7dd3fc; font-size: 0.9rem;">
+        ℹ️ Analyzing with local Qwen model (qwen3.5-9b-claude-4.6-opus-reasoning-distilled-v2). Reasoning inference may take 2–5 minutes.
+      </div>
+      <div class="stages-tracker" id="stagesTracker"></div>
+    </div>
+
+    <!-- RESULTS DASHBOARD -->
+    <div class="hidden" id="resultsDashboard">
+      <!-- HEADER METRICS -->
+      <div class="glass-card grid-2">
+        <div>
+          <h2 style="font-size: 1.4rem; margin-bottom: 12px;">Hook & Opening Analysis</h2>
+          <p><strong>Type:</strong> <span id="resHookType" class="badge">—</span></p>
+          <p style="margin-top: 8px;"><strong>Confidence:</strong> <span id="resHookConf">—</span></p>
+          <p style="margin-top: 8px;"><strong>Window:</strong> <span id="resHookTime">—</span></p>
+          <div style="background: rgba(15, 23, 42, 0.5); padding: 12px; border-radius: 8px; margin-top: 12px; font-style: italic; font-size: 0.9rem;" id="resHookExcerpt"></div>
+        </div>
+        <div style="text-align: center; display: flex; flex-direction: column; justify-content: center; align-items: center;">
+          <div class="metric-label">Adherence Score</div>
+          <div class="score-badge" id="resScoreBadge">—</div>
+          <div style="font-size: 0.85rem; color: var(--text-muted); margin-top: 4px;" id="resScoreFormula">Candidate B Formula</div>
+        </div>
+      </div>
+
+      <!-- PROMISE & METRICS -->
+      <div class="glass-card grid-2">
+        <div>
+          <h2 style="font-size: 1.3rem; margin-bottom: 12px;">Creator Promise</h2>
+          <div style="background: rgba(15, 23, 42, 0.5); padding: 14px; border-radius: 8px; font-size: 0.95rem; margin-bottom: 12px;" id="resPromiseText"></div>
+          <p><strong>Expected Points:</strong></p>
+          <div id="resExpectedPoints" style="display: flex; gap: 8px; flex-wrap: wrap; margin-top: 8px;"></div>
+        </div>
+
+        <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 12px;">
+          <div class="metric-box">
+            <div class="metric-label">Clear Relevance</div>
+            <div class="metric-val" id="resClearRel">—</div>
+          </div>
+          <div class="metric-box">
+            <div class="metric-label">Topic Discipline</div>
+            <div class="metric-val" id="resTopicDisc">—</div>
+          </div>
+          <div class="metric-box">
+            <div class="metric-label">Off-Topic Content</div>
+            <div class="metric-val" id="resOffTopicPct" style="color: #f87171;">—</div>
+          </div>
+          <div class="metric-box">
+            <div class="metric-label">Off-Topic Episodes</div>
+            <div class="metric-val" id="resOffTopicEps">—</div>
+          </div>
+        </div>
+      </div>
+
+      <!-- TIMELINE TABLE -->
+      <div class="glass-card">
+        <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 16px;">
+          <h2>Segment Adherence Timeline</h2>
+          <div style="display: flex; gap: 12px;">
+            <button class="btn btn-secondary" id="downloadJsonBtn">Download JSON</button>
+            <button class="btn btn-secondary" id="downloadCsvBtn">Download CSV</button>
+          </div>
+        </div>
+
+        <div class="table-container">
+          <table>
+            <thead>
+              <tr>
+                <th>Seg #</th>
+                <th>Timestamp</th>
+                <th>Point</th>
+                <th>Function</th>
+                <th>Relevance</th>
+                <th>Conf</th>
+                <th>Verbatim Evidence Excerpt</th>
+              </tr>
+            </thead>
+            <tbody id="resTableBody"></tbody>
+          </table>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <script>
+    const dropzone = document.getElementById('dropzone');
+    const fileInput = document.getElementById('fileInput');
+    const analyzeBtn = document.getElementById('analyzeBtn');
+    const errorAlert = document.getElementById('errorAlert');
+    const progressCard = document.getElementById('progressCard');
+    const stagesTracker = document.getElementById('stagesTracker');
+    const resultsDashboard = document.getElementById('resultsDashboard');
+
+    let selectedFile = null;
+    let currentAnalysisId = null;
+    let pollInterval = null;
+
+    dropzone.addEventListener('click', () => fileInput.click());
+    dropzone.addEventListener('dragover', (e) => { e.preventDefault(); dropzone.classList.add('dragover'); });
+    dropzone.addEventListener('dragleave', () => dropzone.classList.remove('dragover'));
+    dropzone.addEventListener('drop', (e) => {
+      e.preventDefault();
+      dropzone.classList.remove('dragover');
+      if (e.dataTransfer.files.length) handleFile(e.dataTransfer.files[0]);
+    });
+    fileInput.addEventListener('change', (e) => {
+      if (e.target.files.length) handleFile(e.target.files[0]);
+    });
+
+    function handleFile(file) {
+      selectedFile = file;
+      dropzone.querySelector('p').innerHTML = `Selected File: <strong>${file.name}</strong> (${(file.size/1024).toFixed(1)} KB)`;
+      analyzeBtn.disabled = false;
+      errorAlert.classList.add('hidden');
+    }
+
+    analyzeBtn.addEventListener('click', () => {
+      if (!selectedFile) return;
+      startUploadAnalysis(selectedFile);
+    });
+
+    async function startUploadAnalysis(file) {
+      const formData = new FormData();
+      formData.append('file', file);
+
+      errorAlert.classList.add('hidden');
+      progressCard.classList.remove('hidden');
+      resultsDashboard.classList.add('hidden');
+      analyzeBtn.disabled = true;
+
+      try {
+        const resp = await fetch('/api/analyze', { method: 'POST', body: formData });
+        const data = await resp.json();
+
+        if (!resp.ok) {
+          showError(data.error || 'Failed to start analysis');
+          progressCard.classList.add('hidden');
+          analyzeBtn.disabled = false;
+          return;
+        }
+
+        currentAnalysisId = data.analysis_id;
+        renderStages(data.stages);
+
+        // Start polling progress
+        pollInterval = setInterval(() => checkProgress(currentAnalysisId), 2000);
+
+      } catch (err) {
+        showError('Connection error: ' + err.message);
+        progressCard.classList.add('hidden');
+        analyzeBtn.disabled = false;
+      }
+    }
+
+    async function checkProgress(analysisId) {
+      try {
+        const resp = await fetch(`/api/analyze/${analysisId}`);
+        const data = await resp.json();
+
+        if (data.stages) renderStages(data.stages);
+
+        if (data.status === 'COMPLETED') {
+          clearInterval(pollInterval);
+          progressCard.classList.add('hidden');
+          renderResults(data.result);
+        } else if (data.status === 'FAILED') {
+          clearInterval(pollInterval);
+          progressCard.classList.add('hidden');
+          showError(data.error || 'Pipeline execution failed.');
+          analyzeBtn.disabled = false;
+        }
+      } catch (err) {
+        console.error('Polling error:', err);
+      }
+    }
+
+    function renderStages(stages) {
+      stagesTracker.innerHTML = stages.map(s => {
+        let icon = '○';
+        let cls = 'status-pending';
+        if (s.status === 'COMPLETED') { icon = '✓'; cls = 'status-completed'; }
+        else if (s.status === 'RUNNING') { icon = '⏳'; cls = 'status-running'; }
+        else if (s.status === 'FAILED') { icon = '✕'; cls = 'status-failed'; }
+
+        return `
+          <div class="stage-item ${cls}">
+            <div class="stage-icon">${icon}</div>
+            <div>
+              <div style="font-weight: 600;">${s.stage.replace(/_/g, ' ')}</div>
+              <div style="font-size: 0.75rem; color: var(--text-muted);">${s.status}</div>
+            </div>
+          </div>
+        `;
+      }).join('');
+    }
+
+    function formatNum(val, decimals = 1, suffix = '') {
+      if (val === null || val === undefined || isNaN(val)) return '—';
+      return Number(val).toFixed(decimals) + suffix;
+    }
+
+    function renderResults(res) {
+      if (!res) {
+        showError('No result data received from server.');
+        return;
+      }
+      try {
+        resultsDashboard.classList.remove('hidden');
+
+        // Hook
+        const hook = res.hook || {};
+        document.getElementById('resHookType').innerText = hook.type || 'UNKNOWN';
+        document.getElementById('resHookConf').innerText = formatNum((hook.confidence || 0) * 100, 0, '%');
+        
+        const startT = hook.start_time !== undefined ? hook.start_time : 0;
+        const endT = hook.end_time !== undefined ? hook.end_time : 0;
+        document.getElementById('resHookTime').innerText = `${formatNum(startT, 1, 's')} – ${formatNum(endT, 1, 's')}`;
+        document.getElementById('resHookExcerpt').innerText = hook.text ? `"${hook.text}"` : 'No hook text excerpt available.';
+
+        // Adherence Score
+        const adh = res.adherence || {};
+        const scoreVal = adh.adherence_score;
+        if (scoreVal !== null && scoreVal !== undefined && !isNaN(scoreVal)) {
+          document.getElementById('resScoreBadge').innerText = Number(scoreVal).toFixed(2);
+          document.getElementById('resScoreBadge').style.color = '#38bdf8';
+          document.getElementById('resScoreFormula').innerText = 'Candidate B Formula (60% Cov + 25% Rel + 15% Disc)';
+        } else {
+          document.getElementById('resScoreBadge').innerText = 'N/A';
+          document.getElementById('resScoreBadge').style.color = '#f59e0b';
+          document.getElementById('resScoreFormula').innerText = 'NO EXPLICIT PROMISE DETECTED';
+        }
+
+        // Promise
+        const promiseAnalysis = res.promise_analysis || {};
+        const promiseText = (promiseAnalysis.creator_promise && promiseAnalysis.creator_promise.trim())
+          ? promiseAnalysis.creator_promise
+          : 'No explicit content promise detected in opening hook.';
+        document.getElementById('resPromiseText').innerText = promiseText;
+
+        const expContainer = document.getElementById('resExpectedPoints');
+        const expPoints = promiseAnalysis.expected_points || [];
+        if (expPoints.length) {
+          expContainer.innerHTML = expPoints.map(p => `
+            <span class="badge" style="background: rgba(99, 102, 241, 0.2); color: #818cf8;">${p.point_id || 'P'}: ${p.description || ''}</span>
+          `).join('');
+        } else {
+          expContainer.innerHTML = '<span class="badge" style="background: rgba(245, 158, 11, 0.2); color: #fbbf24;">NO EXPLICIT POINTS</span>';
+        }
+
+        // Metrics
+        document.getElementById('resClearRel').innerText = formatNum(adh.clear_relevance_score, 1, '%');
+        document.getElementById('resTopicDisc').innerText = formatNum(adh.topic_discipline_score, 1, '%');
+
+        const offTopic = res.off_topic || {};
+        document.getElementById('resOffTopicPct').innerText = formatNum(offTopic.percentage, 1, '%');
+        document.getElementById('resOffTopicEps').innerText = offTopic.episode_count !== undefined ? offTopic.episode_count : 0;
+
+        // Table
+        const tbody = document.getElementById('resTableBody');
+        const segments = res.segments || [];
+        if (segments.length) {
+          tbody.innerHTML = segments.map(s => {
+            let tagCls = 'tag-supporting';
+            if (s.relevance === 'DIRECT') tagCls = 'tag-direct';
+            else if (s.relevance === 'OFF_TOPIC') tagCls = 'tag-offtopic';
+
+            const segStart = s.start_time !== undefined ? s.start_time : 0;
+            const segEnd = s.end_time !== undefined ? s.end_time : 0;
+            const confVal = s.confidence !== undefined ? (s.confidence * 100).toFixed(0) : '0';
+
+            return `
+              <tr>
+                <td><strong>#${s.segment_id || ''}</strong></td>
+                <td>${segStart.toFixed(1)}s – ${segEnd.toFixed(1)}s</td>
+                <td><span class="badge">${s.primary_point || 'NONE'}</span></td>
+                <td>${s.function || ''}</td>
+                <td><span class="tag ${tagCls}">${s.relevance || 'UNKNOWN'}</span></td>
+                <td>${confVal}%</td>
+                <td style="font-size: 0.85rem; max-width: 350px;">"${s.evidence || ''}"</td>
+              </tr>
+            `;
+          }).join('');
+        } else {
+          tbody.innerHTML = `<tr><td colspan="7" style="text-align: center; color: var(--text-muted);">No segments evaluated.</td></tr>`;
+        }
+
+        // Setup downloads
+        document.getElementById('downloadJsonBtn').onclick = () => window.open(`/api/analyze/${currentAnalysisId}/download/json`);
+        document.getElementById('downloadCsvBtn').onclick = () => window.open(`/api/analyze/${currentAnalysisId}/download/csv`);
+      } catch (err) {
+        console.error('Error rendering results:', err);
+        showError('Failed to display results: ' + err.message);
+      }
+    }
+
+    function showError(msg) {
+      errorAlert.innerHTML = `<strong>Error:</strong> ${msg}`;
+      errorAlert.classList.remove('hidden');
+    }
+  </script>
+</body>
+</html>

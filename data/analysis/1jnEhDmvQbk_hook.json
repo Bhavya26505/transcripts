@@ -1,0 +1,69 @@
+{
+  "video_id": "1jnEhDmvQbk",
+  "opening_analysis": {
+    "hook": {
+      "text": "सुनिए यूएस प्रेसिडेंट डोनाल्ड ट्रंप ने इस साल के शुरुआत से पहले क्या कहा। जब उनसे पूछा गया कि आपका न्यू ईयर रेोल्यूशन क्या है?",
+      "start_time": 1.84,
+      "end_time": 25.0,
+      "hook_type": "mixed",
+      "confidence": 0.95
+    },
+    "core_topic": {
+      "description": "US-Russia tensions, tariff bill impact on India's economy and industries.",
+      "explicit": true,
+      "confidence": 0.95,
+      "evidence": {
+        "start_time": 78.0,
+        "end_time": 92.0,
+        "text": "अब यूएस और रशिया का जो विवाद है वो खत्म होने के बजाय बढ़ता जाएगा और इसका असर इंडिया जैसी कंट्री पर बहुत बुरा पड़ने वाला है।"
+      }
+    },
+    "viewer_problem_or_question": {
+      "description": "How will US-Russia tariff bill affect India's economy and industries?",
+      "explicit": true,
+      "confidence": 0.9,
+      "evidence": {
+        "start_time": 85.0,
+        "end_time": 92.0,
+        "text": "इसका असर इंडिया जैसी कंट्री पर बहुत बुरा पड़ने वाला है। काफी सारी इंडियन इंडस्ट्रीज इससे इंपैक्ट होगी"
+      }
+    },
+    "promise": {
+      "description": "Explain the tariff bill contents and analyze its impact on India.",
+      "explicit": true,
+      "confidence": 0.9,
+      "evidence": {
+        "start_time": 82.0,
+        "end_time": 87.0,
+        "text": "इस बिल में क्या है उसे समझने के लिए हमने पूरे जो 20 सेक्शंस उसमें दिए सारे डिटेल में पढ़े"
+      }
+    },
+    "expected_points": [
+      {
+        "point_id": "P1",
+        "description": "Analyze the tariff bill's contents and sections affecting India.",
+        "explicitly_promised": true,
+        "confidence": 0.9,
+        "evidence": {
+          "start_time": 82.0,
+          "end_time": 87.0,
+          "text": "इस बिल में क्या है उसे समझने के लिए हमने पूरे जो 20 सेक्शंस उसमें दिए सारे डिटेल में पढ़े"
+        }
+      },
+      {
+        "point_id": "P2",
+        "description": "Evaluate the bill's impact on Indian industries and economy.",
+        "explicitly_promised": true,
+        "confidence": 0.9,
+        "evidence": {
+          "start_time": 85.0,
+          "end_time": 92.0,
+          "text": "इसका असर इंडिया जैसी कंट्री पर बहुत बुरा पड़ने वाला है। काफी सारी इंडियन इंडस्ट्रीज इससे इंपैक्ट होगी"
+        }
+      }
+    ],
+    "expected_direction": "Analyze US-Russia tariff bill contents, evaluate its economic impact on India's industries and markets.",
+    "opening_summary": "The opening presents dramatic geopolitical news about Trump's actions in Venezuela and escalating tensions with Russia. The creator promises to explain a new tariff bill and analyze how it will affect India's economy and industries.",
+    "analysis_confidence": 0.92
+  }
+}

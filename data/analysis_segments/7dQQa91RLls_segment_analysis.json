@@ -1,0 +1,194 @@
+{
+  "video_id": "7dQQa91RLls",
+  "opening_segments_count": 3,
+  "analyzed_segments_count": 17,
+  "segments": [
+    {
+      "segment_id": 4,
+      "start_time": 119.519,
+      "end_time": 169.359,
+      "primary_point": "P2 | P3",
+      "function": "SUPPORTING_EXPLANATION",
+      "relevance": "DIRECT",
+      "confidence": 0.95,
+      "evidence": "ये था एक पूरा इंफ्रास्ट्रक्चर इकोसिस्टम और शेयरहोल्डर्स इसके कौन थे? LIC, SBI, सेंट्रल बैंक ऑफ इंडिया।",
+      "evidence_validation": "PASSED"
+    },
+    {
+      "segment_id": 5,
+      "start_time": 169.359,
+      "end_time": 218.76,
+      "primary_point": "NONE",
+      "function": "OFF_TOPIC",
+      "relevance": "OFF_TOPIC",
+      "confidence": 0.98,
+      "evidence": "जैसे इंस्टेंट इनह हाउस चार्ट लोडिंग, एक ही स्क्रीन पर ड्यूल चार्ट्स, इंडेक्स भी, कॉल पुट भी या दो अलग टाइम फ्रेम्स।",
+      "evidence_validation": "PASSED"
+    },
+    {
+      "segment_id": 6,
+      "start_time": 218.76,
+      "end_time": 246.6,
+      "primary_point": "P2",
+      "function": "TRANSITION",
+      "relevance": "DIRECT",
+      "confidence": 0.92,
+      "evidence": "धीरे-धीरे एक डेंजरस चीज बिना किसी शोरशराबे के आगे बढ़ रही थी और किसी को इसका अंदाजा भी नहीं था",
+      "evidence_validation": "PASSED"
+    },
+    {
+      "segment_id": 7,
+      "start_time": 246.6,
+      "end_time": 295.84,
+      "primary_point": "P3",
+      "function": "DIRECT_POINT",
+      "relevance": "DIRECT",
+      "confidence": 0.96,
+      "evidence": "ऑफिशियली आइलैंड एफएस एक इंफ्रास्ट्रक्चर कंपनी जरूर थी लेकिन रियलिटी में रियलिटी में यह एक शैडो बैंक बन चुकी थी।",
+      "evidence_validation": "PASSED"
+    },
+    {
+      "segment_id": 8,
+      "start_time": 295.84,
+      "end_time": 345.399,
+      "primary_point": "P3 | P4",
+      "function": "DIRECT_POINT",
+      "relevance": "DIRECT",
+      "confidence": 0.94,
+      "evidence": "इसका जो चीफ आर्किटेक्ट था, यह एक बहुत ही स्मार्ट आदमी था। नाम रवि पार्थ सारथी।",
+      "evidence_validation": "PASSED"
+    },
+    {
+      "segment_id": 9,
+      "start_time": 345.399,
+      "end_time": 384.76,
+      "primary_point": "P2 | P3",
+      "function": "EXAMPLE",
+      "relevance": "SUPPORTING",
+      "confidence": 0.92,
+      "evidence": "मान लीजिए आप एक घर ले रहे हो और आपको 20 साल के लिए लोन चाहिए। लेकिन बैंक 20 साल का लोन नहीं देता तो आप क्या करते हो? 2 साल के लिए लोन लेते हो और उसे बार-बार रिन्यू करते रहते हो।",
+      "evidence_validation": "PASSED"
+    },
+    {
+      "segment_id": 10,
+      "start_time": 384.76,
+      "end_time": 425.76,
+      "primary_point": "P2",
+      "function": "DIRECT_POINT",
+      "relevance": "DIRECT",
+      "confidence": 0.96,
+      "evidence": "आयलैंड एफएस लॉन्ग टर्म प्रोजेक्ट्स को फंड कर रही थी शॉर्ट टर्म बोरोइंग से। यानी कमर्शियल पेपर जहां पर आप 90 डेज के लिए पैसा उधार ले सकते हो।",
+      "evidence_validation": "PASSED"
+    },
+    {
+      "segment_id": 11,
+      "start_time": 425.76,
+      "end_time": 466.679,
+      "primary_point": "P3",
+      "function": "EVIDENCE",
+      "relevance": "DIRECT",
+      "confidence": 0.94,
+      "evidence": "जून 2018 आयरलैंड एफएस पहली बार डिफॉल्ट करता है ₹450 करोड़ का लोन जो उन्होंने कमर्शियल पेपर से लिया था।",
+      "evidence_validation": "PASSED"
+    },
+    {
+      "segment_id": 12,
+      "start_time": 466.679,
+      "end_time": 505.519,
+      "primary_point": "P3",
+      "function": "EVIDENCE",
+      "relevance": "DIRECT",
+      "confidence": 0.93,
+      "evidence": "डीएसपी म्यूचल फंड ने रूटीन पोर्टफोलियो डिसीजन में डीएचएफएल के कमर्शियल पेपर्स को सेकेंडरी मार्केट में सेल कर दिया। वह भी बहुत ज्यादा डिस्काउंट पर।",
+      "evidence_validation": "PASSED"
+    },
+    {
+      "segment_id": 13,
+      "start_time": 505.519,
+      "end_time": 555.24,
+      "primary_point": "P4",
+      "function": "RELATED_EXTENSION",
+      "relevance": "SUPPORTING",
+      "confidence": 0.91,
+      "evidence": "इसने एक चैन रिएक्शन शुरू कर दी। जैसे आइलैंड अफेयर्स की न्यूज़ मार्केट में आ गई। आइलैंड एफएस के पैनिकिक के बाद इन्वेस्टर्स ने डीएचएफएल से पैसा निकालना शुरू किया।",
+      "evidence_validation": "PASSED"
+    },
+    {
+      "segment_id": 14,
+      "start_time": 555.24,
+      "end_time": 596.08,
+      "primary_point": "P2 | P3",
+      "function": "DIRECT_POINT",
+      "relevance": "DIRECT",
+      "confidence": 0.95,
+      "evidence": "दिक्कत में आ गया",
+      "evidence_validation": "PASSED"
+    },
+    {
+      "segment_id": 15,
+      "start_time": 596.08,
+      "end_time": 637.24,
+      "primary_point": "P2 | P3",
+      "function": "DIRECT_POINT",
+      "relevance": "DIRECT",
+      "confidence": 0.95,
+      "evidence": "लगाना सेफ है या नहीं",
+      "evidence_validation": "PASSED"
+    },
+    {
+      "segment_id": 16,
+      "start_time": 637.24,
+      "end_time": 681.039,
+      "primary_point": "P2 | P3",
+      "function": "DIRECT_POINT",
+      "relevance": "DIRECT",
+      "confidence": 0.95,
+      "evidence": "रेटिंग एजेंसी ऑफिशियल्स को गिफ्ट मिल रहे थे। कैसे गिफ्ट? रियल मद्रीथ फुटबॉल मैच के टिकट्स",
+      "evidence_validation": "PASSED"
+    },
+    {
+      "segment_id": 17,
+      "start_time": 681.039,
+      "end_time": 726.6,
+      "primary_point": "P2 | P3",
+      "function": "DIRECT_POINT",
+      "relevance": "DIRECT",
+      "confidence": 0.95,
+      "evidence": "बिग फोर ग्लोबल अकाउंटिंग का गोल्ड स्टैंडर्ड",
+      "evidence_validation": "PASSED"
+    },
+    {
+      "segment_id": 18,
+      "start_time": 726.6,
+      "end_time": 770.72,
+      "primary_point": "P2 | P3",
+      "function": "DIRECT_POINT",
+      "relevance": "DIRECT",
+      "confidence": 0.95,
+      "evidence": "सरकार ने कुछ ऐसा किया जो शायद ही उन्होंने पहले कभी किया था",
+      "evidence_validation": "PASSED"
+    },
+    {
+      "segment_id": 19,
+      "start_time": 770.72,
+      "end_time": 820.76,
+      "primary_point": "P2 | P3",
+      "function": "SUPPORTING_EXPLANATION",
+      "relevance": "DIRECT",
+      "confidence": 0.95,
+      "evidence": "इस क्राइसिस से आरबीआई के लिए भी काफी कुछ लर्निंग्स थी। उन्होंने कुछ नए रूल्स लाए जैसे कि फोर टियर एनबीएफसी फ्रेमवर्क बनाई।",
+      "evidence_validation": "PASSED"
+    },
+    {
+      "segment_id": 20,
+      "start_time": 820.76,
+      "end_time": 848.16,
+      "primary_point": "P2 | P3",
+      "function": "SUPPORTING_EXPLANATION",
+      "relevance": "DIRECT",
+      "confidence": 0.95,
+      "evidence": "देखिए जिन फ्रॉड्स को हम भूल जाते हैं उनसे हम कुछ नहीं सीखते हैं।",
+      "evidence_validation": "PASSED"
+    }
+  ]
+}

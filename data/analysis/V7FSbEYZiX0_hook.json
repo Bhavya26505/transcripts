@@ -1,0 +1,120 @@
+{
+  "raw_record": {
+    "log_metrics": {
+      "video_id": "V7FSbEYZiX0",
+      "model_id": "qwen3.5-9b-claude-4.6-opus-reasoning-distilled-v2",
+      "target_window_seconds": 90.0,
+      "max_window_seconds": 120.0,
+      "actual_opening_duration": 83.6,
+      "final_end_timestamp": 83.639,
+      "number_of_segments": 2,
+      "input_character_count": 5091,
+      "output_character_count": 3356,
+      "latency_seconds": 228.382,
+      "temperature": 0.1,
+      "max_tokens": 2500,
+      "json_valid": true,
+      "validation_issues": [],
+      "parse_error": ""
+    },
+    "formatted_prompt_input": "[SEGMENT 1]\nTIME: 0.04 - 42.06\nLANGUAGE: HINDI\nTEXT:\nलगता है हजारों करोड़ों के स्कैम का दौर अब वापस आ गया है अभी कुछ ही दिनों पहले हमने अनिल अंबानी के 8000 करोड़ के स्कैम को कवर किया जिसके बाद हमें उसे टेक डाउन करने का नोटिस भी आया और इस वीडियो के जस्ट बाद 7000 करोड़ का डीबी स्टॉक ब्रोकिंग का स्कैम सामने आया और इस पर हम रिसर्च कर ही रहे थे तब तक एक और 2200 करोड़ का नया स्कैम बाहर आया अब ये दोनों स्कैमर्स इतने भी लायक नहीं थे कि इन दोनों पर अलग-अलग वीडियोस बनाई जाए तो हमने सोचा कि क्यों ना इन दोनों को एक ही वीडियो में कवर किया जाए इसलिए हमने इस पर एक डिटेल रिसर्च शुरू की रिसर्च करते-करते एक सवाल यह भी दिमाग में आया कि यह बहुत सारे स्कैम्स रिसेंटली आसाम में ही क्यों हो रहे हैं और फिर रिसर्च में कुछ ऐसी चीजें बाहर आई जिससे मैं खुद बहुत ज्यादा शौक था तो इन सारी चीजों की बात करेंगे आज के इस वीडियो में तो आखिर तक जरूर बने रहिए वैसे बताने की जरूरत नहीं पड़ती\n\n[SEGMENT 2]\nTIME: 42.06 - 83.64\nLANGUAGE: HINDI\nTEXT:\nबिकॉज आप में से लगभग सारे लोग आखिर तक बने रहते हैं तो आज के इस वीडियो में बात करेंगे कि दो स्कैम्स आखिर है क्या साथ ही यह भी समझेंगे कि ज्यादातर लोग इन स्कैम्स में क्यों फंस रहे हैं और आप अपने आप को और अपनी फैमिली को इन स्कैम में फंसने से कैसे बचा सकते हैं इसके बारे में भी मैं बहुत ही इंपॉर्टेंट टिप्स और चीजें आपको बताने वाला नमस्कार मैं प्रसाद आपका आज के इस वीडियो में स्वागत करता वीडियो में आगे बढ़ने से पहले आपको बता दूं कि अभी 1 अक्टूबर से हमारी फाइनेंशियल मॉडलिंग एंड वैल्युएशन मेंटरशिप यानी एफएमवीए की नेक्स्ट बैच शुरू हो रही है 100% ऑनलाइन और वीकेंड बैच है जिसे कोई भी अटेंड कर सकता है अगर आपको फाइनेंस की फील्ड में करियर बनाना है या फिर फाइनेंस की फील्ड में बहुत इनपथ नॉलेज हासिल करना है फाइनेंशियल मॉडलिंग का और डीसीएफ यानी डिस्काउंटेड कैश मेथड से वैल्युएशन निकालने का तो यहां पर ये सारी चीजें आपको सीखने मिल जाती है एफएमवीए में एनरोल करने",
+    "raw_response": "{\n    \"video_id\": \"V7FSbEYZiX0\",\n    \"opening_analysis\": {\n        \"hook\": {\n            \"text\": \"लगता है हजारों करोड़ों के स्कैम का दौर अब वापस आ गया है अभी कुछ ही दिनों पहले हमने अनिल अंबानी के 8000 करोड़ के स्कैम को कवर किया\",\n            \"start_time\": 0.04,\n            \"end_time\": 15.06,\n            \"hook_type\": \"news/event | curiosity\",\n            \"confidence\": 0.95\n        },\n        \"core_topic\": {\n            \"description\": \"Recent financial scams in India and how to protect against them\",\n            \"explicit\": true,\n            \"confidence\": 0.95,\n            \"evidence\": {\n                \"start_time\": 42.06,\n                \"end_time\": 48.06,\n                \"text\": \"आज के इस वीडियो में बात करेंगे कि दो स्कैम्स आखिर है क्या\"\n            }\n        },\n        \"viewer_problem_or_question\": {\n            \"description\": \"Why are scams happening and how to protect from them\",\n            \"explicit\": true,\n            \"confidence\": 0.90,\n            \"evidence\": {\n                \"start_time\": 54.06,\n                \"end_time\": 62.06,\n                \"text\": \"यह भी समझेंगे कि ज्यादातर लोग इन स्कैम्स में क्यों फंस रहे हैं\"\n            }\n        },\n        \"promise\": {\n            \"description\": \"Explain two scams, why people fall for them, and protection tips\",\n            \"explicit\": true,\n            \"confidence\": 0.90,\n            \"evidence\": {\n                \"start_time\": 62.06,\n                \"end_time\": 74.06,\n                \"text\": \"आप अपने आप को और अपनी फैमिली को इन स्कैम में फंसने से कैसे बचा सकते हैं\"\n            }\n        },\n        \"expected_points\": [\n            {\n                \"point_id\": \"P1\",\n                \"description\": \"What the two recent scams are about\",\n                \"explicitly_promised\": true,\n                \"confidence\": 0.95,\n                \"evidence\": {\n                    \"start_time\": 42.06,\n                    \"end_time\": 48.06,\n                    \"text\": \"दो स्कैम्स आखिर है क्या\"\n                }\n            },\n            {\n                \"point_id\": \"P2\",\n                \"description\": \"Why most people fall for these scams\",\n                \"explicitly_promised\": true,\n                \"confidence\": 0.95,\n                \"evidence\": {\n                    \"start_time\": 54.06,\n                    \"end_time\": 62.06,\n                    \"text\": \"ज्यादातर लोग इन स्कैम्स में क्यों फंस रहे हैं\"\n                }\n            },\n            {\n                \"point_id\": \"P3\",\n                \"description\": \"How to protect yourself and family from scams\",\n                \"explicitly_promised\": true,\n                \"confidence\": 0.95,\n                \"evidence\": {\n                    \"start_time\": 62.06,\n                    \"end_time\": 74.06,\n                    \"text\": \"आप अपने आप को और अपनी फैमिली को इन स्कैम में फंसने से कैसे बचा सकते हैं\"\n                }\n            }\n        ],\n        \"expected_direction\": \"Analyze two recent financial scams in India, explain vulnerability factors, and provide protection strategies for individuals and families.\",\n        \"opening_summary\": \"Creator introduces multiple recent financial scams including Anil Ambani's 8000 crore scam and a new 2200 crore scam. He promises to analyze these scams together while explaining why people fall victim and how to protect themselves.\",\n        \"analysis_confidence\": 0.94\n    }\n}"
+  },
+  "parsed_analysis": {
+    "video_id": "V7FSbEYZiX0",
+    "opening_analysis": {
+      "hook": {
+        "text": "लगता है हजारों करोड़ों के स्कैम का दौर अब वापस आ गया है अभी कुछ ही दिनों पहले हमने अनिल अंबानी के 8000 करोड़ के स्कैम को कवर किया",
+        "start_time": 0.04,
+        "end_time": 15.06,
+        "hook_type": "news/event | curiosity",
+        "confidence": 0.95
+      },
+      "core_topic": {
+        "description": "Recent financial scams in India and how to protect against them",
+        "explicit": true,
+        "confidence": 0.95,
+        "evidence": {
+          "start_time": 42.06,
+          "end_time": 48.06,
+          "text": "आज के इस वीडियो में बात करेंगे कि दो स्कैम्स आखिर है क्या"
+        }
+      },
+      "viewer_problem_or_question": {
+        "description": "Why are scams happening and how to protect from them",
+        "explicit": true,
+        "confidence": 0.9,
+        "evidence": {
+          "start_time": 54.06,
+          "end_time": 62.06,
+          "text": "यह भी समझेंगे कि ज्यादातर लोग इन स्कैम्स में क्यों फंस रहे हैं"
+        }
+      },
+      "promise": {
+        "description": "Explain two scams, why people fall for them, and protection tips",
+        "explicit": true,
+        "confidence": 0.9,
+        "evidence": {
+          "start_time": 62.06,
+          "end_time": 74.06,
+          "text": "आप अपने आप को और अपनी फैमिली को इन स्कैम में फंसने से कैसे बचा सकते हैं"
+        }
+      },
+      "expected_points": [
+        {
+          "point_id": "P1",
+          "description": "What the two recent scams are about",
+          "explicitly_promised": true,
+          "confidence": 0.95,
+          "evidence": {
+            "start_time": 42.06,
+            "end_time": 48.06,
+            "text": "दो स्कैम्स आखिर है क्या"
+          }
+        },
+        {
+          "point_id": "P2",
+          "description": "Why most people fall for these scams",
+          "explicitly_promised": true,
+          "confidence": 0.95,
+          "evidence": {
+            "start_time": 54.06,
+            "end_time": 62.06,
+            "text": "ज्यादातर लोग इन स्कैम्स में क्यों फंस रहे हैं"
+          }
+        },
+        {
+          "point_id": "P3",
+          "description": "How to protect yourself and family from scams",
+          "explicitly_promised": true,
+          "confidence": 0.95,
+          "evidence": {
+            "start_time": 62.06,
+            "end_time": 74.06,
+            "text": "आप अपने आप को और अपनी फैमिली को इन स्कैम में फंसने से कैसे बचा सकते हैं"
+          }
+        }
+      ],
+      "expected_direction": "Analyze two recent financial scams in India, explain vulnerability factors, and provide protection strategies for individuals and families.",
+      "opening_summary": "Creator introduces multiple recent financial scams including Anil Ambani's 8000 crore scam and a new 2200 crore scam. He promises to analyze these scams together while explaining why people fall victim and how to protect themselves.",
+      "analysis_confidence": 0.94
+    }
+  },
+  "log_metrics": {
+    "video_id": "V7FSbEYZiX0",
+    "model_id": "qwen3.5-9b-claude-4.6-opus-reasoning-distilled-v2",
+    "target_window_seconds": 90.0,
+    "max_window_seconds": 120.0,
+    "actual_opening_duration": 83.6,
+    "final_end_timestamp": 83.639,
+    "number_of_segments": 2,
+    "input_character_count": 5091,
+    "output_character_count": 3356,
+    "latency_seconds": 228.382,
+    "temperature": 0.1,
+    "max_tokens": 2500,
+    "json_valid": true,
+    "validation_issues": [],
+    "parse_error": ""
+  }
+}

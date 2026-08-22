@@ -1,0 +1,131 @@
+{
+  "raw_record": {
+    "log_metrics": {
+      "video_id": "EAWwPQGDJpU",
+      "model_id": "qwen3.5-9b-claude-4.6-opus-reasoning-distilled-v2",
+      "target_window_seconds": 90.0,
+      "max_window_seconds": 120.0,
+      "actual_opening_duration": 91.32,
+      "final_end_timestamp": 91.399,
+      "number_of_segments": 2,
+      "input_character_count": 5065,
+      "output_character_count": 4013,
+      "latency_seconds": 211.011,
+      "temperature": 0.1,
+      "max_tokens": 2500,
+      "json_valid": true,
+      "validation_issues": [],
+      "parse_error": ""
+    },
+    "formatted_prompt_input": "[SEGMENT 1]\nTIME: 0.08 - 50.72\nLANGUAGE: HINGLISH\nTEXT:\nहिस्टोरिकली दुनिया में जब-जब वॉर हुए तब-तब गोल्ड बढ़ा है। लेकिन इस बार सिचुएशन पूरी तरह से अलग है। वॉर तेजी से चल रहा है। गोल्ड की प्राइस लगातार गिर रही है। गोल्ड हैज़ सफर्ड इट्स शार्पेस्ट फॉल इन मोर देन 12 इयर्स। सोने और चांदी की कीमतों में भारी गिरावट दर्ज की गई है। प्राइसेस हैव डिक्लाइंड बाय एज़ मच एस 7% इन द लास्ट टू वीक्स। सो वी विटनेस डिक्लाइन इन गोल्ड प्राइसेस बाय एज़ मच एस 7% इन द लास्ट टू वीक्स। ऐसा क्यों हो रहा है? इसका कंक्रीट रीजन आज के इस वीडियो में हम जानेंगे। साथ ही पिछले कई दशकों से हमने यह देखा है कि गोल्ड एक बहुत ही बोरिंग एसेट क्लास रहा है। हमारे पेरेंट्स, ग्रैंड पेरेंट्स जनरली कहते हैं कि गोल्ड में कुछ ना कुछ पैसा डाल के रखो क्योंकि यह स्लोली और स्टेडीली बढ़ते जाता है और एक काफी सेफ एसेट क्लास है। लेकिन अगर पिछले तीन-चार सालों के गोल्ड प्राइस पर नजर डालें तो सिचुएशन काफी अलग है। गोल्ड गोल्ड नहीं\n\n[SEGMENT 2]\nTIME: 50.72 - 91.40\nLANGUAGE: HINGLISH\nTEXT:\nबल्कि रिसेंटली स्टॉक मार्केट की तरह परफॉर्म कर रहा है। कभी बहुत ऊपर तो कभी अचानक से बहुत नीचे। तो आज के इस वीडियो में हम जानेंगे कि रशिया यूक्रेन वॉर के बाद अचानक से गोल्ड क्यों स्टॉक मार्केट की तरह परफॉर्म कर रहा है। आने वाले टाइम में यह किस डायरेक्शन में जाएगा और अभी वॉर के टाइम यह इतना ज्यादा क्यों गिर रहा है और साथ ही जिस तरह के रिटर्न्स गोल्ड ने अब तक हमें दिए हैं पिछले 3-चार सालों में क्या उस तरह के रिटर्न्स हमें भविष्य में भी मिलेंगे यह सारी चीजें आपको खुद ही पता चल जाएगी इस वीडियो के अंत तक। नमस्कार, मैं प्रसाद आपका आज के इस वीडियो में स्वागत करता हूं। तो सबसे पहले एक बहुत ही बेसिक चीज के बारे में बात करते हैं जिसके बारे में 99.99% लोगों को पता ही नहीं है कि जब आप गोल्ड की प्राइस Google पर सर्च करने जाते हो तो वो प्राइस आती कहां से है? बहुत सारे लोगों को लगता है कि दिन भर जो हमारे हम",
+    "raw_response": "{\n    \"video_id\": \"EAWwPQGDJpU\",\n    \"opening_analysis\": {\n        \"hook\": {\n            \"text\": \"Historically gold rises during wars, but this time it's falling despite ongoing conflict.\",\n            \"start_time\": 0.08,\n            \"end_time\": 15.0,\n            \"hook_type\": \"curiosity\",\n            \"confidence\": 0.92\n        },\n        \"core_topic\": {\n            \"description\": \"Gold price volatility and its unusual stock-like behavior during war times.\",\n            \"explicit\": true,\n            \"confidence\": 0.95,\n            \"evidence\": {\n                \"start_time\": 15.0,\n                \"end_time\": 25.0,\n                \"text\": \"गोल्ड की प्राइस लगातार गिर रही है। गोल्ड हैज़ सफर्ड इट्स शार्पेस्ट फॉल\"\n            }\n        },\n        \"viewer_problem_or_question\": {\n            \"description\": \"Why is gold crashing during war when historically it should rise?\",\n            \"explicit\": true,\n            \"confidence\": 0.90,\n            \"evidence\": {\n                \"start_time\": 15.0,\n                \"end_time\": 20.0,\n                \"text\": \"वॉर तेजी से चल रहा है। गोल्ड की प्राइस लगातार गिर रही है।\"\n            }\n        },\n        \"promise\": {\n            \"description\": \"Explain reasons for gold decline and predict future price direction.\",\n            \"explicit\": true,\n            \"confidence\": 0.92,\n            \"evidence\": {\n                \"start_time\": 35.0,\n                \"end_time\": 40.0,\n                \"text\": \"ऐसा क्यों हो रहा है? इसका कंक्रीट रीजन आज के इस वीडियो में हम जानेंगे।\"\n            }\n        },\n        \"expected_points\": [\n            {\n                \"point_id\": \"P1\",\n                \"description\": \"Explain why gold is behaving like stocks recently instead of being stable.\",\n                \"explicitly_promised\": true,\n                \"confidence\": 0.92,\n                \"evidence\": {\n                    \"start_time\": 50.72,\n                    \"end_time\": 60.0,\n                    \"text\": \"गोल्ड गोल्ड नहीं बल्कि रिसेंटली स्टॉक मार्केट की तरह परफॉर्म कर रहा है।\"\n                }\n            },\n            {\n                \"point_id\": \"P2\",\n                \"description\": \"Analyze Russia-Ukraine war impact on gold price behavior.\",\n                \"explicitly_promised\": true,\n                \"confidence\": 0.90,\n                \"evidence\": {\n                    \"start_time\": 65.0,\n                    \"end_time\": 70.0,\n                    \"text\": \"रशिया यूक्रेन वॉर के बाद अचानक से गोल्ड क्यों स्टॉक मार्केट की तरह परफॉर्म कर रहा है।\"\n                }\n            },\n            {\n                \"point_id\": \"P3\",\n                \"description\": \"Review past 3-4 years of gold returns and performance.\",\n                \"explicitly_promised\": true,\n                \"confidence\": 0.88,\n                \"evidence\": {\n                    \"start_time\": 75.0,\n                    \"end_time\": 80.0,\n                    \"text\": \"जिस तरह के रिटर्न्स गोल्ड ने अब तक हमें दिए हैं पिछले 3-चार सालों में\"\n                }\n            },\n            {\n                \"point_id\": \"P4\",\n                \"description\": \"Predict future gold price direction and potential returns.\",\n                \"explicitly_promised\": true,\n                \"confidence\": 0.87,\n                \"evidence\": {\n                    \"start_time\": 85.0,\n                    \"end_time\": 90.0,\n                    \"text\": \"आने वाले टाइम में यह किस डायरेक्शन में जाएगा\"\n                }\n            }\n        ],\n        \"expected_direction\": \"Explain gold's unusual stock-like volatility during war times, analyze Russia-Ukraine conflict impact on prices, review past performance and returns, then predict future price direction.\",\n        \"opening_summary\": \"The video opens with a surprising contradiction about gold's historical behavior versus current market conditions. Creator Prasad introduces the topic of why gold is acting like stocks recently and promises to explain the reasons behind this unusual volatility during war times.\",\n        \"analysis_confidence\": 0.91\n    }\n}"
+  },
+  "parsed_analysis": {
+    "video_id": "EAWwPQGDJpU",
+    "opening_analysis": {
+      "hook": {
+        "text": "Historically gold rises during wars, but this time it's falling despite ongoing conflict.",
+        "start_time": 0.08,
+        "end_time": 15.0,
+        "hook_type": "curiosity",
+        "confidence": 0.92
+      },
+      "core_topic": {
+        "description": "Gold price volatility and its unusual stock-like behavior during war times.",
+        "explicit": true,
+        "confidence": 0.95,
+        "evidence": {
+          "start_time": 15.0,
+          "end_time": 25.0,
+          "text": "गोल्ड की प्राइस लगातार गिर रही है। गोल्ड हैज़ सफर्ड इट्स शार्पेस्ट फॉल"
+        }
+      },
+      "viewer_problem_or_question": {
+        "description": "Why is gold crashing during war when historically it should rise?",
+        "explicit": true,
+        "confidence": 0.9,
+        "evidence": {
+          "start_time": 15.0,
+          "end_time": 20.0,
+          "text": "वॉर तेजी से चल रहा है। गोल्ड की प्राइस लगातार गिर रही है।"
+        }
+      },
+      "promise": {
+        "description": "Explain reasons for gold decline and predict future price direction.",
+        "explicit": true,
+        "confidence": 0.92,
+        "evidence": {
+          "start_time": 35.0,
+          "end_time": 40.0,
+          "text": "ऐसा क्यों हो रहा है? इसका कंक्रीट रीजन आज के इस वीडियो में हम जानेंगे।"
+        }
+      },
+      "expected_points": [
+        {
+          "point_id": "P1",
+          "description": "Explain why gold is behaving like stocks recently instead of being stable.",
+          "explicitly_promised": true,
+          "confidence": 0.92,
+          "evidence": {
+            "start_time": 50.72,
+            "end_time": 60.0,
+            "text": "गोल्ड गोल्ड नहीं बल्कि रिसेंटली स्टॉक मार्केट की तरह परफॉर्म कर रहा है।"
+          }
+        },
+        {
+          "point_id": "P2",
+          "description": "Analyze Russia-Ukraine war impact on gold price behavior.",
+          "explicitly_promised": true,
+          "confidence": 0.9,
+          "evidence": {
+            "start_time": 65.0,
+            "end_time": 70.0,
+            "text": "रशिया यूक्रेन वॉर के बाद अचानक से गोल्ड क्यों स्टॉक मार्केट की तरह परफॉर्म कर रहा है।"
+          }
+        },
+        {
+          "point_id": "P3",
+          "description": "Review past 3-4 years of gold returns and performance.",
+          "explicitly_promised": true,
+          "confidence": 0.88,
+          "evidence": {
+            "start_time": 75.0,
+            "end_time": 80.0,
+            "text": "जिस तरह के रिटर्न्स गोल्ड ने अब तक हमें दिए हैं पिछले 3-चार सालों में"
+          }
+        },
+        {
+          "point_id": "P4",
+          "description": "Predict future gold price direction and potential returns.",
+          "explicitly_promised": true,
+          "confidence": 0.87,
+          "evidence": {
+            "start_time": 85.0,
+            "end_time": 90.0,
+            "text": "आने वाले टाइम में यह किस डायरेक्शन में जाएगा"
+          }
+        }
+      ],
+      "expected_direction": "Explain gold's unusual stock-like volatility during war times, analyze Russia-Ukraine conflict impact on prices, review past performance and returns, then predict future price direction.",
+      "opening_summary": "The video opens with a surprising contradiction about gold's historical behavior versus current market conditions. Creator Prasad introduces the topic of why gold is acting like stocks recently and promises to explain the reasons behind this unusual volatility during war times.",
+      "analysis_confidence": 0.91
+    }
+  },
+  "log_metrics": {
+    "video_id": "EAWwPQGDJpU",
+    "model_id": "qwen3.5-9b-claude-4.6-opus-reasoning-distilled-v2",
+    "target_window_seconds": 90.0,
+    "max_window_seconds": 120.0,
+    "actual_opening_duration": 91.32,
+    "final_end_timestamp": 91.399,
+    "number_of_segments": 2,
+    "input_character_count": 5065,
+    "output_character_count": 4013,
+    "latency_seconds": 211.011,
+    "temperature": 0.1,
+    "max_tokens": 2500,
+    "json_valid": true,
+    "validation_issues": [],
+    "parse_error": ""
+  }
+}

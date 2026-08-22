@@ -1,0 +1,5242 @@
+{
+  "video_id": "-_E7at6WAlQ",
+  "language": "ENGLISH",
+  "duration_seconds": 1362.88,
+  "statistics": {
+    "raw_duration": 1362.88,
+    "preprocessed_duration": 1362.88,
+    "duration_difference": 0.0,
+    "word_count_before": 5099,
+    "word_count_after": 5096,
+    "sentence_count": 403,
+    "estimated_wpm": 224.35,
+    "filler_candidate_count": 25,
+    "filler_candidate_terms": {
+      "you know": 1,
+      "basically": 2,
+      "actually": 4,
+      "like": 18
+    },
+    "repeated_phrase_count": 3,
+    "entries_summary": {
+      "raw_entries": 649,
+      "changed_entries": 2,
+      "removed_entries": 1,
+      "merged_entries": 0,
+      "unchanged_entries": 646,
+      "final_entries": 648
+    }
+  },
+  "transformations_log": [
+    {
+      "subtitle_id": 10,
+      "action": "CHANGED",
+      "raw_text": "mean 643 [music]",
+      "normalized_text": "mean 643",
+      "transformation": "Removed 1 non-speech audio artifact(s) (e.g. [music]/[संगीत]), Whitespace Normalization",
+      "why_safe": "Standard Unicode NFC or whitespace/artifact normalization without altering semantic content"
+    },
+    {
+      "subtitle_id": 201,
+      "action": "CHANGED",
+      "raw_text": "Hey There [Music] I'm Nasha and My",
+      "normalized_text": "Hey There I'm Nasha and My",
+      "transformation": "Removed 1 non-speech audio artifact(s) (e.g. [music]/[संगीत]), Whitespace Normalization",
+      "why_safe": "Standard Unicode NFC or whitespace/artifact normalization without altering semantic content"
+    },
+    {
+      "subtitle_id": 205,
+      "action": "REMOVED",
+      "raw_text": "[music]",
+      "normalized_text": "",
+      "transformation": "Removed empty entry after audio artifact cleanup",
+      "why_safe": "Entry contained only non-speech artifact (e.g. [music]/[संगीत]) with no spoken text"
+    }
+  ],
+  "segments": [
+    {
+      "subtitle_ids": [
+        1
+      ],
+      "start": 0.08,
+      "end": 4.64,
+      "text": "At present, there is talk of US AI bubble everywhere."
+    },
+    {
+      "subtitle_ids": [
+        2
+      ],
+      "start": 2.639,
+      "end": 6.96,
+      "text": "It is going on. But meanwhile in India also"
+    },
+    {
+      "subtitle_ids": [
+        3
+      ],
+      "start": 4.64,
+      "end": 9.04,
+      "text": "A lot of big things are happening that we can see today."
+    },
+    {
+      "subtitle_ids": [
+        4
+      ],
+      "start": 6.96,
+      "end": 12.32,
+      "text": "About to expose. And this is India"
+    },
+    {
+      "subtitle_ids": [
+        5
+      ],
+      "start": 9.04,
+      "end": 14.799,
+      "text": "Ka cheep i.e. cheap AI bubble and we are one in it"
+    },
+    {
+      "subtitle_ids": [
+        6
+      ],
+      "start": 12.32,
+      "end": 16.8,
+      "text": "Not just two but many AI related stocks"
+    },
+    {
+      "subtitle_ids": [
+        7
+      ],
+      "start": 14.799,
+      "end": 19.119,
+      "text": "that today we are going to talk about which"
+    },
+    {
+      "subtitle_ids": [
+        8
+      ],
+      "start": 16.8,
+      "end": 22.88,
+      "text": "Millions of investors are investing money vigorously"
+    },
+    {
+      "subtitle_ids": [
+        9
+      ],
+      "start": 19.119,
+      "end": 24.96,
+      "text": "Are. See this 64350% in 2 years"
+    },
+    {
+      "subtitle_ids": [
+        10
+      ],
+      "start": 22.88,
+      "end": 27.599,
+      "text": "mean 643"
+    },
+    {
+      "subtitle_ids": [
+        11
+      ],
+      "start": 24.96,
+      "end": 29.599,
+      "text": "Times shares even after BSE warning"
+    },
+    {
+      "subtitle_ids": [
+        12
+      ],
+      "start": 27.599,
+      "end": 31.76,
+      "text": "The momentum is not stopping and I feel"
+    },
+    {
+      "subtitle_ids": [
+        13
+      ],
+      "start": 29.599,
+      "end": 34.0,
+      "text": "That this AI bubble is going on in India?"
+    },
+    {
+      "subtitle_ids": [
+        14
+      ],
+      "start": 31.76,
+      "end": 36.16,
+      "text": "USA is many times more dangerous than AI bubble because"
+    },
+    {
+      "subtitle_ids": [
+        15
+      ],
+      "start": 34.0,
+      "end": 38.079,
+      "text": "If you look there, the companies which are"
+    },
+    {
+      "subtitle_ids": [
+        16
+      ],
+      "start": 36.16,
+      "end": 40.64,
+      "text": "That's why their valuations are expensive"
+    },
+    {
+      "subtitle_ids": [
+        17
+      ],
+      "start": 38.079,
+      "end": 43.2,
+      "text": "That bubble has happened. But problem in India"
+    },
+    {
+      "subtitle_ids": [
+        18
+      ],
+      "start": 40.64,
+      "end": 45.6,
+      "text": "There is something else. when i tell you"
+    },
+    {
+      "subtitle_ids": [
+        19
+      ],
+      "start": 43.2,
+      "end": 47.92,
+      "text": "You yourself will be surprised. So let's go one by one"
+    },
+    {
+      "subtitle_ids": [
+        20
+      ],
+      "start": 45.6,
+      "end": 50.879,
+      "text": "Let us understand this by taking each stock. See"
+    },
+    {
+      "subtitle_ids": [
+        21
+      ],
+      "start": 47.92,
+      "end": 53.36,
+      "text": "The date was 10th February 2025. Maharashtra"
+    },
+    {
+      "subtitle_ids": [
+        22
+      ],
+      "start": 50.879,
+      "end": 55.76,
+      "text": "Government signs MoU with a company"
+    },
+    {
+      "subtitle_ids": [
+        23
+      ],
+      "start": 53.36,
+      "end": 57.92,
+      "text": "Which is done by Mihan of Nagpur, Maharashtra"
+    },
+    {
+      "subtitle_ids": [
+        24
+      ],
+      "start": 55.76,
+      "end": 60.0,
+      "text": "to start a semiconductor facility in"
+    },
+    {
+      "subtitle_ids": [
+        25
+      ],
+      "start": 57.92,
+      "end": 62.879,
+      "text": "was about to. The company had said that in the next 5"
+    },
+    {
+      "subtitle_ids": [
+        26
+      ],
+      "start": 60.0,
+      "end": 65.68,
+      "text": "Under this MoU in the next 5 years"
+    },
+    {
+      "subtitle_ids": [
+        27
+      ],
+      "start": 62.879,
+      "end": 67.76,
+      "text": "In this company ₹1,000 crore which is very"
+    },
+    {
+      "subtitle_ids": [
+        28
+      ],
+      "start": 65.68,
+      "end": 69.76,
+      "text": "This is a huge amount to invest"
+    },
+    {
+      "subtitle_ids": [
+        29
+      ],
+      "start": 67.76,
+      "end": 71.439,
+      "text": "Was. As soon as the announcement comes, same day"
+    },
+    {
+      "subtitle_ids": [
+        30
+      ],
+      "start": 69.76,
+      "end": 73.52,
+      "text": "Upper circuit is installed in the stock."
+    },
+    {
+      "subtitle_ids": [
+        31
+      ],
+      "start": 71.439,
+      "end": 75.28,
+      "text": "Because everyone is excited that"
+    },
+    {
+      "subtitle_ids": [
+        32
+      ],
+      "start": 73.52,
+      "end": 76.96,
+      "text": "The company is now moving into semiconductor."
+    },
+    {
+      "subtitle_ids": [
+        33
+      ],
+      "start": 75.28,
+      "end": 79.68,
+      "text": "Because everyone knows one thing that"
+    },
+    {
+      "subtitle_ids": [
+        34
+      ],
+      "start": 76.96,
+      "end": 81.92,
+      "text": "AI bomb is going on in US, take the rest"
+    },
+    {
+      "subtitle_ids": [
+        35
+      ],
+      "start": 79.68,
+      "end": 83.36,
+      "text": "But include semiconductor companies in it."
+    },
+    {
+      "subtitle_ids": [
+        36
+      ],
+      "start": 81.92,
+      "end": 84.72,
+      "text": "Getting a lot of benefits. and off"
+    },
+    {
+      "subtitle_ids": [
+        37
+      ],
+      "start": 83.36,
+      "end": 86.56,
+      "text": "Course if any company in India"
+    },
+    {
+      "subtitle_ids": [
+        38
+      ],
+      "start": 84.72,
+      "end": 88.4,
+      "text": "Semiconductor is going to start, so"
+    },
+    {
+      "subtitle_ids": [
+        39
+      ],
+      "start": 86.56,
+      "end": 90.32,
+      "text": "Everyone is making big investments"
+    },
+    {
+      "subtitle_ids": [
+        40
+      ],
+      "start": 88.4,
+      "end": 92.64,
+      "text": "Would like to have something of my own in that company"
+    },
+    {
+      "subtitle_ids": [
+        41
+      ],
+      "start": 90.32,
+      "end": 94.799,
+      "text": "There must be a stake. And this is something like this"
+    },
+    {
+      "subtitle_ids": [
+        42
+      ],
+      "start": 92.64,
+      "end": 97.36,
+      "text": "It happened in the company too. but one thing that"
+    },
+    {
+      "subtitle_ids": [
+        43
+      ],
+      "start": 94.799,
+      "end": 99.6,
+      "text": "What I didn't see was that this company was"
+    },
+    {
+      "subtitle_ids": [
+        44
+      ],
+      "start": 97.36,
+      "end": 102.32,
+      "text": "It has a market cap of only Rs 200 crores."
+    },
+    {
+      "subtitle_ids": [
+        45
+      ],
+      "start": 99.6,
+      "end": 105.28,
+      "text": "The company was only Rs 200 crores and he promised"
+    },
+    {
+      "subtitle_ids": [
+        46
+      ],
+      "start": 102.32,
+      "end": 107.119,
+      "text": "How much was done for ₹100 crore and more"
+    },
+    {
+      "subtitle_ids": [
+        47
+      ],
+      "start": 105.28,
+      "end": 108.96,
+      "text": "The interesting thing was that the company never"
+    },
+    {
+      "subtitle_ids": [
+        48
+      ],
+      "start": 107.119,
+      "end": 111.36,
+      "text": "The company was not in the hardware business"
+    },
+    {
+      "subtitle_ids": [
+        49
+      ],
+      "start": 108.96,
+      "end": 114.399,
+      "text": "was a software consultancy service company"
+    },
+    {
+      "subtitle_ids": [
+        50
+      ],
+      "start": 111.36,
+      "end": 116.159,
+      "text": "Whose ₹9% revenue was coming from here. Now"
+    },
+    {
+      "subtitle_ids": [
+        51
+      ],
+      "start": 114.399,
+      "end": 118.24,
+      "text": "You must have understood that the one worth Rs 200 crores"
+    },
+    {
+      "subtitle_ids": [
+        52
+      ],
+      "start": 116.159,
+      "end": 120.56,
+      "text": "When the company is signing an MoU of Rs 10,000 crore"
+    },
+    {
+      "subtitle_ids": [
+        53
+      ],
+      "start": 118.24,
+      "end": 122.399,
+      "text": "So what's going on inside? second thing company"
+    },
+    {
+      "subtitle_ids": [
+        54
+      ],
+      "start": 120.56,
+      "end": 124.88,
+      "text": "Didn't stop here. This is just the company's"
+    },
+    {
+      "subtitle_ids": [
+        55
+      ],
+      "start": 122.399,
+      "end": 128.239,
+      "text": "There was plan A. Plan B was even more dangerous."
+    },
+    {
+      "subtitle_ids": [
+        56
+      ],
+      "start": 124.88,
+      "end": 130.399,
+      "text": "What was Plan B? So the company directly announced on May 11"
+    },
+    {
+      "subtitle_ids": [
+        57
+      ],
+      "start": 128.239,
+      "end": 132.48,
+      "text": "Changed its name in 2024. First"
+    },
+    {
+      "subtitle_ids": [
+        58
+      ],
+      "start": 130.399,
+      "end": 134.959,
+      "text": "The name of the company was Dataft Application"
+    },
+    {
+      "subtitle_ids": [
+        59
+      ],
+      "start": 132.48,
+      "end": 137.2,
+      "text": "Software Limited from which the company acquired its"
+    },
+    {
+      "subtitle_ids": [
+        60
+      ],
+      "start": 134.959,
+      "end": 139.599,
+      "text": "What did you change the name to? so artificial"
+    },
+    {
+      "subtitle_ids": [
+        61
+      ],
+      "start": 137.2,
+      "end": 142.0,
+      "text": "ELECTRONIC INTELLIGENT MATERIALS LIMITED."
+    },
+    {
+      "subtitle_ids": [
+        62
+      ],
+      "start": 139.599,
+      "end": 144.16,
+      "text": "i.e. artificial intelligence"
+    },
+    {
+      "subtitle_ids": [
+        63
+      ],
+      "start": 142.0,
+      "end": 146.4,
+      "text": "Came into the name of the company in this manner. like this"
+    },
+    {
+      "subtitle_ids": [
+        64
+      ],
+      "start": 144.16,
+      "end": 148.72,
+      "text": "The company changed its name. Now"
+    },
+    {
+      "subtitle_ids": [
+        65
+      ],
+      "start": 146.4,
+      "end": 150.879,
+      "text": "If you look here in this graph"
+    },
+    {
+      "subtitle_ids": [
+        66
+      ],
+      "start": 148.72,
+      "end": 153.84,
+      "text": "You will clearly see that on 11th May"
+    },
+    {
+      "subtitle_ids": [
+        67
+      ],
+      "start": 150.879,
+      "end": 156.72,
+      "text": "Around 11 May 2024 Around the company's"
+    },
+    {
+      "subtitle_ids": [
+        68
+      ],
+      "start": 153.84,
+      "end": 159.04,
+      "text": "The share price was around 30 ₹331 which"
+    },
+    {
+      "subtitle_ids": [
+        69
+      ],
+      "start": 156.72,
+      "end": 163.28,
+      "text": "Completely upper in the coming few days"
+    },
+    {
+      "subtitle_ids": [
+        70
+      ],
+      "start": 159.04,
+      "end": 164.959,
+      "text": "As soon as the circuit started, it went straight to ₹ 432."
+    },
+    {
+      "subtitle_ids": [
+        71
+      ],
+      "start": 163.28,
+      "end": 167.12,
+      "text": "That is, prima facie it seems that"
+    },
+    {
+      "subtitle_ids": [
+        72
+      ],
+      "start": 164.959,
+      "end": 169.519,
+      "text": "Retail investors had a clear game plan"
+    },
+    {
+      "subtitle_ids": [
+        73
+      ],
+      "start": 167.12,
+      "end": 171.28,
+      "text": "To deceive that our company is a semiconductor company"
+    },
+    {
+      "subtitle_ids": [
+        74
+      ],
+      "start": 169.519,
+      "end": 173.12,
+      "text": "Is signing a huge MoU."
+    },
+    {
+      "subtitle_ids": [
+        75
+      ],
+      "start": 171.28,
+      "end": 174.879,
+      "text": "A big project is coming in Nagpur."
+    },
+    {
+      "subtitle_ids": [
+        76
+      ],
+      "start": 173.12,
+      "end": 176.8,
+      "text": "Artificial in At the Same Time Company"
+    },
+    {
+      "subtitle_ids": [
+        77
+      ],
+      "start": 174.879,
+      "end": 178.8,
+      "text": "Also put the name Intelligence. great plan"
+    },
+    {
+      "subtitle_ids": [
+        78
+      ],
+      "start": 176.8,
+      "end": 180.72,
+      "text": "walked. What happened? so the share price multiplies"
+    },
+    {
+      "subtitle_ids": [
+        79
+      ],
+      "start": 178.8,
+      "end": 183.04,
+      "text": "It increased. You can calculate this yourself."
+    },
+    {
+      "subtitle_ids": [
+        80
+      ],
+      "start": 180.72,
+      "end": 184.959,
+      "text": "₹ 30 to 432 by how much percent these shares"
+    },
+    {
+      "subtitle_ids": [
+        81
+      ],
+      "start": 183.04,
+      "end": 187.599,
+      "text": "The price increased. Now just a couple of things"
+    },
+    {
+      "subtitle_ids": [
+        82
+      ],
+      "start": 184.959,
+      "end": 190.4,
+      "text": "If the company did then the shareholders of the company"
+    },
+    {
+      "subtitle_ids": [
+        83
+      ],
+      "start": 187.599,
+      "end": 193.12,
+      "text": "There were around 3000 people who were coming directly."
+    },
+    {
+      "subtitle_ids": [
+        84
+      ],
+      "start": 190.4,
+      "end": 195.519,
+      "text": "4000 5000 in time and slowly now"
+    },
+    {
+      "subtitle_ids": [
+        85
+      ],
+      "start": 193.12,
+      "end": 197.28,
+      "text": "Reached Rs 11000 and later when retail"
+    },
+    {
+      "subtitle_ids": [
+        86
+      ],
+      "start": 195.519,
+      "end": 199.44,
+      "text": "If investors get trapped in this then the company"
+    },
+    {
+      "subtitle_ids": [
+        87
+      ],
+      "start": 197.28,
+      "end": 201.92,
+      "text": "The promoter took full advantage of this. if you"
+    },
+    {
+      "subtitle_ids": [
+        88
+      ],
+      "start": 199.44,
+      "end": 204.239,
+      "text": "Company promoters will look like Uma Nandam"
+    },
+    {
+      "subtitle_ids": [
+        89
+      ],
+      "start": 201.92,
+      "end": 206.4,
+      "text": "And Ishwar Rao Nandam he has his stake"
+    },
+    {
+      "subtitle_ids": [
+        90
+      ],
+      "start": 204.239,
+      "end": 209.599,
+      "text": "When the share price reduced significantly"
+    },
+    {
+      "subtitle_ids": [
+        91
+      ],
+      "start": 206.4,
+      "end": 213.04,
+      "text": "Was on my pickup. Umandam defeated him by 12.88%."
+    },
+    {
+      "subtitle_ids": [
+        92
+      ],
+      "start": 209.599,
+      "end": 215.84,
+      "text": "brought it to 7% and Iswara Rao brought it to 17%"
+    },
+    {
+      "subtitle_ids": [
+        93
+      ],
+      "start": 213.04,
+      "end": 217.84,
+      "text": "The company which brought on 7% and gradually completed"
+    },
+    {
+      "subtitle_ids": [
+        94
+      ],
+      "start": 215.84,
+      "end": 220.72,
+      "text": "It was handed over to the public. today public"
+    },
+    {
+      "subtitle_ids": [
+        95
+      ],
+      "start": 217.84,
+      "end": 222.959,
+      "text": "Has 75% stake in this company. if you here"
+    },
+    {
+      "subtitle_ids": [
+        96
+      ],
+      "start": 220.72,
+      "end": 224.64,
+      "text": "But if you are very shocked then listen to the story now."
+    },
+    {
+      "subtitle_ids": [
+        97
+      ],
+      "start": 222.959,
+      "end": 226.72,
+      "text": "A little more is left. proceed to video"
+    },
+    {
+      "subtitle_ids": [
+        98
+      ],
+      "start": 224.64,
+      "end": 228.64,
+      "text": "Don't miss our special offer before"
+    },
+    {
+      "subtitle_ids": [
+        99
+      ],
+      "start": 226.72,
+      "end": 230.56,
+      "text": "Don't do it. Our Value Investing Cohort"
+    },
+    {
+      "subtitle_ids": [
+        100
+      ],
+      "start": 228.64,
+      "end": 232.48,
+      "text": "The next batch will start on 1st August."
+    },
+    {
+      "subtitle_ids": [
+        101
+      ],
+      "start": 230.56,
+      "end": 233.92,
+      "text": "Which is currently getting bumper discount"
+    },
+    {
+      "subtitle_ids": [
+        102
+      ],
+      "start": 232.48,
+      "end": 236.159,
+      "text": "It is going on. Look at all the people in the world"
+    },
+    {
+      "subtitle_ids": [
+        103
+      ],
+      "start": 233.92,
+      "end": 238.56,
+      "text": "Look at successful investors and millionaires."
+    },
+    {
+      "subtitle_ids": [
+        104
+      ],
+      "start": 236.159,
+      "end": 240.4,
+      "text": "Take a look at Mr. Buffett of America who is a billionaire."
+    },
+    {
+      "subtitle_ids": [
+        105
+      ],
+      "start": 238.56,
+      "end": 242.64,
+      "text": "From Mr. Jhunjhunwala of India"
+    },
+    {
+      "subtitle_ids": [
+        106
+      ],
+      "start": 240.4,
+      "end": 245.12,
+      "text": "See, there is a common strategy for everyone's success."
+    },
+    {
+      "subtitle_ids": [
+        107
+      ],
+      "start": 242.64,
+      "end": 247.12,
+      "text": "And that is value investing. i.e"
+    },
+    {
+      "subtitle_ids": [
+        108
+      ],
+      "start": 245.12,
+      "end": 249.12,
+      "text": "If I explain expensive things in simple language then"
+    },
+    {
+      "subtitle_ids": [
+        109
+      ],
+      "start": 247.12,
+      "end": 250.72,
+      "text": "Buying at cheap prices. when our very"
+    },
+    {
+      "subtitle_ids": [
+        110
+      ],
+      "start": 249.12,
+      "end": 252.48,
+      "text": "All subscribers contacted us about this"
+    },
+    {
+      "subtitle_ids": [
+        111
+      ],
+      "start": 250.72,
+      "end": 254.64,
+      "text": "When requested, we did research on it"
+    },
+    {
+      "subtitle_ids": [
+        112
+      ],
+      "start": 252.48,
+      "end": 256.4,
+      "text": "When we started, we found out that almost every country in the US"
+    },
+    {
+      "subtitle_ids": [
+        113
+      ],
+      "start": 254.64,
+      "end": 258.16,
+      "text": "Someone knows value investing. But"
+    },
+    {
+      "subtitle_ids": [
+        114
+      ],
+      "start": 256.4,
+      "end": 259.6,
+      "text": "Any platform to teach this in India"
+    },
+    {
+      "subtitle_ids": [
+        115
+      ],
+      "start": 258.16,
+      "end": 261.359,
+      "text": "It is not there. After which we obtained this value"
+    },
+    {
+      "subtitle_ids": [
+        116
+      ],
+      "start": 259.6,
+      "end": 262.88,
+      "text": "Launched Investing Cohort which will help you"
+    },
+    {
+      "subtitle_ids": [
+        117
+      ],
+      "start": 261.359,
+      "end": 264.639,
+      "text": "India specific value investing"
+    },
+    {
+      "subtitle_ids": [
+        118
+      ],
+      "start": 262.88,
+      "end": 266.0,
+      "text": "He teaches and teaches. as well as international"
+    },
+    {
+      "subtitle_ids": [
+        119
+      ],
+      "start": 264.639,
+      "end": 267.84,
+      "text": "You should also prepare for investment"
+    },
+    {
+      "subtitle_ids": [
+        120
+      ],
+      "start": 266.0,
+      "end": 269.6,
+      "text": "Does. This 3 month weekend program"
+    },
+    {
+      "subtitle_ids": [
+        121
+      ],
+      "start": 267.84,
+      "end": 271.12,
+      "text": "Anyone can attend and"
+    },
+    {
+      "subtitle_ids": [
+        122
+      ],
+      "start": 269.6,
+      "end": 272.96,
+      "text": "In Cohort you will find value investing"
+    },
+    {
+      "subtitle_ids": [
+        123
+      ],
+      "start": 271.12,
+      "end": 275.12,
+      "text": "All seven strategies are taught."
+    },
+    {
+      "subtitle_ids": [
+        124
+      ],
+      "start": 272.96,
+      "end": 277.12,
+      "text": "And we made it so practical and so easy"
+    },
+    {
+      "subtitle_ids": [
+        125
+      ],
+      "start": 275.12,
+      "end": 278.72,
+      "text": "Explained in language that now a non finance"
+    },
+    {
+      "subtitle_ids": [
+        126
+      ],
+      "start": 277.12,
+      "end": 280.639,
+      "text": "Even a person from the background can easily"
+    },
+    {
+      "subtitle_ids": [
+        127
+      ],
+      "start": 278.72,
+      "end": 282.16,
+      "text": "Become a value investor now"
+    },
+    {
+      "subtitle_ids": [
+        128
+      ],
+      "start": 280.639,
+      "end": 284.16,
+      "text": "If you are interested in stock market in special offer"
+    },
+    {
+      "subtitle_ids": [
+        129
+      ],
+      "start": 282.16,
+      "end": 285.759,
+      "text": "If you are a beginner then your beginner to advanced also"
+    },
+    {
+      "subtitle_ids": [
+        130
+      ],
+      "start": 284.16,
+      "end": 287.68,
+      "text": "It will be clear here because this code"
+    },
+    {
+      "subtitle_ids": [
+        131
+      ],
+      "start": 285.759,
+      "end": 289.68,
+      "text": "With this offer you get fundamental"
+    },
+    {
+      "subtitle_ids": [
+        132
+      ],
+      "start": 287.68,
+      "end": 291.199,
+      "text": "Analysis 3.0 is also available for free. So"
+    },
+    {
+      "subtitle_ids": [
+        133
+      ],
+      "start": 289.68,
+      "end": 292.72,
+      "text": "For this you simply read the description below."
+    },
+    {
+      "subtitle_ids": [
+        134
+      ],
+      "start": 291.199,
+      "end": 294.56,
+      "text": "And fill the form given in the comment box"
+    },
+    {
+      "subtitle_ids": [
+        135
+      ],
+      "start": 292.72,
+      "end": 296.08,
+      "text": "Have to do. After that you will get our 40 minutes"
+    },
+    {
+      "subtitle_ids": [
+        136
+      ],
+      "start": 294.56,
+      "end": 298.24,
+      "text": "Have to join the live session. where this"
+    },
+    {
+      "subtitle_ids": [
+        137
+      ],
+      "start": 296.08,
+      "end": 299.919,
+      "text": "All things about kohhot like syllabus"
+    },
+    {
+      "subtitle_ids": [
+        138
+      ],
+      "start": 298.24,
+      "end": 301.44,
+      "text": "And everything else will be told to you."
+    },
+    {
+      "subtitle_ids": [
+        139
+      ],
+      "start": 299.919,
+      "end": 302.88,
+      "text": "After which you can start value investing."
+    },
+    {
+      "subtitle_ids": [
+        140
+      ],
+      "start": 301.44,
+      "end": 304.639,
+      "text": "You can join and prove yourself as a"
+    },
+    {
+      "subtitle_ids": [
+        141
+      ],
+      "start": 302.88,
+      "end": 306.479,
+      "text": "Value investors can transform."
+    },
+    {
+      "subtitle_ids": [
+        142
+      ],
+      "start": 304.639,
+      "end": 308.32,
+      "text": "So don't miss the special offer."
+    },
+    {
+      "subtitle_ids": [
+        143
+      ],
+      "start": 306.479,
+      "end": 310.0,
+      "text": "Do it. Let's move towards the video. If"
+    },
+    {
+      "subtitle_ids": [
+        144
+      ],
+      "start": 308.32,
+      "end": 311.919,
+      "text": "If you see the profit and loss of the company"
+    },
+    {
+      "subtitle_ids": [
+        145
+      ],
+      "start": 310.0,
+      "end": 313.919,
+      "text": "The company has shown that in the last one year"
+    },
+    {
+      "subtitle_ids": [
+        146
+      ],
+      "start": 311.919,
+      "end": 316.72,
+      "text": "He has progressed a lot. their"
+    },
+    {
+      "subtitle_ids": [
+        147
+      ],
+      "start": 313.919,
+      "end": 318.88,
+      "text": "Revenue increased from Rs 26 crore to Rs 1150 crore."
+    },
+    {
+      "subtitle_ids": [
+        148
+      ],
+      "start": 316.72,
+      "end": 321.52,
+      "text": "Talking about profit, 3 crore to 37 crore"
+    },
+    {
+      "subtitle_ids": [
+        149
+      ],
+      "start": 318.88,
+      "end": 323.36,
+      "text": "It has become crores. One more thing to note here"
+    },
+    {
+      "subtitle_ids": [
+        150
+      ],
+      "start": 321.52,
+      "end": 325.44,
+      "text": "The company also informed that"
+    },
+    {
+      "subtitle_ids": [
+        151
+      ],
+      "start": 323.36,
+      "end": 328.639,
+      "text": "Our operating profit margin is"
+    },
+    {
+      "subtitle_ids": [
+        152
+      ],
+      "start": 325.44,
+      "end": 330.8,
+      "text": "It has gone from 11% to 33%. everything is"
+    },
+    {
+      "subtitle_ids": [
+        153
+      ],
+      "start": 328.639,
+      "end": 333.28,
+      "text": "Looking Amazing About the Company and its"
+    },
+    {
+      "subtitle_ids": [
+        154
+      ],
+      "start": 330.8,
+      "end": 335.44,
+      "text": "People are still shopping in this company"
+    },
+    {
+      "subtitle_ids": [
+        155
+      ],
+      "start": 333.28,
+      "end": 337.36,
+      "text": "Have been. But when we come to the balance sheet"
+    },
+    {
+      "subtitle_ids": [
+        156
+      ],
+      "start": 335.44,
+      "end": 339.68,
+      "text": "If yes, then this is where reality begins to be seen."
+    },
+    {
+      "subtitle_ids": [
+        157
+      ],
+      "start": 337.36,
+      "end": 342.479,
+      "text": "Is. Here it is known that the company's 150"
+    },
+    {
+      "subtitle_ids": [
+        158
+      ],
+      "start": 339.68,
+      "end": 344.56,
+      "text": "Out of crores, 113 crores are just trade"
+    },
+    {
+      "subtitle_ids": [
+        159
+      ],
+      "start": 342.479,
+      "end": 346.4,
+      "text": "Have receivables. And whenever I have seen that"
+    },
+    {
+      "subtitle_ids": [
+        160
+      ],
+      "start": 344.56,
+      "end": 348.4,
+      "text": "Any company trades in such huge amounts"
+    },
+    {
+      "subtitle_ids": [
+        161
+      ],
+      "start": 346.4,
+      "end": 351.039,
+      "text": "recording revenue as receivables"
+    },
+    {
+      "subtitle_ids": [
+        162
+      ],
+      "start": 348.4,
+      "end": 353.36,
+      "text": "Till then only a few bags came out."
+    },
+    {
+      "subtitle_ids": [
+        163
+      ],
+      "start": 351.039,
+      "end": 355.36,
+      "text": "Is. So what happened here? names of ai boom"
+    },
+    {
+      "subtitle_ids": [
+        164
+      ],
+      "start": 353.36,
+      "end": 357.84,
+      "text": "But investors are successfully fooled."
+    },
+    {
+      "subtitle_ids": [
+        165
+      ],
+      "start": 355.36,
+      "end": 359.28,
+      "text": "Created. Now see the AI boom of US and"
+    },
+    {
+      "subtitle_ids": [
+        166
+      ],
+      "start": 357.84,
+      "end": 361.199,
+      "text": "There is a lot of difference. over there"
+    },
+    {
+      "subtitle_ids": [
+        167
+      ],
+      "start": 359.28,
+      "end": 362.88,
+      "text": "Business is actually happening in Underline"
+    },
+    {
+      "subtitle_ids": [
+        168
+      ],
+      "start": 361.199,
+      "end": 365.199,
+      "text": "But there is something else going on here and"
+    },
+    {
+      "subtitle_ids": [
+        169
+      ],
+      "start": 362.88,
+      "end": 367.28,
+      "text": "This is not just a story. full list today"
+    },
+    {
+      "subtitle_ids": [
+        170
+      ],
+      "start": 365.199,
+      "end": 369.039,
+      "text": "This is what I have come before you with. means this"
+    },
+    {
+      "subtitle_ids": [
+        171
+      ],
+      "start": 367.28,
+      "end": 371.6,
+      "text": "The company's case that we are currently looking at"
+    },
+    {
+      "subtitle_ids": [
+        172
+      ],
+      "start": 369.039,
+      "end": 373.6,
+      "text": "Hain it is like a theranus. theranos a us"
+    },
+    {
+      "subtitle_ids": [
+        173
+      ],
+      "start": 371.6,
+      "end": 376.24,
+      "text": "based startup which made this promise"
+    },
+    {
+      "subtitle_ids": [
+        174
+      ],
+      "start": 373.6,
+      "end": 378.4,
+      "text": "It was said that we will do the entire test on the basis of blood."
+    },
+    {
+      "subtitle_ids": [
+        175
+      ],
+      "start": 376.24,
+      "end": 380.24,
+      "text": "Will do yours. We built such machinery"
+    },
+    {
+      "subtitle_ids": [
+        176
+      ],
+      "start": 378.4,
+      "end": 382.4,
+      "text": "Is. We have built such technology."
+    },
+    {
+      "subtitle_ids": [
+        177
+      ],
+      "start": 380.24,
+      "end": 383.84,
+      "text": "Elizabeth Holmes was the founder of the company."
+    },
+    {
+      "subtitle_ids": [
+        178
+      ],
+      "start": 382.4,
+      "end": 386.4,
+      "text": "She used to make big promises. big ones"
+    },
+    {
+      "subtitle_ids": [
+        179
+      ],
+      "start": 383.84,
+      "end": 388.0,
+      "text": "Used to give speeches. And on this basis he"
+    },
+    {
+      "subtitle_ids": [
+        180
+      ],
+      "start": 386.4,
+      "end": 390.08,
+      "text": "Many big investors"
+    },
+    {
+      "subtitle_ids": [
+        181
+      ],
+      "start": 388.0,
+      "end": 391.68,
+      "text": "Funding also raised. How many? so billions of"
+    },
+    {
+      "subtitle_ids": [
+        182
+      ],
+      "start": 390.08,
+      "end": 394.08,
+      "text": "In dollars. and later the company"
+    },
+    {
+      "subtitle_ids": [
+        183
+      ],
+      "start": 391.68,
+      "end": 397.039,
+      "text": "The valuation went to $9 billion. i.e"
+    },
+    {
+      "subtitle_ids": [
+        184
+      ],
+      "start": 394.08,
+      "end": 399.44,
+      "text": "Around 60 to 65,000 crores at that time."
+    },
+    {
+      "subtitle_ids": [
+        185
+      ],
+      "start": 397.039,
+      "end": 401.199,
+      "text": "But the regulation there is quite strict. When"
+    },
+    {
+      "subtitle_ids": [
+        186
+      ],
+      "start": 399.44,
+      "end": 403.68,
+      "text": "This scam was caught, all these things"
+    },
+    {
+      "subtitle_ids": [
+        187
+      ],
+      "start": 401.199,
+      "end": 405.28,
+      "text": "If she came out, Elizabeth Holmes would go straight to jail."
+    },
+    {
+      "subtitle_ids": [
+        188
+      ],
+      "start": 403.68,
+      "end": 407.84,
+      "text": "Sent in. Investigation started,"
+    },
+    {
+      "subtitle_ids": [
+        189
+      ],
+      "start": 405.28,
+      "end": 409.6,
+      "text": "Sent to jail. Presently 11 years jail"
+    },
+    {
+      "subtitle_ids": [
+        190
+      ],
+      "start": 407.84,
+      "end": 411.68,
+      "text": "It has happened to them. because you behaved well"
+    },
+    {
+      "subtitle_ids": [
+        191
+      ],
+      "start": 409.6,
+      "end": 413.919,
+      "text": "She has been doing this for 9 years. less than 2 years"
+    },
+    {
+      "subtitle_ids": [
+        192
+      ],
+      "start": 411.68,
+      "end": 416.4,
+      "text": "Granted and currently he is in a jail in Texas."
+    },
+    {
+      "subtitle_ids": [
+        193
+      ],
+      "start": 413.919,
+      "end": 418.639,
+      "text": "Is. He will be released from jail in 2031"
+    },
+    {
+      "subtitle_ids": [
+        194
+      ],
+      "start": 416.4,
+      "end": 420.639,
+      "text": "Will go. But things like this in India"
+    },
+    {
+      "subtitle_ids": [
+        195
+      ],
+      "start": 418.639,
+      "end": 422.8,
+      "text": "We see that it is happening openly. And"
+    },
+    {
+      "subtitle_ids": [
+        196
+      ],
+      "start": 420.639,
+      "end": 425.12,
+      "text": "When it comes to the theses of Elizabeth Holmes"
+    },
+    {
+      "subtitle_ids": [
+        197
+      ],
+      "start": 422.8,
+      "end": 427.44,
+      "text": "If there are similar things in India recently"
+    },
+    {
+      "subtitle_ids": [
+        198
+      ],
+      "start": 425.12,
+      "end": 430.16,
+      "text": "Has taken place in AI sector. One India and London"
+    },
+    {
+      "subtitle_ids": [
+        199
+      ],
+      "start": 427.44,
+      "end": 430.479,
+      "text": "Based company recently launched this AI demo"
+    },
+    {
+      "subtitle_ids": [
+        200
+      ],
+      "start": 430.16,
+      "end": 432.479,
+      "text": "Did."
+    },
+    {
+      "subtitle_ids": [
+        201
+      ],
+      "start": 430.479,
+      "end": 435.039,
+      "text": "Hey There I'm Nasha and My"
+    },
+    {
+      "subtitle_ids": [
+        202
+      ],
+      "start": 432.479,
+      "end": 436.8,
+      "text": "Specialty Is Making All Your App Building"
+    },
+    {
+      "subtitle_ids": [
+        203
+      ],
+      "start": 435.039,
+      "end": 439.509,
+      "text": "Dreams Come True."
+    },
+    {
+      "subtitle_ids": [
+        204
+      ],
+      "start": 436.8,
+      "end": 440.479,
+      "text": "It's basically magic."
+    },
+    {
+      "subtitle_ids": [
+        206
+      ],
+      "start": 440.479,
+      "end": 445.28,
+      "text": "And here it was told that creating an app is now"
+    },
+    {
+      "subtitle_ids": [
+        207
+      ],
+      "start": 443.199,
+      "end": 447.199,
+      "text": "It's as easy as ordering pizza."
+    },
+    {
+      "subtitle_ids": [
+        208
+      ],
+      "start": 445.28,
+      "end": 448.8,
+      "text": "Now anyone has to build an app. this from today"
+    },
+    {
+      "subtitle_ids": [
+        209
+      ],
+      "start": 447.199,
+      "end": 450.8,
+      "text": "It was about 2 years ago. to anyone"
+    },
+    {
+      "subtitle_ids": [
+        210
+      ],
+      "start": 448.8,
+      "end": 452.639,
+      "text": "If you want to build an app then nothing. you just"
+    },
+    {
+      "subtitle_ids": [
+        211
+      ],
+      "start": 450.8,
+      "end": 455.44,
+      "text": "You have to enter instructions as your app."
+    },
+    {
+      "subtitle_ids": [
+        212
+      ],
+      "start": 452.639,
+      "end": 457.28,
+      "text": "Ready. Now in such a situation when investors mean"
+    },
+    {
+      "subtitle_ids": [
+        213
+      ],
+      "start": 455.44,
+      "end": 459.36,
+      "text": "He also shared the same page with his investors."
+    },
+    {
+      "subtitle_ids": [
+        214
+      ],
+      "start": 457.28,
+      "end": 461.44,
+      "text": "Which were venture capital. Microsoft also"
+    },
+    {
+      "subtitle_ids": [
+        215
+      ],
+      "start": 459.36,
+      "end": 463.039,
+      "text": "They screwed up and even Microsoft agreed"
+    },
+    {
+      "subtitle_ids": [
+        216
+      ],
+      "start": 461.44,
+      "end": 464.8,
+      "text": "I thought, friend, something is happening in India."
+    },
+    {
+      "subtitle_ids": [
+        217
+      ],
+      "start": 463.039,
+      "end": 466.479,
+      "text": "Doing something in the new era of AI. late"
+    },
+    {
+      "subtitle_ids": [
+        218
+      ],
+      "start": 464.8,
+      "end": 468.4,
+      "text": "Me Invest. Because in India generally"
+    },
+    {
+      "subtitle_ids": [
+        219
+      ],
+      "start": 466.479,
+      "end": 469.919,
+      "text": "No one is doing anything big in AI and 2"
+    },
+    {
+      "subtitle_ids": [
+        220
+      ],
+      "start": 468.4,
+      "end": 471.68,
+      "text": "a year ago there were no more at all"
+    },
+    {
+      "subtitle_ids": [
+        221
+      ],
+      "start": 469.919,
+      "end": 473.759,
+      "text": "No. So Microsoft here"
+    },
+    {
+      "subtitle_ids": [
+        222
+      ],
+      "start": 471.68,
+      "end": 475.759,
+      "text": "Investment and some venture capital and"
+    },
+    {
+      "subtitle_ids": [
+        223
+      ],
+      "start": 473.759,
+      "end": 477.599,
+      "text": "Rest of the people came here and about ₹5000"
+    },
+    {
+      "subtitle_ids": [
+        224
+      ],
+      "start": 475.759,
+      "end": 479.599,
+      "text": "Crore which is a huge amount again"
+    },
+    {
+      "subtitle_ids": [
+        225
+      ],
+      "start": 477.599,
+      "end": 481.84,
+      "text": "That much was invested in this company. company"
+    },
+    {
+      "subtitle_ids": [
+        226
+      ],
+      "start": 479.599,
+      "end": 483.68,
+      "text": "His name was Builder Ai. this investment"
+    },
+    {
+      "subtitle_ids": [
+        227
+      ],
+      "start": 481.84,
+      "end": 487.68,
+      "text": "After raising the valuation of the company went"
+    },
+    {
+      "subtitle_ids": [
+        228
+      ],
+      "start": 483.68,
+      "end": 489.36,
+      "text": "It went for ₹1,000 crore, about $1.5 billion."
+    },
+    {
+      "subtitle_ids": [
+        229
+      ],
+      "start": 487.68,
+      "end": 491.039,
+      "text": "There were big promises. very big"
+    },
+    {
+      "subtitle_ids": [
+        230
+      ],
+      "start": 489.36,
+      "end": 493.52,
+      "text": "Valuations were. Company name everywhere"
+    },
+    {
+      "subtitle_ids": [
+        231
+      ],
+      "start": 491.039,
+      "end": 495.919,
+      "text": "Was. Meanwhile, the company told Economic Times and"
+    },
+    {
+      "subtitle_ids": [
+        232
+      ],
+      "start": 493.52,
+      "end": 497.919,
+      "text": "Wrote ads in big newspapers and that ad"
+    },
+    {
+      "subtitle_ids": [
+        233
+      ],
+      "start": 495.919,
+      "end": 499.919,
+      "text": "In he told how we"
+    },
+    {
+      "subtitle_ids": [
+        234
+      ],
+      "start": 497.919,
+      "end": 501.68,
+      "text": "India's prototype has been made. In this"
+    },
+    {
+      "subtitle_ids": [
+        235
+      ],
+      "start": 499.919,
+      "end": 503.44,
+      "text": "He clearly told the ticket wicket"
+    },
+    {
+      "subtitle_ids": [
+        236
+      ],
+      "start": 501.68,
+      "end": 505.28,
+      "text": "Made all the things and showed how our"
+    },
+    {
+      "subtitle_ids": [
+        237
+      ],
+      "start": 503.44,
+      "end": 506.72,
+      "text": "AI has created this. Now this thing"
+    },
+    {
+      "subtitle_ids": [
+        238
+      ],
+      "start": 505.28,
+      "end": 508.72,
+      "text": "He is here for marketing"
+    },
+    {
+      "subtitle_ids": [
+        239
+      ],
+      "start": 506.72,
+      "end": 510.72,
+      "text": "He made a big mistake. Because"
+    },
+    {
+      "subtitle_ids": [
+        240
+      ],
+      "start": 508.72,
+      "end": 513.2,
+      "text": "Later the legal team of Air India approached them."
+    },
+    {
+      "subtitle_ids": [
+        241
+      ],
+      "start": 510.72,
+      "end": 514.959,
+      "text": "Brother, I have given you some work."
+    },
+    {
+      "subtitle_ids": [
+        242
+      ],
+      "start": 513.2,
+      "end": 516.719,
+      "text": "Not there. What are you guys showing?"
+    },
+    {
+      "subtitle_ids": [
+        243
+      ],
+      "start": 514.959,
+      "end": 518.32,
+      "text": "To? Sent legal notice. them court"
+    },
+    {
+      "subtitle_ids": [
+        244
+      ],
+      "start": 516.719,
+      "end": 520.0,
+      "text": "Pulled and later it became clear that then"
+    },
+    {
+      "subtitle_ids": [
+        245
+      ],
+      "start": 518.32,
+      "end": 522.159,
+      "text": "Air India did not give him any work"
+    },
+    {
+      "subtitle_ids": [
+        246
+      ],
+      "start": 520.0,
+      "end": 524.64,
+      "text": "Was. And later during this investigation"
+    },
+    {
+      "subtitle_ids": [
+        247
+      ],
+      "start": 522.159,
+      "end": 526.8,
+      "text": "Found out that this company is a"
+    },
+    {
+      "subtitle_ids": [
+        248
+      ],
+      "start": 524.64,
+      "end": 528.959,
+      "text": "Doesn't make anything from it. their natasha ai"
+    },
+    {
+      "subtitle_ids": [
+        249
+      ],
+      "start": 526.8,
+      "end": 531.04,
+      "text": "She says you give us instructions we app"
+    },
+    {
+      "subtitle_ids": [
+        250
+      ],
+      "start": 528.959,
+      "end": 532.72,
+      "text": "Will make it but there are 700 engineers behind it."
+    },
+    {
+      "subtitle_ids": [
+        251
+      ],
+      "start": 531.04,
+      "end": 534.8,
+      "text": "Those who are sitting are actually making the app."
+    },
+    {
+      "subtitle_ids": [
+        252
+      ],
+      "start": 532.72,
+      "end": 537.36,
+      "text": "But showing people that AI is"
+    },
+    {
+      "subtitle_ids": [
+        253
+      ],
+      "start": 534.8,
+      "end": 539.36,
+      "text": "Doing the Same. Now that this scam came out"
+    },
+    {
+      "subtitle_ids": [
+        254
+      ],
+      "start": 537.36,
+      "end": 541.12,
+      "text": "So the company simply became bankrupt."
+    },
+    {
+      "subtitle_ids": [
+        255
+      ],
+      "start": 539.36,
+      "end": 543.68,
+      "text": "Microsoft lost all its money. venture"
+    },
+    {
+      "subtitle_ids": [
+        256
+      ],
+      "start": 541.12,
+      "end": 545.68,
+      "text": "Capital's entire money was lost and in a way"
+    },
+    {
+      "subtitle_ids": [
+        257
+      ],
+      "start": 543.68,
+      "end": 548.16,
+      "text": "If seen, there is a little name of India here."
+    },
+    {
+      "subtitle_ids": [
+        258
+      ],
+      "start": 545.68,
+      "end": 550.399,
+      "text": "It also got worse. Because in this era of AI"
+    },
+    {
+      "subtitle_ids": [
+        259
+      ],
+      "start": 548.16,
+      "end": 552.48,
+      "text": "Microsoft and others will give India a big"
+    },
+    {
+      "subtitle_ids": [
+        260
+      ],
+      "start": 550.399,
+      "end": 554.48,
+      "text": "Were watching with hope. but when"
+    },
+    {
+      "subtitle_ids": [
+        261
+      ],
+      "start": 552.48,
+      "end": 556.16,
+      "text": "His first experience came meaning that this complete"
+    },
+    {
+      "subtitle_ids": [
+        262
+      ],
+      "start": 554.48,
+      "end": 558.24,
+      "text": "Actually it was not an Indian based company but"
+    },
+    {
+      "subtitle_ids": [
+        263
+      ],
+      "start": 556.16,
+      "end": 560.08,
+      "text": "Founder was Indian and multiple branches"
+    },
+    {
+      "subtitle_ids": [
+        264
+      ],
+      "start": 558.24,
+      "end": 562.0,
+      "text": "They have branches in UAE and many other places."
+    },
+    {
+      "subtitle_ids": [
+        265
+      ],
+      "start": 560.08,
+      "end": 564.32,
+      "text": "Had kept it open and when this experience came"
+    },
+    {
+      "subtitle_ids": [
+        266
+      ],
+      "start": 562.0,
+      "end": 566.56,
+      "text": "So a huge setback overall"
+    },
+    {
+      "subtitle_ids": [
+        267
+      ],
+      "start": 564.32,
+      "end": 568.56,
+      "text": "This was for the Indian ecosystem. so saw"
+    },
+    {
+      "subtitle_ids": [
+        268
+      ],
+      "start": 566.56,
+      "end": 570.72,
+      "text": "If we look at the case of Theranos and this case, a lot"
+    },
+    {
+      "subtitle_ids": [
+        269
+      ],
+      "start": 568.56,
+      "end": 572.64,
+      "text": "You will see all the similarities clearly."
+    },
+    {
+      "subtitle_ids": [
+        270
+      ],
+      "start": 570.72,
+      "end": 574.959,
+      "text": "Fooled. The company went bankrupt."
+    },
+    {
+      "subtitle_ids": [
+        271
+      ],
+      "start": 572.64,
+      "end": 576.88,
+      "text": "Investors lost money. but over there"
+    },
+    {
+      "subtitle_ids": [
+        272
+      ],
+      "start": 574.959,
+      "end": 578.32,
+      "text": "Elizabeth Holmes was thrown into prison."
+    },
+    {
+      "subtitle_ids": [
+        273
+      ],
+      "start": 576.88,
+      "end": 580.24,
+      "text": "But nothing happened here."
+    },
+    {
+      "subtitle_ids": [
+        274
+      ],
+      "start": 578.32,
+      "end": 581.76,
+      "text": "Interestingly the founder of the company"
+    },
+    {
+      "subtitle_ids": [
+        275
+      ],
+      "start": 580.24,
+      "end": 584.959,
+      "text": "Started another company named"
+    },
+    {
+      "subtitle_ids": [
+        276
+      ],
+      "start": 581.76,
+      "end": 586.8,
+      "text": "Second Brain AI and this company are currently"
+    },
+    {
+      "subtitle_ids": [
+        277
+      ],
+      "start": 584.959,
+      "end": 588.48,
+      "text": "Are driving. Maybe look at funding for that too"
+    },
+    {
+      "subtitle_ids": [
+        278
+      ],
+      "start": 586.8,
+      "end": 591.2,
+      "text": "Have been. Now the next company on our list"
+    },
+    {
+      "subtitle_ids": [
+        279
+      ],
+      "start": 588.48,
+      "end": 593.6,
+      "text": "This is most interesting. Because"
+    },
+    {
+      "subtitle_ids": [
+        280
+      ],
+      "start": 591.2,
+      "end": 595.279,
+      "text": "See when it comes to AI Semiconductor"
+    },
+    {
+      "subtitle_ids": [
+        281
+      ],
+      "start": 593.6,
+      "end": 597.68,
+      "text": "So what comes to our mind? comes to us"
+    },
+    {
+      "subtitle_ids": [
+        282
+      ],
+      "start": 595.279,
+      "end": 600.08,
+      "text": "Well, here comes the US AI bubble. But what"
+    },
+    {
+      "subtitle_ids": [
+        283
+      ],
+      "start": 597.68,
+      "end": 602.24,
+      "text": "You know that in the last 2 years most"
+    },
+    {
+      "subtitle_ids": [
+        284
+      ],
+      "start": 600.08,
+      "end": 604.88,
+      "text": "Higher returns from a US AI company"
+    },
+    {
+      "subtitle_ids": [
+        285
+      ],
+      "start": 602.24,
+      "end": 606.88,
+      "text": "Did not give but India's Semiconductor"
+    },
+    {
+      "subtitle_ids": [
+        286
+      ],
+      "start": 604.88,
+      "end": 608.8,
+      "text": "The company has given. Now you will feel that this"
+    },
+    {
+      "subtitle_ids": [
+        287
+      ],
+      "start": 606.88,
+      "end": 610.64,
+      "text": "A very proud moment for us."
+    },
+    {
+      "subtitle_ids": [
+        288
+      ],
+      "start": 608.8,
+      "end": 612.8,
+      "text": "but no it's very embarrassing for us"
+    },
+    {
+      "subtitle_ids": [
+        289
+      ],
+      "start": 610.64,
+      "end": 615.12,
+      "text": "It's a moment. Now its story is also similar"
+    },
+    {
+      "subtitle_ids": [
+        290
+      ],
+      "start": 612.8,
+      "end": 616.959,
+      "text": "starts like our first one"
+    },
+    {
+      "subtitle_ids": [
+        291
+      ],
+      "start": 615.12,
+      "end": 619.36,
+      "text": "Artificial Intelligence started"
+    },
+    {
+      "subtitle_ids": [
+        292
+      ],
+      "start": 616.959,
+      "end": 621.839,
+      "text": "Was. Here also there was a company whose name was"
+    },
+    {
+      "subtitle_ids": [
+        293
+      ],
+      "start": 619.36,
+      "end": 623.6,
+      "text": "RRP Electronics. This is an MOU signed"
+    },
+    {
+      "subtitle_ids": [
+        294
+      ],
+      "start": 621.839,
+      "end": 625.519,
+      "text": "Does with Government of Maharashtra"
+    },
+    {
+      "subtitle_ids": [
+        295
+      ],
+      "start": 623.6,
+      "end": 628.079,
+      "text": "And here the company says that I am 100"
+    },
+    {
+      "subtitle_ids": [
+        296
+      ],
+      "start": 625.519,
+      "end": 630.0,
+      "text": "Acre of land allotted in Navi Mumbai"
+    },
+    {
+      "subtitle_ids": [
+        297
+      ],
+      "start": 628.079,
+      "end": 631.76,
+      "text": "Is. Now when things like this happen"
+    },
+    {
+      "subtitle_ids": [
+        298
+      ],
+      "start": 630.0,
+      "end": 633.92,
+      "text": "The company's focus is to generally"
+    },
+    {
+      "subtitle_ids": [
+        299
+      ],
+      "start": 631.76,
+      "end": 636.16,
+      "text": "Man, he gets to work and gets things done quickly."
+    },
+    {
+      "subtitle_ids": [
+        300
+      ],
+      "start": 633.92,
+      "end": 638.64,
+      "text": "Are. But the objective of this company may be something different"
+    },
+    {
+      "subtitle_ids": [
+        301
+      ],
+      "start": 636.16,
+      "end": 640.72,
+      "text": "It was only. They also grabbed all the front pages"
+    },
+    {
+      "subtitle_ids": [
+        302
+      ],
+      "start": 638.64,
+      "end": 642.399,
+      "text": "For Economic Times and other newspapers"
+    },
+    {
+      "subtitle_ids": [
+        303
+      ],
+      "start": 640.72,
+      "end": 644.079,
+      "text": "Of. Economic Times I am saying this because"
+    },
+    {
+      "subtitle_ids": [
+        304
+      ],
+      "start": 642.399,
+      "end": 645.76,
+      "text": "When I read that, I saw it myself."
+    },
+    {
+      "subtitle_ids": [
+        305
+      ],
+      "start": 644.079,
+      "end": 647.6,
+      "text": "And in other newspapers also he again"
+    },
+    {
+      "subtitle_ids": [
+        306
+      ],
+      "start": 645.76,
+      "end": 649.76,
+      "text": "He put it and there these big"
+    },
+    {
+      "subtitle_ids": [
+        307
+      ],
+      "start": 647.6,
+      "end": 651.68,
+      "text": "Announced that look at us, the government"
+    },
+    {
+      "subtitle_ids": [
+        308
+      ],
+      "start": 649.76,
+      "end": 653.68,
+      "text": "Approval has been received from. MOU sign"
+    },
+    {
+      "subtitle_ids": [
+        309
+      ],
+      "start": 651.68,
+      "end": 655.519,
+      "text": "It has happened. Everything is done. After the completion"
+    },
+    {
+      "subtitle_ids": [
+        310
+      ],
+      "start": 653.68,
+      "end": 657.76,
+      "text": "He would put Sachin Tendulkar's photo there"
+    },
+    {
+      "subtitle_ids": [
+        311
+      ],
+      "start": 655.519,
+      "end": 659.68,
+      "text": "That is also our company. Now"
+    },
+    {
+      "subtitle_ids": [
+        312
+      ],
+      "start": 657.76,
+      "end": 661.12,
+      "text": "What used to happen that RRP here"
+    },
+    {
+      "subtitle_ids": [
+        313
+      ],
+      "start": 659.68,
+      "end": 663.36,
+      "text": "Electronics is in the stock market"
+    },
+    {
+      "subtitle_ids": [
+        314
+      ],
+      "start": 661.12,
+      "end": 665.36,
+      "text": "Was not listed. But RRP Group's"
+    },
+    {
+      "subtitle_ids": [
+        315
+      ],
+      "start": 663.36,
+      "end": 668.16,
+      "text": "Two companies were listed in the market here"
+    },
+    {
+      "subtitle_ids": [
+        316
+      ],
+      "start": 665.36,
+      "end": 670.48,
+      "text": "Whose name was RRP Semiconductor. First"
+    },
+    {
+      "subtitle_ids": [
+        317
+      ],
+      "start": 668.16,
+      "end": 672.24,
+      "text": "The name of the second one was RRP Defense. and very"
+    },
+    {
+      "subtitle_ids": [
+        318
+      ],
+      "start": 670.48,
+      "end": 674.0,
+      "text": "Everyone used to get confused here."
+    },
+    {
+      "subtitle_ids": [
+        319
+      ],
+      "start": 672.24,
+      "end": 675.6,
+      "text": "They felt that perhaps RRP"
+    },
+    {
+      "subtitle_ids": [
+        320
+      ],
+      "start": 674.0,
+      "end": 677.76,
+      "text": "Electronics one of these two companies"
+    },
+    {
+      "subtitle_ids": [
+        321
+      ],
+      "start": 675.6,
+      "end": 680.079,
+      "text": "Will be a subsidiary of. And sometimes this chance also"
+    },
+    {
+      "subtitle_ids": [
+        322
+      ],
+      "start": 677.76,
+      "end": 682.56,
+      "text": "This happens because the promoters of the company were the same."
+    },
+    {
+      "subtitle_ids": [
+        323
+      ],
+      "start": 680.079,
+      "end": 684.399,
+      "text": "Whose name was Mr. Rajendra Chaudhankar. So"
+    },
+    {
+      "subtitle_ids": [
+        324
+      ],
+      "start": 682.56,
+      "end": 686.399,
+      "text": "If you want to know the history of RRP Semiconductor"
+    },
+    {
+      "subtitle_ids": [
+        325
+      ],
+      "start": 684.399,
+      "end": 689.279,
+      "text": "If we see first this company is doing normal trading."
+    },
+    {
+      "subtitle_ids": [
+        326
+      ],
+      "start": 686.399,
+      "end": 691.44,
+      "text": "Used to do wedding work. then suddenly 2024"
+    },
+    {
+      "subtitle_ids": [
+        327
+      ],
+      "start": 689.279,
+      "end": 694.399,
+      "text": "The company changed its name to GD Trading &"
+    },
+    {
+      "subtitle_ids": [
+        328
+      ],
+      "start": 691.44,
+      "end": 696.399,
+      "text": "Changed from agency to direct RRP Semiconductor"
+    },
+    {
+      "subtitle_ids": [
+        329
+      ],
+      "start": 694.399,
+      "end": 698.8,
+      "text": "Did it. Meanwhile, the management of the company also"
+    },
+    {
+      "subtitle_ids": [
+        330
+      ],
+      "start": 696.399,
+      "end": 700.64,
+      "text": "Changed and Mr. Rajendra Chodankar Company"
+    },
+    {
+      "subtitle_ids": [
+        331
+      ],
+      "start": 698.8,
+      "end": 702.079,
+      "text": "Came on board. Now in the meantime he"
+    },
+    {
+      "subtitle_ids": [
+        332
+      ],
+      "start": 700.64,
+      "end": 704.24,
+      "text": "Company's indirect marketing"
+    },
+    {
+      "subtitle_ids": [
+        333
+      ],
+      "start": 702.079,
+      "end": 706.0,
+      "text": "How we are going into semiconductor."
+    },
+    {
+      "subtitle_ids": [
+        334
+      ],
+      "start": 704.24,
+      "end": 708.079,
+      "text": "Although he played smartly. Name"
+    },
+    {
+      "subtitle_ids": [
+        335
+      ],
+      "start": 706.0,
+      "end": 709.92,
+      "text": "He kept RRP Electronics"
+    },
+    {
+      "subtitle_ids": [
+        336
+      ],
+      "start": 708.079,
+      "end": 711.36,
+      "text": "But make sure that both of these are listed"
+    },
+    {
+      "subtitle_ids": [
+        337
+      ],
+      "start": 709.92,
+      "end": 713.36,
+      "text": "Companies should benefit from this. Because"
+    },
+    {
+      "subtitle_ids": [
+        338
+      ],
+      "start": 711.36,
+      "end": 715.519,
+      "text": "Interestingly if you are a member of these two companies"
+    },
+    {
+      "subtitle_ids": [
+        339
+      ],
+      "start": 713.36,
+      "end": 717.6,
+      "text": "I would have talked about RRP Semiconductor first."
+    },
+    {
+      "subtitle_ids": [
+        340
+      ],
+      "start": 715.519,
+      "end": 718.88,
+      "text": "Am. If you look at its financials then here"
+    },
+    {
+      "subtitle_ids": [
+        341
+      ],
+      "start": 717.6,
+      "end": 721.36,
+      "text": "But nothing is happening. its"
+    },
+    {
+      "subtitle_ids": [
+        342
+      ],
+      "start": 718.88,
+      "end": 723.2,
+      "text": "Absolutely zero zero. then 31 crores"
+    },
+    {
+      "subtitle_ids": [
+        343
+      ],
+      "start": 721.36,
+      "end": 725.92,
+      "text": "There was revenue. Then last year in minus"
+    },
+    {
+      "subtitle_ids": [
+        344
+      ],
+      "start": 723.2,
+      "end": 727.44,
+      "text": "This number has gone - 6 crores. this minus"
+    },
+    {
+      "subtitle_ids": [
+        345
+      ],
+      "start": 725.92,
+      "end": 729.36,
+      "text": "The story of going in is also very interesting"
+    },
+    {
+      "subtitle_ids": [
+        346
+      ],
+      "start": 727.44,
+      "end": 731.04,
+      "text": "Is. So when we looked at the company's financials"
+    },
+    {
+      "subtitle_ids": [
+        347
+      ],
+      "start": 729.36,
+      "end": 733.519,
+      "text": "Go and see how the revenue is in minus."
+    },
+    {
+      "subtitle_ids": [
+        348
+      ],
+      "start": 731.04,
+      "end": 736.32,
+      "text": "When I went there I found out that the semiconductor company"
+    },
+    {
+      "subtitle_ids": [
+        349
+      ],
+      "start": 733.519,
+      "end": 738.16,
+      "text": "Some company got the work of solar panel"
+    },
+    {
+      "subtitle_ids": [
+        350
+      ],
+      "start": 736.32,
+      "end": 740.079,
+      "text": "Had given. So in this situation the company"
+    },
+    {
+      "subtitle_ids": [
+        351
+      ],
+      "start": 738.16,
+      "end": 742.16,
+      "text": "I noted that revenue. But"
+    },
+    {
+      "subtitle_ids": [
+        352
+      ],
+      "start": 740.079,
+      "end": 744.24,
+      "text": "Later the company withdrew that work"
+    },
+    {
+      "subtitle_ids": [
+        353
+      ],
+      "start": 742.16,
+      "end": 746.639,
+      "text": "Due to which the company removed that revenue"
+    },
+    {
+      "subtitle_ids": [
+        354
+      ],
+      "start": 744.24,
+      "end": 748.72,
+      "text": "And that is why these minuses came here. As such"
+    },
+    {
+      "subtitle_ids": [
+        355
+      ],
+      "start": 746.639,
+      "end": 750.72,
+      "text": "The company said. Now many questions arise"
+    },
+    {
+      "subtitle_ids": [
+        356
+      ],
+      "start": 748.72,
+      "end": 753.04,
+      "text": "Is this semiconductor company also involved in solar?"
+    },
+    {
+      "subtitle_ids": [
+        357
+      ],
+      "start": 750.72,
+      "end": 756.48,
+      "text": "What are you doing? But overall their"
+    },
+    {
+      "subtitle_ids": [
+        358
+      ],
+      "start": 753.04,
+      "end": 758.399,
+      "text": "The business itself was like this. infact 2025"
+    },
+    {
+      "subtitle_ids": [
+        359
+      ],
+      "start": 756.48,
+      "end": 760.72,
+      "text": "When they had a revenue of Rs 31 crore"
+    },
+    {
+      "subtitle_ids": [
+        360
+      ],
+      "start": 758.399,
+      "end": 762.959,
+      "text": "Showed that this is almost the entire revenue"
+    },
+    {
+      "subtitle_ids": [
+        361
+      ],
+      "start": 760.72,
+      "end": 765.279,
+      "text": "Trade was receivable only. i.e. money is yet to come"
+    },
+    {
+      "subtitle_ids": [
+        362
+      ],
+      "start": 762.959,
+      "end": 767.6,
+      "text": "He has not come. And when most of the revenue"
+    },
+    {
+      "subtitle_ids": [
+        363
+      ],
+      "start": 765.279,
+      "end": 769.68,
+      "text": "More than 50% of your revenue is trade receivable."
+    },
+    {
+      "subtitle_ids": [
+        364
+      ],
+      "start": 767.6,
+      "end": 771.44,
+      "text": "If seen, there are high chances that the company will"
+    },
+    {
+      "subtitle_ids": [
+        365
+      ],
+      "start": 769.68,
+      "end": 773.6,
+      "text": "Something wrong is happening there and"
+    },
+    {
+      "subtitle_ids": [
+        366
+      ],
+      "start": 771.44,
+      "end": 775.839,
+      "text": "Similar things kept happening here also. So"
+    },
+    {
+      "subtitle_ids": [
+        367
+      ],
+      "start": 773.6,
+      "end": 777.839,
+      "text": "If you want to change your name and"
+    },
+    {
+      "subtitle_ids": [
+        368
+      ],
+      "start": 775.839,
+      "end": 779.68,
+      "text": "If they want to advertise then they will benefit from it."
+    },
+    {
+      "subtitle_ids": [
+        369
+      ],
+      "start": 777.839,
+      "end": 781.36,
+      "text": "Got here immediately. so you see how"
+    },
+    {
+      "subtitle_ids": [
+        370
+      ],
+      "start": 779.68,
+      "end": 784.0,
+      "text": "Their share price has risen here since."
+    },
+    {
+      "subtitle_ids": [
+        371
+      ],
+      "start": 781.36,
+      "end": 785.839,
+      "text": "Returns of 12,000% in just one year"
+    },
+    {
+      "subtitle_ids": [
+        372
+      ],
+      "start": 784.0,
+      "end": 788.16,
+      "text": "The company has received. It all means US"
+    },
+    {
+      "subtitle_ids": [
+        373
+      ],
+      "start": 785.839,
+      "end": 790.959,
+      "text": "Whatever the boom bubble of the company, whatever will remain for everyone."
+    },
+    {
+      "subtitle_ids": [
+        374
+      ],
+      "start": 788.16,
+      "end": 792.8,
+      "text": "Made records by breaking them. Whereas"
+    },
+    {
+      "subtitle_ids": [
+        375
+      ],
+      "start": 790.959,
+      "end": 794.639,
+      "text": "The company does not do anything. meaning if i"
+    },
+    {
+      "subtitle_ids": [
+        376
+      ],
+      "start": 792.8,
+      "end": 797.04,
+      "text": "If I tell you simply, the last two years"
+    },
+    {
+      "subtitle_ids": [
+        377
+      ],
+      "start": 794.639,
+      "end": 800.0,
+      "text": "Nvidia's revenue growth of 500% in 2018"
+    },
+    {
+      "subtitle_ids": [
+        378
+      ],
+      "start": 797.04,
+      "end": 802.8,
+      "text": "Has been. Profit growth has been 1500% and"
+    },
+    {
+      "subtitle_ids": [
+        379
+      ],
+      "start": 800.0,
+      "end": 805.519,
+      "text": "Share price growth has been 7 to 800%."
+    },
+    {
+      "subtitle_ids": [
+        380
+      ],
+      "start": 802.8,
+      "end": 807.36,
+      "text": "So nvidia 7 to 800% side and"
+    },
+    {
+      "subtitle_ids": [
+        381
+      ],
+      "start": 805.519,
+      "end": 809.839,
+      "text": "of our Indian semiconductor company"
+    },
+    {
+      "subtitle_ids": [
+        382
+      ],
+      "start": 807.36,
+      "end": 811.279,
+      "text": "In return side of 12000%. means only"
+    },
+    {
+      "subtitle_ids": [
+        383
+      ],
+      "start": 809.839,
+      "end": 813.2,
+      "text": "Not only in India but all over the world"
+    },
+    {
+      "subtitle_ids": [
+        384
+      ],
+      "start": 811.279,
+      "end": 815.2,
+      "text": "Discussion is taking place today. same way"
+    },
+    {
+      "subtitle_ids": [
+        385
+      ],
+      "start": 813.2,
+      "end": 817.44,
+      "text": "The pattern is not only provided to you by this company but also"
+    },
+    {
+      "subtitle_ids": [
+        386
+      ],
+      "start": 815.2,
+      "end": 819.68,
+      "text": "It is also available in their other company which is"
+    },
+    {
+      "subtitle_ids": [
+        387
+      ],
+      "start": 817.44,
+      "end": 821.44,
+      "text": "RRP Defense. Even in RRP defense"
+    },
+    {
+      "subtitle_ids": [
+        388
+      ],
+      "start": 819.68,
+      "end": 823.2,
+      "text": "If you see, nothing special is happening. but if"
+    },
+    {
+      "subtitle_ids": [
+        389
+      ],
+      "start": 821.44,
+      "end": 826.399,
+      "text": "You look at the share price chart it's like"
+    },
+    {
+      "subtitle_ids": [
+        390
+      ],
+      "start": 823.2,
+      "end": 830.0,
+      "text": "Dec. Their share price in the last 2 years"
+    },
+    {
+      "subtitle_ids": [
+        391
+      ],
+      "start": 826.399,
+      "end": 831.92,
+      "text": "From ₹14 it went to around ₹1000 here and"
+    },
+    {
+      "subtitle_ids": [
+        392
+      ],
+      "start": 830.0,
+      "end": 833.519,
+      "text": "Currently falling continuously because liquidity"
+    },
+    {
+      "subtitle_ids": [
+        393
+      ],
+      "start": 831.92,
+      "end": 835.44,
+      "text": "is less. So here also you will see"
+    },
+    {
+      "subtitle_ids": [
+        394
+      ],
+      "start": 833.519,
+      "end": 838.56,
+      "text": "Mr. Rajendra Choudhankar Company"
+    },
+    {
+      "subtitle_ids": [
+        395
+      ],
+      "start": 835.44,
+      "end": 840.24,
+      "text": "Is in management. He has 74% stake."
+    },
+    {
+      "subtitle_ids": [
+        396
+      ],
+      "start": 838.56,
+      "end": 841.92,
+      "text": "Now SEBI has filed some documents against them"
+    },
+    {
+      "subtitle_ids": [
+        397
+      ],
+      "start": 840.24,
+      "end": 844.079,
+      "text": "have been released but still"
+    },
+    {
+      "subtitle_ids": [
+        398
+      ],
+      "start": 841.92,
+      "end": 846.0,
+      "text": "The promoter of the company is roaming freely."
+    },
+    {
+      "subtitle_ids": [
+        399
+      ],
+      "start": 844.079,
+      "end": 848.0,
+      "text": "Later SEBI also came to know that this is fine."
+    },
+    {
+      "subtitle_ids": [
+        400
+      ],
+      "start": 846.0,
+      "end": 849.92,
+      "text": "RRP Semiconductor is doing something wrong"
+    },
+    {
+      "subtitle_ids": [
+        401
+      ],
+      "start": 848.0,
+      "end": 851.76,
+      "text": "Is. He also started investigation."
+    },
+    {
+      "subtitle_ids": [
+        402
+      ],
+      "start": 849.92,
+      "end": 853.68,
+      "text": "Some reports were also released but still"
+    },
+    {
+      "subtitle_ids": [
+        403
+      ],
+      "start": 851.76,
+      "end": 855.6,
+      "text": "Mr. Rajendra Chaudhankar is roaming freely"
+    },
+    {
+      "subtitle_ids": [
+        404
+      ],
+      "start": 853.68,
+      "end": 857.279,
+      "text": "Are. Is any action being taken against him yet?"
+    },
+    {
+      "subtitle_ids": [
+        405
+      ],
+      "start": 855.6,
+      "end": 859.279,
+      "text": "Haven't seen it yet. now from these"
+    },
+    {
+      "subtitle_ids": [
+        406
+      ],
+      "start": 857.279,
+      "end": 860.72,
+      "text": "Some other companies also take inspiration from the market"
+    },
+    {
+      "subtitle_ids": [
+        407
+      ],
+      "start": 859.279,
+      "end": 862.88,
+      "text": "Is coming in because companies now need to come to India"
+    },
+    {
+      "subtitle_ids": [
+        408
+      ],
+      "start": 860.72,
+      "end": 864.959,
+      "text": "I have come to know that if we put AI in the name"
+    },
+    {
+      "subtitle_ids": [
+        409
+      ],
+      "start": 862.88,
+      "end": 867.199,
+      "text": "If semiconductors do things like this"
+    },
+    {
+      "subtitle_ids": [
+        410
+      ],
+      "start": 864.959,
+      "end": 868.8,
+      "text": "The work gets done here. now another company"
+    },
+    {
+      "subtitle_ids": [
+        411
+      ],
+      "start": 867.199,
+      "end": 871.199,
+      "text": "Operates in the Indian market which"
+    },
+    {
+      "subtitle_ids": [
+        412
+      ],
+      "start": 868.8,
+      "end": 873.36,
+      "text": "The name is Deep Diamond which is a jewelery company."
+    },
+    {
+      "subtitle_ids": [
+        413
+      ],
+      "start": 871.199,
+      "end": 875.92,
+      "text": "Is. He also changed his name some time ago."
+    },
+    {
+      "subtitle_ids": [
+        414
+      ],
+      "start": 873.36,
+      "end": 877.76,
+      "text": "Changed to Deep Health AI India"
+    },
+    {
+      "subtitle_ids": [
+        415
+      ],
+      "start": 875.92,
+      "end": 880.48,
+      "text": "Is. Also there is another company in India"
+    },
+    {
+      "subtitle_ids": [
+        416
+      ],
+      "start": 877.76,
+      "end": 882.72,
+      "text": "Whose name is SPL Semiconductor. This"
+    },
+    {
+      "subtitle_ids": [
+        417
+      ],
+      "start": 880.48,
+      "end": 884.32,
+      "text": "If you look at the company also, the revenue"
+    },
+    {
+      "subtitle_ids": [
+        418
+      ],
+      "start": 882.72,
+      "end": 886.48,
+      "text": "And nothing is happening in profit. Who"
+    },
+    {
+      "subtitle_ids": [
+        419
+      ],
+      "start": 884.32,
+      "end": 888.48,
+      "text": "The company's revenue was currently Rs 40 crore."
+    },
+    {
+      "subtitle_ids": [
+        420
+      ],
+      "start": 886.48,
+      "end": 890.72,
+      "text": "Has come for ₹6 crore. i.e. degrowth is taking place"
+    },
+    {
+      "subtitle_ids": [
+        421
+      ],
+      "start": 888.48,
+      "end": 893.839,
+      "text": "Basically in revenue. but despite"
+    },
+    {
+      "subtitle_ids": [
+        422
+      ],
+      "start": 890.72,
+      "end": 897.04,
+      "text": "If you look at this, in 2020 the price of ₹ 20"
+    },
+    {
+      "subtitle_ids": [
+        423
+      ],
+      "start": 893.839,
+      "end": 898.8,
+      "text": "Its share price was today around ₹ 150."
+    },
+    {
+      "subtitle_ids": [
+        424
+      ],
+      "start": 897.04,
+      "end": 900.56,
+      "text": "Has been. That is, after seeing the name in India"
+    },
+    {
+      "subtitle_ids": [
+        425
+      ],
+      "start": 898.8,
+      "end": 902.72,
+      "text": "Investing culture has increased a lot."
+    },
+    {
+      "subtitle_ids": [
+        426
+      ],
+      "start": 900.56,
+      "end": 904.56,
+      "text": "Has gone. Similar to Lucent Industries"
+    },
+    {
+      "subtitle_ids": [
+        427
+      ],
+      "start": 902.72,
+      "end": 906.959,
+      "text": "There was a company named. She recently named herself"
+    },
+    {
+      "subtitle_ids": [
+        428
+      ],
+      "start": 904.56,
+      "end": 908.8,
+      "text": "Changed to MobileNew AI Tech."
+    },
+    {
+      "subtitle_ids": [
+        429
+      ],
+      "start": 906.959,
+      "end": 910.639,
+      "text": "If you have watched this video carefully"
+    },
+    {
+      "subtitle_ids": [
+        430
+      ],
+      "start": 908.8,
+      "end": 912.88,
+      "text": "So you must have noticed that these companies have done one thing"
+    },
+    {
+      "subtitle_ids": [
+        431
+      ],
+      "start": 910.639,
+      "end": 915.04,
+      "text": "So cracked that MOU with the government"
+    },
+    {
+      "subtitle_ids": [
+        432
+      ],
+      "start": 912.88,
+      "end": 916.639,
+      "text": "do it. You will be discussed in the news and"
+    },
+    {
+      "subtitle_ids": [
+        433
+      ],
+      "start": 915.04,
+      "end": 919.12,
+      "text": "After that it would have become easier for the share price to increase."
+    },
+    {
+      "subtitle_ids": [
+        434
+      ],
+      "start": 916.639,
+      "end": 921.519,
+      "text": "Is. Now a funny thing has happened recently that"
+    },
+    {
+      "subtitle_ids": [
+        435
+      ],
+      "start": 919.12,
+      "end": 924.079,
+      "text": "Signed an MoU with UP government"
+    },
+    {
+      "subtitle_ids": [
+        436
+      ],
+      "start": 921.519,
+      "end": 926.399,
+      "text": "Went. The name of the company was Pach AI. the company has"
+    },
+    {
+      "subtitle_ids": [
+        437
+      ],
+      "start": 924.079,
+      "end": 929.279,
+      "text": "Told that we are a very big bore based company."
+    },
+    {
+      "subtitle_ids": [
+        438
+      ],
+      "start": 926.399,
+      "end": 931.199,
+      "text": "And we have signed an MoU of Rs 25,000 crore with UP"
+    },
+    {
+      "subtitle_ids": [
+        439
+      ],
+      "start": 929.279,
+      "end": 933.36,
+      "text": "Signed with the government. but this"
+    },
+    {
+      "subtitle_ids": [
+        440
+      ],
+      "start": 931.199,
+      "end": 935.279,
+      "text": "Meanwhile someone checked the financials of the company"
+    },
+    {
+      "subtitle_ids": [
+        441
+      ],
+      "start": 933.36,
+      "end": 937.92,
+      "text": "So they found out that the company's revenue was 1"
+    },
+    {
+      "subtitle_ids": [
+        442
+      ],
+      "start": 935.279,
+      "end": 940.48,
+      "text": "It is not worth crores and the company here is worth Rs 25,000."
+    },
+    {
+      "subtitle_ids": [
+        443
+      ],
+      "start": 937.92,
+      "end": 942.079,
+      "text": "Signing MoU worth crores. Later"
+    },
+    {
+      "subtitle_ids": [
+        444
+      ],
+      "start": 940.48,
+      "end": 944.16,
+      "text": "Many people raised questions. After that"
+    },
+    {
+      "subtitle_ids": [
+        445
+      ],
+      "start": 942.079,
+      "end": 946.0,
+      "text": "This MOU was cancelled. But then the question is"
+    },
+    {
+      "subtitle_ids": [
+        446
+      ],
+      "start": 944.16,
+      "end": 947.68,
+      "text": "Also, if any government signs such a big MOU"
+    },
+    {
+      "subtitle_ids": [
+        447
+      ],
+      "start": 946.0,
+      "end": 949.44,
+      "text": "If you are signing then what is a basic due?"
+    },
+    {
+      "subtitle_ids": [
+        448
+      ],
+      "start": 947.68,
+      "end": 951.839,
+      "text": "Diligence is also not happening there? this one"
+    },
+    {
+      "subtitle_ids": [
+        449
+      ],
+      "start": 949.44,
+      "end": 953.199,
+      "text": "It is a very big question. So watch the bubbles come"
+    },
+    {
+      "subtitle_ids": [
+        450
+      ],
+      "start": 951.839,
+      "end": 954.8,
+      "text": "There is no such thing in India"
+    },
+    {
+      "subtitle_ids": [
+        451
+      ],
+      "start": 953.199,
+      "end": 957.68,
+      "text": "A lot of people doing creativity"
+    },
+    {
+      "subtitle_ids": [
+        452
+      ],
+      "start": 954.8,
+      "end": 959.12,
+      "text": "Are. When the dot bubble came in the bubble of 1999"
+    },
+    {
+      "subtitle_ids": [
+        453
+      ],
+      "start": 957.68,
+      "end": 961.839,
+      "text": "So many companies in India have adopted"
+    },
+    {
+      "subtitle_ids": [
+        454
+      ],
+      "start": 959.12,
+      "end": 963.44,
+      "text": "Technology or internet ad in the name"
+    },
+    {
+      "subtitle_ids": [
+        455
+      ],
+      "start": 961.839,
+      "end": 965.279,
+      "text": "Had started doing. I will give you one more"
+    },
+    {
+      "subtitle_ids": [
+        456
+      ],
+      "start": 963.44,
+      "end": 967.12,
+      "text": "Let me tell you the story of an interesting company."
+    },
+    {
+      "subtitle_ids": [
+        457
+      ],
+      "start": 965.279,
+      "end": 969.6,
+      "text": "After which you will go mad that India"
+    },
+    {
+      "subtitle_ids": [
+        458
+      ],
+      "start": 967.12,
+      "end": 971.519,
+      "text": "What's going on and how companies are doing business?"
+    },
+    {
+      "subtitle_ids": [
+        459
+      ],
+      "start": 969.6,
+      "end": 973.36,
+      "text": "Instead of what are they thinking? Now!"
+    },
+    {
+      "subtitle_ids": [
+        460
+      ],
+      "start": 971.519,
+      "end": 975.519,
+      "text": "Recently I wrote a book called"
+    },
+    {
+      "subtitle_ids": [
+        461
+      ],
+      "start": 973.36,
+      "end": 977.519,
+      "text": "Ticket to Stock Market which you can get on Amazon"
+    },
+    {
+      "subtitle_ids": [
+        462
+      ],
+      "start": 975.519,
+      "end": 979.6,
+      "text": "Will get it. Now in this book I have told a lot"
+    },
+    {
+      "subtitle_ids": [
+        463
+      ],
+      "start": 977.519,
+      "end": 981.6,
+      "text": "Very interesting story has been written. that story"
+    },
+    {
+      "subtitle_ids": [
+        464
+      ],
+      "start": 979.6,
+      "end": 985.04,
+      "text": "What happened was that there is a company in India whose"
+    },
+    {
+      "subtitle_ids": [
+        465
+      ],
+      "start": 981.6,
+      "end": 987.04,
+      "text": "The name is Bill South Enterprises. in 1995"
+    },
+    {
+      "subtitle_ids": [
+        466
+      ],
+      "start": 985.04,
+      "end": 989.839,
+      "text": "The company was started. Later the company"
+    },
+    {
+      "subtitle_ids": [
+        467
+      ],
+      "start": 987.04,
+      "end": 991.759,
+      "text": "Saw the internet boom come around 1998"
+    },
+    {
+      "subtitle_ids": [
+        468
+      ],
+      "start": 989.839,
+      "end": 993.36,
+      "text": "Is. Share price of company IT companies"
+    },
+    {
+      "subtitle_ids": [
+        469
+      ],
+      "start": 991.759,
+      "end": 995.759,
+      "text": "Increasing immediately. but the problem was"
+    },
+    {
+      "subtitle_ids": [
+        470
+      ],
+      "start": 993.36,
+      "end": 997.92,
+      "text": "That Bill South was doing some work in IT"
+    },
+    {
+      "subtitle_ids": [
+        471
+      ],
+      "start": 995.759,
+      "end": 999.839,
+      "text": "Didn't do it. Then the promoter thought"
+    },
+    {
+      "subtitle_ids": [
+        472
+      ],
+      "start": 997.92,
+      "end": 1002.079,
+      "text": "What difference does it make whether you work or not?"
+    },
+    {
+      "subtitle_ids": [
+        473
+      ],
+      "start": 999.839,
+      "end": 1004.399,
+      "text": "Who will check that? We change the name of the company"
+    },
+    {
+      "subtitle_ids": [
+        474
+      ],
+      "start": 1002.079,
+      "end": 1007.36,
+      "text": "Do it. After which in 1998 he"
+    },
+    {
+      "subtitle_ids": [
+        475
+      ],
+      "start": 1004.399,
+      "end": 1009.6,
+      "text": "Company renamed as BCL Information System"
+    },
+    {
+      "subtitle_ids": [
+        476
+      ],
+      "start": 1007.36,
+      "end": 1011.68,
+      "text": "Limited and what magic happened as soon as"
+    },
+    {
+      "subtitle_ids": [
+        477
+      ],
+      "start": 1009.6,
+      "end": 1013.279,
+      "text": "People changed the name and attacked this company also."
+    },
+    {
+      "subtitle_ids": [
+        478
+      ],
+      "start": 1011.68,
+      "end": 1015.12,
+      "text": "Fell. Company's share price is very high"
+    },
+    {
+      "subtitle_ids": [
+        479
+      ],
+      "start": 1013.279,
+      "end": 1017.199,
+      "text": "Increased. Now see this company here also"
+    },
+    {
+      "subtitle_ids": [
+        480
+      ],
+      "start": 1015.12,
+      "end": 1020.16,
+      "text": "Not caught. They thought it was okay let it go"
+    },
+    {
+      "subtitle_ids": [
+        481
+      ],
+      "start": 1017.199,
+      "end": 1022.24,
+      "text": "Let it go as long as it lasts. then dot bubble"
+    },
+    {
+      "subtitle_ids": [
+        482
+      ],
+      "start": 1020.16,
+      "end": 1024.4,
+      "text": "Came. This also went bust with which the company"
+    },
+    {
+      "subtitle_ids": [
+        483
+      ],
+      "start": 1022.24,
+      "end": 1026.24,
+      "text": "The share price also came down. After this the company"
+    },
+    {
+      "subtitle_ids": [
+        484
+      ],
+      "start": 1024.4,
+      "end": 1028.72,
+      "text": "Was waiting to see where the next boom would come"
+    },
+    {
+      "subtitle_ids": [
+        485
+      ],
+      "start": 1026.24,
+      "end": 1030.559,
+      "text": "Is. Then he saw that since 2002 India"
+    },
+    {
+      "subtitle_ids": [
+        486
+      ],
+      "start": 1028.72,
+      "end": 1032.4,
+      "text": "Real estate around the world in the US and"
+    },
+    {
+      "subtitle_ids": [
+        487
+      ],
+      "start": 1030.559,
+      "end": 1034.079,
+      "text": "The boom starts coming. many in india"
+    },
+    {
+      "subtitle_ids": [
+        488
+      ],
+      "start": 1032.4,
+      "end": 1035.679,
+      "text": "Share price of those who were real estate builders"
+    },
+    {
+      "subtitle_ids": [
+        489
+      ],
+      "start": 1034.079,
+      "end": 1037.52,
+      "text": "Starts to grow. infrastructure"
+    },
+    {
+      "subtitle_ids": [
+        490
+      ],
+      "start": 1035.679,
+      "end": 1040.079,
+      "text": "Share prices of companies start increasing"
+    },
+    {
+      "subtitle_ids": [
+        491
+      ],
+      "start": 1037.52,
+      "end": 1042.4,
+      "text": "Is. Meanwhile, the company is deciding its next target."
+    },
+    {
+      "subtitle_ids": [
+        492
+      ],
+      "start": 1040.079,
+      "end": 1044.559,
+      "text": "That is real estate. that now we"
+    },
+    {
+      "subtitle_ids": [
+        493
+      ],
+      "start": 1042.4,
+      "end": 1047.039,
+      "text": "Just change the name of the business and that's it"
+    },
+    {
+      "subtitle_ids": [
+        494
+      ],
+      "start": 1044.559,
+      "end": 1050.16,
+      "text": "He changes the name of the company in 2003"
+    },
+    {
+      "subtitle_ids": [
+        495
+      ],
+      "start": 1047.039,
+      "end": 1051.76,
+      "text": "BSCL Infrastructure Reality LED. now you"
+    },
+    {
+      "subtitle_ids": [
+        496
+      ],
+      "start": 1050.16,
+      "end": 1054.0,
+      "text": "Many of you may have felt that"
+    },
+    {
+      "subtitle_ids": [
+        497
+      ],
+      "start": 1051.76,
+      "end": 1056.559,
+      "text": "The company must have stopped now or it has been caught"
+    },
+    {
+      "subtitle_ids": [
+        498
+      ],
+      "start": 1054.0,
+      "end": 1058.96,
+      "text": "But no, you are wrong. now here"
+    },
+    {
+      "subtitle_ids": [
+        499
+      ],
+      "start": 1056.559,
+      "end": 1061.039,
+      "text": "They waited for more boom but some"
+    },
+    {
+      "subtitle_ids": [
+        500
+      ],
+      "start": 1058.96,
+      "end": 1062.799,
+      "text": "The special boom did not come to India and then"
+    },
+    {
+      "subtitle_ids": [
+        501
+      ],
+      "start": 1061.039,
+      "end": 1066.24,
+      "text": "From 2020-21 he observed that in India"
+    },
+    {
+      "subtitle_ids": [
+        502
+      ],
+      "start": 1062.799,
+      "end": 1068.559,
+      "text": "Aio, a big trend of all these things is coming."
+    },
+    {
+      "subtitle_ids": [
+        503
+      ],
+      "start": 1066.24,
+      "end": 1071.76,
+      "text": "So they looked at which one to enter."
+    },
+    {
+      "subtitle_ids": [
+        504
+      ],
+      "start": 1068.559,
+      "end": 1074.0,
+      "text": "So the company picked the algorithm and finally"
+    },
+    {
+      "subtitle_ids": [
+        505
+      ],
+      "start": 1071.76,
+      "end": 1076.96,
+      "text": "In 2023 he changed the name of the company to"
+    },
+    {
+      "subtitle_ids": [
+        506
+      ],
+      "start": 1074.0,
+      "end": 1079.12,
+      "text": "Named BSCL Algo LED. if you look today"
+    },
+    {
+      "subtitle_ids": [
+        507
+      ],
+      "start": 1076.96,
+      "end": 1081.12,
+      "text": "So BSCL Algo is still in the stock market"
+    },
+    {
+      "subtitle_ids": [
+        508
+      ],
+      "start": 1079.12,
+      "end": 1082.72,
+      "text": "Is listed. of this company of this company"
+    },
+    {
+      "subtitle_ids": [
+        509
+      ],
+      "start": 1081.12,
+      "end": 1084.72,
+      "text": "Revenue is also in negative. last years"
+    },
+    {
+      "subtitle_ids": [
+        510
+      ],
+      "start": 1082.72,
+      "end": 1086.32,
+      "text": "Nothing is happening here. overall"
+    },
+    {
+      "subtitle_ids": [
+        511
+      ],
+      "start": 1084.72,
+      "end": 1089.039,
+      "text": "If you look at it then cash flows are in negatives."
+    },
+    {
+      "subtitle_ids": [
+        512
+      ],
+      "start": 1086.32,
+      "end": 1090.96,
+      "text": "Nothing in the financials and just these"
+    },
+    {
+      "subtitle_ids": [
+        513
+      ],
+      "start": 1089.039,
+      "end": 1092.88,
+      "text": "Change the name of the company. like in 2023"
+    },
+    {
+      "subtitle_ids": [
+        514
+      ],
+      "start": 1090.96,
+      "end": 1095.679,
+      "text": "When they changed the name the share price became ₹6."
+    },
+    {
+      "subtitle_ids": [
+        515
+      ],
+      "start": 1092.88,
+      "end": 1097.12,
+      "text": "के आसपास थी वो तुरंत ₹18 के आसपास चली गई"
+    },
+    {
+      "subtitle_ids": [
+        516
+      ],
+      "start": 1095.679,
+      "end": 1099.039,
+      "text": "Because people genuinely felt that it"
+    },
+    {
+      "subtitle_ids": [
+        517
+      ],
+      "start": 1097.12,
+      "end": 1100.88,
+      "text": "There will be an elbow trading company"
+    },
+    {
+      "subtitle_ids": [
+        518
+      ],
+      "start": 1099.039,
+      "end": 1102.88,
+      "text": "And he invested. means the same"
+    },
+    {
+      "subtitle_ids": [
+        519
+      ],
+      "start": 1100.88,
+      "end": 1105.28,
+      "text": "These people have been duped for the last 25 years."
+    },
+    {
+      "subtitle_ids": [
+        520
+      ],
+      "start": 1102.88,
+      "end": 1107.28,
+      "text": "Are trapping. But despite this people"
+    },
+    {
+      "subtitle_ids": [
+        521
+      ],
+      "start": 1105.28,
+      "end": 1109.44,
+      "text": "Not ready to understand. I mean this"
+    },
+    {
+      "subtitle_ids": [
+        522
+      ],
+      "start": 1107.28,
+      "end": 1111.28,
+      "text": "There is a strong view that SEBI has"
+    },
+    {
+      "subtitle_ids": [
+        523
+      ],
+      "start": 1109.44,
+      "end": 1112.799,
+      "text": "Catch it and throw it and unlace it."
+    },
+    {
+      "subtitle_ids": [
+        524
+      ],
+      "start": 1111.28,
+      "end": 1114.559,
+      "text": "Until some people go to jail. Me"
+    },
+    {
+      "subtitle_ids": [
+        525
+      ],
+      "start": 1112.799,
+      "end": 1116.559,
+      "text": "Don't think this whole pattern is going to stop"
+    },
+    {
+      "subtitle_ids": [
+        526
+      ],
+      "start": 1114.559,
+      "end": 1119.12,
+      "text": "Because the promoters have just cracked this game"
+    },
+    {
+      "subtitle_ids": [
+        527
+      ],
+      "start": 1116.559,
+      "end": 1120.72,
+      "text": "Have done that change the name and it's different"
+    },
+    {
+      "subtitle_ids": [
+        528
+      ],
+      "start": 1119.12,
+      "end": 1122.799,
+      "text": "Will do things because they know"
+    },
+    {
+      "subtitle_ids": [
+        529
+      ],
+      "start": 1120.72,
+      "end": 1124.64,
+      "text": "That the majority of retail investors are people who"
+    },
+    {
+      "subtitle_ids": [
+        530
+      ],
+      "start": 1122.799,
+      "end": 1126.799,
+      "text": "They are retail investors and they own the company."
+    },
+    {
+      "subtitle_ids": [
+        531
+      ],
+      "start": 1124.64,
+      "end": 1129.28,
+      "text": "Don't know how to analyze. that's just the name"
+    },
+    {
+      "subtitle_ids": [
+        532
+      ],
+      "start": 1126.799,
+      "end": 1131.12,
+      "text": "Let's see and try our luck and like this"
+    },
+    {
+      "subtitle_ids": [
+        533
+      ],
+      "start": 1129.28,
+      "end": 1133.039,
+      "text": "These small companies are his"
+    },
+    {
+      "subtitle_ids": [
+        534
+      ],
+      "start": 1131.12,
+      "end": 1135.2,
+      "text": "takes immediate advantage and makes money from it"
+    },
+    {
+      "subtitle_ids": [
+        535
+      ],
+      "start": 1133.039,
+      "end": 1136.799,
+      "text": "Tries to. Now all these concerns"
+    },
+    {
+      "subtitle_ids": [
+        536
+      ],
+      "start": 1135.2,
+      "end": 1138.799,
+      "text": "I have told you that India's AI"
+    },
+    {
+      "subtitle_ids": [
+        537
+      ],
+      "start": 1136.799,
+      "end": 1140.4,
+      "text": "If it is happening in the market then its impact"
+    },
+    {
+      "subtitle_ids": [
+        538
+      ],
+      "start": 1138.799,
+      "end": 1142.559,
+      "text": "Limited to retail investors only"
+    },
+    {
+      "subtitle_ids": [
+        539
+      ],
+      "start": 1140.4,
+      "end": 1144.88,
+      "text": "Not there. It also has a big impact."
+    },
+    {
+      "subtitle_ids": [
+        540
+      ],
+      "start": 1142.559,
+      "end": 1146.559,
+      "text": "See like I talked about Builder AI and"
+    },
+    {
+      "subtitle_ids": [
+        541
+      ],
+      "start": 1144.88,
+      "end": 1148.4,
+      "text": "The rest are also companies. Only Indians in this"
+    },
+    {
+      "subtitle_ids": [
+        542
+      ],
+      "start": 1146.559,
+      "end": 1150.4,
+      "text": "Retail investors do not invest."
+    },
+    {
+      "subtitle_ids": [
+        543
+      ],
+      "start": 1148.4,
+      "end": 1152.799,
+      "text": "Outside companies also invest and when"
+    },
+    {
+      "subtitle_ids": [
+        544
+      ],
+      "start": 1150.4,
+      "end": 1154.48,
+      "text": "Such things happen again and again in our countries."
+    },
+    {
+      "subtitle_ids": [
+        545
+      ],
+      "start": 1152.799,
+      "end": 1156.4,
+      "text": "If I keep moving then we also have an impression"
+    },
+    {
+      "subtitle_ids": [
+        546
+      ],
+      "start": 1154.48,
+      "end": 1159.28,
+      "text": "It turns out that maybe all the things here"
+    },
+    {
+      "subtitle_ids": [
+        547
+      ],
+      "start": 1156.4,
+      "end": 1161.2,
+      "text": "It is not clean and there is a lot of fraud. And"
+    },
+    {
+      "subtitle_ids": [
+        548
+      ],
+      "start": 1159.28,
+      "end": 1163.679,
+      "text": "In such a situation, the person in front may get stuck once."
+    },
+    {
+      "subtitle_ids": [
+        549
+      ],
+      "start": 1161.2,
+      "end": 1166.16,
+      "text": "Microsoft will get stuck once but later"
+    },
+    {
+      "subtitle_ids": [
+        550
+      ],
+      "start": 1163.679,
+      "end": 1167.679,
+      "text": "Will never dare to invest."
+    },
+    {
+      "subtitle_ids": [
+        551
+      ],
+      "start": 1166.16,
+      "end": 1169.84,
+      "text": "Meaning, genuine in India"
+    },
+    {
+      "subtitle_ids": [
+        552
+      ],
+      "start": 1167.679,
+      "end": 1171.2,
+      "text": "There are also players who are moving towards semiconductor."
+    },
+    {
+      "subtitle_ids": [
+        553
+      ],
+      "start": 1169.84,
+      "end": 1173.12,
+      "text": "Have been. Tata Electronics in"
+    },
+    {
+      "subtitle_ids": [
+        554
+      ],
+      "start": 1171.2,
+      "end": 1175.36,
+      "text": "Already doing very well. They"
+    },
+    {
+      "subtitle_ids": [
+        555
+      ],
+      "start": 1173.12,
+      "end": 1177.52,
+      "text": "Recently which most iPhone India"
+    },
+    {
+      "subtitle_ids": [
+        556
+      ],
+      "start": 1175.36,
+      "end": 1179.52,
+      "text": "Manufactured in specially assembled"
+    },
+    {
+      "subtitle_ids": [
+        557
+      ],
+      "start": 1177.52,
+      "end": 1181.36,
+      "text": "In that he took Fox to India."
+    },
+    {
+      "subtitle_ids": [
+        558
+      ],
+      "start": 1179.52,
+      "end": 1183.36,
+      "text": "I left behind a huge"
+    },
+    {
+      "subtitle_ids": [
+        559
+      ],
+      "start": 1181.36,
+      "end": 1185.2,
+      "text": "Achievement is according to India and now"
+    },
+    {
+      "subtitle_ids": [
+        560
+      ],
+      "start": 1183.36,
+      "end": 1187.039,
+      "text": "They are going towards semiconductor. two three"
+    },
+    {
+      "subtitle_ids": [
+        561
+      ],
+      "start": 1185.2,
+      "end": 1189.6,
+      "text": "They also have sites in Guwahati and"
+    },
+    {
+      "subtitle_ids": [
+        562
+      ],
+      "start": 1187.039,
+      "end": 1191.6,
+      "text": "Of Dholera in Gujarat. CG Power also gets a"
+    },
+    {
+      "subtitle_ids": [
+        563
+      ],
+      "start": 1189.6,
+      "end": 1193.2,
+      "text": "Sanand's plant I think one day"
+    },
+    {
+      "subtitle_ids": [
+        564
+      ],
+      "start": 1191.6,
+      "end": 1195.2,
+      "text": "Has already started. so many things"
+    },
+    {
+      "subtitle_ids": [
+        565
+      ],
+      "start": 1193.2,
+      "end": 1196.799,
+      "text": "Developments are taking place here. but one"
+    },
+    {
+      "subtitle_ids": [
+        566
+      ],
+      "start": 1195.2,
+      "end": 1199.039,
+      "text": "You understand that a semiconductor is a"
+    },
+    {
+      "subtitle_ids": [
+        567
+      ],
+      "start": 1196.799,
+      "end": 1200.96,
+      "text": "This is not a small business. invest in"
+    },
+    {
+      "subtitle_ids": [
+        568
+      ],
+      "start": 1199.039,
+      "end": 1203.76,
+      "text": "It takes a lot of money to do it. fu"
+    },
+    {
+      "subtitle_ids": [
+        569
+      ],
+      "start": 1200.96,
+      "end": 1206.559,
+      "text": "Lax Crore is needed if not less then more"
+    },
+    {
+      "subtitle_ids": [
+        570
+      ],
+      "start": 1203.76,
+      "end": 1209.2,
+      "text": "In this, if you want to start with less amount"
+    },
+    {
+      "subtitle_ids": [
+        571
+      ],
+      "start": 1206.559,
+      "end": 1211.52,
+      "text": "So there is a method in this, it is called Ost."
+    },
+    {
+      "subtitle_ids": [
+        572
+      ],
+      "start": 1209.2,
+      "end": 1213.36,
+      "text": "Meaning that outsourced semiconductor assembly and"
+    },
+    {
+      "subtitle_ids": [
+        573
+      ],
+      "start": 1211.52,
+      "end": 1215.6,
+      "text": "Test. This work can be done for a little less money"
+    },
+    {
+      "subtitle_ids": [
+        574
+      ],
+      "start": 1213.36,
+      "end": 1217.52,
+      "text": "Is. But for this also ₹12000 crore"
+    },
+    {
+      "subtitle_ids": [
+        575
+      ],
+      "start": 1215.6,
+      "end": 1219.679,
+      "text": "There should be minimum investment requirement"
+    },
+    {
+      "subtitle_ids": [
+        576
+      ],
+      "start": 1217.52,
+      "end": 1221.36,
+      "text": "Needed And only those companies will be able to do so."
+    },
+    {
+      "subtitle_ids": [
+        577
+      ],
+      "start": 1219.679,
+      "end": 1224.0,
+      "text": "whose market is more reserve surplus"
+    },
+    {
+      "subtitle_ids": [
+        578
+      ],
+      "start": 1221.36,
+      "end": 1225.12,
+      "text": "The cap exceeds this amount. Now the companies"
+    },
+    {
+      "subtitle_ids": [
+        579
+      ],
+      "start": 1224.0,
+      "end": 1227.36,
+      "text": "She is doing a promise in India."
+    },
+    {
+      "subtitle_ids": [
+        580
+      ],
+      "start": 1225.12,
+      "end": 1229.919,
+      "text": "Market cap 200 crores, some 300 crores."
+    },
+    {
+      "subtitle_ids": [
+        581
+      ],
+      "start": 1227.36,
+      "end": 1232.32,
+      "text": "Someone is making promises of Rs 10,000 crore"
+    },
+    {
+      "subtitle_ids": [
+        582
+      ],
+      "start": 1229.919,
+      "end": 1234.48,
+      "text": "20,000 crores. So in such a situation, this is what one should think about."
+    },
+    {
+      "subtitle_ids": [
+        583
+      ],
+      "start": 1232.32,
+      "end": 1236.72,
+      "text": "The thing is. So here are these things as soon as possible"
+    },
+    {
+      "subtitle_ids": [
+        584
+      ],
+      "start": 1234.48,
+      "end": 1238.08,
+      "text": "Was not controlled. So this"
+    },
+    {
+      "subtitle_ids": [
+        585
+      ],
+      "start": 1236.72,
+      "end": 1240.48,
+      "text": "People's money will definitely sink here"
+    },
+    {
+      "subtitle_ids": [
+        586
+      ],
+      "start": 1238.08,
+      "end": 1242.559,
+      "text": "Will drown. But tomorrow some genuine company"
+    },
+    {
+      "subtitle_ids": [
+        587
+      ],
+      "start": 1240.48,
+      "end": 1244.64,
+      "text": "When it comes, retail investors are also there."
+    },
+    {
+      "subtitle_ids": [
+        588
+      ],
+      "start": 1242.559,
+      "end": 1246.88,
+      "text": "Will be afraid to invest money because retail"
+    },
+    {
+      "subtitle_ids": [
+        589
+      ],
+      "start": 1244.64,
+      "end": 1248.799,
+      "text": "It is the job of investors to avoid them."
+    },
+    {
+      "subtitle_ids": [
+        590
+      ],
+      "start": 1246.88,
+      "end": 1250.799,
+      "text": "But somewhere it became the government's"
+    },
+    {
+      "subtitle_ids": [
+        591
+      ],
+      "start": 1248.799,
+      "end": 1252.72,
+      "text": "The regulator must also pay attention here"
+    },
+    {
+      "subtitle_ids": [
+        592
+      ],
+      "start": 1250.799,
+      "end": 1254.64,
+      "text": "Need and these companies should be removed in time"
+    },
+    {
+      "subtitle_ids": [
+        593
+      ],
+      "start": 1252.72,
+      "end": 1256.88,
+      "text": "should be given so that such things can be marketed"
+    },
+    {
+      "subtitle_ids": [
+        594
+      ],
+      "start": 1254.64,
+      "end": 1259.12,
+      "text": "I don't want to grow too much because right now"
+    },
+    {
+      "subtitle_ids": [
+        595
+      ],
+      "start": 1256.88,
+      "end": 1261.36,
+      "text": "If you look at it, it seems as if I have given you many names."
+    },
+    {
+      "subtitle_ids": [
+        596
+      ],
+      "start": 1259.12,
+      "end": 1263.679,
+      "text": "If you tell me the name then this list will be even longer."
+    },
+    {
+      "subtitle_ids": [
+        597
+      ],
+      "start": 1261.36,
+      "end": 1265.28,
+      "text": "Is. Ending with the name of many AI technologies"
+    },
+    {
+      "subtitle_ids": [
+        598
+      ],
+      "start": 1263.679,
+      "end": 1266.799,
+      "text": "Other companies are also coming. Shraddha Ai"
+    },
+    {
+      "subtitle_ids": [
+        599
+      ],
+      "start": 1265.28,
+      "end": 1268.88,
+      "text": "technology and many more who"
+    },
+    {
+      "subtitle_ids": [
+        600
+      ],
+      "start": 1266.799,
+      "end": 1271.039,
+      "text": "AI started working quickly"
+    },
+    {
+      "subtitle_ids": [
+        601
+      ],
+      "start": 1268.88,
+      "end": 1273.039,
+      "text": "In. Like a company I was telling you about."
+    },
+    {
+      "subtitle_ids": [
+        602
+      ],
+      "start": 1271.039,
+      "end": 1274.64,
+      "text": "Its just a basic advertisement and"
+    },
+    {
+      "subtitle_ids": [
+        603
+      ],
+      "start": 1273.039,
+      "end": 1276.32,
+      "text": "It is marketing work. But he also"
+    },
+    {
+      "subtitle_ids": [
+        604
+      ],
+      "start": 1274.64,
+      "end": 1278.48,
+      "text": "The name is prefixed with AR. so that they"
+    },
+    {
+      "subtitle_ids": [
+        605
+      ],
+      "start": 1276.32,
+      "end": 1280.72,
+      "text": "It has also been found that by entering the name of AI, some"
+    },
+    {
+      "subtitle_ids": [
+        606
+      ],
+      "start": 1278.48,
+      "end": 1282.24,
+      "text": "The share price definitely increases. So"
+    },
+    {
+      "subtitle_ids": [
+        607
+      ],
+      "start": 1280.72,
+      "end": 1284.08,
+      "text": "One thing is clear here that India"
+    },
+    {
+      "subtitle_ids": [
+        608
+      ],
+      "start": 1282.24,
+      "end": 1286.08,
+      "text": "There is no shortage of capital. invest money"
+    },
+    {
+      "subtitle_ids": [
+        609
+      ],
+      "start": 1284.08,
+      "end": 1288.32,
+      "text": "Those who are always ready but genuine companies"
+    },
+    {
+      "subtitle_ids": [
+        610
+      ],
+      "start": 1286.08,
+      "end": 1290.159,
+      "text": "There is a shortage and genuine companies here"
+    },
+    {
+      "subtitle_ids": [
+        611
+      ],
+      "start": 1288.32,
+      "end": 1292.159,
+      "text": "Somewhere not retail investors"
+    },
+    {
+      "subtitle_ids": [
+        612
+      ],
+      "start": 1290.159,
+      "end": 1293.919,
+      "text": "Getting it. And that's why poor semiconductors"
+    },
+    {
+      "subtitle_ids": [
+        613
+      ],
+      "start": 1292.159,
+      "end": 1295.84,
+      "text": "Got the name, put the money, AI writes the name"
+    },
+    {
+      "subtitle_ids": [
+        614
+      ],
+      "start": 1293.919,
+      "end": 1297.44,
+      "text": "Gave, deposited the money. things like this happen"
+    },
+    {
+      "subtitle_ids": [
+        615
+      ],
+      "start": 1295.84,
+      "end": 1299.2,
+      "text": "Has been. Now during this time we did one or two things:"
+    },
+    {
+      "subtitle_ids": [
+        616
+      ],
+      "start": 1297.44,
+      "end": 1301.2,
+      "text": "Also observed that the names of all the companies"
+    },
+    {
+      "subtitle_ids": [
+        617
+      ],
+      "start": 1299.2,
+      "end": 1303.679,
+      "text": "There are three such semiconductor companies in India."
+    },
+    {
+      "subtitle_ids": [
+        618
+      ],
+      "start": 1301.2,
+      "end": 1306.159,
+      "text": "in India and any of the three methods"
+    },
+    {
+      "subtitle_ids": [
+        619
+      ],
+      "start": 1303.679,
+      "end": 1308.559,
+      "text": "Is not doing semiconductor work. These"
+    },
+    {
+      "subtitle_ids": [
+        620
+      ],
+      "start": 1306.159,
+      "end": 1310.96,
+      "text": "It's a shocking thing. So this was one of AI"
+    },
+    {
+      "subtitle_ids": [
+        621
+      ],
+      "start": 1308.559,
+      "end": 1312.48,
+      "text": "Cheap AI bubble which is running on a different level"
+    },
+    {
+      "subtitle_ids": [
+        622
+      ],
+      "start": 1310.96,
+      "end": 1314.24,
+      "text": "Is. The AI bubble going on in the US"
+    },
+    {
+      "subtitle_ids": [
+        623
+      ],
+      "start": 1312.48,
+      "end": 1316.08,
+      "text": "There is a valuation bubble. take nvidia"
+    },
+    {
+      "subtitle_ids": [
+        624
+      ],
+      "start": 1314.24,
+      "end": 1318.24,
+      "text": "Or if there are other companies then they are actually"
+    },
+    {
+      "subtitle_ids": [
+        625
+      ],
+      "start": 1316.08,
+      "end": 1319.44,
+      "text": "Doing something. They are doing something behind."
+    },
+    {
+      "subtitle_ids": [
+        626
+      ],
+      "start": 1318.24,
+      "end": 1321.36,
+      "text": "Ok? If valuations become expensive"
+    },
+    {
+      "subtitle_ids": [
+        627
+      ],
+      "start": 1319.44,
+      "end": 1323.2,
+      "text": "That is the valuation bubble. but india"
+    },
+    {
+      "subtitle_ids": [
+        628
+      ],
+      "start": 1321.36,
+      "end": 1325.36,
+      "text": "In It's Not a Valuation Bubble. India"
+    },
+    {
+      "subtitle_ids": [
+        629
+      ],
+      "start": 1323.2,
+      "end": 1327.36,
+      "text": "There is a complete cheap bubble in which"
+    },
+    {
+      "subtitle_ids": [
+        630
+      ],
+      "start": 1325.36,
+      "end": 1329.44,
+      "text": "Nothing is happening behind. so all these"
+    },
+    {
+      "subtitle_ids": [
+        631
+      ],
+      "start": 1327.36,
+      "end": 1331.12,
+      "text": "You must be cautious with the company. proper due"
+    },
+    {
+      "subtitle_ids": [
+        632
+      ],
+      "start": 1329.44,
+      "end": 1332.799,
+      "text": "Do diligence to enter any company"
+    },
+    {
+      "subtitle_ids": [
+        633
+      ],
+      "start": 1331.12,
+      "end": 1334.24,
+      "text": "before and only after"
+    },
+    {
+      "subtitle_ids": [
+        634
+      ],
+      "start": 1332.799,
+      "end": 1336.08,
+      "text": "Invest. otherwise things like this"
+    },
+    {
+      "subtitle_ids": [
+        635
+      ],
+      "start": 1334.24,
+      "end": 1338.64,
+      "text": "Maybe it can happen to you too because"
+    },
+    {
+      "subtitle_ids": [
+        636
+      ],
+      "start": 1336.08,
+      "end": 1340.88,
+      "text": "The line of trappers is very long. now this"
+    },
+    {
+      "subtitle_ids": [
+        637
+      ],
+      "start": 1338.64,
+      "end": 1342.72,
+      "text": "on you or how you avoid them and how"
+    },
+    {
+      "subtitle_ids": [
+        638
+      ],
+      "start": 1340.88,
+      "end": 1344.4,
+      "text": "Remain alert. And while leaving our values"
+    },
+    {
+      "subtitle_ids": [
+        639
+      ],
+      "start": 1342.72,
+      "end": 1345.919,
+      "text": "Be sure to check out Insting Cohort."
+    },
+    {
+      "subtitle_ids": [
+        640
+      ],
+      "start": 1344.4,
+      "end": 1347.84,
+      "text": "Link below description and comment box"
+    },
+    {
+      "subtitle_ids": [
+        641
+      ],
+      "start": 1345.919,
+      "end": 1349.6,
+      "text": "Is given in. This is a cohort where"
+    },
+    {
+      "subtitle_ids": [
+        642
+      ],
+      "start": 1347.84,
+      "end": 1351.2,
+      "text": "But practically everything you need"
+    },
+    {
+      "subtitle_ids": [
+        643
+      ],
+      "start": 1349.6,
+      "end": 1353.28,
+      "text": "Will get to learn valuation related. At once"
+    },
+    {
+      "subtitle_ids": [
+        644
+      ],
+      "start": 1351.2,
+      "end": 1354.96,
+      "text": "Practically anyone can do it"
+    },
+    {
+      "subtitle_ids": [
+        645
+      ],
+      "start": 1353.28,
+      "end": 1356.48,
+      "text": "Is. So for this expertise from your side"
+    },
+    {
+      "subtitle_ids": [
+        646
+      ],
+      "start": 1354.96,
+      "end": 1358.4,
+      "text": "It will definitely take hard work. so if you"
+    },
+    {
+      "subtitle_ids": [
+        647
+      ],
+      "start": 1356.48,
+      "end": 1359.6,
+      "text": "If you are interested then definitely enroll. So"
+    },
+    {
+      "subtitle_ids": [
+        648
+      ],
+      "start": 1358.4,
+      "end": 1362.96,
+      "text": "That's all for now. see you next"
+    },
+    {
+      "subtitle_ids": [
+        649
+      ],
+      "start": 1359.6,
+      "end": 1362.96,
+      "text": "In the video. Bye bye and take care."
+    }
+  ]
+}

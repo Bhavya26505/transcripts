@@ -1,0 +1,104 @@
+{
+  "video_id": "-RgdgqF9wd0",
+  "opening_analysis": {
+    "hook": {
+      "text": "एनएसडीएल का आईपीओ फाइनली आ गया है। 30 तारीख से 1 तारीख के बीच ये खुला रहेगा। लेकिन जैसे इस आईपीओ की अनाउंसमेंट हुई दूसरी तरफ इस डीओ ली में एनएसडीएल का जो दूसरा भागीदार है CDSL उसके शेयर प्राइस में गिरावट आना शुरू हो गई।",
+      "start_time": 0.0,
+      "end_time": 42.48,
+      "hook_type": "news/event | curiosity",
+      "confidence": 0.95,
+      "evidence_validation": "PASSED",
+      "evidence": {
+        "start_time": 0.0,
+        "end_time": 42.48,
+        "text": "एनएसडीएल का आईपीओ फाइनली आ गया है। 30 तारीख से 1 तारीख के बीच ये खुला रहेगा। लेकिन जैसे इस आईपीओ की अनाउंसमेंट हुई दूसरी तरफ इस डीओ ली में एनएसडीएल का जो दूसरा भागीदार है CDSL उसके शेयर प्राइस में गिरावट आना शुरू हो गई।"
+      }
+    },
+    "core_topic": {
+      "description": "NSDL business model analysis and comparison with CDSL operations.",
+      "explicit": true,
+      "confidence": 0.95,
+      "evidence": {
+        "start_time": 42.48,
+        "end_time": 47.0,
+        "text": "तो आज के इस वीडियो में हम बात करेंगे एनएसएल के बिज़नेस मॉडल के बारे में।"
+      },
+      "evidence_validation": "PASSED"
+    },
+    "viewer_problem_or_question": {
+      "description": "Understanding the actual difference between NSDL and CDSL business models despite appearing as competitors.",
+      "explicit": true,
+      "confidence": 0.9,
+      "evidence": {
+        "start_time": 47.0,
+        "end_time": 52.0,
+        "text": "कहने के लिए तो एनएसएल और सीडीएसएल दोनों एक दूसरे के बड़े टफ कंपिटिटर हैं। लेकिन एक्चुअल में इनके बिज़नेस मॉडल में काफी ज्यादा अंतर है।"
+      },
+      "evidence_validation": "PASSED"
+    },
+    "promise": {
+      "description": "Analyze NSDL's business model and revenue sources, compare it with CDSL, evaluate valuation, and discuss listing gains.",
+      "explicit": true,
+      "confidence": 0.9,
+      "evidence": {
+        "start_time": 52.0,
+        "end_time": 60.0,
+        "text": "इंटरेस्टिंगली डिपॉज़िटरी से ज्यादा इनका रेवेन्यू कहीं और से आ रहा है। वो चीज क्या है? उसके बारे में आज हम बात करेंगे।"
+      },
+      "evidence_validation": "PASSED"
+    },
+    "expected_points": [
+      {
+        "point_id": "P1",
+        "description": "NSDL business model explanation and revenue sources beyond depository services.",
+        "explicitly_promised": true,
+        "confidence": 0.95,
+        "evidence": {
+          "start_time": 42.48,
+          "end_time": 60.0,
+          "text": "तो आज के इस वीडियो में हम बात करेंगे एनएसएल के बिज़नेस मॉडल के बारे में।"
+        },
+        "evidence_validation": "PASSED"
+      },
+      {
+        "point_id": "P2",
+        "description": "Difference in business models between NSDL and CDSL.",
+        "explicitly_promised": true,
+        "confidence": 0.95,
+        "evidence": {
+          "start_time": 47.0,
+          "end_time": 52.0,
+          "text": "लेकिन एक्चुअल में इनके बिज़नेस मॉडल में काफी ज्यादा अंतर है।"
+        },
+        "evidence_validation": "PASSED"
+      },
+      {
+        "point_id": "P3",
+        "description": "NSDL valuation assessment - under or over valued.",
+        "explicitly_promised": true,
+        "confidence": 0.95,
+        "evidence": {
+          "start_time": 78.0,
+          "end_time": 82.0,
+          "text": "आखिर में हम बात करेंगे कंपनी के वैल्यू्यूएशन के बारे में कि कंपनी अंडरवैल्यूड लगती है या"
+        },
+        "evidence_validation": "PASSED"
+      },
+      {
+        "point_id": "P4",
+        "description": "Listing gains assessment for NSDL.",
+        "explicitly_promised": true,
+        "confidence": 0.95,
+        "evidence": {
+          "start_time": 82.0,
+          "end_time": 87.0,
+          "text": "ओवरवैल्यूड लगती है। साथ ही लिस्टिंग गेन के मामले में फिलहाल क्या दिख रहा है।"
+        },
+        "evidence_validation": "PASSED"
+      }
+    ],
+    "expected_direction": "Analyze NSDL business model and revenue sources, compare with CDSL operations, evaluate valuation and listing performance.",
+    "opening_summary": "The video opens with NSDL IPO news and CDSL stock price drop, then promises to explain NSDL's complete business model including non-deposit revenue sources, comparison with CDSL, valuation assessment, and listing gains analysis.",
+    "analysis_confidence": 0.92
+  }
+}

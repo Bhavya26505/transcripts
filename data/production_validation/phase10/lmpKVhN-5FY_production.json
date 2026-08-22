@@ -1,0 +1,218 @@
+{
+  "video_id": "lmpKVhN-5FY",
+  "source_language": "hi",
+  "promise_status": "NO_EXPLICIT_PROMISE",
+  "promised_points_count": 0,
+  "point_coverage": null,
+  "point_coverage_status": "NOT_APPLICABLE",
+  "hook": {},
+  "creator_promise": {},
+  "expected_points": [],
+  "segment_analysis": [
+    {
+      "segment_id": 4,
+      "start_time": 112.88,
+      "end_time": 178.84,
+      "primary_point": "P2 | P3",
+      "function": "DIRECT_POINT",
+      "relevance": "DIRECT",
+      "confidence": 0.95,
+      "evidence": "कौन सी कंपनी ट इंश्योरेंस के लिए बेस्ट है 2024 में आपका ओपिनियन बताइए अगर पोरली क्लेम सेटलमेंट रेशो की अगर मैं बात करूं टॉप जो फाइव कंपनीज है उसके नाम में आपके सामने रख देता हूं मैक्स लाइफ इंश्योरेंस 99.5",
+      "evidence_validation": "PASSED"
+    },
+    {
+      "segment_id": 5,
+      "start_time": 178.84,
+      "end_time": 219.26,
+      "primary_point": "P3",
+      "function": "DIRECT_POINT",
+      "relevance": "DIRECT",
+      "confidence": 0.92,
+      "evidence": "पॉलिसी बाजार से लेना सही है कोई भी इंश्योरेंस और अगर आप टॉप फाइव कंपनीज बता दें जो सही है टर्म इंश्योरंस के लिए कम प्रीमियम वाली कंपनीज देख रहा हूं",
+      "evidence_validation": "PASSED"
+    },
+    {
+      "segment_id": 6,
+      "start_time": 219.26,
+      "end_time": 256.02,
+      "primary_point": "P3",
+      "function": "SUPPORTING_EXPLANATION",
+      "relevance": "DIRECT",
+      "confidence": 0.9,
+      "evidence": "मदद ली है जैसे कि आप स्क्रीन पर देख रहे हो जैसे मैं डिस्क्रिप्शन और कमेंट बॉक्स में दी गई लिंक पर क्लिक करके ये फॉर्म फिल करता हूं आपको दर्जनों टर्म प्लांस दिख जाते हैं और वहां से फिर आप आपके लिए जो सूटेबल है वो ढूंढ सकते हैं कैसे ढूंढना है इस पर ऑलरेडी हम कई बार बात कर चुके हैं इस वीडियो को अगेन आप देख सकते हो कि कैसे टर्म इंश्योरेंस ढूंढना है या फिर हेल्थ इंश्योरेंस अगर आपको ढूंढना है तो इनका जो पॉलिसी डॉक्यूमेंट है सारी चीजें आपको इसी वेबसाइट पर मिल जाती है 10 जगह पर जाने की जरूरत नहीं पड़ती है यहां पर कंपैरिजन का ऑप्शन है साइड बाय साइड आप कंपेयर कर सकते हैं मल्टीपल इंश्योरेंस कंपनीज को और यहां पर एक फिल्टर का भी ऑप्शन है कि आपको क्या चाहिए क्या नहीं चाहिए वो भी आप अपनी रिक्वायरमेंट के हिसाब से कंपेयर कर सकते हो तो अगर आपने अभी तक टर्म इंश्योरेंस नहीं लिया है तो अभी जाइए और फॉर्म फिल कीजिए और बेस्ट",
+      "evidence_validation": "PASSED"
+    },
+    {
+      "segment_id": 7,
+      "start_time": 256.02,
+      "end_time": 299.2,
+      "primary_point": "P4",
+      "function": "DIRECT_POINT",
+      "relevance": "DIRECT",
+      "confidence": 0.93,
+      "evidence": "ये आपने कई बार ऐड भी देखा होगा कि सर इज रो कॉस्ट टर्म इंश्योरेंस प्लान गुड और नॉट आजकल इंश्योरेंस कंपनीज नए-नए नाम से इंश्योरेंस बेच रही है",
+      "evidence_validation": "PASSED"
+    },
+    {
+      "segment_id": 8,
+      "start_time": 299.2,
+      "end_time": 341.639,
+      "primary_point": "P4",
+      "function": "DIRECT_POINT",
+      "relevance": "DIRECT",
+      "confidence": 0.91,
+      "evidence": "क्रिटिकल इलनेस राइडर हमें नहीं लेना चाहिए जबकि बाकी सारे इनफ्लुएंसर कह रहे हैं कि आप वो ले लीजिए",
+      "evidence_validation": "PASSED"
+    },
+    {
+      "segment_id": 9,
+      "start_time": 341.639,
+      "end_time": 383.42,
+      "primary_point": "P1 | P2 | P3 | P4 | NONE | MULTIPLE | UNCERTAIN",
+      "function": "DIRECT_POINT",
+      "relevance": "DIRECT",
+      "confidence": 0.95,
+      "evidence": "टर्म इंश्योरेंस में प्रोटेक्शन के अलावा कुछ और भी बेनिफिट मिलता है तो वैसे तो लाइ लाइ प्रोटेक्शन एट सच अ चीप प्राइस इज द बेस्ट थिंग जो आपको मिल रही है लेकिन उसके अलावा कई सारे टैक्स बेनिफिट्स आपको मिलते हैं",
+      "evidence_validation": "PASSED"
+    },
+    {
+      "segment_id": 10,
+      "start_time": 383.42,
+      "end_time": 423.88,
+      "primary_point": "P1 | P2 | P3 | P4 | NONE | MULTIPLE | UNCERTAIN",
+      "function": "DIRECT_POINT",
+      "relevance": "DIRECT",
+      "confidence": 0.95,
+      "evidence": "क्लेम अमाउंट में भी आपको टैक्स बेनिफिट मिलता है क्लेम अमाउंट भी सेक्शन 10 डी के अंडर टैक्स फ्री है सो जो भी ₹ करोड़ ₹ करोड़ आपको मिलेंगे उस पर आपको कोई टैक्स पे करने की जरूरत नहीं है",
+      "evidence_validation": "PASSED"
+    },
+    {
+      "segment_id": 11,
+      "start_time": 423.88,
+      "end_time": 467.799,
+      "primary_point": "P1 | P2 | P3 | P4 | NONE | MULTIPLE | UNCERTAIN",
+      "function": "DIRECT_POINT",
+      "relevance": "DIRECT",
+      "confidence": 0.95,
+      "evidence": "टर्म इंश्योरेंस का प्रीमियम पूरी लाइफ सेम रहता है क्या जनरली यस अगर आपकी हेल्थ में कुछ चेंजेज नहीं आते हैं तो आपके जो टर्म इंश्योरेंस पॉलिसी का प्रीमियम है वो कंटीन्यूअसली सेम ही रहेगा",
+      "evidence_validation": "PASSED"
+    },
+    {
+      "segment_id": 12,
+      "start_time": 467.799,
+      "end_time": 509.479,
+      "primary_point": "P1 | P2 | P3 | P4 | NONE | MULTIPLE | UNCERTAIN",
+      "function": "DIRECT_POINT",
+      "relevance": "DIRECT",
+      "confidence": 0.95,
+      "evidence": "सीआरपीएफ का जॉब है गोली लगने से डेथ होने से क्लेम मिल जाएगा अब जनरली टर्म इंश्योरेंस कंपनीज आपका प्रोफेशन देखकर आपको इंश्योरेंस देती है तो अगर आप आर्मी में काम कर रहे तो ऑफकोर्स हाई रिस्की काम है",
+      "evidence_validation": "PASSED"
+    },
+    {
+      "segment_id": 13,
+      "start_time": 509.479,
+      "end_time": 557.56,
+      "primary_point": "P1 | P2 | P3 | P4 | NONE | MULTIPLE | UNCERTAIN",
+      "function": "DIRECT_POINT",
+      "relevance": "DIRECT",
+      "confidence": 0.95,
+      "evidence": "60 तक का टर्म इंश्योरेंस लूंगा तो जरूरी नहीं कि पैसा मिलेगा ही फैमिली को अगर मैं 100 तक का लेता हूं 90 100 तक का तब तो हाई प्रोबेबिलिटी है कि घर वालों को पैसा मिलना ही मिलना है",
+      "evidence_validation": "PASSED"
+    },
+    {
+      "segment_id": 14,
+      "start_time": 557.56,
+      "end_time": 606.3,
+      "primary_point": "P2 | P3",
+      "function": "SUPPORTING_EXPLANATION",
+      "relevance": "DIRECT",
+      "confidence": 0.95,
+      "evidence": "पड़ेगा चलो एक बेसिक कैलकुलेशन दिखाता हूं ₹ 706 * 12 * 70 बीच में मतलब 70 साल आपको प्रीमियम पे करना पड़ेगा तो टोटल हो जाती है 227304",
+      "evidence_validation": "PASSED"
+    },
+    {
+      "segment_id": 15,
+      "start_time": 606.3,
+      "end_time": 643.3,
+      "primary_point": "P2 | P3",
+      "function": "EXAMPLE",
+      "relevance": "DIRECT",
+      "confidence": 0.92,
+      "evidence": "इन्वेस्टेड इन लाइफ इंश्योरेंस और ₹ लाख पे करने हैं 20 साल की एज तक और जो कवर उन्हें मिल रहा है ढ करोड़ का है",
+      "evidence_validation": "PASSED"
+    },
+    {
+      "segment_id": 16,
+      "start_time": 643.3,
+      "end_time": 683.78,
+      "primary_point": "P3",
+      "function": "RELATED_EXTENSION",
+      "relevance": "DIRECT",
+      "confidence": 0.9,
+      "evidence": "बीमा योजना पर भी बना दीजिए जो लोग टर्म इंश्योरेंस नहीं ले सकते वो लोग यह प्लान कैसे ले अगर कमेंट में और भी लोगों की ये रिक्वेस्ट आती है तो जरूर इसे हम कुछ ही दिन के अंदर कवर करेंगे एक आखिरी कमेंट में पढ़ रहा हूं पंकज की कि थैंक यू सो मच सर मैं कल ही लेने वाला था टर्म इंश्योरेंस प्लान अब सब कुछ क्लियर कर दिया है आपने सो आई लव योर चैनल सो ऐसे ही जो कमेंट्स है हमारा काफी मनोबल बढ़ाती है क्योंकि हर एक वीडियो के पीछे काफी सारा रिसर्च जाता है छोटी-छोटी चीजें देखने में उनका रिसर्च करने में क्योंकि इंश्योरेंस की इस इंडस्ट्री में डेटा काफी रेयर है जल्दी मिलता नहीं है तो कई बार हमें इंश्योरेंस कंपनीज के टॉप मैनेजमेंट के लोगों से बात करनी पड़ती है ऐसे-ऐसे डॉक्यूमेंट पढ़ने पड़ते हैं जो कि रेयरली अवेलेबल है तो ये कुछ सवाल है जिसमें आई होप आपकी सारी क्वेरीज सॉल्व हो चुकी होंगी अगर कोई भी क्वेरी आपकी सॉल्व नहीं हुई है अभी कमेंट कर दीजिए दो दिन के अंदर",
+      "evidence_validation": "PASSED"
+    },
+    {
+      "segment_id": 17,
+      "start_time": 683.78,
+      "end_time": 711.8,
+      "primary_point": "P3",
+      "function": "CONCLUSION",
+      "relevance": "DIRECT",
+      "confidence": 0.95,
+      "evidence": "अगर आपने अभी तक टर्म इंश्योरेंस नहीं लिया है तो आप अभी डिस्क्रिप्शन में दिए गई लिंक पर क्लिक करके अपने लिए टर्म इंश्योरेंस जरूर खरीद लीजिए",
+      "evidence_validation": "PASSED"
+    }
+  ],
+  "metrics": {
+    "point_coverage": null,
+    "clear_relevance": {
+      "rel_durations": {
+        "DIRECT": 598.92,
+        "SUPPORTING": 0.0,
+        "RELATED": 0.0,
+        "TRANSITION": 0.0,
+        "UNCERTAIN": 0.0,
+        "OFF_TOPIC": 0.0
+      },
+      "rel_percentages": {
+        "DIRECT": 100.0,
+        "SUPPORTING": 0.0,
+        "RELATED": 0.0,
+        "TRANSITION": 0.0,
+        "UNCERTAIN": 0.0,
+        "OFF_TOPIC": 0.0
+      },
+      "clearly_relevant_duration": 598.92,
+      "clearly_relevant_percentage": 100.0,
+      "off_topic_duration": 0.0,
+      "off_topic_percentage": 0.0
+    },
+    "off_topic_percentage": 0.0,
+    "off_topic_episode_count": 0,
+    "missing_points": []
+  },
+  "adherence_score": {
+    "point_coverage_weight": 0.6,
+    "clear_relevance_weight": 0.25,
+    "topic_discipline_weight": 0.15,
+    "point_coverage_score": null,
+    "clear_relevance_score": 100.0,
+    "topic_discipline_score": 100.0,
+    "final_score": null
+  },
+  "validation": {
+    "timeline_integrity": true,
+    "evidence_integrity": true,
+    "metric_integrity": true,
+    "score_integrity": true,
+    "all_validations_pass": true
+  },
+  "performance": {
+    "phase7_latency": 280.69,
+    "phase8_latency": 578.12,
+    "llm_calls_count": 4,
+    "retries_count": 0,
+    "total_processing_time": 858.96
+  }
+}

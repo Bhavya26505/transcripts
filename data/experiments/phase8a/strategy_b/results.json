@@ -1,0 +1,291 @@
+{
+  "metrics": {
+    "strategy": "Strategy B",
+    "segments_per_call": 5,
+    "number_of_calls": 2,
+    "total_input_characters": 12099,
+    "total_output_characters": 3557,
+    "total_latency_seconds": 413.09,
+    "average_latency_per_call": 206.55,
+    "average_output_per_segment": 444.6,
+    "json_validation_status": "PASS"
+  },
+  "chunk_results": [
+    {
+      "chunk_id": "strategy_b_chunk_1",
+      "raw_response": "{\n    \"video_id\": \"-RgdgqF9wd0\",\n    \"chunk_id\": \"strategy_b_chunk_1\",\n    \"segment_analyses\": [\n        {\n            \"segment_id\": 3,\n            \"start_time\": 87.52,\n            \"end_time\": 121.16,\n            \"primary_point\": \"P1 | P2\",\n            \"function\": \"DIRECT_POINT\",\n            \"relevance\": \"DIRECT\",\n            \"confidence\": 0.95,\n            \"evidence\": \"सिर्फ 43% ही रेवेन्यू है इनका जो डिपॉजिटरी से आता है और बाकी जो 6% रेवेन्यू है वह आता है इनका डेटाबेस मैनेजमेंट से। वहीं पर अगर हम सीडीएसएल की बात करें तो सीडीएसएल का लगभग 80% रेवेन्यू डिपॉजिटरी सर्विज से आता है।\"\n        },\n        {\n            \"segment_id\": 4,\n            \"start_time\": 121.16,\n            \"end_time\": 169.68,\n            \"primary_point\": \"P1\",\n            \"function\": \"DIRECT_POINT\",\n            \"relevance\": \"DIRECT\",\n            \"confidence\": 0.95,\n            \"evidence\": \"कंपनी का रेवेन्यू लगभग 1400 करोड़ का है और उसमें से लगभग 51% रेवेन्यू यानी 79 करोड़ का रेवेन्यू इनका एनएसएल के पेमेंट बैंक से आया है।\"\n        },\n        {\n            \"segment_id\": 5,\n            \"start_time\": 169.68,\n            \"end_time\": 212.92,\n            \"primary_point\": \"P1 | P3\",\n            \"function\": \"SUPPORTING_EXPLANATION\",\n            \"relevance\": \"DIRECT\",\n            \"confidence\": 0.95,\n            \"evidence\": \"एनएसडीएल को पिछले फाइनेंसियल ईयर में 343 करोड़ का प्रॉफिट हुआ है। उसमें से ₹ करोड़ का कंट्रीब्यूशन इस पेमेंट बैंक का है।\"\n        },\n        {\n            \"segment_id\": 6,\n            \"start_time\": 212.92,\n            \"end_time\": 257.96,\n            \"primary_point\": \"NONE\",\n            \"function\": \"OFF_TOPIC\",\n            \"relevance\": \"OFF_TOPIC\",\n            \"confidence\": 0.98,\n            \"evidence\": \"वीडियो में आगे बढ़ने से पहले आपको एक बात बोलना चाहूंगा कि आप एक चीज मिस कर रहे हो। वो क्या? तो ढेरों सारा कैशबैक पाने का मौका।\"\n        },\n        {\n            \"segment_id\": 7,\n            \"start_time\": 257.96,\n            \"end_time\": 297.68,\n            \"primary_point\": \"NONE\",\n            \"function\": \"OFF_TOPIC\",\n            \"relevance\": \"OFF_TOPIC\",\n            \"confidence\": 0.98,\n            \"evidence\": \"क्रेडिट पे से आपको यूपीआई कैशबैक मिलता है और Yes Bank की तरफ से आपको मिलते हैं रिवॉर्ड पॉइंट्स जब आप बाकी कैटेगरीज में स्पेंड करते हो।\"\n        }\n    ]\n}",
+      "parsed_json": {
+        "video_id": "-RgdgqF9wd0",
+        "chunk_id": "strategy_b_chunk_1",
+        "segment_analyses": [
+          {
+            "segment_id": 3,
+            "start_time": 87.519,
+            "end_time": 121.16,
+            "primary_point": "P1 | P2",
+            "function": "DIRECT_POINT",
+            "relevance": "DIRECT",
+            "confidence": 0.95,
+            "evidence": "सिर्फ 43% ही रेवेन्यू है इनका जो डिपॉजिटरी से आता है और बाकी जो 6% रेवेन्यू है वह आता है इनका डेटाबेस मैनेजमेंट से। वहीं पर अगर हम सीडीएसएल की बात करें तो सीडीएसएल का लगभग 80% रेवेन्यू डिपॉजिटरी सर्विज से आता है।"
+          },
+          {
+            "segment_id": 4,
+            "start_time": 121.16,
+            "end_time": 169.68,
+            "primary_point": "P1",
+            "function": "DIRECT_POINT",
+            "relevance": "DIRECT",
+            "confidence": 0.95,
+            "evidence": "कंपनी का रेवेन्यू लगभग 1400 करोड़ का है और उसमें से लगभग 51% रेवेन्यू यानी 79 करोड़ का रेवेन्यू इनका एनएसएल के पेमेंट बैंक से आया है।"
+          },
+          {
+            "segment_id": 5,
+            "start_time": 169.68,
+            "end_time": 212.92,
+            "primary_point": "P1 | P3",
+            "function": "SUPPORTING_EXPLANATION",
+            "relevance": "DIRECT",
+            "confidence": 0.95,
+            "evidence": "एनएसडीएल को पिछले फाइनेंसियल ईयर में 343 करोड़ का प्रॉफिट हुआ है। उसमें से ₹ करोड़ का कंट्रीब्यूशन इस पेमेंट बैंक का है।"
+          },
+          {
+            "segment_id": 6,
+            "start_time": 212.92,
+            "end_time": 257.96,
+            "primary_point": "NONE",
+            "function": "OFF_TOPIC",
+            "relevance": "OFF_TOPIC",
+            "confidence": 0.98,
+            "evidence": "वीडियो में आगे बढ़ने से पहले आपको एक बात बोलना चाहूंगा कि आप एक चीज मिस कर रहे हो। वो क्या? तो ढेरों सारा कैशबैक पाने का मौका।"
+          },
+          {
+            "segment_id": 7,
+            "start_time": 257.96,
+            "end_time": 297.679,
+            "primary_point": "NONE",
+            "function": "OFF_TOPIC",
+            "relevance": "OFF_TOPIC",
+            "confidence": 0.98,
+            "evidence": "क्रेडिट पे से आपको यूपीआई कैशबैक मिलता है और Yes Bank की तरफ से आपको मिलते हैं रिवॉर्ड पॉइंट्स जब आप बाकी कैटेगरीज में स्पेंड करते हो।"
+          }
+        ]
+      },
+      "segment_analyses": [
+        {
+          "segment_id": 3,
+          "start_time": 87.519,
+          "end_time": 121.16,
+          "primary_point": "P1 | P2",
+          "function": "DIRECT_POINT",
+          "relevance": "DIRECT",
+          "confidence": 0.95,
+          "evidence": "सिर्फ 43% ही रेवेन्यू है इनका जो डिपॉजिटरी से आता है और बाकी जो 6% रेवेन्यू है वह आता है इनका डेटाबेस मैनेजमेंट से। वहीं पर अगर हम सीडीएसएल की बात करें तो सीडीएसएल का लगभग 80% रेवेन्यू डिपॉजिटरी सर्विज से आता है।"
+        },
+        {
+          "segment_id": 4,
+          "start_time": 121.16,
+          "end_time": 169.68,
+          "primary_point": "P1",
+          "function": "DIRECT_POINT",
+          "relevance": "DIRECT",
+          "confidence": 0.95,
+          "evidence": "कंपनी का रेवेन्यू लगभग 1400 करोड़ का है और उसमें से लगभग 51% रेवेन्यू यानी 79 करोड़ का रेवेन्यू इनका एनएसएल के पेमेंट बैंक से आया है।"
+        },
+        {
+          "segment_id": 5,
+          "start_time": 169.68,
+          "end_time": 212.92,
+          "primary_point": "P1 | P3",
+          "function": "SUPPORTING_EXPLANATION",
+          "relevance": "DIRECT",
+          "confidence": 0.95,
+          "evidence": "एनएसडीएल को पिछले फाइनेंसियल ईयर में 343 करोड़ का प्रॉफिट हुआ है। उसमें से ₹ करोड़ का कंट्रीब्यूशन इस पेमेंट बैंक का है।"
+        },
+        {
+          "segment_id": 6,
+          "start_time": 212.92,
+          "end_time": 257.96,
+          "primary_point": "NONE",
+          "function": "OFF_TOPIC",
+          "relevance": "OFF_TOPIC",
+          "confidence": 0.98,
+          "evidence": "वीडियो में आगे बढ़ने से पहले आपको एक बात बोलना चाहूंगा कि आप एक चीज मिस कर रहे हो। वो क्या? तो ढेरों सारा कैशबैक पाने का मौका।"
+        },
+        {
+          "segment_id": 7,
+          "start_time": 257.96,
+          "end_time": 297.679,
+          "primary_point": "NONE",
+          "function": "OFF_TOPIC",
+          "relevance": "OFF_TOPIC",
+          "confidence": 0.98,
+          "evidence": "क्रेडिट पे से आपको यूपीआई कैशबैक मिलता है और Yes Bank की तरफ से आपको मिलते हैं रिवॉर्ड पॉइंट्स जब आप बाकी कैटेगरीज में स्पेंड करते हो।"
+        }
+      ],
+      "input_char_count": 6805,
+      "output_char_count": 2276,
+      "latency_seconds": 225.758,
+      "json_valid": true,
+      "parse_error": ""
+    },
+    {
+      "chunk_id": "strategy_b_chunk_2",
+      "raw_response": "{\n    \"video_id\": \"-RgdgqF9wd0\",\n    \"chunk_id\": \"strategy_b_chunk_2\",\n    \"segment_analyses\": [\n        {\n            \"segment_id\": 8,\n            \"start_time\": 297.68,\n            \"end_time\": 347.40,\n            \"primary_point\": \"P2\",\n            \"function\": \"SUPPORTING_EXPLANATION\",\n            \"relevance\": \"DIRECT\",\n            \"confidence\": 0.95,\n            \"evidence\": \"NSDL की जो डीमेट अकाउंट ग्रोथ है पिछले 5 सालों की वह कंपाउंडेड सालाना 17% की है\"\n        },\n        {\n            \"segment_id\": 9,\n            \"start_time\": 347.40,\n            \"end_time\": 391.80,\n            \"primary_point\": \"P2\",\n            \"function\": \"SUPPORTING_EXPLANATION\",\n            \"relevance\": \"DIRECT\",\n            \"confidence\": 0.95,\n            \"evidence\": \"2016 के बाद धीरे-धीरे पूरा गेम सीडीएसएल के फेवर में चला गया और आज सीडीएसएल डिपॉज़िटरी गेम में मार्केट लीडर है\"\n        },\n        {\n            \"segment_id\": 10,\n            \"start_time\": 391.80,\n            \"end_time\": 434.56,\n            \"primary_point\": \"P2\",\n            \"function\": \"SUPPORTING_EXPLANATION\",\n            \"relevance\": \"DIRECT\",\n            \"confidence\": 0.95,\n            \"evidence\": \"CDSL के पास अगर देखा जाए तो आज के जो लीडिंग ब्रोकर्स हैं Zerodha Go Annjal वन ये तीनों भी CDSL के पास है\"\n        }\n    ]\n}",
+      "parsed_json": {
+        "video_id": "-RgdgqF9wd0",
+        "chunk_id": "strategy_b_chunk_2",
+        "segment_analyses": [
+          {
+            "segment_id": 8,
+            "start_time": 297.679,
+            "end_time": 347.4,
+            "primary_point": "P2",
+            "function": "SUPPORTING_EXPLANATION",
+            "relevance": "DIRECT",
+            "confidence": 0.95,
+            "evidence": "NSDL की जो डीमेट अकाउंट ग्रोथ है पिछले 5 सालों की वह कंपाउंडेड सालाना 17% की है"
+          },
+          {
+            "segment_id": 9,
+            "start_time": 347.4,
+            "end_time": 391.799,
+            "primary_point": "P2",
+            "function": "SUPPORTING_EXPLANATION",
+            "relevance": "DIRECT",
+            "confidence": 0.95,
+            "evidence": "2016 के बाद धीरे-धीरे पूरा गेम सीडीएसएल के फेवर में चला गया और आज सीडीएसएल डिपॉज़िटरी गेम में मार्केट लीडर है"
+          },
+          {
+            "segment_id": 10,
+            "start_time": 391.799,
+            "end_time": 434.56,
+            "primary_point": "P2",
+            "function": "SUPPORTING_EXPLANATION",
+            "relevance": "DIRECT",
+            "confidence": 0.95,
+            "evidence": "CDSL के पास अगर देखा जाए तो आज के जो लीडिंग ब्रोकर्स हैं Zerodha Go Annjal वन ये तीनों भी CDSL के पास है"
+          }
+        ]
+      },
+      "segment_analyses": [
+        {
+          "segment_id": 8,
+          "start_time": 297.679,
+          "end_time": 347.4,
+          "primary_point": "P2",
+          "function": "SUPPORTING_EXPLANATION",
+          "relevance": "DIRECT",
+          "confidence": 0.95,
+          "evidence": "NSDL की जो डीमेट अकाउंट ग्रोथ है पिछले 5 सालों की वह कंपाउंडेड सालाना 17% की है"
+        },
+        {
+          "segment_id": 9,
+          "start_time": 347.4,
+          "end_time": 391.799,
+          "primary_point": "P2",
+          "function": "SUPPORTING_EXPLANATION",
+          "relevance": "DIRECT",
+          "confidence": 0.95,
+          "evidence": "2016 के बाद धीरे-धीरे पूरा गेम सीडीएसएल के फेवर में चला गया और आज सीडीएसएल डिपॉज़िटरी गेम में मार्केट लीडर है"
+        },
+        {
+          "segment_id": 10,
+          "start_time": 391.799,
+          "end_time": 434.56,
+          "primary_point": "P2",
+          "function": "SUPPORTING_EXPLANATION",
+          "relevance": "DIRECT",
+          "confidence": 0.95,
+          "evidence": "CDSL के पास अगर देखा जाए तो आज के जो लीडिंग ब्रोकर्स हैं Zerodha Go Annjal वन ये तीनों भी CDSL के पास है"
+        }
+      ],
+      "input_char_count": 5294,
+      "output_char_count": 1281,
+      "latency_seconds": 187.333,
+      "json_valid": true,
+      "parse_error": ""
+    }
+  ],
+  "segment_map": {
+    "3": {
+      "segment_id": 3,
+      "start_time": 87.519,
+      "end_time": 121.16,
+      "primary_point": "P1 | P2",
+      "function": "DIRECT_POINT",
+      "relevance": "DIRECT",
+      "confidence": 0.95,
+      "evidence": "सिर्फ 43% ही रेवेन्यू है इनका जो डिपॉजिटरी से आता है और बाकी जो 6% रेवेन्यू है वह आता है इनका डेटाबेस मैनेजमेंट से। वहीं पर अगर हम सीडीएसएल की बात करें तो सीडीएसएल का लगभग 80% रेवेन्यू डिपॉजिटरी सर्विज से आता है।"
+    },
+    "4": {
+      "segment_id": 4,
+      "start_time": 121.16,
+      "end_time": 169.68,
+      "primary_point": "P1",
+      "function": "DIRECT_POINT",
+      "relevance": "DIRECT",
+      "confidence": 0.95,
+      "evidence": "कंपनी का रेवेन्यू लगभग 1400 करोड़ का है और उसमें से लगभग 51% रेवेन्यू यानी 79 करोड़ का रेवेन्यू इनका एनएसएल के पेमेंट बैंक से आया है।"
+    },
+    "5": {
+      "segment_id": 5,
+      "start_time": 169.68,
+      "end_time": 212.92,
+      "primary_point": "P1 | P3",
+      "function": "SUPPORTING_EXPLANATION",
+      "relevance": "DIRECT",
+      "confidence": 0.95,
+      "evidence": "एनएसडीएल को पिछले फाइनेंसियल ईयर में 343 करोड़ का प्रॉफिट हुआ है। उसमें से ₹ करोड़ का कंट्रीब्यूशन इस पेमेंट बैंक का है।"
+    },
+    "6": {
+      "segment_id": 6,
+      "start_time": 212.92,
+      "end_time": 257.96,
+      "primary_point": "NONE",
+      "function": "OFF_TOPIC",
+      "relevance": "OFF_TOPIC",
+      "confidence": 0.98,
+      "evidence": "वीडियो में आगे बढ़ने से पहले आपको एक बात बोलना चाहूंगा कि आप एक चीज मिस कर रहे हो। वो क्या? तो ढेरों सारा कैशबैक पाने का मौका।"
+    },
+    "7": {
+      "segment_id": 7,
+      "start_time": 257.96,
+      "end_time": 297.679,
+      "primary_point": "NONE",
+      "function": "OFF_TOPIC",
+      "relevance": "OFF_TOPIC",
+      "confidence": 0.98,
+      "evidence": "क्रेडिट पे से आपको यूपीआई कैशबैक मिलता है और Yes Bank की तरफ से आपको मिलते हैं रिवॉर्ड पॉइंट्स जब आप बाकी कैटेगरीज में स्पेंड करते हो।"
+    },
+    "8": {
+      "segment_id": 8,
+      "start_time": 297.679,
+      "end_time": 347.4,
+      "primary_point": "P2",
+      "function": "SUPPORTING_EXPLANATION",
+      "relevance": "DIRECT",
+      "confidence": 0.95,
+      "evidence": "NSDL की जो डीमेट अकाउंट ग्रोथ है पिछले 5 सालों की वह कंपाउंडेड सालाना 17% की है"
+    },
+    "9": {
+      "segment_id": 9,
+      "start_time": 347.4,
+      "end_time": 391.799,
+      "primary_point": "P2",
+      "function": "SUPPORTING_EXPLANATION",
+      "relevance": "DIRECT",
+      "confidence": 0.95,
+      "evidence": "2016 के बाद धीरे-धीरे पूरा गेम सीडीएसएल के फेवर में चला गया और आज सीडीएसएल डिपॉज़िटरी गेम में मार्केट लीडर है"
+    },
+    "10": {
+      "segment_id": 10,
+      "start_time": 391.799,
+      "end_time": 434.56,
+      "primary_point": "P2",
+      "function": "SUPPORTING_EXPLANATION",
+      "relevance": "DIRECT",
+      "confidence": 0.95,
+      "evidence": "CDSL के पास अगर देखा जाए तो आज के जो लीडिंग ब्रोकर्स हैं Zerodha Go Annjal वन ये तीनों भी CDSL के पास है"
+    }
+  }
+}

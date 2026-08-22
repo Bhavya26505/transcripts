@@ -1,0 +1,5057 @@
+{
+  "video_id": "-XwsCHg9fEA",
+  "language": "HINDI",
+  "duration_seconds": 1105.679,
+  "statistics": {
+    "raw_duration": 1105.679,
+    "preprocessed_duration": 1105.679,
+    "duration_difference": 0.0,
+    "word_count_before": 4620,
+    "word_count_after": 4620,
+    "sentence_count": 270,
+    "estimated_wpm": 250.71,
+    "filler_candidate_count": 26,
+    "filler_candidate_terms": {
+      "मतलब": 3,
+      "देखिए": 19,
+      "अरे": 4
+    },
+    "repeated_phrase_count": 0,
+    "entries_summary": {
+      "raw_entries": 578,
+      "changed_entries": 50,
+      "removed_entries": 0,
+      "merged_entries": 0,
+      "unchanged_entries": 528,
+      "final_entries": 578
+    }
+  },
+  "transformations_log": [
+    {
+      "subtitle_id": 3,
+      "action": "CHANGED",
+      "raw_text": "में सीज़ फायर हुए, मई में हुए नेगोशिएशंस,",
+      "normalized_text": "में सीज़ फायर हुए, मई में हुए नेगोशिएशंस,",
+      "transformation": "Unicode NFC Normalization, Whitespace Normalization",
+      "why_safe": "Standard Unicode NFC or whitespace/artifact normalization without altering semantic content"
+    },
+    {
+      "subtitle_id": 4,
+      "action": "CHANGED",
+      "raw_text": "जून में पीस इज़ नियर और जुलाई में सीज़",
+      "normalized_text": "जून में पीस इज़ नियर और जुलाई में सीज़",
+      "transformation": "Unicode NFC Normalization, Whitespace Normalization",
+      "why_safe": "Standard Unicode NFC or whitespace/artifact normalization without altering semantic content"
+    },
+    {
+      "subtitle_id": 68,
+      "action": "CHANGED",
+      "raw_text": "की जो टॉप 100 कंपनीज़ हैं, वह हर घंटा 30",
+      "normalized_text": "की जो टॉप 100 कंपनीज़ हैं, वह हर घंटा 30",
+      "transformation": "Unicode NFC Normalization, Whitespace Normalization",
+      "why_safe": "Standard Unicode NFC or whitespace/artifact normalization without altering semantic content"
+    },
+    {
+      "subtitle_id": 69,
+      "action": "CHANGED",
+      "raw_text": "मिलियन यानी कि लगभग $300 करोड़ एक्स्ट्रा",
+      "normalized_text": "मिलियन यानी कि लगभग $300 करोड़ एक्स्ट्रा",
+      "transformation": "Unicode NFC Normalization, Whitespace Normalization",
+      "why_safe": "Standard Unicode NFC or whitespace/artifact normalization without altering semantic content"
+    },
+    {
+      "subtitle_id": 72,
+      "action": "CHANGED",
+      "raw_text": "बिज़नेस अलग से। और कारण क्या? तो सिर्फ",
+      "normalized_text": "बिज़नेस अलग से। और कारण क्या? तो सिर्फ",
+      "transformation": "Unicode NFC Normalization, Whitespace Normalization",
+      "why_safe": "Standard Unicode NFC or whitespace/artifact normalization without altering semantic content"
+    },
+    {
+      "subtitle_id": 75,
+      "action": "CHANGED",
+      "raw_text": "बिलियन यानी ₹2,70,000 करोड़ एक्स्ट्रा",
+      "normalized_text": "बिलियन यानी ₹2,70,000 करोड़ एक्स्ट्रा",
+      "transformation": "Unicode NFC Normalization, Whitespace Normalization",
+      "why_safe": "Standard Unicode NFC or whitespace/artifact normalization without altering semantic content"
+    },
+    {
+      "subtitle_id": 77,
+      "action": "CHANGED",
+      "raw_text": "कंपनीज़? तो सबसे ज्यादा फायदा सऊदी",
+      "normalized_text": "कंपनीज़? तो सबसे ज्यादा फायदा सऊदी",
+      "transformation": "Unicode NFC Normalization, Whitespace Normalization",
+      "why_safe": "Standard Unicode NFC or whitespace/artifact normalization without altering semantic content"
+    },
+    {
+      "subtitle_id": 78,
+      "action": "CHANGED",
+      "raw_text": "अरेबिया की सबसे बड़ी कंपनी अरेमको को हुआ।",
+      "normalized_text": "अरेबिया की सबसे बड़ी कंपनी अरेमको को हुआ।",
+      "transformation": "Unicode NFC Normalization, Whitespace Normalization",
+      "why_safe": "Standard Unicode NFC or whitespace/artifact normalization without altering semantic content"
+    },
+    {
+      "subtitle_id": 81,
+      "action": "CHANGED",
+      "raw_text": "जो कंपनीज़ है जैसे कि eon मोबिल शेरोन,",
+      "normalized_text": "जो कंपनीज़ है जैसे कि eon मोबिल शेरोन,",
+      "transformation": "Unicode NFC Normalization, Whitespace Normalization",
+      "why_safe": "Standard Unicode NFC or whitespace/artifact normalization without altering semantic content"
+    },
+    {
+      "subtitle_id": 82,
+      "action": "CHANGED",
+      "raw_text": "शेलel इन सारी तमाम कंपनीज़ को यहां पर",
+      "normalized_text": "शेलel इन सारी तमाम कंपनीज़ को यहां पर",
+      "transformation": "Unicode NFC Normalization, Whitespace Normalization",
+      "why_safe": "Standard Unicode NFC or whitespace/artifact normalization without altering semantic content"
+    },
+    {
+      "subtitle_id": 84,
+      "action": "CHANGED",
+      "raw_text": "गई कंपनीज़ की बात। अब ऑयल कंपनीज़ के जो",
+      "normalized_text": "गई कंपनीज़ की बात। अब ऑयल कंपनीज़ के जो",
+      "transformation": "Unicode NFC Normalization, Whitespace Normalization",
+      "why_safe": "Standard Unicode NFC or whitespace/artifact normalization without altering semantic content"
+    },
+    {
+      "subtitle_id": 86,
+      "action": "CHANGED",
+      "raw_text": "बड़ी-बड़ी ऑयल कंपनीज़ के एग्जीक्यूटिव्स",
+      "normalized_text": "बड़ी-बड़ी ऑयल कंपनीज़ के एग्जीक्यूटिव्स",
+      "transformation": "Unicode NFC Normalization, Whitespace Normalization",
+      "why_safe": "Standard Unicode NFC or whitespace/artifact normalization without altering semantic content"
+    },
+    {
+      "subtitle_id": 87,
+      "action": "CHANGED",
+      "raw_text": "ने 14,000 करोड़ के अपने शेयर्स बेच दिए।",
+      "normalized_text": "ने 14,000 करोड़ के अपने शेयर्स बेच दिए।",
+      "transformation": "Unicode NFC Normalization, Whitespace Normalization",
+      "why_safe": "Standard Unicode NFC or whitespace/artifact normalization without altering semantic content"
+    },
+    {
+      "subtitle_id": 91,
+      "action": "CHANGED",
+      "raw_text": "आप सोचेंगे कि यार ये ऑयल कंपनीज़ को फायदा",
+      "normalized_text": "आप सोचेंगे कि यार ये ऑयल कंपनीज़ को फायदा",
+      "transformation": "Unicode NFC Normalization, Whitespace Normalization",
+      "why_safe": "Standard Unicode NFC or whitespace/artifact normalization without altering semantic content"
+    },
+    {
+      "subtitle_id": 103,
+      "action": "CHANGED",
+      "raw_text": "बट फर्क इतना है कि बिज़नेस से अकाउंट से",
+      "normalized_text": "बट फर्क इतना है कि बिज़नेस से अकाउंट से",
+      "transformation": "Unicode NFC Normalization, Whitespace Normalization",
+      "why_safe": "Standard Unicode NFC or whitespace/artifact normalization without altering semantic content"
+    },
+    {
+      "subtitle_id": 114,
+      "action": "CHANGED",
+      "raw_text": "जैसे कि ऑयल एंड गैस इंडस्ट्री बिकॉज़ जो",
+      "normalized_text": "जैसे कि ऑयल एंड गैस इंडस्ट्री बिकॉज़ जो",
+      "transformation": "Unicode NFC Normalization, Whitespace Normalization",
+      "why_safe": "Standard Unicode NFC or whitespace/artifact normalization without altering semantic content"
+    },
+    {
+      "subtitle_id": 144,
+      "action": "CHANGED",
+      "raw_text": "डॉन्ड ट्रंप के सबसे बड़े सपोर्टर हैं।",
+      "normalized_text": "डॉन्ड ट्रंप के सबसे बड़े सपोर्टर हैं।",
+      "transformation": "Unicode NFC Normalization, Whitespace Normalization",
+      "why_safe": "Standard Unicode NFC or whitespace/artifact normalization without altering semantic content"
+    },
+    {
+      "subtitle_id": 145,
+      "action": "CHANGED",
+      "raw_text": "इनफैक्ट ही वाज़ द वन जो $1 बिलियन रेज़",
+      "normalized_text": "इनफैक्ट ही वाज़ द वन जो $1 बिलियन रेज़",
+      "transformation": "Unicode NFC Normalization, Whitespace Normalization",
+      "why_safe": "Standard Unicode NFC or whitespace/artifact normalization without altering semantic content"
+    },
+    {
+      "subtitle_id": 149,
+      "action": "CHANGED",
+      "raw_text": "कंपनीज़ से। और फिर अगर कोई भी कंपनी",
+      "normalized_text": "कंपनीज़ से। और फिर अगर कोई भी कंपनी",
+      "transformation": "Unicode NFC Normalization, Whitespace Normalization",
+      "why_safe": "Standard Unicode NFC or whitespace/artifact normalization without altering semantic content"
+    },
+    {
+      "subtitle_id": 150,
+      "action": "CHANGED",
+      "raw_text": "फंडिंग देगी तो फ्री में थोड़ी ना देगी। और",
+      "normalized_text": "फंडिंग देगी तो फ्री में थोड़ी ना देगी। और",
+      "transformation": "Unicode NFC Normalization, Whitespace Normalization",
+      "why_safe": "Standard Unicode NFC or whitespace/artifact normalization without altering semantic content"
+    },
+    {
+      "subtitle_id": 152,
+      "action": "CHANGED",
+      "raw_text": "दिस इज अ सिंपल पेबैक टाइम। ऑयल कंपनीज़ को",
+      "normalized_text": "दिस इज अ सिंपल पेबैक टाइम। ऑयल कंपनीज़ को",
+      "transformation": "Unicode NFC Normalization, Whitespace Normalization",
+      "why_safe": "Standard Unicode NFC or whitespace/artifact normalization without altering semantic content"
+    },
+    {
+      "subtitle_id": 153,
+      "action": "CHANGED",
+      "raw_text": "भी फायदा हो रहा है। कंपनीज़ की शेयर",
+      "normalized_text": "भी फायदा हो रहा है। कंपनीज़ की शेयर",
+      "transformation": "Unicode NFC Normalization, Whitespace Normalization",
+      "why_safe": "Standard Unicode NFC or whitespace/artifact normalization without altering semantic content"
+    },
+    {
+      "subtitle_id": 154,
+      "action": "CHANGED",
+      "raw_text": "प्राइसेस भी बढ़ रही है और एग्जीक्यूटिव्स",
+      "normalized_text": "प्राइसेस भी बढ़ रही है और एग्जीक्यूटिव्स",
+      "transformation": "Unicode NFC Normalization, Whitespace Normalization",
+      "why_safe": "Standard Unicode NFC or whitespace/artifact normalization without altering semantic content"
+    },
+    {
+      "subtitle_id": 156,
+      "action": "CHANGED",
+      "raw_text": "ज्यादा बना रहे हैं। वीडियो में आगे बढ़ने",
+      "normalized_text": "ज्यादा बना रहे हैं। वीडियो में आगे बढ़ने",
+      "transformation": "Unicode NFC Normalization, Whitespace Normalization",
+      "why_safe": "Standard Unicode NFC or whitespace/artifact normalization without altering semantic content"
+    },
+    {
+      "subtitle_id": 179,
+      "action": "CHANGED",
+      "raw_text": "इन्वेस्टिंग आए। इसी विज़न के साथ हमने",
+      "normalized_text": "इन्वेस्टिंग आए। इसी विज़न के साथ हमने",
+      "transformation": "Unicode NFC Normalization, Whitespace Normalization",
+      "why_safe": "Standard Unicode NFC or whitespace/artifact normalization without altering semantic content"
+    },
+    {
+      "subtitle_id": 182,
+      "action": "CHANGED",
+      "raw_text": "के सातों स्ट्रेटजीज़ सिखाते हैं। जिसमें",
+      "normalized_text": "के सातों स्ट्रेटजीज़ सिखाते हैं। जिसमें",
+      "transformation": "Unicode NFC Normalization, Whitespace Normalization",
+      "why_safe": "Standard Unicode NFC or whitespace/artifact normalization without altering semantic content"
+    },
+    {
+      "subtitle_id": 215,
+      "action": "CHANGED",
+      "raw_text": "मिलता है। मतलब ही इज़ अ काइंड ऑफ़ पर्सन जो",
+      "normalized_text": "मिलता है। मतलब ही इज़ अ काइंड ऑफ़ पर्सन जो",
+      "transformation": "Unicode NFC Normalization, Whitespace Normalization",
+      "why_safe": "Standard Unicode NFC or whitespace/artifact normalization without altering semantic content"
+    },
+    {
+      "subtitle_id": 234,
+      "action": "CHANGED",
+      "raw_text": "फिर रशिया के एसेट्स फ्रीज़ करने का मुद्दा",
+      "normalized_text": "फिर रशिया के एसेट्स फ्रीज़ करने का मुद्दा",
+      "transformation": "Unicode NFC Normalization, Whitespace Normalization",
+      "why_safe": "Standard Unicode NFC or whitespace/artifact normalization without altering semantic content"
+    },
+    {
+      "subtitle_id": 235,
+      "action": "CHANGED",
+      "raw_text": "ले लो। इन सब इशूज़ के बाद में एक मूवमेंट",
+      "normalized_text": "ले लो। इन सब इशूज़ के बाद में एक मूवमेंट",
+      "transformation": "Unicode NFC Normalization, Whitespace Normalization",
+      "why_safe": "Standard Unicode NFC or whitespace/artifact normalization without altering semantic content"
+    },
+    {
+      "subtitle_id": 295,
+      "action": "CHANGED",
+      "raw_text": "इकॉनमीज़ हैं उनके कंपैरिजन में यूएस की",
+      "normalized_text": "इकॉनमीज़ हैं उनके कंपैरिजन में यूएस की",
+      "transformation": "Unicode NFC Normalization, Whitespace Normalization",
+      "why_safe": "Standard Unicode NFC or whitespace/artifact normalization without altering semantic content"
+    },
+    {
+      "subtitle_id": 311,
+      "action": "CHANGED",
+      "raw_text": "तेजी से गिर रहा था। सो होप दिस इज़ क्लियर",
+      "normalized_text": "तेजी से गिर रहा था। सो होप दिस इज़ क्लियर",
+      "transformation": "Unicode NFC Normalization, Whitespace Normalization",
+      "why_safe": "Standard Unicode NFC or whitespace/artifact normalization without altering semantic content"
+    },
+    {
+      "subtitle_id": 373,
+      "action": "CHANGED",
+      "raw_text": "ये न्यूज़ हर जगह फैलने लगी कि बहुत बड़ा",
+      "normalized_text": "ये न्यूज़ हर जगह फैलने लगी कि बहुत बड़ा",
+      "transformation": "Unicode NFC Normalization, Whitespace Normalization",
+      "why_safe": "Standard Unicode NFC or whitespace/artifact normalization without altering semantic content"
+    },
+    {
+      "subtitle_id": 375,
+      "action": "CHANGED",
+      "raw_text": "न्यूज़ सुनकर बहुत ज्यादा लोग वहां पर बड़ी",
+      "normalized_text": "न्यूज़ सुनकर बहुत ज्यादा लोग वहां पर बड़ी",
+      "transformation": "Unicode NFC Normalization, Whitespace Normalization",
+      "why_safe": "Standard Unicode NFC or whitespace/artifact normalization without altering semantic content"
+    },
+    {
+      "subtitle_id": 408,
+      "action": "CHANGED",
+      "raw_text": "बिज़नेस में एंट्री लेंगे और यहीं से फिर",
+      "normalized_text": "बिज़नेस में एंट्री लेंगे और यहीं से फिर",
+      "transformation": "Unicode NFC Normalization, Whitespace Normalization",
+      "why_safe": "Standard Unicode NFC or whitespace/artifact normalization without altering semantic content"
+    },
+    {
+      "subtitle_id": 410,
+      "action": "CHANGED",
+      "raw_text": "रियलस्टेट बिज़नेस की और वर्ल्ड वॉर टू के",
+      "normalized_text": "रियलस्टेट बिज़नेस की और वर्ल्ड वॉर टू के",
+      "transformation": "Unicode NFC Normalization, Whitespace Normalization",
+      "why_safe": "Standard Unicode NFC or whitespace/artifact normalization without altering semantic content"
+    },
+    {
+      "subtitle_id": 430,
+      "action": "CHANGED",
+      "raw_text": "फ़ॉर्च्यून बनी है ट्रंप फैमिली की वह इसी",
+      "normalized_text": "फ़ॉर्च्यून बनी है ट्रंप फैमिली की वह इसी",
+      "transformation": "Unicode NFC Normalization, Whitespace Normalization",
+      "why_safe": "Standard Unicode NFC or whitespace/artifact normalization without altering semantic content"
+    },
+    {
+      "subtitle_id": 432,
+      "action": "CHANGED",
+      "raw_text": "ऑफ़ द रिचेस्ट पर्सन थे न्यूयॉर्क के। वैसे",
+      "normalized_text": "ऑफ़ द रिचेस्ट पर्सन थे न्यूयॉर्क के। वैसे",
+      "transformation": "Unicode NFC Normalization, Whitespace Normalization",
+      "why_safe": "Standard Unicode NFC or whitespace/artifact normalization without altering semantic content"
+    },
+    {
+      "subtitle_id": 447,
+      "action": "CHANGED",
+      "raw_text": "बहुत सारे लोन उठाए जिन्हें उनकी कंपनीज़",
+      "normalized_text": "बहुत सारे लोन उठाए जिन्हें उनकी कंपनीज़",
+      "transformation": "Unicode NFC Normalization, Whitespace Normalization",
+      "why_safe": "Standard Unicode NFC or whitespace/artifact normalization without altering semantic content"
+    },
+    {
+      "subtitle_id": 448,
+      "action": "CHANGED",
+      "raw_text": "बाद में चुका नहीं पाई। और यही रीज़न था कि",
+      "normalized_text": "बाद में चुका नहीं पाई। और यही रीज़न था कि",
+      "transformation": "Unicode NFC Normalization, Whitespace Normalization",
+      "why_safe": "Standard Unicode NFC or whitespace/artifact normalization without altering semantic content"
+    },
+    {
+      "subtitle_id": 449,
+      "action": "CHANGED",
+      "raw_text": "उनकी कंपनीज़ ने कुल मिलाकर छह बार",
+      "normalized_text": "उनकी कंपनीज़ ने कुल मिलाकर छह बार",
+      "transformation": "Unicode NFC Normalization, Whitespace Normalization",
+      "why_safe": "Standard Unicode NFC or whitespace/artifact normalization without altering semantic content"
+    },
+    {
+      "subtitle_id": 454,
+      "action": "CHANGED",
+      "raw_text": "बनाया वो अपने नाम को यूज़ करने के बदले",
+      "normalized_text": "बनाया वो अपने नाम को यूज़ करने के बदले",
+      "transformation": "Unicode NFC Normalization, Whitespace Normalization",
+      "why_safe": "Standard Unicode NFC or whitespace/artifact normalization without altering semantic content"
+    },
+    {
+      "subtitle_id": 458,
+      "action": "CHANGED",
+      "raw_text": "ट्रंप ने नहीं बनाया। वो लोढ़ा ग्रुप ने",
+      "normalized_text": "ट्रंप ने नहीं बनाया। वो लोढ़ा ग्रुप ने",
+      "transformation": "Unicode NFC Normalization, Whitespace Normalization",
+      "why_safe": "Standard Unicode NFC or whitespace/artifact normalization without altering semantic content"
+    },
+    {
+      "subtitle_id": 459,
+      "action": "CHANGED",
+      "raw_text": "बनाया है। बस ट्रंप का नाम यूज़ किया तो",
+      "normalized_text": "बनाया है। बस ट्रंप का नाम यूज़ किया तो",
+      "transformation": "Unicode NFC Normalization, Whitespace Normalization",
+      "why_safe": "Standard Unicode NFC or whitespace/artifact normalization without altering semantic content"
+    },
+    {
+      "subtitle_id": 460,
+      "action": "CHANGED",
+      "raw_text": "ट्रंप को एक फीस उन्हें देनी पड़ी। इस चीज",
+      "normalized_text": "ट्रंप को एक फीस उन्हें देनी पड़ी। इस चीज",
+      "transformation": "Unicode NFC Normalization, Whitespace Normalization",
+      "why_safe": "Standard Unicode NFC or whitespace/artifact normalization without altering semantic content"
+    },
+    {
+      "subtitle_id": 479,
+      "action": "CHANGED",
+      "raw_text": "कंपनीज़ को धना धन प्रॉफिट मिलेगा। जैसे",
+      "normalized_text": "कंपनीज़ को धना धन प्रॉफिट मिलेगा। जैसे",
+      "transformation": "Unicode NFC Normalization, Whitespace Normalization",
+      "why_safe": "Standard Unicode NFC or whitespace/artifact normalization without altering semantic content"
+    },
+    {
+      "subtitle_id": 486,
+      "action": "CHANGED",
+      "raw_text": "ईरान के साथ इसलिए डील नहीं कर रहे बिकॉज़",
+      "normalized_text": "ईरान के साथ इसलिए डील नहीं कर रहे बिकॉज़",
+      "transformation": "Unicode NFC Normalization, Whitespace Normalization",
+      "why_safe": "Standard Unicode NFC or whitespace/artifact normalization without altering semantic content"
+    },
+    {
+      "subtitle_id": 519,
+      "action": "CHANGED",
+      "raw_text": "सेंट्रल बैंक्स और बाकी चीज़ बैकफायर करने",
+      "normalized_text": "सेंट्रल बैंक्स और बाकी चीज़ बैकफायर करने",
+      "transformation": "Unicode NFC Normalization, Whitespace Normalization",
+      "why_safe": "Standard Unicode NFC or whitespace/artifact normalization without altering semantic content"
+    },
+    {
+      "subtitle_id": 542,
+      "action": "CHANGED",
+      "raw_text": "है तो ईवी इंफ्रास्ट्रक्चर इज़ ओनली वे",
+      "normalized_text": "है तो ईवी इंफ्रास्ट्रक्चर इज़ ओनली वे",
+      "transformation": "Unicode NFC Normalization, Whitespace Normalization",
+      "why_safe": "Standard Unicode NFC or whitespace/artifact normalization without altering semantic content"
+    },
+    {
+      "subtitle_id": 547,
+      "action": "CHANGED",
+      "raw_text": "रहेगा बिकॉज़ डॉन्ड ट्रंप फिर से पूरा फोकस",
+      "normalized_text": "रहेगा बिकॉज़ डॉन्ड ट्रंप फिर से पूरा फोकस",
+      "transformation": "Unicode NFC Normalization, Whitespace Normalization",
+      "why_safe": "Standard Unicode NFC or whitespace/artifact normalization without altering semantic content"
+    },
+    {
+      "subtitle_id": 551,
+      "action": "CHANGED",
+      "raw_text": "कोई बेवकूफ आदमी नहीं है। ही इज़ अ वेरी",
+      "normalized_text": "कोई बेवकूफ आदमी नहीं है। ही इज़ अ वेरी",
+      "transformation": "Unicode NFC Normalization, Whitespace Normalization",
+      "why_safe": "Standard Unicode NFC or whitespace/artifact normalization without altering semantic content"
+    }
+  ],
+  "segments": [
+    {
+      "subtitle_ids": [
+        1
+      ],
+      "start": 0.0,
+      "end": 4.16,
+      "text": "देखिए फरवरी में हमने फाइटर जेट्स देखे।"
+    },
+    {
+      "subtitle_ids": [
+        2
+      ],
+      "start": 2.24,
+      "end": 6.72,
+      "text": "मार्च में मिसाइल स्ट्र्राइक्स, अप्रैल"
+    },
+    {
+      "subtitle_ids": [
+        3
+      ],
+      "start": 4.16,
+      "end": 10.08,
+      "text": "में सीज़ फायर हुए, मई में हुए नेगोशिएशंस,"
+    },
+    {
+      "subtitle_ids": [
+        4
+      ],
+      "start": 6.72,
+      "end": 12.4,
+      "text": "जून में पीस इज़ नियर और जुलाई में सीज़"
+    },
+    {
+      "subtitle_ids": [
+        5
+      ],
+      "start": 10.08,
+      "end": 14.4,
+      "text": "फायर इज ओवर। यानी कि अगर आप पिछले 5 6"
+    },
+    {
+      "subtitle_ids": [
+        6
+      ],
+      "start": 12.4,
+      "end": 16.4,
+      "text": "महीनों का कैलेंडर देखेंगे तो आपको लगेगा"
+    },
+    {
+      "subtitle_ids": [
+        7
+      ],
+      "start": 14.4,
+      "end": 18.64,
+      "text": "कि ट्रंप कोई फॉरेन पॉलिसी नहीं बल्कि"
+    },
+    {
+      "subtitle_ids": [
+        8
+      ],
+      "start": 16.4,
+      "end": 20.88,
+      "text": "Netflix सीरीज चला रहे हैं। एक महीने वॉर,"
+    },
+    {
+      "subtitle_ids": [
+        9
+      ],
+      "start": 18.64,
+      "end": 22.32,
+      "text": "फिर पीस, फिर वॉर और यह चलता ही जा रहा"
+    },
+    {
+      "subtitle_ids": [
+        10
+      ],
+      "start": 20.88,
+      "end": 24.16,
+      "text": "है। अब इसी के साथ-साथ हो क्या रहा है?"
+    },
+    {
+      "subtitle_ids": [
+        11
+      ],
+      "start": 22.32,
+      "end": 26.32,
+      "text": "कभी ऑयल प्राइस ऊपर, कभी ऑयल प्राइस नीचे,"
+    },
+    {
+      "subtitle_ids": [
+        12
+      ],
+      "start": 24.16,
+      "end": 28.24,
+      "text": "स्टॉक मार्केट ऊपर, नीचे, ऊपर, नीचे। अब"
+    },
+    {
+      "subtitle_ids": [
+        13
+      ],
+      "start": 26.32,
+      "end": 30.48,
+      "text": "यह सारी चीजें देखकर ज्यादातर लोगों को तो"
+    },
+    {
+      "subtitle_ids": [
+        14
+      ],
+      "start": 28.24,
+      "end": 32.8,
+      "text": "यही लगता है कि ट्रंप एक सन के आदमी है।"
+    },
+    {
+      "subtitle_ids": [
+        15
+      ],
+      "start": 30.48,
+      "end": 34.48,
+      "text": "मूड के हिसाब से डिसीजन लेता है। लेकिन आज"
+    },
+    {
+      "subtitle_ids": [
+        16
+      ],
+      "start": 32.8,
+      "end": 36.079,
+      "text": "मैं आपको बताने वाला हूं कि अगर आप ऐसा"
+    },
+    {
+      "subtitle_ids": [
+        17
+      ],
+      "start": 34.48,
+      "end": 38.719,
+      "text": "सोच रहे हैं तो आप गलत है। क्योंकि डॉन्ड"
+    },
+    {
+      "subtitle_ids": [
+        18
+      ],
+      "start": 36.079,
+      "end": 41.04,
+      "text": "ट्रंप की हर एक डिसीजन एक कैलकुलेटेड होती"
+    },
+    {
+      "subtitle_ids": [
+        19
+      ],
+      "start": 38.719,
+      "end": 43.44,
+      "text": "है। प्रॉपर स्ट्रेटजी का एक पार्ट होती है"
+    },
+    {
+      "subtitle_ids": [
+        20
+      ],
+      "start": 41.04,
+      "end": 45.04,
+      "text": "जिसका एक पैटर्न मैं आपके साथ आज साझा"
+    },
+    {
+      "subtitle_ids": [
+        21
+      ],
+      "start": 43.44,
+      "end": 46.64,
+      "text": "करने वाला हूं। और यह एक ऐसा पैटर्न है जो"
+    },
+    {
+      "subtitle_ids": [
+        22
+      ],
+      "start": 45.04,
+      "end": 48.399,
+      "text": "न्यूज़ की हेडलाइंस देखकर आपको समझ में"
+    },
+    {
+      "subtitle_ids": [
+        23
+      ],
+      "start": 46.64,
+      "end": 49.92,
+      "text": "नहीं आएगा। उसके लिए थोड़ा हमें उसके पीछे"
+    },
+    {
+      "subtitle_ids": [
+        24
+      ],
+      "start": 48.399,
+      "end": 51.92,
+      "text": "जाना पड़ेगा। तो अल्टीमेटली इस वीडियो में"
+    },
+    {
+      "subtitle_ids": [
+        25
+      ],
+      "start": 49.92,
+      "end": 54.16,
+      "text": "आपको पता चलेगा कि डॉन्ड ट्रंप ऐसा क्यों"
+    },
+    {
+      "subtitle_ids": [
+        26
+      ],
+      "start": 51.92,
+      "end": 56.079,
+      "text": "कर रहे हैं और आगे भी इस तरह की"
+    },
+    {
+      "subtitle_ids": [
+        27
+      ],
+      "start": 54.16,
+      "end": 58.48,
+      "text": "वोलेटिलिटी वह मार्केट में क्यों जारी"
+    },
+    {
+      "subtitle_ids": [
+        28
+      ],
+      "start": 56.079,
+      "end": 60.239,
+      "text": "रखेंगे पर्टिकुलरली ईरान वॉर को लेकर। अब"
+    },
+    {
+      "subtitle_ids": [
+        29
+      ],
+      "start": 58.48,
+      "end": 62.079,
+      "text": "डॉन्ड ट्रंप का जो शातिर दिमागी है इसके"
+    },
+    {
+      "subtitle_ids": [
+        30
+      ],
+      "start": 60.239,
+      "end": 63.92,
+      "text": "पीछे उनके दादा जी का बहुत बड़ा रोल है"
+    },
+    {
+      "subtitle_ids": [
+        31
+      ],
+      "start": 62.079,
+      "end": 65.199,
+      "text": "जिनके बारे में बहुत कम बात मीडिया में"
+    },
+    {
+      "subtitle_ids": [
+        32
+      ],
+      "start": 63.92,
+      "end": 66.799,
+      "text": "होती है। तो उनकी भी कुछ ऐसी चीजें"
+    },
+    {
+      "subtitle_ids": [
+        33
+      ],
+      "start": 65.199,
+      "end": 68.479,
+      "text": "बताऊंगा जिसके बाद आपको पता चलेगा कि"
+    },
+    {
+      "subtitle_ids": [
+        34
+      ],
+      "start": 66.799,
+      "end": 70.479,
+      "text": "डॉन्ड ट्रंप ऐसे क्यों है। सो लेट्स"
+    },
+    {
+      "subtitle_ids": [
+        35
+      ],
+      "start": 68.479,
+      "end": 71.92,
+      "text": "बिगिन। नमस्कार मैं प्रसाद आपका आज के इस"
+    },
+    {
+      "subtitle_ids": [
+        36
+      ],
+      "start": 70.479,
+      "end": 73.76,
+      "text": "वीडियो में स्वागत करता हूं। अब देखिए"
+    },
+    {
+      "subtitle_ids": [
+        37
+      ],
+      "start": 71.92,
+      "end": 75.6,
+      "text": "डॉन्ड ट्रंप ये जो कुछ कर रहे हैं दो"
+    },
+    {
+      "subtitle_ids": [
+        38
+      ],
+      "start": 73.76,
+      "end": 77.439,
+      "text": "चीजों के लिए कर रहे हैं और इन दोनों"
+    },
+    {
+      "subtitle_ids": [
+        39
+      ],
+      "start": 75.6,
+      "end": 79.36,
+      "text": "चीजों का लेना देना है क्रूड ऑयल से। यानी"
+    },
+    {
+      "subtitle_ids": [
+        40
+      ],
+      "start": 77.439,
+      "end": 80.96,
+      "text": "कि अगर उनका अल्टीमेट मकसद देखा जाए तो वो"
+    },
+    {
+      "subtitle_ids": [
+        41
+      ],
+      "start": 79.36,
+      "end": 82.24,
+      "text": "है क्रूड ऑयल की प्राइस को बढ़ाना। लेकिन"
+    },
+    {
+      "subtitle_ids": [
+        42
+      ],
+      "start": 80.96,
+      "end": 83.92,
+      "text": "यहां पर एक प्रॉब्लम है। प्रॉब्लम यह है"
+    },
+    {
+      "subtitle_ids": [
+        43
+      ],
+      "start": 82.24,
+      "end": 85.759,
+      "text": "कि अगर क्रूड ऑयल की प्राइस बढ़ती है तो"
+    },
+    {
+      "subtitle_ids": [
+        44
+      ],
+      "start": 83.92,
+      "end": 88.08,
+      "text": "दुनिया भर के देशों को तो नुकसान होगा ही"
+    },
+    {
+      "subtitle_ids": [
+        45
+      ],
+      "start": 85.759,
+      "end": 89.36,
+      "text": "होगा लेकिन साथ ही अमेरिका को भी नुकसान"
+    },
+    {
+      "subtitle_ids": [
+        46
+      ],
+      "start": 88.08,
+      "end": 91.2,
+      "text": "होगा। तो क्योंकि देखिए क्रूड ऑयल की"
+    },
+    {
+      "subtitle_ids": [
+        47
+      ],
+      "start": 89.36,
+      "end": 93.119,
+      "text": "प्राइसेस बढ़ेगी तो ट्रांसपोर्टेशन महंगा"
+    },
+    {
+      "subtitle_ids": [
+        48
+      ],
+      "start": 91.2,
+      "end": 94.96,
+      "text": "होगा जिससे हर चीज महंगी होगी और"
+    },
+    {
+      "subtitle_ids": [
+        49
+      ],
+      "start": 93.119,
+      "end": 97.28,
+      "text": "पेट्रोलियम से दुनिया भर की चीजें बनती है"
+    },
+    {
+      "subtitle_ids": [
+        50
+      ],
+      "start": 94.96,
+      "end": 99.28,
+      "text": "जैसे कि पेंट, फर्टिलाइजर, इवन शैंपू भी।"
+    },
+    {
+      "subtitle_ids": [
+        51
+      ],
+      "start": 97.28,
+      "end": 101.28,
+      "text": "तो देखिए सारी चीजें महंगी होगी। यह सच है"
+    },
+    {
+      "subtitle_ids": [
+        52
+      ],
+      "start": 99.28,
+      "end": 102.799,
+      "text": "और इसमें अमेरिका का भी काफी सारा नुकसान"
+    },
+    {
+      "subtitle_ids": [
+        53
+      ],
+      "start": 101.28,
+      "end": 104.96,
+      "text": "होगा। लेकिन यहां पर आपको एक फाइनेंसियल"
+    },
+    {
+      "subtitle_ids": [
+        54
+      ],
+      "start": 102.799,
+      "end": 106.96,
+      "text": "कैलकुलेशन समझना पड़ेगा और वो डॉन्ड ट्रंप"
+    },
+    {
+      "subtitle_ids": [
+        55
+      ],
+      "start": 104.96,
+      "end": 108.88,
+      "text": "के हिसाब से ये है कि जितना नुकसान इससे"
+    },
+    {
+      "subtitle_ids": [
+        56
+      ],
+      "start": 106.96,
+      "end": 110.24,
+      "text": "अमेरिका को होगा उससे ज्यादा का फायदा"
+    },
+    {
+      "subtitle_ids": [
+        57
+      ],
+      "start": 108.88,
+      "end": 111.92,
+      "text": "होगा। अब देखिए फायदा कैसे होगा? तो"
+    },
+    {
+      "subtitle_ids": [
+        58
+      ],
+      "start": 110.24,
+      "end": 113.84,
+      "text": "मोटा-मोटे इसके दो तरीके हैं जैसा मैंने"
+    },
+    {
+      "subtitle_ids": [
+        59
+      ],
+      "start": 111.92,
+      "end": 116.399,
+      "text": "आपको पहले बताया। पहला फायदा है डोनाल्ड"
+    },
+    {
+      "subtitle_ids": [
+        60
+      ],
+      "start": 113.84,
+      "end": 118.079,
+      "text": "ट्रंप का खुद का और दूसरा फायदा है पूरे"
+    },
+    {
+      "subtitle_ids": [
+        61
+      ],
+      "start": 116.399,
+      "end": 119.84,
+      "text": "यूनाइटेड स्टेट्स का। तो देखिए इसमें जो"
+    },
+    {
+      "subtitle_ids": [
+        62
+      ],
+      "start": 118.079,
+      "end": 121.84,
+      "text": "पहला कारण है वो डॉन्ड ट्रंप का बहुत ही"
+    },
+    {
+      "subtitle_ids": [
+        63
+      ],
+      "start": 119.84,
+      "end": 122.88,
+      "text": "पर्सनल कारण है। और यह समझने से पहले आप"
+    },
+    {
+      "subtitle_ids": [
+        64
+      ],
+      "start": 121.84,
+      "end": 126.159,
+      "text": "यह क्लिप देख लीजिए।"
+    },
+    {
+      "subtitle_ids": [
+        65
+      ],
+      "start": 122.88,
+      "end": 129.599,
+      "text": "टॉप ऑल एंड गैस कंपनी इन द वर्ल्ड इन"
+    },
+    {
+      "subtitle_ids": [
+        66
+      ],
+      "start": 126.159,
+      "end": 131.84,
+      "text": "मार्च अबाउट 30 मिलियन"
+    },
+    {
+      "subtitle_ids": [
+        67
+      ],
+      "start": 129.599,
+      "end": 134.64,
+      "text": "अकॉर्डिंग टू द बेस्ट। यानी ऑयल इंडस्ट्री"
+    },
+    {
+      "subtitle_ids": [
+        68
+      ],
+      "start": 131.84,
+      "end": 137.44,
+      "text": "की जो टॉप 100 कंपनीज़ हैं, वह हर घंटा 30"
+    },
+    {
+      "subtitle_ids": [
+        69
+      ],
+      "start": 134.64,
+      "end": 138.959,
+      "text": "मिलियन यानी कि लगभग $300 करोड़ एक्स्ट्रा"
+    },
+    {
+      "subtitle_ids": [
+        70
+      ],
+      "start": 137.44,
+      "end": 140.319,
+      "text": "पैसे हर घंटे के बना रही है। मैं"
+    },
+    {
+      "subtitle_ids": [
+        71
+      ],
+      "start": 138.959,
+      "end": 142.4,
+      "text": "एक्स्ट्रा पैसों की बात कर रहा हूं नॉर्मल"
+    },
+    {
+      "subtitle_ids": [
+        72
+      ],
+      "start": 140.319,
+      "end": 144.319,
+      "text": "बिज़नेस अलग से। और कारण क्या? तो सिर्फ"
+    },
+    {
+      "subtitle_ids": [
+        73
+      ],
+      "start": 142.4,
+      "end": 146.16,
+      "text": "ईरान वॉर की वजह से सिर्फ और सिर्फ। और"
+    },
+    {
+      "subtitle_ids": [
+        74
+      ],
+      "start": 144.319,
+      "end": 149.92,
+      "text": "सिर्फ पिछले महीनों में इन्होंने $23"
+    },
+    {
+      "subtitle_ids": [
+        75
+      ],
+      "start": 146.16,
+      "end": 152.08,
+      "text": "बिलियन यानी ₹2,70,000 करोड़ एक्स्ट्रा"
+    },
+    {
+      "subtitle_ids": [
+        76
+      ],
+      "start": 149.92,
+      "end": 153.76,
+      "text": "अगेन एक्स्ट्रा कमा लिए। तो कौन थी ये"
+    },
+    {
+      "subtitle_ids": [
+        77
+      ],
+      "start": 152.08,
+      "end": 155.92,
+      "text": "कंपनीज़? तो सबसे ज्यादा फायदा सऊदी"
+    },
+    {
+      "subtitle_ids": [
+        78
+      ],
+      "start": 153.76,
+      "end": 157.68,
+      "text": "अरेबिया की सबसे बड़ी कंपनी अरेमको को हुआ।"
+    },
+    {
+      "subtitle_ids": [
+        79
+      ],
+      "start": 155.92,
+      "end": 159.84,
+      "text": "अब अरेको से भी ट्रंप का लेना देना है।"
+    },
+    {
+      "subtitle_ids": [
+        80
+      ],
+      "start": 157.68,
+      "end": 162.4,
+      "text": "बाद में आपको बताऊंगा। उसके बाद यूएस की"
+    },
+    {
+      "subtitle_ids": [
+        81
+      ],
+      "start": 159.84,
+      "end": 164.72,
+      "text": "जो कंपनीज़ है जैसे कि eon मोबिल शेरोन,"
+    },
+    {
+      "subtitle_ids": [
+        82
+      ],
+      "start": 162.4,
+      "end": 166.319,
+      "text": "शेलel इन सारी तमाम कंपनीज़ को यहां पर"
+    },
+    {
+      "subtitle_ids": [
+        83
+      ],
+      "start": 164.72,
+      "end": 168.48,
+      "text": "बहुत ज्यादा फायदा हो रहा है। अब यह तो हो"
+    },
+    {
+      "subtitle_ids": [
+        84
+      ],
+      "start": 166.319,
+      "end": 170.239,
+      "text": "गई कंपनीज़ की बात। अब ऑयल कंपनीज़ के जो"
+    },
+    {
+      "subtitle_ids": [
+        85
+      ],
+      "start": 168.48,
+      "end": 172.08,
+      "text": "सीईओस हैं उनकी बात करें तो यूएस की"
+    },
+    {
+      "subtitle_ids": [
+        86
+      ],
+      "start": 170.239,
+      "end": 175.04,
+      "text": "बड़ी-बड़ी ऑयल कंपनीज़ के एग्जीक्यूटिव्स"
+    },
+    {
+      "subtitle_ids": [
+        87
+      ],
+      "start": 172.08,
+      "end": 177.68,
+      "text": "ने 14,000 करोड़ के अपने शेयर्स बेच दिए।"
+    },
+    {
+      "subtitle_ids": [
+        88
+      ],
+      "start": 175.04,
+      "end": 179.599,
+      "text": "जब इस वॉर के चलते क्रूड ऑयल बहुत ऊपर चला"
+    },
+    {
+      "subtitle_ids": [
+        89
+      ],
+      "start": 177.68,
+      "end": 181.519,
+      "text": "गया था। और उनकी कंपनी के शेयर प्राइस भी"
+    },
+    {
+      "subtitle_ids": [
+        90
+      ],
+      "start": 179.599,
+      "end": 183.44,
+      "text": "ऑल टाइम हाई पर ट्रेड कर रही थी। अब देखिए"
+    },
+    {
+      "subtitle_ids": [
+        91
+      ],
+      "start": 181.519,
+      "end": 184.56,
+      "text": "आप सोचेंगे कि यार ये ऑयल कंपनीज़ को फायदा"
+    },
+    {
+      "subtitle_ids": [
+        92
+      ],
+      "start": 183.44,
+      "end": 186.4,
+      "text": "हो रहा है। इससे डॉन्ड ट्रंप का क्या"
+    },
+    {
+      "subtitle_ids": [
+        93
+      ],
+      "start": 184.56,
+      "end": 188.0,
+      "text": "फायदा? डोनाल्ड ट्रंप की तो कोई ऑयल कंपनी"
+    },
+    {
+      "subtitle_ids": [
+        94
+      ],
+      "start": 186.4,
+      "end": 190.159,
+      "text": "नहीं है। यहां पर मैं आपको एक इंटरेस्टिंग"
+    },
+    {
+      "subtitle_ids": [
+        95
+      ],
+      "start": 188.0,
+      "end": 192.319,
+      "text": "चीज बताता हूं कि यूएस में भी चंदा धंधा"
+    },
+    {
+      "subtitle_ids": [
+        96
+      ],
+      "start": 190.159,
+      "end": 195.28,
+      "text": "वाला सिस्टम चलता है। यानी आप पार्टी को"
+    },
+    {
+      "subtitle_ids": [
+        97
+      ],
+      "start": 192.319,
+      "end": 197.04,
+      "text": "चंदा दो। बदले में पार्टी आपको धंधा देगी।"
+    },
+    {
+      "subtitle_ids": [
+        98
+      ],
+      "start": 195.28,
+      "end": 198.56,
+      "text": "सिंपल। अब ऐसा ही यूएस में भी होता है।"
+    },
+    {
+      "subtitle_ids": [
+        99
+      ],
+      "start": 197.04,
+      "end": 200.4,
+      "text": "लेकिन वहां डिफरेंस यह है कि कोई बिजनेस"
+    },
+    {
+      "subtitle_ids": [
+        100
+      ],
+      "start": 198.56,
+      "end": 202.0,
+      "text": "सीधा पॉलिटिकल पार्टीज को फंडिंग नहीं कर"
+    },
+    {
+      "subtitle_ids": [
+        101
+      ],
+      "start": 200.4,
+      "end": 203.68,
+      "text": "सकता। बट एज एन इंडिविजुअल वो किसी भी"
+    },
+    {
+      "subtitle_ids": [
+        102
+      ],
+      "start": 202.0,
+      "end": 205.28,
+      "text": "पॉलिटिकल पार्टी को फंडिंग कर सकते हैं।"
+    },
+    {
+      "subtitle_ids": [
+        103
+      ],
+      "start": 203.68,
+      "end": 207.2,
+      "text": "बट फर्क इतना है कि बिज़नेस से अकाउंट से"
+    },
+    {
+      "subtitle_ids": [
+        104
+      ],
+      "start": 205.28,
+      "end": 209.04,
+      "text": "फंडिंग नहीं होगी। सीईओ करेगा। मतलब जो"
+    },
+    {
+      "subtitle_ids": [
+        105
+      ],
+      "start": 207.2,
+      "end": 210.799,
+      "text": "फाउंडर सीईओ है वो लोग करेंगे। अब यहां पर"
+    },
+    {
+      "subtitle_ids": [
+        106
+      ],
+      "start": 209.04,
+      "end": 212.48,
+      "text": "डॉनल्ड ट्रंप ने इलेक्शन से पहले क्या"
+    },
+    {
+      "subtitle_ids": [
+        107
+      ],
+      "start": 210.799,
+      "end": 214.0,
+      "text": "दिमाग लगाया है देख लो। और ये दिमाग उनको"
+    },
+    {
+      "subtitle_ids": [
+        108
+      ],
+      "start": 212.48,
+      "end": 215.76,
+      "text": "उनके दादा जी से ही मिला है जिनके बारे"
+    },
+    {
+      "subtitle_ids": [
+        109
+      ],
+      "start": 214.0,
+      "end": 217.599,
+      "text": "में हम सेकंड हाफ में बात करेंगे। तो"
+    },
+    {
+      "subtitle_ids": [
+        110
+      ],
+      "start": 215.76,
+      "end": 219.599,
+      "text": "देखिए डोनल्ड ट्रंप ने दिमाग लगाया कि वो"
+    },
+    {
+      "subtitle_ids": [
+        111
+      ],
+      "start": 217.599,
+      "end": 221.68,
+      "text": "एक ऐसी इंडस्ट्रीज को टारगेट करेंगे जिन"
+    },
+    {
+      "subtitle_ids": [
+        112
+      ],
+      "start": 219.599,
+      "end": 223.92,
+      "text": "इंडस्ट्रीज पर बहुत ज्यादा रेगुलेशंस हैं"
+    },
+    {
+      "subtitle_ids": [
+        113
+      ],
+      "start": 221.68,
+      "end": 225.84,
+      "text": "और जिनके पास बहुत ज्यादा पैसा भी है।"
+    },
+    {
+      "subtitle_ids": [
+        114
+      ],
+      "start": 223.92,
+      "end": 227.599,
+      "text": "जैसे कि ऑयल एंड गैस इंडस्ट्री बिकॉज़ जो"
+    },
+    {
+      "subtitle_ids": [
+        115
+      ],
+      "start": 225.84,
+      "end": 229.599,
+      "text": "बाइडन जो थे वो रिन्यूएबल एनर्जी पर"
+    },
+    {
+      "subtitle_ids": [
+        116
+      ],
+      "start": 227.599,
+      "end": 231.68,
+      "text": "ज्यादा फोकस कर रहे थे और उस कारण ऑयल"
+    },
+    {
+      "subtitle_ids": [
+        117
+      ],
+      "start": 229.599,
+      "end": 233.12,
+      "text": "इंडस्ट्री के लोग नाराज थे। उनका प्रॉफिट"
+    },
+    {
+      "subtitle_ids": [
+        118
+      ],
+      "start": 231.68,
+      "end": 235.04,
+      "text": "भी कम हो रहा था। ऑफ कोर्स। अब यहीं पर"
+    },
+    {
+      "subtitle_ids": [
+        119
+      ],
+      "start": 233.12,
+      "end": 236.879,
+      "text": "डॉन ट्रंप ने अपॉर्चुनिटी देखी कि इनको"
+    },
+    {
+      "subtitle_ids": [
+        120
+      ],
+      "start": 235.04,
+      "end": 239.04,
+      "text": "अगर मैं सही से टारगेट करता हूं, इनके"
+    },
+    {
+      "subtitle_ids": [
+        121
+      ],
+      "start": 236.879,
+      "end": 240.72,
+      "text": "प्रॉब्लम सॉल्व करता हूं तो मुझे यहां से"
+    },
+    {
+      "subtitle_ids": [
+        122
+      ],
+      "start": 239.04,
+      "end": 242.239,
+      "text": "तगड़ी फंडिंग मिल सकती है। मेरा काम बन"
+    },
+    {
+      "subtitle_ids": [
+        123
+      ],
+      "start": 240.72,
+      "end": 244.319,
+      "text": "सकता है और इसीलिए उन्होंने इलेक्शन से"
+    },
+    {
+      "subtitle_ids": [
+        124
+      ],
+      "start": 242.239,
+      "end": 245.92,
+      "text": "पहले ही इन इंडस्ट्रीज को सपोर्ट करना"
+    },
+    {
+      "subtitle_ids": [
+        125
+      ],
+      "start": 244.319,
+      "end": 248.0,
+      "text": "शुरू किया। इनफैक्ट वो ग्लोबल चेंज के"
+    },
+    {
+      "subtitle_ids": [
+        126
+      ],
+      "start": 245.92,
+      "end": 248.64,
+      "text": "कांसेप्ट को ही दुनिया का सबसे बड़ा झूठ"
+    },
+    {
+      "subtitle_ids": [
+        127
+      ],
+      "start": 248.0,
+      "end": 251.36,
+      "text": "बोलने लगे।"
+    },
+    {
+      "subtitle_ids": [
+        128
+      ],
+      "start": 248.64,
+      "end": 255.92,
+      "text": "क्लाइमेट चेंज"
+    },
+    {
+      "subtitle_ids": [
+        129
+      ],
+      "start": 251.36,
+      "end": 259.359,
+      "text": "हायर लोअर व्हाटवर हैप क्लाइमेट चेंज"
+    },
+    {
+      "subtitle_ids": [
+        130
+      ],
+      "start": 255.92,
+      "end": 260.959,
+      "text": "इट्स द ग्रेटेस्ट एवर परप्रेटेड ऑन द"
+    },
+    {
+      "subtitle_ids": [
+        131
+      ],
+      "start": 259.359,
+      "end": 262.639,
+      "text": "वर्ल्ड इन माय ओपिनियन।"
+    },
+    {
+      "subtitle_ids": [
+        132
+      ],
+      "start": 260.959,
+      "end": 264.72,
+      "text": "अब लोग हंसने लगे। लोगों को लगा कि यार"
+    },
+    {
+      "subtitle_ids": [
+        133
+      ],
+      "start": 262.639,
+      "end": 266.4,
+      "text": "ट्रंप तो बेवकूफ है लेकिन ट्रंप बेवकूफ"
+    },
+    {
+      "subtitle_ids": [
+        134
+      ],
+      "start": 264.72,
+      "end": 268.16,
+      "text": "नहीं है। इनको अच्छे से पता था कि इनको"
+    },
+    {
+      "subtitle_ids": [
+        135
+      ],
+      "start": 266.4,
+      "end": 269.68,
+      "text": "अगर मैंने सपोर्ट किया मेरा काम बन गया।"
+    },
+    {
+      "subtitle_ids": [
+        136
+      ],
+      "start": 268.16,
+      "end": 271.759,
+      "text": "और फिर आपको ताज्जुब नहीं होना चाहिए यह"
+    },
+    {
+      "subtitle_ids": [
+        137
+      ],
+      "start": 269.68,
+      "end": 273.52,
+      "text": "जानकर कि ट्रंप को सबसे ज्यादा फंडिंग"
+    },
+    {
+      "subtitle_ids": [
+        138
+      ],
+      "start": 271.759,
+      "end": 275.68,
+      "text": "इन्हीं कंपनी से बाद में आई। इनफैक्ट"
+    },
+    {
+      "subtitle_ids": [
+        139
+      ],
+      "start": 273.52,
+      "end": 277.84,
+      "text": "हेरोल्ड हेम जो कि दुनिया की सबसे बड़ी"
+    },
+    {
+      "subtitle_ids": [
+        140
+      ],
+      "start": 275.68,
+      "end": 280.16,
+      "text": "प्राइवेट ऑयल कंपनी कॉन्टिनेंटल रिसोर्सेज"
+    },
+    {
+      "subtitle_ids": [
+        141
+      ],
+      "start": 277.84,
+      "end": 283.12,
+      "text": "के फाउंडर हैं। इनकी नेटवर्थ क्लोज टू 20"
+    },
+    {
+      "subtitle_ids": [
+        142
+      ],
+      "start": 280.16,
+      "end": 285.36,
+      "text": "बिलियन है। यानी फिलहाल यह दुनिया के 136"
+    },
+    {
+      "subtitle_ids": [
+        143
+      ],
+      "start": 283.12,
+      "end": 287.6,
+      "text": "रिचेस्ट पर्सन है। और यही हैरोल्ड हैम"
+    },
+    {
+      "subtitle_ids": [
+        144
+      ],
+      "start": 285.36,
+      "end": 290.4,
+      "text": "डॉन्ड ट्रंप के सबसे बड़े सपोर्टर हैं।"
+    },
+    {
+      "subtitle_ids": [
+        145
+      ],
+      "start": 287.6,
+      "end": 291.919,
+      "text": "इनफैक्ट ही वाज़ द वन जो $1 बिलियन रेज़"
+    },
+    {
+      "subtitle_ids": [
+        146
+      ],
+      "start": 290.4,
+      "end": 294.24,
+      "text": "करते हैं फॉर डोनाल्ड ट्रंप इलेक्शन"
+    },
+    {
+      "subtitle_ids": [
+        147
+      ],
+      "start": 291.919,
+      "end": 295.919,
+      "text": "कैंपेन फ्रॉम ऑयल एग्जीक्यूटिव। यानी कि"
+    },
+    {
+      "subtitle_ids": [
+        148
+      ],
+      "start": 294.24,
+      "end": 297.919,
+      "text": "एक अच्छा खासा फंडिंग उन्हें मिलता है ऑयल"
+    },
+    {
+      "subtitle_ids": [
+        149
+      ],
+      "start": 295.919,
+      "end": 299.84,
+      "text": "कंपनीज़ से। और फिर अगर कोई भी कंपनी"
+    },
+    {
+      "subtitle_ids": [
+        150
+      ],
+      "start": 297.919,
+      "end": 301.68,
+      "text": "फंडिंग देगी तो फ्री में थोड़ी ना देगी। और"
+    },
+    {
+      "subtitle_ids": [
+        151
+      ],
+      "start": 299.84,
+      "end": 304.56,
+      "text": "इसीलिए जो ईरान वॉर है अगर आप देखेंगे तो"
+    },
+    {
+      "subtitle_ids": [
+        152
+      ],
+      "start": 301.68,
+      "end": 306.4,
+      "text": "दिस इज अ सिंपल पेबैक टाइम। ऑयल कंपनीज़ को"
+    },
+    {
+      "subtitle_ids": [
+        153
+      ],
+      "start": 304.56,
+      "end": 308.16,
+      "text": "भी फायदा हो रहा है। कंपनीज़ की शेयर"
+    },
+    {
+      "subtitle_ids": [
+        154
+      ],
+      "start": 306.4,
+      "end": 310.4,
+      "text": "प्राइसेस भी बढ़ रही है और एग्जीक्यूटिव्स"
+    },
+    {
+      "subtitle_ids": [
+        155
+      ],
+      "start": 308.16,
+      "end": 312.08,
+      "text": "भी टॉप पे शेयर सेल करके अपना पैसा और"
+    },
+    {
+      "subtitle_ids": [
+        156
+      ],
+      "start": 310.4,
+      "end": 313.759,
+      "text": "ज्यादा बना रहे हैं। वीडियो में आगे बढ़ने"
+    },
+    {
+      "subtitle_ids": [
+        157
+      ],
+      "start": 312.08,
+      "end": 315.759,
+      "text": "से पहले बस आपको क्विकली बता देना चाहता"
+    },
+    {
+      "subtitle_ids": [
+        158
+      ],
+      "start": 313.759,
+      "end": 317.919,
+      "text": "हूं कि हमारी स्पेशल ऑफर बिल्कुल मिस मत"
+    },
+    {
+      "subtitle_ids": [
+        159
+      ],
+      "start": 315.759,
+      "end": 319.759,
+      "text": "कीजिए। हमारी वैल्यू इन्वेस्टिंग कोहट 2.0"
+    },
+    {
+      "subtitle_ids": [
+        160
+      ],
+      "start": 317.919,
+      "end": 321.6,
+      "text": "की फर्स्ट बैच फर्स्ट अगस्त से स्टार्ट हो"
+    },
+    {
+      "subtitle_ids": [
+        161
+      ],
+      "start": 319.759,
+      "end": 323.52,
+      "text": "रही है और इस कोहर्ट पर फिलहाल प्रीलॉन्च"
+    },
+    {
+      "subtitle_ids": [
+        162
+      ],
+      "start": 321.6,
+      "end": 325.039,
+      "text": "ऑफर में बंपर डिस्काउंट चल रहा है। देखिए"
+    },
+    {
+      "subtitle_ids": [
+        163
+      ],
+      "start": 323.52,
+      "end": 326.8,
+      "text": "दुनिया के जितने भी सक्सेसफुल स्टॉक"
+    },
+    {
+      "subtitle_ids": [
+        164
+      ],
+      "start": 325.039,
+      "end": 328.639,
+      "text": "मार्केट इन्वेस्टर्स होंगे मिलेनियर से"
+    },
+    {
+      "subtitle_ids": [
+        165
+      ],
+      "start": 326.8,
+      "end": 330.56,
+      "text": "लेकर बिलियर्स तक देख लो। यूएस के मिस्टर"
+    },
+    {
+      "subtitle_ids": [
+        166
+      ],
+      "start": 328.639,
+      "end": 332.08,
+      "text": "बफेट से लेकर इंडिया के मिस्टर झुनझुनवाला"
+    },
+    {
+      "subtitle_ids": [
+        167
+      ],
+      "start": 330.56,
+      "end": 334.0,
+      "text": "को देख लो। इन सबके सक्सेस में एक"
+    },
+    {
+      "subtitle_ids": [
+        168
+      ],
+      "start": 332.08,
+      "end": 335.84,
+      "text": "स्ट्रेटजी आपको कॉमन मिलेगी और वो है"
+    },
+    {
+      "subtitle_ids": [
+        169
+      ],
+      "start": 334.0,
+      "end": 337.44,
+      "text": "वैल्यू इन्वेस्टिंग की। यानी महंगी चीजों"
+    },
+    {
+      "subtitle_ids": [
+        170
+      ],
+      "start": 335.84,
+      "end": 339.44,
+      "text": "को कैसे सस्ते दाम में खरीदना है। अब कई"
+    },
+    {
+      "subtitle_ids": [
+        171
+      ],
+      "start": 337.44,
+      "end": 340.56,
+      "text": "सारे लोग आम जिंदगी में तो ये चीज कर पाते"
+    },
+    {
+      "subtitle_ids": [
+        172
+      ],
+      "start": 339.44,
+      "end": 342.479,
+      "text": "हैं लेकिन स्टॉक मार्केट में"
+    },
+    {
+      "subtitle_ids": [
+        173
+      ],
+      "start": 340.56,
+      "end": 344.16,
+      "text": "अनफॉर्चूनेटली नहीं कर पाते। जब बहुत सारे"
+    },
+    {
+      "subtitle_ids": [
+        174
+      ],
+      "start": 342.479,
+      "end": 345.84,
+      "text": "सब्सक्राइबर्स से इस बारे में रिक्वेस्ट"
+    },
+    {
+      "subtitle_ids": [
+        175
+      ],
+      "start": 344.16,
+      "end": 347.84,
+      "text": "आने लगी तब हमें पता चला कि इंडिया में"
+    },
+    {
+      "subtitle_ids": [
+        176
+      ],
+      "start": 345.84,
+      "end": 350.16,
+      "text": "कोई ये चीज सिखाता ही नहीं है। जबकि यूएस"
+    },
+    {
+      "subtitle_ids": [
+        177
+      ],
+      "start": 347.84,
+      "end": 351.759,
+      "text": "जैसी कंट्रीज में यह बहुत कॉमन है और सभी"
+    },
+    {
+      "subtitle_ids": [
+        178
+      ],
+      "start": 350.16,
+      "end": 353.52,
+      "text": "को आता है। तो सभी इन्वेस्टर्स को वैल्यू"
+    },
+    {
+      "subtitle_ids": [
+        179
+      ],
+      "start": 351.759,
+      "end": 354.96,
+      "text": "इन्वेस्टिंग आए। इसी विज़न के साथ हमने"
+    },
+    {
+      "subtitle_ids": [
+        180
+      ],
+      "start": 353.52,
+      "end": 356.72,
+      "text": "वैल्यू इन्वेस्टिंग कोहर्ट की फिर शुरुआत"
+    },
+    {
+      "subtitle_ids": [
+        181
+      ],
+      "start": 354.96,
+      "end": 358.32,
+      "text": "की जिसमें हम वैल्यू इन्वेस्टिंग की सातों"
+    },
+    {
+      "subtitle_ids": [
+        182
+      ],
+      "start": 356.72,
+      "end": 360.4,
+      "text": "के सातों स्ट्रेटजीज़ सिखाते हैं। जिसमें"
+    },
+    {
+      "subtitle_ids": [
+        183
+      ],
+      "start": 358.32,
+      "end": 362.24,
+      "text": "सिगारb जैसी बेसिक स्ट्रेटजी से लेकर"
+    },
+    {
+      "subtitle_ids": [
+        184
+      ],
+      "start": 360.4,
+      "end": 363.84,
+      "text": "डीसीएफ यानी डिस्काउंटेड कैश फ्लो जैसी"
+    },
+    {
+      "subtitle_ids": [
+        185
+      ],
+      "start": 362.24,
+      "end": 365.6,
+      "text": "एडवांस स्ट्रेटजीस भी इंक्लूड है। तो इस"
+    },
+    {
+      "subtitle_ids": [
+        186
+      ],
+      "start": 363.84,
+      "end": 367.28,
+      "text": "गोल्डन ओपोरर्चुनिटी को बिल्कुल भी मिस मत"
+    },
+    {
+      "subtitle_ids": [
+        187
+      ],
+      "start": 365.6,
+      "end": 368.88,
+      "text": "कीजिए। 3 महीने का यह वीकेंड प्रोग्राम है"
+    },
+    {
+      "subtitle_ids": [
+        188
+      ],
+      "start": 367.28,
+      "end": 370.8,
+      "text": "जो कोई भी अटेंड कर सकता है और इसकी"
+    },
+    {
+      "subtitle_ids": [
+        189
+      ],
+      "start": 368.88,
+      "end": 372.56,
+      "text": "खासियत यह है कि इतना प्रैक्टिकली समझाया"
+    },
+    {
+      "subtitle_ids": [
+        190
+      ],
+      "start": 370.8,
+      "end": 373.919,
+      "text": "गया है कि कोई नॉन फाइनेंस बैकग्राउंड का"
+    },
+    {
+      "subtitle_ids": [
+        191
+      ],
+      "start": 372.56,
+      "end": 376.0,
+      "text": "व्यक्ति भी बड़े आसानी से अब वैल्यू"
+    },
+    {
+      "subtitle_ids": [
+        192
+      ],
+      "start": 373.919,
+      "end": 378.0,
+      "text": "इन्वेस्टिंग मेंस्ट हासिल कर पाएगा। और तो"
+    },
+    {
+      "subtitle_ids": [
+        193
+      ],
+      "start": 376.0,
+      "end": 379.44,
+      "text": "और यहां पर आपका स्टॉक मार्केट बिगिनर टू"
+    },
+    {
+      "subtitle_ids": [
+        194
+      ],
+      "start": 378.0,
+      "end": 381.12,
+      "text": "एडवांस भी क्लियर हो जाएगा क्योंकि इस"
+    },
+    {
+      "subtitle_ids": [
+        195
+      ],
+      "start": 379.44,
+      "end": 382.8,
+      "text": "कोहड के साथ आपको फंडामेंटल एनालिसिस"
+    },
+    {
+      "subtitle_ids": [
+        196
+      ],
+      "start": 381.12,
+      "end": 384.16,
+      "text": "कोर्स भी फ्री में मिल जाता है। तो अभी"
+    },
+    {
+      "subtitle_ids": [
+        197
+      ],
+      "start": 382.8,
+      "end": 385.84,
+      "text": "डिस्क्रिप्शन और कमेंट बॉक्स में दिया हुआ"
+    },
+    {
+      "subtitle_ids": [
+        198
+      ],
+      "start": 384.16,
+      "end": 387.68,
+      "text": "फॉर्म फिल कीजिए और फॉर्म फिल करने के बाद"
+    },
+    {
+      "subtitle_ids": [
+        199
+      ],
+      "start": 385.84,
+      "end": 389.12,
+      "text": "हमारा 40 मिनट का लाइव सेशन ज्वाइन कीजिए"
+    },
+    {
+      "subtitle_ids": [
+        200
+      ],
+      "start": 387.68,
+      "end": 390.8,
+      "text": "जहां पर मैं आपको इस कोहड के बारे में"
+    },
+    {
+      "subtitle_ids": [
+        201
+      ],
+      "start": 389.12,
+      "end": 392.0,
+      "text": "सारी चीजें जैसे कि सिलेबस एंड एवरीथिंग"
+    },
+    {
+      "subtitle_ids": [
+        202
+      ],
+      "start": 390.8,
+      "end": 393.52,
+      "text": "बताऊंगा। तो आज ये वैल्यू इन्वेस्टिंग"
+    },
+    {
+      "subtitle_ids": [
+        203
+      ],
+      "start": 392.0,
+      "end": 395.12,
+      "text": "कोहड ज्वाइन कीजिए और अपने आप को एक"
+    },
+    {
+      "subtitle_ids": [
+        204
+      ],
+      "start": 393.52,
+      "end": 396.88,
+      "text": "वैल्यू इन्वेस्टर में ट्रांसफॉर्म कीजिए"
+    },
+    {
+      "subtitle_ids": [
+        205
+      ],
+      "start": 395.12,
+      "end": 398.72,
+      "text": "और इस प्रीलॉन्च ऑफर डिस्काउंट को बिल्कुल"
+    },
+    {
+      "subtitle_ids": [
+        206
+      ],
+      "start": 396.88,
+      "end": 401.039,
+      "text": "भी मिस मत कीजिए। और जहां तक बात रही सऊदी"
+    },
+    {
+      "subtitle_ids": [
+        207
+      ],
+      "start": 398.72,
+      "end": 403.12,
+      "text": "अरे की तो डोनल्ड ट्रंप की फैमिली के सऊदी"
+    },
+    {
+      "subtitle_ids": [
+        208
+      ],
+      "start": 401.039,
+      "end": 405.039,
+      "text": "सरकार के साथ बहुत डीप कनेक्शन है।"
+    },
+    {
+      "subtitle_ids": [
+        209
+      ],
+      "start": 403.12,
+      "end": 407.039,
+      "text": "इनफैक्ट सऊदी अरेबिया सरकार ने डॉनल्ड"
+    },
+    {
+      "subtitle_ids": [
+        210
+      ],
+      "start": 405.039,
+      "end": 409.68,
+      "text": "ट्रंप के दामाद जारे कश्मर की प्राइवेट"
+    },
+    {
+      "subtitle_ids": [
+        211
+      ],
+      "start": 407.039,
+      "end": 411.36,
+      "text": "इक्विटी फर्म में ₹1,000 करोड़ इन्वेस्ट"
+    },
+    {
+      "subtitle_ids": [
+        212
+      ],
+      "start": 409.68,
+      "end": 414.0,
+      "text": "किए हैं। अब दूसरा फायदा डॉन्ड ट्रंप को"
+    },
+    {
+      "subtitle_ids": [
+        213
+      ],
+      "start": 411.36,
+      "end": 415.759,
+      "text": "जो मिलता है अपनी अजीबोगरीब हरकतें करके"
+    },
+    {
+      "subtitle_ids": [
+        214
+      ],
+      "start": 414.0,
+      "end": 417.28,
+      "text": "वो पूरा का पूरा यूनाइटेड स्टेट्स को"
+    },
+    {
+      "subtitle_ids": [
+        215
+      ],
+      "start": 415.759,
+      "end": 418.639,
+      "text": "मिलता है। मतलब ही इज़ अ काइंड ऑफ़ पर्सन जो"
+    },
+    {
+      "subtitle_ids": [
+        216
+      ],
+      "start": 417.28,
+      "end": 420.319,
+      "text": "खुद के बारे में तो सोचता ही सोचता है।"
+    },
+    {
+      "subtitle_ids": [
+        217
+      ],
+      "start": 418.639,
+      "end": 422.0,
+      "text": "देश के बारे में भी बहुत सोचता है। देखिए"
+    },
+    {
+      "subtitle_ids": [
+        218
+      ],
+      "start": 420.319,
+      "end": 424.24,
+      "text": "गोल्ड वाले वीडियो में भी हमने बात की थी"
+    },
+    {
+      "subtitle_ids": [
+        219
+      ],
+      "start": 422.0,
+      "end": 426.0,
+      "text": "1944 के ब्रिटन वुड्स एग्रीमेंट के बारे"
+    },
+    {
+      "subtitle_ids": [
+        220
+      ],
+      "start": 424.24,
+      "end": 428.16,
+      "text": "में जिसके चलते कैसे डॉलर दुनिया की"
+    },
+    {
+      "subtitle_ids": [
+        221
+      ],
+      "start": 426.0,
+      "end": 430.479,
+      "text": "डोमिनेंट करेंसी बन गया और यूएस आज जो"
+    },
+    {
+      "subtitle_ids": [
+        222
+      ],
+      "start": 428.16,
+      "end": 432.639,
+      "text": "सुपर पावर है उसके पीछे जो सबसे बड़ा कारण"
+    },
+    {
+      "subtitle_ids": [
+        223
+      ],
+      "start": 430.479,
+      "end": 434.319,
+      "text": "है वो है यूएस डॉलर का और आप एक चीज अच्छे"
+    },
+    {
+      "subtitle_ids": [
+        224
+      ],
+      "start": 432.639,
+      "end": 436.639,
+      "text": "से समझ लीजिए कि ये जो यूएस डॉलर है ये"
+    },
+    {
+      "subtitle_ids": [
+        225
+      ],
+      "start": 434.319,
+      "end": 439.28,
+      "text": "अमेरिका का मनी है। ये एक ऐसा मनी है जो"
+    },
+    {
+      "subtitle_ids": [
+        226
+      ],
+      "start": 436.639,
+      "end": 442.88,
+      "text": "जब तक यूएस के पास है तब तक उनके पास सुपर"
+    },
+    {
+      "subtitle_ids": [
+        227
+      ],
+      "start": 439.28,
+      "end": 445.52,
+      "text": "पावर है। जब नहीं रहेगा तब तकलीफ और 2025"
+    },
+    {
+      "subtitle_ids": [
+        228
+      ],
+      "start": 442.88,
+      "end": 447.759,
+      "text": "में और 2025 में पहली बार अमेरिका को लगा"
+    },
+    {
+      "subtitle_ids": [
+        229
+      ],
+      "start": 445.52,
+      "end": 450.0,
+      "text": "कि हमारा जो मनी है यह खतरे में आ चुका"
+    },
+    {
+      "subtitle_ids": [
+        230
+      ],
+      "start": 447.759,
+      "end": 451.759,
+      "text": "है। कैसे? तो देखिए काफी समय से यूएस और"
+    },
+    {
+      "subtitle_ids": [
+        231
+      ],
+      "start": 450.0,
+      "end": 453.599,
+      "text": "खासकर ट्रंप की हरकतों से पूरी दुनिया"
+    },
+    {
+      "subtitle_ids": [
+        232
+      ],
+      "start": 451.759,
+      "end": 455.199,
+      "text": "परेशान है। ग्रीनलैंड का मुद्दा ले लो,"
+    },
+    {
+      "subtitle_ids": [
+        233
+      ],
+      "start": 453.599,
+      "end": 457.039,
+      "text": "मिडिल ईस्ट में वॉर का मुद्दा ले लो या"
+    },
+    {
+      "subtitle_ids": [
+        234
+      ],
+      "start": 455.199,
+      "end": 458.8,
+      "text": "फिर रशिया के एसेट्स फ्रीज़ करने का मुद्दा"
+    },
+    {
+      "subtitle_ids": [
+        235
+      ],
+      "start": 457.039,
+      "end": 460.4,
+      "text": "ले लो। इन सब इशूज़ के बाद में एक मूवमेंट"
+    },
+    {
+      "subtitle_ids": [
+        236
+      ],
+      "start": 458.8,
+      "end": 462.88,
+      "text": "ने बहुत ज्यादा जोर पकड़ लिया और वो"
+    },
+    {
+      "subtitle_ids": [
+        237
+      ],
+      "start": 460.4,
+      "end": 464.88,
+      "text": "मुद्दा था डीडोलराइजेशन का यानी डॉलर की"
+    },
+    {
+      "subtitle_ids": [
+        238
+      ],
+      "start": 462.88,
+      "end": 466.8,
+      "text": "पावर को कम करो। तो इसका अंजाम क्या हुआ?"
+    },
+    {
+      "subtitle_ids": [
+        239
+      ],
+      "start": 464.88,
+      "end": 468.56,
+      "text": "तो दुनिया भर के सेंट्रल बैंक्स गोल्ड"
+    },
+    {
+      "subtitle_ids": [
+        240
+      ],
+      "start": 466.8,
+      "end": 470.8,
+      "text": "खरीदने लगी और जैसे-जैसे गोल्ड बहुत"
+    },
+    {
+      "subtitle_ids": [
+        241
+      ],
+      "start": 468.56,
+      "end": 472.639,
+      "text": "ज्यादा खरीदने लगी यूएस डॉलर काफी वीक"
+    },
+    {
+      "subtitle_ids": [
+        242
+      ],
+      "start": 470.8,
+      "end": 474.96,
+      "text": "होने लगा। आप में से ज्यादातर लोग शॉक हो"
+    },
+    {
+      "subtitle_ids": [
+        243
+      ],
+      "start": 472.639,
+      "end": 476.72,
+      "text": "जाएंगे यह सुनकर कि 2025 में यूएस डॉलर"
+    },
+    {
+      "subtitle_ids": [
+        244
+      ],
+      "start": 474.96,
+      "end": 478.879,
+      "text": "गिर गया था। अब देखिए यहां पर आप में से"
+    },
+    {
+      "subtitle_ids": [
+        245
+      ],
+      "start": 476.72,
+      "end": 481.28,
+      "text": "कुछ लोग कंफ्यूज हो सकते हैं क्योंकि 2025"
+    },
+    {
+      "subtitle_ids": [
+        246
+      ],
+      "start": 478.879,
+      "end": 482.319,
+      "text": "में रूपी भी गिर रहा था और अगर आप यह वाला"
+    },
+    {
+      "subtitle_ids": [
+        247
+      ],
+      "start": 481.28,
+      "end": 484.639,
+      "text": "क्लिप देखेंगे"
+    },
+    {
+      "subtitle_ids": [
+        248
+      ],
+      "start": 482.319,
+      "end": 488.16,
+      "text": "फर्स्ट ऑफ ऑल आई वुड लुक एट इट एस नॉट"
+    },
+    {
+      "subtitle_ids": [
+        249
+      ],
+      "start": 484.639,
+      "end": 488.96,
+      "text": "रूपी स्लाइडिंग एंड लुक एट इट एस डॉलर"
+    },
+    {
+      "subtitle_ids": [
+        250
+      ],
+      "start": 488.16,
+      "end": 490.24,
+      "text": "स्ट्रेंथनिंग"
+    },
+    {
+      "subtitle_ids": [
+        251
+      ],
+      "start": 488.96,
+      "end": 492.0,
+      "text": "तो इस क्लिप में जब इंडिया के फाइनेंस"
+    },
+    {
+      "subtitle_ids": [
+        252
+      ],
+      "start": 490.24,
+      "end": 493.52,
+      "text": "मिनिस्टर से पूछा गया कि रुपी बहुत तेजी"
+    },
+    {
+      "subtitle_ids": [
+        253
+      ],
+      "start": 492.0,
+      "end": 495.52,
+      "text": "से गिर रहा है तो उन्होंने कहा था कि रुपी"
+    },
+    {
+      "subtitle_ids": [
+        254
+      ],
+      "start": 493.52,
+      "end": 497.599,
+      "text": "नहीं गिर रहा है डॉलर स्ट्रांग हो रहा है"
+    },
+    {
+      "subtitle_ids": [
+        255
+      ],
+      "start": 495.52,
+      "end": 499.919,
+      "text": "लेकिन 2025 की अगर सिचुएशन देखें तो यह"
+    },
+    {
+      "subtitle_ids": [
+        256
+      ],
+      "start": 497.599,
+      "end": 502.319,
+      "text": "थोड़ी एक क्रेजी सिचुएशन थी डॉलर भी गिर"
+    },
+    {
+      "subtitle_ids": [
+        257
+      ],
+      "start": 499.919,
+      "end": 504.24,
+      "text": "रहा है और रुपी भी गिर रहा है तो यहां पर"
+    },
+    {
+      "subtitle_ids": [
+        258
+      ],
+      "start": 502.319,
+      "end": 506.479,
+      "text": "यह क्या हलचल है तो देखिए यहां पर आपको एक"
+    },
+    {
+      "subtitle_ids": [
+        259
+      ],
+      "start": 504.24,
+      "end": 508.16,
+      "text": "चीज समझनी पड़ेगी कि करेंसी को आप कभी भी"
+    },
+    {
+      "subtitle_ids": [
+        260
+      ],
+      "start": 506.479,
+      "end": 509.919,
+      "text": "एब्सोल्यूट टर्म्स में वैल्यू नहीं कर"
+    },
+    {
+      "subtitle_ids": [
+        261
+      ],
+      "start": 508.16,
+      "end": 512.08,
+      "text": "सकते। आपको हमेशा एक इंपॉर्टेंट सवाल"
+    },
+    {
+      "subtitle_ids": [
+        262
+      ],
+      "start": 509.919,
+      "end": 514.0,
+      "text": "पूछना पड़ेगा कि आपकी करेंसी की जो वैल्यू"
+    },
+    {
+      "subtitle_ids": [
+        263
+      ],
+      "start": 512.08,
+      "end": 515.68,
+      "text": "है वो कंपेयर टू व्हाट? अगर कोई करेंसी"
+    },
+    {
+      "subtitle_ids": [
+        264
+      ],
+      "start": 514.0,
+      "end": 517.519,
+      "text": "गिर रही है तो कंपेयर टू व्हाट? और कोई"
+    },
+    {
+      "subtitle_ids": [
+        265
+      ],
+      "start": 515.68,
+      "end": 519.36,
+      "text": "करेंसी बढ़ रही है तो कंपेयर टू व्हाट? तो"
+    },
+    {
+      "subtitle_ids": [
+        266
+      ],
+      "start": 517.519,
+      "end": 521.519,
+      "text": "यह बात सही है कि इंडियन रूपी गिर रहा था"
+    },
+    {
+      "subtitle_ids": [
+        267
+      ],
+      "start": 519.36,
+      "end": 523.599,
+      "text": "पर कंपेयर टू व्हाट? तो कंपेयर टू डॉलर हम"
+    },
+    {
+      "subtitle_ids": [
+        268
+      ],
+      "start": 521.519,
+      "end": 525.279,
+      "text": "गिर रहे थे। पर यहां पर यूएस डॉलर भी गिर"
+    },
+    {
+      "subtitle_ids": [
+        269
+      ],
+      "start": 523.599,
+      "end": 527.04,
+      "text": "रहा था। बट कंपेयर टू व्हाट कंपेयर टू"
+    },
+    {
+      "subtitle_ids": [
+        270
+      ],
+      "start": 525.279,
+      "end": 528.959,
+      "text": "मोस्ट ऑफ इट्स ट्रेडिंग पार्टनर्स। तो"
+    },
+    {
+      "subtitle_ids": [
+        271
+      ],
+      "start": 527.04,
+      "end": 530.88,
+      "text": "देखिए सबसे पहले यह पता करते हैं कि यूएस"
+    },
+    {
+      "subtitle_ids": [
+        272
+      ],
+      "start": 528.959,
+      "end": 533.36,
+      "text": "डॉलर अपने मेजर ट्रेडिंग पार्टनर्स जैसे"
+    },
+    {
+      "subtitle_ids": [
+        273
+      ],
+      "start": 530.88,
+      "end": 534.64,
+      "text": "कि यूरोप, जापान इनके कंपैरिजन में कितना"
+    },
+    {
+      "subtitle_ids": [
+        274
+      ],
+      "start": 533.36,
+      "end": 536.959,
+      "text": "गिरा है। तो वह चेक करने के लिए एक"
+    },
+    {
+      "subtitle_ids": [
+        275
+      ],
+      "start": 534.64,
+      "end": 539.04,
+      "text": "इंडेक्स होता है जिसका नाम है ब्रॉड ट्रेड"
+    },
+    {
+      "subtitle_ids": [
+        276
+      ],
+      "start": 536.959,
+      "end": 540.56,
+      "text": "वेटेड डॉलर इंडेक्स। आप में से काफी सारे"
+    },
+    {
+      "subtitle_ids": [
+        277
+      ],
+      "start": 539.04,
+      "end": 541.839,
+      "text": "लोग पहली बार सुन रहे होंगे लेकिन डॉलर"
+    },
+    {
+      "subtitle_ids": [
+        278
+      ],
+      "start": 540.56,
+      "end": 543.2,
+      "text": "स्ट्रांग हो रहा है या वीक हो रहा है उसके"
+    },
+    {
+      "subtitle_ids": [
+        279
+      ],
+      "start": 541.839,
+      "end": 545.6,
+      "text": "लिए ये इंडेक्स आपको देखना होता है। जो"
+    },
+    {
+      "subtitle_ids": [
+        280
+      ],
+      "start": 543.2,
+      "end": 547.279,
+      "text": "हमें यह बताता है कि जो डॉलर है यह मेजर"
+    },
+    {
+      "subtitle_ids": [
+        281
+      ],
+      "start": 545.6,
+      "end": 548.959,
+      "text": "यूएस ट्रेडिंग पार्टनर्स की करेंसीज के"
+    },
+    {
+      "subtitle_ids": [
+        282
+      ],
+      "start": 547.279,
+      "end": 550.64,
+      "text": "मुकाबले कैसा परफॉर्म कर रहा है। अब इस"
+    },
+    {
+      "subtitle_ids": [
+        283
+      ],
+      "start": 548.959,
+      "end": 552.88,
+      "text": "इंडेक्स को अगर आप स्क्रीन पर देखोगे तो"
+    },
+    {
+      "subtitle_ids": [
+        284
+      ],
+      "start": 550.64,
+      "end": 555.2,
+      "text": "आपको क्लियरली समझेगा कि 2025 में डॉलर"
+    },
+    {
+      "subtitle_ids": [
+        285
+      ],
+      "start": 552.88,
+      "end": 557.76,
+      "text": "लगातार गिर रहा था। साल की शुरुआत में यह"
+    },
+    {
+      "subtitle_ids": [
+        286
+      ],
+      "start": 555.2,
+      "end": 560.72,
+      "text": "इंडेक्स 130 के करीब था और 2025 का एंड"
+    },
+    {
+      "subtitle_ids": [
+        287
+      ],
+      "start": 557.76,
+      "end": 563.2,
+      "text": "आते-आते सीधे 117 पर चला गया। यानी करीबन"
+    },
+    {
+      "subtitle_ids": [
+        288
+      ],
+      "start": 560.72,
+      "end": 564.88,
+      "text": "डॉलर जैसी करेंसी 10% यहां पर गिर गई थी।"
+    },
+    {
+      "subtitle_ids": [
+        289
+      ],
+      "start": 563.2,
+      "end": 567.44,
+      "text": "और मैं इंडिविजुअल करेंसी से भी कंपेयर"
+    },
+    {
+      "subtitle_ids": [
+        290
+      ],
+      "start": 564.88,
+      "end": 569.04,
+      "text": "करूं तो यूरो 10% बढ़ा था। यूएसडी के"
+    },
+    {
+      "subtitle_ids": [
+        291
+      ],
+      "start": 567.44,
+      "end": 571.44,
+      "text": "कंपैरिजन में स्विस फ्रैंक जो"
+    },
+    {
+      "subtitle_ids": [
+        292
+      ],
+      "start": 569.04,
+      "end": 574.32,
+      "text": "स्विट्जरलैंड की करेंसी है वो भी 10% बढ़ी"
+    },
+    {
+      "subtitle_ids": [
+        293
+      ],
+      "start": 571.44,
+      "end": 576.48,
+      "text": "थी। पाउंड 6 टू 7% बढ़ा और कनाडियन डॉलर"
+    },
+    {
+      "subtitle_ids": [
+        294
+      ],
+      "start": 574.32,
+      "end": 578.72,
+      "text": "भी 4 टू 5% बढ़ा था। यानी जो बड़ी-बड़ी"
+    },
+    {
+      "subtitle_ids": [
+        295
+      ],
+      "start": 576.48,
+      "end": 580.64,
+      "text": "इकॉनमीज़ हैं उनके कंपैरिजन में यूएस की"
+    },
+    {
+      "subtitle_ids": [
+        296
+      ],
+      "start": 578.72,
+      "end": 582.16,
+      "text": "करेंसी काफी तेजी से यहां पर गिर रही थी।"
+    },
+    {
+      "subtitle_ids": [
+        297
+      ],
+      "start": 580.64,
+      "end": 584.56,
+      "text": "लेकिन अब यहां पर एक इंपॉर्टेंट सवाल आता"
+    },
+    {
+      "subtitle_ids": [
+        298
+      ],
+      "start": 582.16,
+      "end": 586.48,
+      "text": "है कि हम तो साल भर यही सुनते रहते हैं कि"
+    },
+    {
+      "subtitle_ids": [
+        299
+      ],
+      "start": 584.56,
+      "end": 588.399,
+      "text": "इंडियन करेंसी गिर रही है। लेकिन यहां पर"
+    },
+    {
+      "subtitle_ids": [
+        300
+      ],
+      "start": 586.48,
+      "end": 589.76,
+      "text": "साथ-साथ यूएस करेंसी भी गिर रही है। तो यह"
+    },
+    {
+      "subtitle_ids": [
+        301
+      ],
+      "start": 588.399,
+      "end": 592.08,
+      "text": "कैसे पॉसिबल है? तो देखिए एक सिंपल"
+    },
+    {
+      "subtitle_ids": [
+        302
+      ],
+      "start": 589.76,
+      "end": 594.56,
+      "text": "एनिमेशन से इसे समझते हैं। एक पत्थर है"
+    },
+    {
+      "subtitle_ids": [
+        303
+      ],
+      "start": 592.08,
+      "end": 597.12,
+      "text": "यूएसडी का और दूसरा है आईएआर का यानी रुपी"
+    },
+    {
+      "subtitle_ids": [
+        304
+      ],
+      "start": 594.56,
+      "end": 599.519,
+      "text": "का हमारा। दोनों पत्थर है पर यूएसडी वाला"
+    },
+    {
+      "subtitle_ids": [
+        305
+      ],
+      "start": 597.12,
+      "end": 602.24,
+      "text": "पत्थर 10 किलो का है और आईएआर वाला 50"
+    },
+    {
+      "subtitle_ids": [
+        306
+      ],
+      "start": 599.519,
+      "end": 604.32,
+      "text": "किलो का। तो आप बताइए कौन सा पत्थर ज्यादा"
+    },
+    {
+      "subtitle_ids": [
+        307
+      ],
+      "start": 602.24,
+      "end": 606.64,
+      "text": "स्पीड से नीचे जाएगा? 50 केजी वाला हमारा"
+    },
+    {
+      "subtitle_ids": [
+        308
+      ],
+      "start": 604.32,
+      "end": 609.279,
+      "text": "आईएआर वाला तेजी से नीचे जाएगा। पर जाएंगे"
+    },
+    {
+      "subtitle_ids": [
+        309
+      ],
+      "start": 606.64,
+      "end": 611.68,
+      "text": "तो दोनों नीचे ही। वैसे यूएसडी भी 2025"
+    },
+    {
+      "subtitle_ids": [
+        310
+      ],
+      "start": 609.279,
+      "end": 613.36,
+      "text": "में गिर रहा था। बट आईएआर के मुकाबले कम"
+    },
+    {
+      "subtitle_ids": [
+        311
+      ],
+      "start": 611.68,
+      "end": 615.44,
+      "text": "तेजी से गिर रहा था। सो होप दिस इज़ क्लियर"
+    },
+    {
+      "subtitle_ids": [
+        312
+      ],
+      "start": 613.36,
+      "end": 618.0,
+      "text": "नाउ। और जैसे कि मैंने कहा था कि यूएस"
+    },
+    {
+      "subtitle_ids": [
+        313
+      ],
+      "start": 615.44,
+      "end": 619.68,
+      "text": "डॉलर यूएस का मनी है। अगर उससे कुछ होता"
+    },
+    {
+      "subtitle_ids": [
+        314
+      ],
+      "start": 618.0,
+      "end": 621.36,
+      "text": "है तो यूएस करेंसी प्रॉब्लम में आ सकती"
+    },
+    {
+      "subtitle_ids": [
+        315
+      ],
+      "start": 619.68,
+      "end": 623.2,
+      "text": "है। तो अगर आप सोचिए कि अगर आप यूएस के"
+    },
+    {
+      "subtitle_ids": [
+        316
+      ],
+      "start": 621.36,
+      "end": 625.6,
+      "text": "प्रेसिडेंट होते तो क्या आप बस देखते"
+    },
+    {
+      "subtitle_ids": [
+        317
+      ],
+      "start": 623.2,
+      "end": 627.44,
+      "text": "रहते? बिल्कुल नहीं। आप कुछ ना कुछ एक्शन"
+    },
+    {
+      "subtitle_ids": [
+        318
+      ],
+      "start": 625.6,
+      "end": 629.04,
+      "text": "लेते और पता करते कि इसे कैसे सॉल्व किया"
+    },
+    {
+      "subtitle_ids": [
+        319
+      ],
+      "start": 627.44,
+      "end": 630.8,
+      "text": "जा सकता है। अब अगर आप इसी इंडेक्स को"
+    },
+    {
+      "subtitle_ids": [
+        320
+      ],
+      "start": 629.04,
+      "end": 632.88,
+      "text": "थोड़ा रिसेंट टाइम में देखोगे फरवरी में"
+    },
+    {
+      "subtitle_ids": [
+        321
+      ],
+      "start": 630.8,
+      "end": 635.839,
+      "text": "तो जनवरी फरवरी के बाद यह चार्ट आप देखोगे"
+    },
+    {
+      "subtitle_ids": [
+        322
+      ],
+      "start": 632.88,
+      "end": 637.92,
+      "text": "तो स्टेबलाइज हुआ है और फरवरी से 2 टू 3%"
+    },
+    {
+      "subtitle_ids": [
+        323
+      ],
+      "start": 635.839,
+      "end": 639.839,
+      "text": "के ऊपर भी चला गया है। यानी कि साल की"
+    },
+    {
+      "subtitle_ids": [
+        324
+      ],
+      "start": 637.92,
+      "end": 642.399,
+      "text": "शुरुआत में डॉलर का जो फॉल है उसे ब्रेक"
+    },
+    {
+      "subtitle_ids": [
+        325
+      ],
+      "start": 639.839,
+      "end": 643.6,
+      "text": "लगा लेकिन फरवरी के बाद कुछ कमाल हुआ।"
+    },
+    {
+      "subtitle_ids": [
+        326
+      ],
+      "start": 642.399,
+      "end": 646.56,
+      "text": "क्या हुआ देखिए"
+    },
+    {
+      "subtitle_ids": [
+        327
+      ],
+      "start": 643.6,
+      "end": 651.36,
+      "text": "शॉर्ट टाइम एगो द यूनाइटेड स्टेट्स"
+    },
+    {
+      "subtitle_ids": [
+        328
+      ],
+      "start": 646.56,
+      "end": 652.079,
+      "text": "मिलिट्री बिगेन मेजर कॉम्बैट ऑपरेशंस इन"
+    },
+    {
+      "subtitle_ids": [
+        329
+      ],
+      "start": 651.36,
+      "end": 654.16,
+      "text": "ईरान।"
+    },
+    {
+      "subtitle_ids": [
+        330
+      ],
+      "start": 652.079,
+      "end": 656.16,
+      "text": "अब ये क्यों हुआ? तो यूएस का कहना है कि"
+    },
+    {
+      "subtitle_ids": [
+        331
+      ],
+      "start": 654.16,
+      "end": 657.76,
+      "text": "भाई ईरान यूएस पर अटैक करने वाला था। अब"
+    },
+    {
+      "subtitle_ids": [
+        332
+      ],
+      "start": 656.16,
+      "end": 659.519,
+      "text": "मुझे तो नहीं लगता कि यह कोई फेयर रीजन"
+    },
+    {
+      "subtitle_ids": [
+        333
+      ],
+      "start": 657.76,
+      "end": 662.72,
+      "text": "था। लेकिन हिस्ट्री एक चीज बड़ी क्लियरली"
+    },
+    {
+      "subtitle_ids": [
+        334
+      ],
+      "start": 659.519,
+      "end": 665.12,
+      "text": "बताती है कि जब भी यूएस का डॉलर दिक्कत"
+    },
+    {
+      "subtitle_ids": [
+        335
+      ],
+      "start": 662.72,
+      "end": 666.88,
+      "text": "में आता है एक वॉर जरूरी बन ही जाती। और"
+    },
+    {
+      "subtitle_ids": [
+        336
+      ],
+      "start": 665.12,
+      "end": 668.88,
+      "text": "यहां पर भी एक और जरूरी थी। लेकिन ईरान से"
+    },
+    {
+      "subtitle_ids": [
+        337
+      ],
+      "start": 666.88,
+      "end": 671.6,
+      "text": "वॉर करने के यहां पर यूएस को दो फायदे मिल"
+    },
+    {
+      "subtitle_ids": [
+        338
+      ],
+      "start": 668.88,
+      "end": 673.76,
+      "text": "सकते थे। एक तो क्रूड ऑयल बढ़ेगा। क्रूड"
+    },
+    {
+      "subtitle_ids": [
+        339
+      ],
+      "start": 671.6,
+      "end": 675.519,
+      "text": "ऑयल बढ़ेगा तो जो ऑयल पार्टनर है और जो"
+    },
+    {
+      "subtitle_ids": [
+        340
+      ],
+      "start": 673.76,
+      "end": 677.519,
+      "text": "पर्सनल फायदा है वह भी मिल जाएगा। और"
+    },
+    {
+      "subtitle_ids": [
+        341
+      ],
+      "start": 675.519,
+      "end": 679.519,
+      "text": "दूसरा डॉलर भी स्ट्रांग हो जाएगा। कैसे?"
+    },
+    {
+      "subtitle_ids": [
+        342
+      ],
+      "start": 677.519,
+      "end": 681.76,
+      "text": "क्योंकि देखिए जो क्रूड ऑयल होता है वो"
+    },
+    {
+      "subtitle_ids": [
+        343
+      ],
+      "start": 679.519,
+      "end": 684.24,
+      "text": "होता है डॉलर में। और अगर ऑयल की प्राइसेस"
+    },
+    {
+      "subtitle_ids": [
+        344
+      ],
+      "start": 681.76,
+      "end": 686.24,
+      "text": "बढ़ जाती है लेट्स से 50% बढ़ जाती है तो"
+    },
+    {
+      "subtitle_ids": [
+        345
+      ],
+      "start": 684.24,
+      "end": 688.0,
+      "text": "हर कंट्री के ऑयल की डिमांड मान लो सेम ही"
+    },
+    {
+      "subtitle_ids": [
+        346
+      ],
+      "start": 686.24,
+      "end": 689.839,
+      "text": "है लेकिन उस ऑयल को खरीदने के लिए अब"
+    },
+    {
+      "subtitle_ids": [
+        347
+      ],
+      "start": 688.0,
+      "end": 691.92,
+      "text": "उन्हें ज्यादा डॉलर खरीदने पड़ेंगे।"
+    },
+    {
+      "subtitle_ids": [
+        348
+      ],
+      "start": 689.839,
+      "end": 693.839,
+      "text": "ज्यादा डॉलर खरीदने पड़ेंगे तो डॉलर"
+    },
+    {
+      "subtitle_ids": [
+        349
+      ],
+      "start": 691.92,
+      "end": 695.68,
+      "text": "स्ट्रांग हो जाएगा और इस तरह डॉलर की"
+    },
+    {
+      "subtitle_ids": [
+        350
+      ],
+      "start": 693.839,
+      "end": 697.68,
+      "text": "रिकवरी हो जाएगी। और इसी के चलते फिर यहां"
+    },
+    {
+      "subtitle_ids": [
+        351
+      ],
+      "start": 695.68,
+      "end": 699.92,
+      "text": "पर डॉलर स्टंग होने लगा और साथ ही जो"
+    },
+    {
+      "subtitle_ids": [
+        352
+      ],
+      "start": 697.68,
+      "end": 702.16,
+      "text": "सेंट्रल बैंक्स पहले बिजी थे कि चलो भाई"
+    },
+    {
+      "subtitle_ids": [
+        353
+      ],
+      "start": 699.92,
+      "end": 703.76,
+      "text": "गोल्ड खरीदो गोल्ड खरीदो। वो भी यहां पर"
+    },
+    {
+      "subtitle_ids": [
+        354
+      ],
+      "start": 702.16,
+      "end": 705.44,
+      "text": "टेंशन में आ गए कि यार अभी तो क्रूड ऑइल"
+    },
+    {
+      "subtitle_ids": [
+        355
+      ],
+      "start": 703.76,
+      "end": 707.04,
+      "text": "खरीदना पड़ेगा। फिर से डॉलर लगेगा। तो"
+    },
+    {
+      "subtitle_ids": [
+        356
+      ],
+      "start": 705.44,
+      "end": 708.72,
+      "text": "गोल्ड नहीं खरीदते अभी रुक जाते हैं। अभी"
+    },
+    {
+      "subtitle_ids": [
+        357
+      ],
+      "start": 707.04,
+      "end": 710.88,
+      "text": "डॉलर खरीदते हैं फटाफट। तो इस तरह डॉनल्ड"
+    },
+    {
+      "subtitle_ids": [
+        358
+      ],
+      "start": 708.72,
+      "end": 712.48,
+      "text": "ट्रंप ने एक तीर में दो चिड़िया मार दी।"
+    },
+    {
+      "subtitle_ids": [
+        359
+      ],
+      "start": 710.88,
+      "end": 714.079,
+      "text": "अब यहां पर एक दो चीजें और हमें मिली है"
+    },
+    {
+      "subtitle_ids": [
+        360
+      ],
+      "start": 712.48,
+      "end": 715.839,
+      "text": "जो मैं आपको कंक्लूजन में बताऊंगा क्योंकि"
+    },
+    {
+      "subtitle_ids": [
+        361
+      ],
+      "start": 714.079,
+      "end": 717.68,
+      "text": "उससे पहले मुझे एक और इंपॉर्टेंट चीज आपको"
+    },
+    {
+      "subtitle_ids": [
+        362
+      ],
+      "start": 715.839,
+      "end": 719.68,
+      "text": "बतानी है और वो इंपॉर्टेंट चीज है डॉन्ड"
+    },
+    {
+      "subtitle_ids": [
+        363
+      ],
+      "start": 717.68,
+      "end": 721.36,
+      "text": "ट्रंप के दादाजी। डॉनल्ड ट्रंप अपने"
+    },
+    {
+      "subtitle_ids": [
+        364
+      ],
+      "start": 719.68,
+      "end": 723.279,
+      "text": "दादाजी से बहुत ज्यादा इंस्पायर्ड हैं और"
+    },
+    {
+      "subtitle_ids": [
+        365
+      ],
+      "start": 721.36,
+      "end": 724.72,
+      "text": "इनके दादा जी की अगर आप हरकतें देखेंगे तो"
+    },
+    {
+      "subtitle_ids": [
+        366
+      ],
+      "start": 723.279,
+      "end": 726.24,
+      "text": "मुझे लगता है डॉन्ड ट्रंप से पहले उनके"
+    },
+    {
+      "subtitle_ids": [
+        367
+      ],
+      "start": 724.72,
+      "end": 727.68,
+      "text": "दादा जी पर कोई मूवी बननी चाहिए। तो चलिए"
+    },
+    {
+      "subtitle_ids": [
+        368
+      ],
+      "start": 726.24,
+      "end": 730.399,
+      "text": "मैं आपको डॉल्ड ट्रंप के दादा जी से"
+    },
+    {
+      "subtitle_ids": [
+        369
+      ],
+      "start": 727.68,
+      "end": 732.8,
+      "text": "मिलवाता हूं। तो देखिए बात है 1896 की जब"
+    },
+    {
+      "subtitle_ids": [
+        370
+      ],
+      "start": 730.399,
+      "end": 734.72,
+      "text": "कनाडा की यूकॉन नाम की टेरिटरी जो कि"
+    },
+    {
+      "subtitle_ids": [
+        371
+      ],
+      "start": 732.8,
+      "end": 736.399,
+      "text": "अलास्का के बाजू में है। वहां पर सबसे"
+    },
+    {
+      "subtitle_ids": [
+        372
+      ],
+      "start": 734.72,
+      "end": 738.56,
+      "text": "पहले गोल्ड के भंडार मिले। अब धीरे-धीरे"
+    },
+    {
+      "subtitle_ids": [
+        373
+      ],
+      "start": 736.399,
+      "end": 740.399,
+      "text": "ये न्यूज़ हर जगह फैलने लगी कि बहुत बड़ा"
+    },
+    {
+      "subtitle_ids": [
+        374
+      ],
+      "start": 738.56,
+      "end": 742.079,
+      "text": "गोल्ड रिजर्व इस टेरिटरी में है। अब ये"
+    },
+    {
+      "subtitle_ids": [
+        375
+      ],
+      "start": 740.399,
+      "end": 743.6,
+      "text": "न्यूज़ सुनकर बहुत ज्यादा लोग वहां पर बड़ी"
+    },
+    {
+      "subtitle_ids": [
+        376
+      ],
+      "start": 742.079,
+      "end": 745.839,
+      "text": "मात्रा में पहुंच जाते हैं। कुछ एस्टीमेट"
+    },
+    {
+      "subtitle_ids": [
+        377
+      ],
+      "start": 743.6,
+      "end": 747.839,
+      "text": "के हिसाब से क्लोज टू 1 लाख लोग वहां पर"
+    },
+    {
+      "subtitle_ids": [
+        378
+      ],
+      "start": 745.839,
+      "end": 749.76,
+      "text": "पहुंच जाते यह सोच के कि गोल्ड माइन"
+    },
+    {
+      "subtitle_ids": [
+        379
+      ],
+      "start": 747.839,
+      "end": 752.16,
+      "text": "करेंगे और बहुत सारा पैसा बनाएंगे। अब इन"
+    },
+    {
+      "subtitle_ids": [
+        380
+      ],
+      "start": 749.76,
+      "end": 754.399,
+      "text": "1 लाख लोगों में से एक थे डॉन्ड ट्रंप के"
+    },
+    {
+      "subtitle_ids": [
+        381
+      ],
+      "start": 752.16,
+      "end": 756.399,
+      "text": "दादाजी जो जिनका जन्म तो जर्मनी में हुआ"
+    },
+    {
+      "subtitle_ids": [
+        382
+      ],
+      "start": 754.399,
+      "end": 757.68,
+      "text": "था। लेकिन रिसेंटली वो यूएस में माइग्रेट"
+    },
+    {
+      "subtitle_ids": [
+        383
+      ],
+      "start": 756.399,
+      "end": 759.44,
+      "text": "हुए थे। यानी कि डॉन्ड ट्रंप जो खुद"
+    },
+    {
+      "subtitle_ids": [
+        384
+      ],
+      "start": 757.68,
+      "end": 761.44,
+      "text": "माइग्रेशन को काफी ज्यादा अपोज करते हैं।"
+    },
+    {
+      "subtitle_ids": [
+        385
+      ],
+      "start": 759.44,
+      "end": 763.44,
+      "text": "उनके खुद के दादाजी माइग्रेट हो के ही आए।"
+    },
+    {
+      "subtitle_ids": [
+        386
+      ],
+      "start": 761.44,
+      "end": 765.44,
+      "text": "उनका नाम था फेडरिक ट्रंप। लेकिन ट्रंप के"
+    },
+    {
+      "subtitle_ids": [
+        387
+      ],
+      "start": 763.44,
+      "end": 767.44,
+      "text": "दादाजी का जो दिमाग था वो थोड़ा हटके था।"
+    },
+    {
+      "subtitle_ids": [
+        388
+      ],
+      "start": 765.44,
+      "end": 769.92,
+      "text": "उन्हें पता था कि 1 लाख लोग गोल्ड की जगह"
+    },
+    {
+      "subtitle_ids": [
+        389
+      ],
+      "start": 767.44,
+      "end": 771.839,
+      "text": "पर जाने का रास्ता भी काफी मुश्किल था और"
+    },
+    {
+      "subtitle_ids": [
+        390
+      ],
+      "start": 769.92,
+      "end": 773.279,
+      "text": "मौत का भी वहां पर डर था और ऐसे में सारे"
+    },
+    {
+      "subtitle_ids": [
+        391
+      ],
+      "start": 771.839,
+      "end": 774.72,
+      "text": "के सारे 1 लाख लोगों को तो गोल्ड मिलने"
+    },
+    {
+      "subtitle_ids": [
+        392
+      ],
+      "start": 773.279,
+      "end": 776.399,
+      "text": "वाला नहीं है। तो उन्होंने थोड़ा आउट ऑफ द"
+    },
+    {
+      "subtitle_ids": [
+        393
+      ],
+      "start": 774.72,
+      "end": 778.24,
+      "text": "बॉक्स सोचा कि मैं गोल्ड ढूंढने की बजाय"
+    },
+    {
+      "subtitle_ids": [
+        394
+      ],
+      "start": 776.399,
+      "end": 780.24,
+      "text": "उस रीजन में माइनर्स के लिए होटल खोल देता"
+    },
+    {
+      "subtitle_ids": [
+        395
+      ],
+      "start": 778.24,
+      "end": 782.959,
+      "text": "हूं जिसका नाम रखा गया आर्टिक रेस्टोरेंट"
+    },
+    {
+      "subtitle_ids": [
+        396
+      ],
+      "start": 780.24,
+      "end": 784.88,
+      "text": "होटल। इस होटल में वो खाना, दारू और यह सब"
+    },
+    {
+      "subtitle_ids": [
+        397
+      ],
+      "start": 782.959,
+      "end": 786.48,
+      "text": "करवाते थे जो आप स्क्रीन पर देख सकते हो।"
+    },
+    {
+      "subtitle_ids": [
+        398
+      ],
+      "start": 784.88,
+      "end": 788.32,
+      "text": "यानी यहीं से शुरुआत होती है डॉन्ड ट्रंप"
+    },
+    {
+      "subtitle_ids": [
+        399
+      ],
+      "start": 786.48,
+      "end": 790.0,
+      "text": "की फैमिली की पहली वेल्थ बिल्डिंग की।"
+    },
+    {
+      "subtitle_ids": [
+        400
+      ],
+      "start": 788.32,
+      "end": 792.079,
+      "text": "यहां से अच्छे खासे पैसे वो बना लेते हैं"
+    },
+    {
+      "subtitle_ids": [
+        401
+      ],
+      "start": 790.0,
+      "end": 793.92,
+      "text": "और फिर यहां से होटल कुछ साल चलती है और"
+    },
+    {
+      "subtitle_ids": [
+        402
+      ],
+      "start": 792.079,
+      "end": 795.519,
+      "text": "गोल्ड रश खत्म हो जाता है और ट्रंप के"
+    },
+    {
+      "subtitle_ids": [
+        403
+      ],
+      "start": 793.92,
+      "end": 797.2,
+      "text": "दादा फिर से न्यूयॉर्क शिफ्ट हो जाते हैं।"
+    },
+    {
+      "subtitle_ids": [
+        404
+      ],
+      "start": 795.519,
+      "end": 799.36,
+      "text": "जहां पर वो एक सैलूून खोलते हैं जहां पर"
+    },
+    {
+      "subtitle_ids": [
+        405
+      ],
+      "start": 797.2,
+      "end": 801.2,
+      "text": "बहुत अमीर लोग आते थे और रियलस्टेट की"
+    },
+    {
+      "subtitle_ids": [
+        406
+      ],
+      "start": 799.36,
+      "end": 803.12,
+      "text": "बातें करते थे और यही सुनकर उन्होंने भी"
+    },
+    {
+      "subtitle_ids": [
+        407
+      ],
+      "start": 801.2,
+      "end": 804.639,
+      "text": "डिसाइड किया कि वो भी अब रियलस्टेट के"
+    },
+    {
+      "subtitle_ids": [
+        408
+      ],
+      "start": 803.12,
+      "end": 806.0,
+      "text": "बिज़नेस में एंट्री लेंगे और यहीं से फिर"
+    },
+    {
+      "subtitle_ids": [
+        409
+      ],
+      "start": 804.639,
+      "end": 807.839,
+      "text": "शुरुआत हुई डॉन्ड ट्रंप के फैमिली के"
+    },
+    {
+      "subtitle_ids": [
+        410
+      ],
+      "start": 806.0,
+      "end": 809.92,
+      "text": "रियलस्टेट बिज़नेस की और वर्ल्ड वॉर टू के"
+    },
+    {
+      "subtitle_ids": [
+        411
+      ],
+      "start": 807.839,
+      "end": 811.76,
+      "text": "बाद यूएस की जो सरकार है वो बहुत सारी"
+    },
+    {
+      "subtitle_ids": [
+        412
+      ],
+      "start": 809.92,
+      "end": 813.6,
+      "text": "फाइनेंस आ रही थी टू बिल्ड हाउसिंग फॉर"
+    },
+    {
+      "subtitle_ids": [
+        413
+      ],
+      "start": 811.76,
+      "end": 815.68,
+      "text": "मिडिल क्लास जिसका बहुत ज्यादा फायदा"
+    },
+    {
+      "subtitle_ids": [
+        414
+      ],
+      "start": 813.6,
+      "end": 817.44,
+      "text": "डोनाल्ड ट्रंप के फादर और ग्रैंडफादर को"
+    },
+    {
+      "subtitle_ids": [
+        415
+      ],
+      "start": 815.68,
+      "end": 819.36,
+      "text": "मिला। अब इसी बीच बहुत सारे आरोप भी लगे"
+    },
+    {
+      "subtitle_ids": [
+        416
+      ],
+      "start": 817.44,
+      "end": 821.279,
+      "text": "उनके फादर पर कि वह ज्यादा फंडिंग उठाने"
+    },
+    {
+      "subtitle_ids": [
+        417
+      ],
+      "start": 819.36,
+      "end": 822.959,
+      "text": "के लिए हाउसिंग कॉस्ट को बढ़ा चढ़ाकर दिखा"
+    },
+    {
+      "subtitle_ids": [
+        418
+      ],
+      "start": 821.279,
+      "end": 824.8,
+      "text": "दे ताकि उन्हें और ज्यादा फंडिंग मिले और"
+    },
+    {
+      "subtitle_ids": [
+        419
+      ],
+      "start": 822.959,
+      "end": 826.24,
+      "text": "उसी फंडिंग से वह और दूसरे घरों में"
+    },
+    {
+      "subtitle_ids": [
+        420
+      ],
+      "start": 824.8,
+      "end": 827.839,
+      "text": "इन्वेस्ट कर सके। वॉर के बाद फिर"
+    },
+    {
+      "subtitle_ids": [
+        421
+      ],
+      "start": 826.24,
+      "end": 829.519,
+      "text": "धीरे-धीरे न्यूयॉर्क एक बड़ा फाइनेंसियल"
+    },
+    {
+      "subtitle_ids": [
+        422
+      ],
+      "start": 827.839,
+      "end": 830.88,
+      "text": "हब बनता जा रहा था और काफी माइग्रेशन"
+    },
+    {
+      "subtitle_ids": [
+        423
+      ],
+      "start": 829.519,
+      "end": 832.639,
+      "text": "न्यूयॉर्क सिटी में हो रहा था। जितने"
+    },
+    {
+      "subtitle_ids": [
+        424
+      ],
+      "start": 830.88,
+      "end": 834.24,
+      "text": "ज्यादा लोग आएंगे उतनी ज्यादा हाउसिंग की"
+    },
+    {
+      "subtitle_ids": [
+        425
+      ],
+      "start": 832.639,
+      "end": 836.079,
+      "text": "जरूरत पड़ेगी और इस अफोर्डेबल हाउसिंग"
+    },
+    {
+      "subtitle_ids": [
+        426
+      ],
+      "start": 834.24,
+      "end": 838.48,
+      "text": "सेगमेंट को अगर कोई कैटर कर रहा था तो वो"
+    },
+    {
+      "subtitle_ids": [
+        427
+      ],
+      "start": 836.079,
+      "end": 840.72,
+      "text": "थे डॉन्ड ट्रंप के फादर और 1970 आते-आते"
+    },
+    {
+      "subtitle_ids": [
+        428
+      ],
+      "start": 838.48,
+      "end": 842.24,
+      "text": "उनकी कंपनी क्लोज टू 20,000 अपार्टमेंट्स"
+    },
+    {
+      "subtitle_ids": [
+        429
+      ],
+      "start": 840.72,
+      "end": 844.0,
+      "text": "ओन करती थी। यानी कि ज्यादातर जो"
+    },
+    {
+      "subtitle_ids": [
+        430
+      ],
+      "start": 842.24,
+      "end": 845.839,
+      "text": "फ़ॉर्च्यून बनी है ट्रंप फैमिली की वह इसी"
+    },
+    {
+      "subtitle_ids": [
+        431
+      ],
+      "start": 844.0,
+      "end": 847.44,
+      "text": "दौर में बनी और उनके जो फादर थे ऑलरेडी वन"
+    },
+    {
+      "subtitle_ids": [
+        432
+      ],
+      "start": 845.839,
+      "end": 848.88,
+      "text": "ऑफ़ द रिचेस्ट पर्सन थे न्यूयॉर्क के। वैसे"
+    },
+    {
+      "subtitle_ids": [
+        433
+      ],
+      "start": 847.44,
+      "end": 850.959,
+      "text": "तो डोनाल्ड ट्रंप कहते थे कि मुझे अपने"
+    },
+    {
+      "subtitle_ids": [
+        434
+      ],
+      "start": 848.88,
+      "end": 852.72,
+      "text": "फादर से $1 मिलियन का लोन मिला था और वहां"
+    },
+    {
+      "subtitle_ids": [
+        435
+      ],
+      "start": 850.959,
+      "end": 854.399,
+      "text": "से मैंने सारी चीजें खड़ी की। लेकिन डाटा"
+    },
+    {
+      "subtitle_ids": [
+        436
+      ],
+      "start": 852.72,
+      "end": 858.24,
+      "text": "तो यह बताता है कि उन्हें अपने फादर से"
+    },
+    {
+      "subtitle_ids": [
+        437
+      ],
+      "start": 854.399,
+      "end": 860.399,
+      "text": "$400 मिलियन। यानी आज के करीब $4000 करोड़"
+    },
+    {
+      "subtitle_ids": [
+        438
+      ],
+      "start": 858.24,
+      "end": 862.16,
+      "text": "मिले। अब डॉन्ड ट्रंप के फादर और डॉन्ड"
+    },
+    {
+      "subtitle_ids": [
+        439
+      ],
+      "start": 860.399,
+      "end": 863.92,
+      "text": "ट्रंप के माइंडसेट में फर्क यह था कि उनके"
+    },
+    {
+      "subtitle_ids": [
+        440
+      ],
+      "start": 862.16,
+      "end": 865.6,
+      "text": "फादर टारगेट कर रहे थे मिडिल क्लास"
+    },
+    {
+      "subtitle_ids": [
+        441
+      ],
+      "start": 863.92,
+      "end": 867.12,
+      "text": "हाउसिंग को और डॉल्ड ट्रंप टारगेट कर रहे"
+    },
+    {
+      "subtitle_ids": [
+        442
+      ],
+      "start": 865.6,
+      "end": 869.04,
+      "text": "थे लग्जरी हाउसिंग को जिसमें स्काई"
+    },
+    {
+      "subtitle_ids": [
+        443
+      ],
+      "start": 867.12,
+      "end": 870.639,
+      "text": "स्क्रेपर्स और साथ ही कसीनो और गोलफ"
+    },
+    {
+      "subtitle_ids": [
+        444
+      ],
+      "start": 869.04,
+      "end": 872.16,
+      "text": "रिसोर्ट्स। डॉनल्ड ट्रंप जो थे वो अपने"
+    },
+    {
+      "subtitle_ids": [
+        445
+      ],
+      "start": 870.639,
+      "end": 873.519,
+      "text": "पापा जितने सक्सेसफुल नहीं बन पाए।"
+    },
+    {
+      "subtitle_ids": [
+        446
+      ],
+      "start": 872.16,
+      "end": 875.44,
+      "text": "उन्होंने इन लग्जरी प्रोजेक्ट्स के लिए"
+    },
+    {
+      "subtitle_ids": [
+        447
+      ],
+      "start": 873.519,
+      "end": 877.12,
+      "text": "बहुत सारे लोन उठाए जिन्हें उनकी कंपनीज़"
+    },
+    {
+      "subtitle_ids": [
+        448
+      ],
+      "start": 875.44,
+      "end": 878.8,
+      "text": "बाद में चुका नहीं पाई। और यही रीज़न था कि"
+    },
+    {
+      "subtitle_ids": [
+        449
+      ],
+      "start": 877.12,
+      "end": 880.56,
+      "text": "उनकी कंपनीज़ ने कुल मिलाकर छह बार"
+    },
+    {
+      "subtitle_ids": [
+        450
+      ],
+      "start": 878.8,
+      "end": 882.079,
+      "text": "बैंककरप्ट्स डिक्लेअर की थी। लेकिन डॉनल्ड"
+    },
+    {
+      "subtitle_ids": [
+        451
+      ],
+      "start": 880.56,
+      "end": 883.92,
+      "text": "ट्रंप की खास बात यह थी कि वो मीडिया में"
+    },
+    {
+      "subtitle_ids": [
+        452
+      ],
+      "start": 882.079,
+      "end": 885.44,
+      "text": "काफी पॉपुलर थे। हर कोई उन्हें जानता था"
+    },
+    {
+      "subtitle_ids": [
+        453
+      ],
+      "start": 883.92,
+      "end": 887.44,
+      "text": "और इसीलिए उन्होंने जो मेजॉरिटी पैसा"
+    },
+    {
+      "subtitle_ids": [
+        454
+      ],
+      "start": 885.44,
+      "end": 889.36,
+      "text": "बनाया वो अपने नाम को यूज़ करने के बदले"
+    },
+    {
+      "subtitle_ids": [
+        455
+      ],
+      "start": 887.44,
+      "end": 891.519,
+      "text": "में फीस के रूप में चार्ज किया। जैसे कि"
+    },
+    {
+      "subtitle_ids": [
+        456
+      ],
+      "start": 889.36,
+      "end": 893.839,
+      "text": "आप यह सुनकर शॉक हो जाएंगे कि मुंबई में"
+    },
+    {
+      "subtitle_ids": [
+        457
+      ],
+      "start": 891.519,
+      "end": 895.44,
+      "text": "आप ट्रंप टावर देखेंगे तो ट्रंप टावर"
+    },
+    {
+      "subtitle_ids": [
+        458
+      ],
+      "start": 893.839,
+      "end": 897.04,
+      "text": "ट्रंप ने नहीं बनाया। वो लोढ़ा ग्रुप ने"
+    },
+    {
+      "subtitle_ids": [
+        459
+      ],
+      "start": 895.44,
+      "end": 898.72,
+      "text": "बनाया है। बस ट्रंप का नाम यूज़ किया तो"
+    },
+    {
+      "subtitle_ids": [
+        460
+      ],
+      "start": 897.04,
+      "end": 900.959,
+      "text": "ट्रंप को एक फीस उन्हें देनी पड़ी। इस चीज"
+    },
+    {
+      "subtitle_ids": [
+        461
+      ],
+      "start": 898.72,
+      "end": 902.639,
+      "text": "को एसेट लाइट लाइसेंसिंग कहते हैं। सेम"
+    },
+    {
+      "subtitle_ids": [
+        462
+      ],
+      "start": 900.959,
+      "end": 904.32,
+      "text": "चीज शाहरुख खान भी कर रहे हैं दुबई में।"
+    },
+    {
+      "subtitle_ids": [
+        463
+      ],
+      "start": 902.639,
+      "end": 905.92,
+      "text": "वहां पर शाहरुख खान बॉलीवुड बन रहा है। तो"
+    },
+    {
+      "subtitle_ids": [
+        464
+      ],
+      "start": 904.32,
+      "end": 907.279,
+      "text": "इंटरेस्टिंग चीज यहां पर है कि इवन दो"
+    },
+    {
+      "subtitle_ids": [
+        465
+      ],
+      "start": 905.92,
+      "end": 909.12,
+      "text": "अपनी लाइफ में बहुत ज्यादा फेल होने के"
+    },
+    {
+      "subtitle_ids": [
+        466
+      ],
+      "start": 907.279,
+      "end": 911.36,
+      "text": "बावजूद भी डोनल्ड ट्रंप को पता है कि कैसे"
+    },
+    {
+      "subtitle_ids": [
+        467
+      ],
+      "start": 909.12,
+      "end": 912.959,
+      "text": "पैसा कमाना है और मीडिया में ऊपर रहना है।"
+    },
+    {
+      "subtitle_ids": [
+        468
+      ],
+      "start": 911.36,
+      "end": 914.8,
+      "text": "तो देखिए सिंपल सी बात करूं तो ट्रंप किसी"
+    },
+    {
+      "subtitle_ids": [
+        469
+      ],
+      "start": 912.959,
+      "end": 916.56,
+      "text": "के सगे नहीं है। वो अल्टीमेटली फायदा दो"
+    },
+    {
+      "subtitle_ids": [
+        470
+      ],
+      "start": 914.8,
+      "end": 918.399,
+      "text": "ही चीजों का देखते हैं अपना और अपने देश"
+    },
+    {
+      "subtitle_ids": [
+        471
+      ],
+      "start": 916.56,
+      "end": 920.399,
+      "text": "का। अब ट्रंप का फायदा इसी चीज में है कि"
+    },
+    {
+      "subtitle_ids": [
+        472
+      ],
+      "start": 918.399,
+      "end": 922.56,
+      "text": "इस वॉर को वो किसी ना किसी तरीके से जारी"
+    },
+    {
+      "subtitle_ids": [
+        473
+      ],
+      "start": 920.399,
+      "end": 924.48,
+      "text": "रखें। क्योंकि जब तक ईरान के साथ वॉर है"
+    },
+    {
+      "subtitle_ids": [
+        474
+      ],
+      "start": 922.56,
+      "end": 926.8,
+      "text": "तब तक जो स्ट्रीट ऑफ हॉर्मोस है वो कभी"
+    },
+    {
+      "subtitle_ids": [
+        475
+      ],
+      "start": 924.48,
+      "end": 928.639,
+      "text": "शुरू रहेगा, कभी बंद रहेगा। अब इस चालू"
+    },
+    {
+      "subtitle_ids": [
+        476
+      ],
+      "start": 926.8,
+      "end": 930.48,
+      "text": "बंद के बीच होगा क्या? बहुत सारी कंट्रीज"
+    },
+    {
+      "subtitle_ids": [
+        477
+      ],
+      "start": 928.639,
+      "end": 932.24,
+      "text": "को ऑयल नहीं मिलेगा। ऑयल की प्राइसेस फिर"
+    },
+    {
+      "subtitle_ids": [
+        478
+      ],
+      "start": 930.48,
+      "end": 933.92,
+      "text": "से बढ़ती रहेगी और फिर बढ़ेगी। तो ऑयल"
+    },
+    {
+      "subtitle_ids": [
+        479
+      ],
+      "start": 932.24,
+      "end": 935.199,
+      "text": "कंपनीज़ को धना धन प्रॉफिट मिलेगा। जैसे"
+    },
+    {
+      "subtitle_ids": [
+        480
+      ],
+      "start": 933.92,
+      "end": 937.279,
+      "text": "डॉन्ड ट्रंप को डायरेक्ट फायदा है। फिर"
+    },
+    {
+      "subtitle_ids": [
+        481
+      ],
+      "start": 935.199,
+      "end": 939.279,
+      "text": "नेगोशिएशंस की बातें हुई। फिर से फिर ऑयल"
+    },
+    {
+      "subtitle_ids": [
+        482
+      ],
+      "start": 937.279,
+      "end": 940.8,
+      "text": "की प्राइसेस कम हो जाएंगी। और जैसे ऑइल की"
+    },
+    {
+      "subtitle_ids": [
+        483
+      ],
+      "start": 939.279,
+      "end": 942.0,
+      "text": "प्राइसेस कम हो जाती है डोनल्ड ट्रंप फिर"
+    },
+    {
+      "subtitle_ids": [
+        484
+      ],
+      "start": 940.8,
+      "end": 943.76,
+      "text": "से आ जाते हैं। बोलते हैं कि नेगोशिएशन"
+    },
+    {
+      "subtitle_ids": [
+        485
+      ],
+      "start": 942.0,
+      "end": 945.279,
+      "text": "कैंसिल। पहले तो इन्होंने बताया था कि हम"
+    },
+    {
+      "subtitle_ids": [
+        486
+      ],
+      "start": 943.76,
+      "end": 946.88,
+      "text": "ईरान के साथ इसलिए डील नहीं कर रहे बिकॉज़"
+    },
+    {
+      "subtitle_ids": [
+        487
+      ],
+      "start": 945.279,
+      "end": 948.16,
+      "text": "ईरान के पास एरोगंस है। वो डील करने के"
+    },
+    {
+      "subtitle_ids": [
+        488
+      ],
+      "start": 946.88,
+      "end": 949.92,
+      "text": "लिए तैयार नहीं है। लेकिन रिसेंट में"
+    },
+    {
+      "subtitle_ids": [
+        489
+      ],
+      "start": 948.16,
+      "end": 951.759,
+      "text": "पिछले दो महीने में हमने देखा कि ईरान भी"
+    },
+    {
+      "subtitle_ids": [
+        490
+      ],
+      "start": 949.92,
+      "end": 953.279,
+      "text": "आगे आया कि चलो हम डील करते हैं आपके साथ।"
+    },
+    {
+      "subtitle_ids": [
+        491
+      ],
+      "start": 951.759,
+      "end": 955.44,
+      "text": "लेकिन यहां पर जब डील भी हो गई तो उसके"
+    },
+    {
+      "subtitle_ids": [
+        492
+      ],
+      "start": 953.279,
+      "end": 957.36,
+      "text": "दूसरे दिन ही डॉन ट्रंप पलट गए कि ठीक है"
+    },
+    {
+      "subtitle_ids": [
+        493
+      ],
+      "start": 955.44,
+      "end": 959.279,
+      "text": "भाई ये बहुत ज्यादा एोगेंस है ईरान में"
+    },
+    {
+      "subtitle_ids": [
+        494
+      ],
+      "start": 957.36,
+      "end": 961.04,
+      "text": "हमें नहीं करनी है डील और फिर से तो ये"
+    },
+    {
+      "subtitle_ids": [
+        495
+      ],
+      "start": 959.279,
+      "end": 962.639,
+      "text": "इनका चलता ही रहेगा क्योंकि उनको पता है"
+    },
+    {
+      "subtitle_ids": [
+        496
+      ],
+      "start": 961.04,
+      "end": 964.16,
+      "text": "कि उनका फायदा किस चीज में है लेकिन आपको"
+    },
+    {
+      "subtitle_ids": [
+        497
+      ],
+      "start": 962.639,
+      "end": 965.92,
+      "text": "एक चीज यहां पर यह भी बताना चाहता हूं कि"
+    },
+    {
+      "subtitle_ids": [
+        498
+      ],
+      "start": 964.16,
+      "end": 967.44,
+      "text": "डॉन ट्रंप जो चीजें कर रहे हैं शॉर्ट टर्म"
+    },
+    {
+      "subtitle_ids": [
+        499
+      ],
+      "start": 965.92,
+      "end": 969.199,
+      "text": "में तो यूएस को फायदा मिल रहा है उन्हें"
+    },
+    {
+      "subtitle_ids": [
+        500
+      ],
+      "start": 967.44,
+      "end": 972.24,
+      "text": "पर्सनली भी बहुत ज्यादा फायदा मिल रहा है"
+    },
+    {
+      "subtitle_ids": [
+        501
+      ],
+      "start": 969.199,
+      "end": 974.32,
+      "text": "क्योंकि वो बीच में यू नो स्टॉक मार्केट"
+    },
+    {
+      "subtitle_ids": [
+        502
+      ],
+      "start": 972.24,
+      "end": 976.88,
+      "text": "में कई बार ट्रेडिंग करके भी उनकी फैमिली"
+    },
+    {
+      "subtitle_ids": [
+        503
+      ],
+      "start": 974.32,
+      "end": 978.56,
+      "text": "ने काफी पैसा कमाया मार्केट ऊपर नीचे करके"
+    },
+    {
+      "subtitle_ids": [
+        504
+      ],
+      "start": 976.88,
+      "end": 980.24,
+      "text": "लेकिन शॉर्ट टर्म में तो ये सारी चीजें"
+    },
+    {
+      "subtitle_ids": [
+        505
+      ],
+      "start": 978.56,
+      "end": 982.079,
+      "text": "चलेगी लेकिन लॉन्ग टर्म में इसका बहुत"
+    },
+    {
+      "subtitle_ids": [
+        506
+      ],
+      "start": 980.24,
+      "end": 984.399,
+      "text": "नेगेटिव इंपैक्ट यूएस का बनता जा रहा है।"
+    },
+    {
+      "subtitle_ids": [
+        507
+      ],
+      "start": 982.079,
+      "end": 986.16,
+      "text": "यूएस की जो इमेज है वो इसमें काफी खराब हो"
+    },
+    {
+      "subtitle_ids": [
+        508
+      ],
+      "start": 984.399,
+      "end": 987.519,
+      "text": "रही है। उन पे ट्रस्ट करना काफी टफ हो गया"
+    },
+    {
+      "subtitle_ids": [
+        509
+      ],
+      "start": 986.16,
+      "end": 989.68,
+      "text": "है। और इसीलिए फिर सेंट्रल बैंक्स ने"
+    },
+    {
+      "subtitle_ids": [
+        510
+      ],
+      "start": 987.519,
+      "end": 992.32,
+      "text": "गोल्ड खरीदना शुरू किया था डॉलर को बेच"
+    },
+    {
+      "subtitle_ids": [
+        511
+      ],
+      "start": 989.68,
+      "end": 993.92,
+      "text": "के। अब हालांकि यहां पर उन पर एक कंपल्शन"
+    },
+    {
+      "subtitle_ids": [
+        512
+      ],
+      "start": 992.32,
+      "end": 995.92,
+      "text": "आ गया है क्रूड ऑयल बढ़ने की वजह से कि"
+    },
+    {
+      "subtitle_ids": [
+        513
+      ],
+      "start": 993.92,
+      "end": 998.639,
+      "text": "चलो यार अभी वापस डॉलर खरीदना पड़ेगा।"
+    },
+    {
+      "subtitle_ids": [
+        514
+      ],
+      "start": 995.92,
+      "end": 1000.16,
+      "text": "लेकिन जैसे ही डॉन्ड ट्रंप अपनी सत्ता से"
+    },
+    {
+      "subtitle_ids": [
+        515
+      ],
+      "start": 998.639,
+      "end": 1002.16,
+      "text": "निकल जाएंगे क्योंकि दो बार ही वहां पर"
+    },
+    {
+      "subtitle_ids": [
+        516
+      ],
+      "start": 1000.16,
+      "end": 1004.639,
+      "text": "प्रेसिडेंट बन सकता है कोई व्यक्ति। तीसरी"
+    },
+    {
+      "subtitle_ids": [
+        517
+      ],
+      "start": 1002.16,
+      "end": 1006.399,
+      "text": "बार तो आएंगे नहीं कोई और आएगा। तब जरूर"
+    },
+    {
+      "subtitle_ids": [
+        518
+      ],
+      "start": 1004.639,
+      "end": 1008.16,
+      "text": "जो बाकी कंट्रीज हैं वो धीरे-धीरे वहां के"
+    },
+    {
+      "subtitle_ids": [
+        519
+      ],
+      "start": 1006.399,
+      "end": 1009.92,
+      "text": "सेंट्रल बैंक्स और बाकी चीज़ बैकफायर करने"
+    },
+    {
+      "subtitle_ids": [
+        520
+      ],
+      "start": 1008.16,
+      "end": 1011.36,
+      "text": "लगेगी। तो लॉन्ग टर्म में यूएस डॉलर और"
+    },
+    {
+      "subtitle_ids": [
+        521
+      ],
+      "start": 1009.92,
+      "end": 1013.04,
+      "text": "यूएस इकॉनमी को इसका एक थोड़ा बहुत"
+    },
+    {
+      "subtitle_ids": [
+        522
+      ],
+      "start": 1011.36,
+      "end": 1014.72,
+      "text": "नेगेटिव इंपैक्ट झेलना पड़ सकता है। जो भी"
+    },
+    {
+      "subtitle_ids": [
+        523
+      ],
+      "start": 1013.04,
+      "end": 1016.48,
+      "text": "हरकतें डोन्ड ट्रंप यहां पर कर रहे हैं"
+    },
+    {
+      "subtitle_ids": [
+        524
+      ],
+      "start": 1014.72,
+      "end": 1018.16,
+      "text": "फिलहाल अपने फायदे के लिए और फिलहाल के"
+    },
+    {
+      "subtitle_ids": [
+        525
+      ],
+      "start": 1016.48,
+      "end": 1019.6,
+      "text": "लिए शॉर्ट टर्म यूएस के फायदे के लिए। अब"
+    },
+    {
+      "subtitle_ids": [
+        526
+      ],
+      "start": 1018.16,
+      "end": 1020.959,
+      "text": "इसी चीजों का खामियाजा इंडिया को काफी"
+    },
+    {
+      "subtitle_ids": [
+        527
+      ],
+      "start": 1019.6,
+      "end": 1022.639,
+      "text": "भुगतना पड़ता है क्योंकि हम बहुत सारा"
+    },
+    {
+      "subtitle_ids": [
+        528
+      ],
+      "start": 1020.959,
+      "end": 1024.24,
+      "text": "क्रूड ऑयल खरीदते हैं। यहां पर मेरे हिसाब"
+    },
+    {
+      "subtitle_ids": [
+        529
+      ],
+      "start": 1022.639,
+      "end": 1025.52,
+      "text": "से अभी हमने इथेनॉल स्टार्ट किया। मैंने"
+    },
+    {
+      "subtitle_ids": [
+        530
+      ],
+      "start": 1024.24,
+      "end": 1027.439,
+      "text": "एक वीडियो में बात भी की लास्ट वीडियो में"
+    },
+    {
+      "subtitle_ids": [
+        531
+      ],
+      "start": 1025.52,
+      "end": 1029.28,
+      "text": "कि इथेनॉल करके जितना हम क्रूड ऑयल का"
+    },
+    {
+      "subtitle_ids": [
+        532
+      ],
+      "start": 1027.439,
+      "end": 1030.4,
+      "text": "इंपोर्ट बचा रहे हैं। उससे ज्यादा ऑयल दो"
+    },
+    {
+      "subtitle_ids": [
+        533
+      ],
+      "start": 1029.28,
+      "end": 1032.24,
+      "text": "चीजों से बच पाता था। अगर हमारा"
+    },
+    {
+      "subtitle_ids": [
+        534
+      ],
+      "start": 1030.4,
+      "end": 1033.919,
+      "text": "इंफ्रास्ट्रक्चर ऑयल का सही रहता तो ऑइल"
+    },
+    {
+      "subtitle_ids": [
+        535
+      ],
+      "start": 1032.24,
+      "end": 1035.6,
+      "text": "वेस्टेज कम होता। तो इथेनॉल रिप्लेसमेंट"
+    },
+    {
+      "subtitle_ids": [
+        536
+      ],
+      "start": 1033.919,
+      "end": 1037.28,
+      "text": "से ज्यादा सेविंग हमारी क्रूड ऑय से वहां"
+    },
+    {
+      "subtitle_ids": [
+        537
+      ],
+      "start": 1035.6,
+      "end": 1038.72,
+      "text": "पर हो सकती थी। नंबर वन और नंबर टू अगर हम"
+    },
+    {
+      "subtitle_ids": [
+        538
+      ],
+      "start": 1037.28,
+      "end": 1040.16,
+      "text": "इलेक्ट्रिक व्हीकल का इंफ्रास्ट्रक्चर"
+    },
+    {
+      "subtitle_ids": [
+        539
+      ],
+      "start": 1038.72,
+      "end": 1042.0,
+      "text": "यहां पर बना लें और चाइना ने वही किया है"
+    },
+    {
+      "subtitle_ids": [
+        540
+      ],
+      "start": 1040.16,
+      "end": 1043.679,
+      "text": "डिपेंडेंसी जितनी ज्यादा कम क्रूड ऑयल पर"
+    },
+    {
+      "subtitle_ids": [
+        541
+      ],
+      "start": 1042.0,
+      "end": 1045.28,
+      "text": "उतना बेटर और इंडिया को भी अगर यह अपनाना"
+    },
+    {
+      "subtitle_ids": [
+        542
+      ],
+      "start": 1043.679,
+      "end": 1046.959,
+      "text": "है तो ईवी इंफ्रास्ट्रक्चर इज़ ओनली वे"
+    },
+    {
+      "subtitle_ids": [
+        543
+      ],
+      "start": 1045.28,
+      "end": 1048.799,
+      "text": "इथेनॉल से क्या हो रहा है सभी को पता है"
+    },
+    {
+      "subtitle_ids": [
+        544
+      ],
+      "start": 1046.959,
+      "end": 1050.559,
+      "text": "और जहां तक बात रही मार्केट की वोलेटिलिटी"
+    },
+    {
+      "subtitle_ids": [
+        545
+      ],
+      "start": 1048.799,
+      "end": 1051.919,
+      "text": "कि किस महीने ऊपर किस महीने नीचे मुझे"
+    },
+    {
+      "subtitle_ids": [
+        546
+      ],
+      "start": 1050.559,
+      "end": 1054.24,
+      "text": "लगता है ये आने वाले टाइम में भी चलता ही"
+    },
+    {
+      "subtitle_ids": [
+        547
+      ],
+      "start": 1051.919,
+      "end": 1055.679,
+      "text": "रहेगा बिकॉज़ डॉन्ड ट्रंप फिर से पूरा फोकस"
+    },
+    {
+      "subtitle_ids": [
+        548
+      ],
+      "start": 1054.24,
+      "end": 1057.2,
+      "text": "कर रहे हैं कि क्रूड ऑयल को फिर से ऊपर"
+    },
+    {
+      "subtitle_ids": [
+        549
+      ],
+      "start": 1055.679,
+      "end": 1058.64,
+      "text": "कैसे लेकर जाना है। तो आई होप अब तो आपको"
+    },
+    {
+      "subtitle_ids": [
+        550
+      ],
+      "start": 1057.2,
+      "end": 1060.16,
+      "text": "यह समझ में आ गया होगा कि डॉनल्ड ट्रंप"
+    },
+    {
+      "subtitle_ids": [
+        551
+      ],
+      "start": 1058.64,
+      "end": 1062.32,
+      "text": "कोई बेवकूफ आदमी नहीं है। ही इज़ अ वेरी"
+    },
+    {
+      "subtitle_ids": [
+        552
+      ],
+      "start": 1060.16,
+      "end": 1064.24,
+      "text": "स्मार्ट पर्सन एक्सट्रीमली स्मार्ट पर्सन"
+    },
+    {
+      "subtitle_ids": [
+        553
+      ],
+      "start": 1062.32,
+      "end": 1066.08,
+      "text": "और उसे पता है कि क्या करना है। अब लोगों"
+    },
+    {
+      "subtitle_ids": [
+        554
+      ],
+      "start": 1064.24,
+      "end": 1067.76,
+      "text": "को कई बार लगता है कि यार यह कल कुछ करता"
+    },
+    {
+      "subtitle_ids": [
+        555
+      ],
+      "start": 1066.08,
+      "end": 1069.36,
+      "text": "है, दूसरे दिन कुछ और करता है। हर एक चीज"
+    },
+    {
+      "subtitle_ids": [
+        556
+      ],
+      "start": 1067.76,
+      "end": 1070.88,
+      "text": "कैलकुलेटेड मोर है। हर एक चीज वेरी वेल"
+    },
+    {
+      "subtitle_ids": [
+        557
+      ],
+      "start": 1069.36,
+      "end": 1072.88,
+      "text": "प्लंड है। अब दुनिया को लगता है कि यह"
+    },
+    {
+      "subtitle_ids": [
+        558
+      ],
+      "start": 1070.88,
+      "end": 1074.08,
+      "text": "बेवकूफ है। यह पागल है। मतलब पूरी दुनिया"
+    },
+    {
+      "subtitle_ids": [
+        559
+      ],
+      "start": 1072.88,
+      "end": 1075.44,
+      "text": "की मीडिया उन्हें वैसा ही कहती है। बट"
+    },
+    {
+      "subtitle_ids": [
+        560
+      ],
+      "start": 1074.08,
+      "end": 1077.919,
+      "text": "दैट्स नॉट द केस। डॉन ट्रंप इज अ वैरी"
+    },
+    {
+      "subtitle_ids": [
+        561
+      ],
+      "start": 1075.44,
+      "end": 1079.52,
+      "text": "इंटेलिजेंट पर्सन। उसे पता है पैसा कैसे"
+    },
+    {
+      "subtitle_ids": [
+        562
+      ],
+      "start": 1077.919,
+      "end": 1081.12,
+      "text": "बनाना है। और फिर उसके लिए फिर खुद की"
+    },
+    {
+      "subtitle_ids": [
+        563
+      ],
+      "start": 1079.52,
+      "end": 1082.24,
+      "text": "इमेज खराब हो जाएगी। तो उससे डॉन ट्रंप को"
+    },
+    {
+      "subtitle_ids": [
+        564
+      ],
+      "start": 1081.12,
+      "end": 1084.48,
+      "text": "फर्क नहीं पड़ता। और जाते-जाते हमारे"
+    },
+    {
+      "subtitle_ids": [
+        565
+      ],
+      "start": 1082.24,
+      "end": 1086.32,
+      "text": "वैल्यू को 2.0 को जरूर चेक आउट कीजिए।"
+    },
+    {
+      "subtitle_ids": [
+        566
+      ],
+      "start": 1084.48,
+      "end": 1087.52,
+      "text": "जहां पर प्री लॉन्च ऑफर में आपको जबरदस्त"
+    },
+    {
+      "subtitle_ids": [
+        567
+      ],
+      "start": 1086.32,
+      "end": 1088.88,
+      "text": "डिस्काउंट मिल रहा है। लिंक नीचे"
+    },
+    {
+      "subtitle_ids": [
+        568
+      ],
+      "start": 1087.52,
+      "end": 1090.72,
+      "text": "डिस्क्रिप्शन और कमेंट बॉक्स में दी गई"
+    },
+    {
+      "subtitle_ids": [
+        569
+      ],
+      "start": 1088.88,
+      "end": 1092.16,
+      "text": "है। सी यू देर। और फिलहाल के लिए वीडियो"
+    },
+    {
+      "subtitle_ids": [
+        570
+      ],
+      "start": 1090.72,
+      "end": 1093.679,
+      "text": "में इतना ही। चैनल को जरूर सब्सक्राइब"
+    },
+    {
+      "subtitle_ids": [
+        571
+      ],
+      "start": 1092.16,
+      "end": 1095.36,
+      "text": "कीजिए। बेल आइकॉन पर भी क्लिक कीजिए अगर"
+    },
+    {
+      "subtitle_ids": [
+        572
+      ],
+      "start": 1093.679,
+      "end": 1096.799,
+      "text": "नहीं किया है तो क्योंकि तभी आपको सारी"
+    },
+    {
+      "subtitle_ids": [
+        573
+      ],
+      "start": 1095.36,
+      "end": 1098.4,
+      "text": "वीडियोस की नोटिफिकेशंस मिलेगी। तो"
+    },
+    {
+      "subtitle_ids": [
+        574
+      ],
+      "start": 1096.799,
+      "end": 1100.32,
+      "text": "मार्केट की कमेंट्री और डीप रिसर्च के लिए"
+    },
+    {
+      "subtitle_ids": [
+        575
+      ],
+      "start": 1098.4,
+      "end": 1101.44,
+      "text": "फिनोवेशन को जरूर सब्सक्राइब कीजिए। सो सी"
+    },
+    {
+      "subtitle_ids": [
+        576
+      ],
+      "start": 1100.32,
+      "end": 1103.28,
+      "text": "इन द नेक्स्ट वीडियो जहां पर हम बात"
+    },
+    {
+      "subtitle_ids": [
+        577
+      ],
+      "start": 1101.44,
+      "end": 1105.679,
+      "text": "करेंगे कि क्या सरकार ने टाटा ग्रुप को"
+    },
+    {
+      "subtitle_ids": [
+        578
+      ],
+      "start": 1103.28,
+      "end": 1105.679,
+      "text": "स्कैम किया?"
+    }
+  ]
+}

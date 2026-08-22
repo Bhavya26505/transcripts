@@ -1,0 +1,289 @@
+{
+  "video_id": "1jnEhDmvQbk",
+  "promise_meta": {
+    "promise_status": "EXPLICIT_PROMISE",
+    "promised_points_count": 2,
+    "point_coverage_status": "CALCULATED",
+    "point_coverage_score": 100.0,
+    "adherence_score": 94.11
+  },
+  "analysis_window": {
+    "start_time": 97.32,
+    "end_time": 982.279,
+    "duration": 884.96
+  },
+  "timeline_integrity": {
+    "status": "PASS",
+    "expected_segments": 22,
+    "analyzed_segments": 22,
+    "missing_segments": [],
+    "duplicate_segments": [],
+    "timestamp_errors": [],
+    "overlap_duration": 0.0,
+    "uncovered_duration": 0.0
+  },
+  "duration_metrics": {
+    "fn_durations": {
+      "DIRECT_POINT": 231.68,
+      "SUPPORTING_EXPLANATION": 282.0,
+      "EVIDENCE": 70.92,
+      "EXAMPLE": 37.0,
+      "COMPARISON": 0.0,
+      "TRANSITION": 0.0,
+      "CONTEXT": 45.52,
+      "CONCLUSION": 44.84,
+      "RELATED_EXTENSION": 42.68,
+      "OFF_TOPIC": 130.32,
+      "UNCERTAIN": 0.0
+    },
+    "fn_percentages": {
+      "DIRECT_POINT": 26.18,
+      "SUPPORTING_EXPLANATION": 31.87,
+      "EVIDENCE": 8.01,
+      "EXAMPLE": 4.18,
+      "COMPARISON": 0.0,
+      "TRANSITION": 0.0,
+      "CONTEXT": 5.14,
+      "CONCLUSION": 5.07,
+      "RELATED_EXTENSION": 4.82,
+      "OFF_TOPIC": 14.73,
+      "UNCERTAIN": 0.0
+    }
+  },
+  "relevance_metrics": {
+    "rel_durations": {
+      "DIRECT": 666.44,
+      "SUPPORTING": 45.52,
+      "RELATED": 42.68,
+      "TRANSITION": 0.0,
+      "UNCERTAIN": 0.0,
+      "OFF_TOPIC": 130.32
+    },
+    "rel_percentages": {
+      "DIRECT": 75.31,
+      "SUPPORTING": 5.14,
+      "RELATED": 4.82,
+      "TRANSITION": 0.0,
+      "UNCERTAIN": 0.0,
+      "OFF_TOPIC": 14.73
+    },
+    "clearly_relevant_duration": 754.64,
+    "clearly_relevant_percentage": 85.27,
+    "off_topic_duration": 130.32,
+    "off_topic_percentage": 14.73
+  },
+  "point_coverage": {
+    "P1": {
+      "description": "Analyze the tariff bill's contents and sections affecting India.",
+      "coverage_type": "DIRECTLY_COVERED",
+      "segment_count": 7,
+      "duration": 276.08,
+      "percentage_of_analyzed_duration": 31.2,
+      "function_counts": {
+        "DIRECT_POINT": 6,
+        "SUPPORTING_EXPLANATION": 1,
+        "EVIDENCE": 0,
+        "EXAMPLE": 0,
+        "COMPARISON": 0,
+        "TRANSITION": 0,
+        "CONTEXT": 0,
+        "CONCLUSION": 0,
+        "RELATED_EXTENSION": 0,
+        "OFF_TOPIC": 0,
+        "UNCERTAIN": 0
+      },
+      "non_zero_function_counts": {
+        "DIRECT_POINT": 6,
+        "SUPPORTING_EXPLANATION": 1
+      },
+      "segment_ids": [
+        3,
+        4,
+        5,
+        8,
+        9,
+        10,
+        19
+      ]
+    },
+    "P2": {
+      "description": "Evaluate the bill's impact on Indian industries and economy.",
+      "coverage_type": "DIRECTLY_COVERED",
+      "segment_count": 11,
+      "duration": 476.48,
+      "percentage_of_analyzed_duration": 53.84,
+      "function_counts": {
+        "DIRECT_POINT": 1,
+        "SUPPORTING_EXPLANATION": 5,
+        "EVIDENCE": 2,
+        "EXAMPLE": 1,
+        "COMPARISON": 0,
+        "TRANSITION": 0,
+        "CONTEXT": 1,
+        "CONCLUSION": 1,
+        "RELATED_EXTENSION": 0,
+        "OFF_TOPIC": 0,
+        "UNCERTAIN": 0
+      },
+      "non_zero_function_counts": {
+        "DIRECT_POINT": 1,
+        "SUPPORTING_EXPLANATION": 5,
+        "EVIDENCE": 2,
+        "EXAMPLE": 1,
+        "CONTEXT": 1,
+        "CONCLUSION": 1
+      },
+      "segment_ids": [
+        3,
+        11,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        20,
+        21,
+        22
+      ]
+    }
+  },
+  "point_order": {
+    "first_appearance_order": [
+      "P1",
+      "P2"
+    ],
+    "first_appearances": {
+      "P1": 97.32,
+      "P2": 97.32
+    }
+  },
+  "point_returns": {
+    "P1": {
+      "first_segment": 3,
+      "last_segment": 19,
+      "number_of_segments": 7,
+      "number_of_contiguous_runs": 3
+    },
+    "P2": {
+      "first_segment": 3,
+      "last_segment": 22,
+      "number_of_segments": 11,
+      "number_of_contiguous_runs": 4
+    }
+  },
+  "off_topic": {
+    "episode_count": 2,
+    "episodes": [
+      {
+        "episode_id": 1,
+        "start_segment": 6,
+        "end_segment": 7,
+        "start_time": 222.639,
+        "end_time": 296.32,
+        "duration": 73.68,
+        "segment_ids": [
+          6,
+          7
+        ],
+        "percentage_of_analyzed_duration": 8.33,
+        "returned_to_topic": true
+      },
+      {
+        "episode_id": 2,
+        "start_segment": 23,
+        "end_segment": 24,
+        "start_time": 925.64,
+        "end_time": 982.279,
+        "duration": 56.64,
+        "segment_ids": [
+          23,
+          24
+        ],
+        "percentage_of_analyzed_duration": 6.4,
+        "returned_to_topic": false
+      }
+    ],
+    "longest_episode": {
+      "episode_id": 1,
+      "duration": 73.68,
+      "percentage_of_analyzed_duration": 8.33
+    }
+  },
+  "transitions": {
+    "raw_segment_sequence": [
+      "P1 | P2",
+      "P1",
+      "P1",
+      "OFF_TOPIC",
+      "OFF_TOPIC",
+      "P1",
+      "P1",
+      "P1",
+      "P2",
+      "NONE",
+      "P2",
+      "P2",
+      "P2",
+      "P2",
+      "P2",
+      "P2",
+      "P1",
+      "P2",
+      "P2",
+      "P2",
+      "OFF_TOPIC",
+      "OFF_TOPIC"
+    ],
+    "normalized_run_sequence": [
+      "P1 | P2",
+      "P1",
+      "OFF_TOPIC",
+      "P1",
+      "P2",
+      "NONE",
+      "P2",
+      "P1",
+      "P2",
+      "OFF_TOPIC"
+    ],
+    "total_run_count": 10,
+    "point_transitions_count": 6,
+    "off_topic_transitions_count": 3
+  },
+  "mathematical_validation": {
+    "status": "PASS",
+    "assertion_results": [
+      {
+        "assertion": "P1 function counts sum == segment_count",
+        "expected": 7,
+        "actual": 7,
+        "passed": true
+      },
+      {
+        "assertion": "P2 function counts sum == segment_count",
+        "expected": 11,
+        "actual": 11,
+        "passed": true
+      },
+      {
+        "assertion": "sum(unique segment durations) == total_analyzed_duration",
+        "expected": 884.96,
+        "actual": 884.96,
+        "passed": true
+      },
+      {
+        "assertion": "sum(relevance category durations) == total_analyzed_duration",
+        "expected": 884.96,
+        "actual": 884.96,
+        "passed": true
+      },
+      {
+        "assertion": "sum(function category durations) == total_analyzed_duration",
+        "expected": 884.96,
+        "actual": 884.96,
+        "passed": true
+      }
+    ]
+  }
+}

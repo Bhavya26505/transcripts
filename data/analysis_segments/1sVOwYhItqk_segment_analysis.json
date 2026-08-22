@@ -1,0 +1,183 @@
+{
+  "video_id": "1sVOwYhItqk",
+  "opening_segments_count": 2,
+  "analyzed_segments_count": 16,
+  "segments": [
+    {
+      "segment_id": 3,
+      "start_time": 86.96,
+      "end_time": 132.72,
+      "primary_point": "P2 | P3",
+      "function": "DIRECT_POINT",
+      "relevance": "DIRECT",
+      "confidence": 0.95,
+      "evidence": "जो पहला कारण है और बाकी सारे कारण है उनकी इस वीडियो में हम बात करेंगे जो पहला कारण है वो सबके लिए बहुत शॉकिंग होने वाला है",
+      "evidence_validation": "PASSED"
+    },
+    {
+      "segment_id": 4,
+      "start_time": 132.72,
+      "end_time": 178.56,
+      "primary_point": "P2",
+      "function": "SUPPORTING_EXPLANATION",
+      "relevance": "RELATED",
+      "confidence": 0.85,
+      "evidence": "यूएई वर्चुअल रेगुलेटरी अथॉरिटी नाम से एक इंडिपेंडेंट रेगुलेटरी बॉडी की स्थापना करती है",
+      "evidence_validation": "PASSED"
+    },
+    {
+      "segment_id": 5,
+      "start_time": 178.56,
+      "end_time": 221.74,
+      "primary_point": "P2",
+      "function": "SUPPORTING_EXPLANATION",
+      "relevance": "RELATED",
+      "confidence": 0.85,
+      "evidence": "इनका इंपैक्ट सिर्फ बिजनेसेस या बिजनेस मन तक सीमित नहीं होता है इन्वेस्टर्स पर भी होता है",
+      "evidence_validation": "PASSED"
+    },
+    {
+      "segment_id": 6,
+      "start_time": 221.74,
+      "end_time": 267.6,
+      "primary_point": "NONE",
+      "function": "OFF_TOPIC",
+      "relevance": "OFF_TOPIC",
+      "confidence": 0.95,
+      "evidence": "मेंटरशिप को अप्लाई करने की लिंक आपको नीचे डिस्क्रिप्शन और कमेंट बॉक्स में मिल जाएगी",
+      "evidence_validation": "PASSED"
+    },
+    {
+      "segment_id": 7,
+      "start_time": 267.6,
+      "end_time": 315.62,
+      "primary_point": "P2",
+      "function": "SUPPORTING_EXPLANATION",
+      "relevance": "DIRECT",
+      "confidence": 0.9,
+      "evidence": "इंडिया में बिजनेस शुरू करना पसंद नहीं करते हैं और काफी सारे इंडियंस भी आजकल बाकी कंट्रीज में अपने बिजनेसेस रजिस्टर कर रहे हैं",
+      "evidence_validation": "PASSED"
+    },
+    {
+      "segment_id": 8,
+      "start_time": 315.62,
+      "end_time": 362.34,
+      "primary_point": "P3 | P4",
+      "function": "SUPPORTING_EXPLANATION",
+      "relevance": "DIRECT",
+      "confidence": 0.95,
+      "evidence": "रियल वर्ल्ड में इस टेक्निक का सबसे ज्यादा फायदा अगर किसी ने उठाया है तो आप बताइए किसने उठाया होगा यूएई और सिंगापुर और यही मेन कारण है जिसकी वजह से रिच इंडियंस इंडिया छोड़कर दूसरी कंट्री में जा रहे हैं",
+      "evidence_validation": "PASSED"
+    },
+    {
+      "segment_id": 9,
+      "start_time": 362.34,
+      "end_time": 411.54,
+      "primary_point": "P3 | P4",
+      "function": "SUPPORTING_EXPLANATION",
+      "relevance": "DIRECT",
+      "confidence": 0.92,
+      "evidence": "अब ये बात हो गई रेगुलेटरी अनसर्टेंटी की अब बात करते हैं टैक्सेस की",
+      "evidence_validation": "PASSED"
+    },
+    {
+      "segment_id": 10,
+      "start_time": 411.54,
+      "end_time": 449.479,
+      "primary_point": "P3 | P4",
+      "function": "EVIDENCE",
+      "relevance": "DIRECT",
+      "confidence": 0.95,
+      "evidence": "चौक गए तो यही रीजन है कि पिछले 20 सालों में सिंगापुर में 8000 से ज्यादा इंडियन कंपनीज रजिस्टर्ड हुई है",
+      "evidence_validation": "PASSED"
+    },
+    {
+      "segment_id": 11,
+      "start_time": 449.479,
+      "end_time": 496.2,
+      "primary_point": "P3 | P4",
+      "function": "EVIDENCE",
+      "relevance": "DIRECT",
+      "confidence": 0.95,
+      "evidence": "लास्ट ईयर जितने भी रियल स्टेट बायर्स वहां पर है उसमें से 40 पर बायर्स इंडियंस है",
+      "evidence_validation": "PASSED"
+    },
+    {
+      "segment_id": 12,
+      "start_time": 496.2,
+      "end_time": 543.34,
+      "primary_point": "P3 | P4",
+      "function": "SUPPORTING_EXPLANATION",
+      "relevance": "DIRECT",
+      "confidence": 0.95,
+      "evidence": "इसके अलावा और भी दो रीजंस है जिसकी वजह से रिच इंडियंस और काफी सारे लोग इंडिया छोड़ रहे हैं",
+      "evidence_validation": "PASSED"
+    },
+    {
+      "segment_id": 13,
+      "start_time": 543.34,
+      "end_time": 589.199,
+      "primary_point": "P2 | P3",
+      "function": "EVIDENCE",
+      "relevance": "DIRECT",
+      "confidence": 0.95,
+      "evidence": "एनवायरमेंटल परफॉर्मेंस इंडेक्स है तो ये इंडेक्स वर्ल्ड इकोनॉमिक फोरम रिलीज करता है जो अलग-अलग देशों के लिए एनवायरमेंट पॉलिसीज को रैंक करती है",
+      "evidence_validation": "PASSED"
+    },
+    {
+      "segment_id": 14,
+      "start_time": 589.199,
+      "end_time": 629.34,
+      "primary_point": "P2 | P3",
+      "function": "SUPPORTING_EXPLANATION",
+      "relevance": "DIRECT",
+      "confidence": 0.95,
+      "evidence": "क्वालिटी ऑफ लाइफ के अलावा एक और रीजन है जिसकी वजह से काफी सारे लोग बाहर जा रहे हैं वो है बच्चों का एजुकेशन",
+      "evidence_validation": "PASSED"
+    },
+    {
+      "segment_id": 15,
+      "start_time": 629.34,
+      "end_time": 673.34,
+      "primary_point": "P2 | P3",
+      "function": "CONCLUSION",
+      "relevance": "DIRECT",
+      "confidence": 0.95,
+      "evidence": "मेन रीजंस चार हैं रेगुलेशन टैक्सेस गोल्डन वीजा और क्वालिटी ऑफ लाइफ",
+      "evidence_validation": "PASSED"
+    },
+    {
+      "segment_id": 16,
+      "start_time": 673.34,
+      "end_time": 714.94,
+      "primary_point": "NONE",
+      "function": "OFF_TOPIC",
+      "relevance": "OFF_TOPIC",
+      "confidence": 0.95,
+      "evidence": "जाने से पहले हमारे फाइनेंशियल मॉडलिंग एंड वैल्युएशन मेंटरशिप को जरूर अप्लाई करें लिंक नीचे दी गई है",
+      "evidence_validation": "PASSED"
+    },
+    {
+      "segment_id": 17,
+      "start_time": 714.94,
+      "end_time": 751.6,
+      "primary_point": "NONE",
+      "function": "CONCLUSION",
+      "relevance": "RELATED",
+      "confidence": 0.95,
+      "evidence": "इस वीडियो का कोई एजेंडा नहीं है किसी के खिलाफ ये बस रियल प्रॉब्लम्स है जिसकी वजह से मिलियनर्स जा रहे हैं",
+      "evidence_validation": "PASSED"
+    },
+    {
+      "segment_id": 18,
+      "start_time": 751.6,
+      "end_time": 754.959,
+      "primary_point": "NONE",
+      "function": "CONCLUSION",
+      "relevance": "TRANSITION",
+      "confidence": 0.95,
+      "evidence": "अगले वीडियो में थैंक यू सो मच फॉर वाचिंग दिस वीडियो",
+      "evidence_validation": "PASSED"
+    }
+  ]
+}

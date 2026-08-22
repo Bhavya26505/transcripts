@@ -1,0 +1,120 @@
+{
+  "raw_record": {
+    "log_metrics": {
+      "video_id": "JWb4E_6wYPA",
+      "model_id": "qwen3.5-9b-claude-4.6-opus-reasoning-distilled-v2",
+      "target_window_seconds": 90.0,
+      "max_window_seconds": 120.0,
+      "actual_opening_duration": 81.44,
+      "final_end_timestamp": 81.52,
+      "number_of_segments": 2,
+      "input_character_count": 4364,
+      "output_character_count": 3652,
+      "latency_seconds": 239.026,
+      "temperature": 0.1,
+      "max_tokens": 2500,
+      "json_valid": true,
+      "validation_issues": [],
+      "parse_error": ""
+    },
+    "formatted_prompt_input": "[SEGMENT 1]\nTIME: 0.08 - 50.44\nLANGUAGE: HINDI\nTEXT:\nआज मैं आपको reliance1 paytm2 छुपा था जो मिस्टर अंबानी किसी को बताना नहीं चाहते थे और जब मुझे वो चीज पता चली तो डीप एनालिसिस करने के बाद पता चला कि यहां पर तो एक बहुत बड़ी अपॉर्चुनिटी है जिसके चलते मैंने उस स्टॉक को खरीद लिया था तो यह कहानी है आज हम डिटेल में बात करेंगे और आज मैं आपको पल फार्मिंग स्ट्रेटेजी से भी इंट्रोड्यूस करवाऊंगी जिसकी मदद से आप इस तरह की कई सारी ऐसी कंपनीज को फाइंड आउट कर सकते हैं जो अपॉर्चुनिटी आपके सामने हैं लेकिन आपको दिख नहीं रही है सो बिना किसी देरी के शुरू करते हैं बहुत इंपॉर्टेंट वीडियो है बहुत इंपोर्टेंट कांसेप्ट आज आपको समझने मिलने वाले हैं नमस्कार मैं प्रसाद आपका आज के इस वीडियो\n\n[SEGMENT 2]\nTIME: 50.44 - 81.52\nLANGUAGE: HINDI\nTEXT:\nमें स्वागत करता हूं आप अपने स्क्रीन के ऊपर कैश फलो स्टेटमेंट ले लो या फिर बैलेंस शीट ले लो बिल्कुल कुछ भी खास नहीं है क्योंकि कंपनी ने अभी तक अच्छे से बिजनेस करना शुरू ही नहीं किया है अब यहां पर अब जब कंपनी ने अच्छे से बिजनेस करना शुरू ही नहीं किया है तो फिर कंपनी का मार्केट कैप 1.4 लाख करोड़ कैसे हो सकता है यही चीज",
+    "raw_response": "{\n    \"video_id\": \"JWb4E_6wYPA\",\n    \"opening_analysis\": {\n        \"hook\": {\n            \"text\": \"आज मैं आपको reliance paytm छुपा था जो मिस्टर अंबानी किसी को बताना नहीं चाहते थे\",\n            \"start_time\": 0.08,\n            \"end_time\": 15.0,\n            \"hook_type\": \"curiosity\",\n            \"confidence\": 0.92\n        },\n        \"core_topic\": {\n            \"description\": \"Investment analysis using financial statements to find hidden stock opportunities\",\n            \"explicit\": true,\n            \"confidence\": 0.95,\n            \"evidence\": {\n                \"start_time\": 18.0,\n                \"end_time\": 25.0,\n                \"text\": \"जब मुझे वो चीज पता चली तो डीप एनालिसिस करने के बाद पता चला कि यहां पर तो एक बहुत बड़ी अपॉर्चुनिटी है\"\n            }\n        },\n        \"viewer_problem_or_question\": {\n            \"description\": \"How to identify hidden stock opportunities that aren't visible to most investors\",\n            \"explicit\": true,\n            \"confidence\": 0.90,\n            \"evidence\": {\n                \"start_time\": 35.0,\n                \"end_time\": 42.0,\n                \"text\": \"जिसकी मदद से आप इस तरह की कई सारी ऐसी कंपनीज को फाइंड आउट कर सकते हैं जो अपॉर्चुनिटी आपके सामने हैं लेकिन आपको दिख नहीं रही है\"\n            }\n        },\n        \"promise\": {\n            \"description\": \"To introduce a pal farming strategy for finding hidden stock opportunities\",\n            \"explicit\": true,\n            \"confidence\": 0.92,\n            \"evidence\": {\n                \"start_time\": 35.0,\n                \"end_time\": 42.0,\n                \"text\": \"आज मैं आपको पल फार्मिंग स्ट्रेटेजी से भी इंट्रोड्यूस करवाऊंगी\"\n            }\n        },\n        \"expected_points\": [\n            {\n                \"point_id\": \"P1\",\n                \"description\": \"Analyzing Reliance and Paytm stocks as examples of hidden opportunities\",\n                \"explicitly_promised\": true,\n                \"confidence\": 0.85,\n                \"evidence\": {\n                    \"start_time\": 0.08,\n                    \"end_time\": 12.0,\n                    \"text\": \"आज मैं आपको reliance paytm छुपा था जो मिस्टर अंबानी किसी को बताना नहीं चाहते थे\"\n                }\n            },\n            {\n                \"point_id\": \"P2\",\n                \"description\": \"Explaining the pal farming strategy for identifying hidden opportunities\",\n                \"explicitly_promised\": true,\n                \"confidence\": 0.95,\n                \"evidence\": {\n                    \"start_time\": 35.0,\n                    \"end_time\": 42.0,\n                    \"text\": \"आज मैं आपको पल फार्मिंग स्ट्रेटेजी से भी इंट्रोड्यूस करवाऊंगी\"\n                }\n            },\n            {\n                \"point_id\": \"P3\",\n                \"description\": \"Teaching how to use cash flow and balance sheet analysis for stock discovery\",\n                \"explicitly_promised\": true,\n                \"confidence\": 0.88,\n                \"evidence\": {\n                    \"start_time\": 50.44,\n                    \"end_time\": 62.0,\n                    \"text\": \"आप अपने स्क्रीन के ऊपर कैश फलो स्टेटमेंट ले लो या फिर बैलेंस शीट ले लो\"\n                }\n            }\n        ],\n        \"expected_direction\": \"Teach viewers how to identify hidden stock investment opportunities using financial statement analysis and a pattern recognition method called pal farming strategy\",\n        \"opening_summary\": \"Creator introduces Reliance and Paytm as hidden stock opportunities Mr. Ambani didn't want disclosed, promises to explain deep analysis that revealed these opportunities, and will introduce a pal farming strategy for finding similar hidden investments.\",\n        \"analysis_confidence\": 0.91\n    }\n}"
+  },
+  "parsed_analysis": {
+    "video_id": "JWb4E_6wYPA",
+    "opening_analysis": {
+      "hook": {
+        "text": "आज मैं आपको reliance paytm छुपा था जो मिस्टर अंबानी किसी को बताना नहीं चाहते थे",
+        "start_time": 0.08,
+        "end_time": 15.0,
+        "hook_type": "curiosity",
+        "confidence": 0.92
+      },
+      "core_topic": {
+        "description": "Investment analysis using financial statements to find hidden stock opportunities",
+        "explicit": true,
+        "confidence": 0.95,
+        "evidence": {
+          "start_time": 18.0,
+          "end_time": 25.0,
+          "text": "जब मुझे वो चीज पता चली तो डीप एनालिसिस करने के बाद पता चला कि यहां पर तो एक बहुत बड़ी अपॉर्चुनिटी है"
+        }
+      },
+      "viewer_problem_or_question": {
+        "description": "How to identify hidden stock opportunities that aren't visible to most investors",
+        "explicit": true,
+        "confidence": 0.9,
+        "evidence": {
+          "start_time": 35.0,
+          "end_time": 42.0,
+          "text": "जिसकी मदद से आप इस तरह की कई सारी ऐसी कंपनीज को फाइंड आउट कर सकते हैं जो अपॉर्चुनिटी आपके सामने हैं लेकिन आपको दिख नहीं रही है"
+        }
+      },
+      "promise": {
+        "description": "To introduce a pal farming strategy for finding hidden stock opportunities",
+        "explicit": true,
+        "confidence": 0.92,
+        "evidence": {
+          "start_time": 35.0,
+          "end_time": 42.0,
+          "text": "आज मैं आपको पल फार्मिंग स्ट्रेटेजी से भी इंट्रोड्यूस करवाऊंगी"
+        }
+      },
+      "expected_points": [
+        {
+          "point_id": "P1",
+          "description": "Analyzing Reliance and Paytm stocks as examples of hidden opportunities",
+          "explicitly_promised": true,
+          "confidence": 0.85,
+          "evidence": {
+            "start_time": 0.08,
+            "end_time": 12.0,
+            "text": "आज मैं आपको reliance paytm छुपा था जो मिस्टर अंबानी किसी को बताना नहीं चाहते थे"
+          }
+        },
+        {
+          "point_id": "P2",
+          "description": "Explaining the pal farming strategy for identifying hidden opportunities",
+          "explicitly_promised": true,
+          "confidence": 0.95,
+          "evidence": {
+            "start_time": 35.0,
+            "end_time": 42.0,
+            "text": "आज मैं आपको पल फार्मिंग स्ट्रेटेजी से भी इंट्रोड्यूस करवाऊंगी"
+          }
+        },
+        {
+          "point_id": "P3",
+          "description": "Teaching how to use cash flow and balance sheet analysis for stock discovery",
+          "explicitly_promised": true,
+          "confidence": 0.88,
+          "evidence": {
+            "start_time": 50.44,
+            "end_time": 62.0,
+            "text": "आप अपने स्क्रीन के ऊपर कैश फलो स्टेटमेंट ले लो या फिर बैलेंस शीट ले लो"
+          }
+        }
+      ],
+      "expected_direction": "Teach viewers how to identify hidden stock investment opportunities using financial statement analysis and a pattern recognition method called pal farming strategy",
+      "opening_summary": "Creator introduces Reliance and Paytm as hidden stock opportunities Mr. Ambani didn't want disclosed, promises to explain deep analysis that revealed these opportunities, and will introduce a pal farming strategy for finding similar hidden investments.",
+      "analysis_confidence": 0.91
+    }
+  },
+  "log_metrics": {
+    "video_id": "JWb4E_6wYPA",
+    "model_id": "qwen3.5-9b-claude-4.6-opus-reasoning-distilled-v2",
+    "target_window_seconds": 90.0,
+    "max_window_seconds": 120.0,
+    "actual_opening_duration": 81.44,
+    "final_end_timestamp": 81.52,
+    "number_of_segments": 2,
+    "input_character_count": 4364,
+    "output_character_count": 3652,
+    "latency_seconds": 239.026,
+    "temperature": 0.1,
+    "max_tokens": 2500,
+    "json_valid": true,
+    "validation_issues": [],
+    "parse_error": ""
+  }
+}

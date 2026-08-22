@@ -1,0 +1,26 @@
+{
+  "batch_status": "RUNNING",
+  "video_states": {
+    "-SZBrXciDLg": "COMPLETE",
+    "7dQQa91RLls": "COMPLETE",
+    "EAWwPQGDJpU": "COMPLETE",
+    "JWb4E_6wYPA": "COMPLETE",
+    "OIis7tvpQPc": "COMPLETE",
+    "V7FSbEYZiX0": "COMPLETE",
+    "_zJcC66Nv6c": "COMPLETE",
+    "gY6unuo8Q9I": "COMPLETE",
+    "lmpKVhN-5FY": "COMPLETE",
+    "qa6Qzztj-10": "COMPLETE"
+  },
+  "errors": {
+    "7dQQa91RLls": "enrich_segmented_transcript_with_language() got an unexpected keyword argument 'semantic_segments'",
+    "EAWwPQGDJpU": "enrich_segmented_transcript_with_language() got an unexpected keyword argument 'semantic_segments'",
+    "JWb4E_6wYPA": "enrich_segmented_transcript_with_language() got an unexpected keyword argument 'semantic_segments'",
+    "OIis7tvpQPc": "MATHEMATICAL VALIDATION FAILED: [{'assertion': 'sum(unique segment durations) == total_analyzed_duration', 'expected': 1066.62, 'actual': 1066.62, 'passed': True}, {'assertion': 'sum(relevance category durations) == total_analyzed_duration', 'expected': 1066.62, 'actual': 1066.57, 'passed': False}, {'assertion': 'sum(function category durations) == total_analyzed_duration', 'expected': 1066.62, 'actual': 1066.57, 'passed': False}]",
+    "V7FSbEYZiX0": "enrich_segmented_transcript_with_language() got an unexpected keyword argument 'semantic_segments'",
+    "_zJcC66Nv6c": "enrich_segmented_transcript_with_language() got an unexpected keyword argument 'semantic_segments'",
+    "gY6unuo8Q9I": "enrich_segmented_transcript_with_language() got an unexpected keyword argument 'semantic_segments'",
+    "lmpKVhN-5FY": "enrich_segmented_transcript_with_language() got an unexpected keyword argument 'semantic_segments'",
+    "qa6Qzztj-10": "enrich_segmented_transcript_with_language() got an unexpected keyword argument 'semantic_segments'"
+  }
+}

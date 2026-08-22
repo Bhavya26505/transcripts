@@ -1,0 +1,78 @@
+{
+  "batch_size": 5,
+  "total_processing_time_seconds": 2870.32,
+  "average_processing_time_per_video": 574.06,
+  "locked_production_formula": "0.60 * Coverage + 0.25 * Relevance + 0.15 * Discipline",
+  "videos_summary": [
+    {
+      "video_id": "-ckuMh4Px9M",
+      "expected_points_count": 0,
+      "covered_points_count": 1,
+      "missing_points_count": 0,
+      "point_coverage_score": 100.0,
+      "clear_relevance_score": 92.41,
+      "topic_discipline_score": 92.41,
+      "off_topic_percentage": 7.59,
+      "off_topic_episodes_count": 1,
+      "final_adherence_score": 96.96,
+      "validation_status": "PASS",
+      "total_processing_time": 0.02
+    },
+    {
+      "video_id": "0xNCJH5161s",
+      "expected_points_count": 0,
+      "covered_points_count": 1,
+      "missing_points_count": 0,
+      "point_coverage_score": 100.0,
+      "clear_relevance_score": 87.56,
+      "topic_discipline_score": 94.93,
+      "off_topic_percentage": 5.07,
+      "off_topic_episodes_count": 1,
+      "final_adherence_score": 96.13,
+      "validation_status": "PASS",
+      "total_processing_time": 0.02
+    },
+    {
+      "video_id": "1jnEhDmvQbk",
+      "expected_points_count": 2,
+      "covered_points_count": 2,
+      "missing_points_count": 0,
+      "point_coverage_score": 100.0,
+      "clear_relevance_score": 85.27,
+      "topic_discipline_score": 85.27,
+      "off_topic_percentage": 14.73,
+      "off_topic_episodes_count": 2,
+      "final_adherence_score": 94.11,
+      "validation_status": "PASS",
+      "total_processing_time": 1291.9
+    },
+    {
+      "video_id": "1l37N5wcDgs",
+      "expected_points_count": 1,
+      "covered_points_count": 1,
+      "missing_points_count": 0,
+      "point_coverage_score": 100.0,
+      "clear_relevance_score": 84.64,
+      "topic_discipline_score": 84.64,
+      "off_topic_percentage": 15.36,
+      "off_topic_episodes_count": 1,
+      "final_adherence_score": 93.86,
+      "validation_status": "PASS",
+      "total_processing_time": 818.44
+    },
+    {
+      "video_id": "1sVOwYhItqk",
+      "expected_points_count": 0,
+      "covered_points_count": 0,
+      "missing_points_count": 1,
+      "point_coverage_score": 0.0,
+      "clear_relevance_score": 86.4,
+      "topic_discipline_score": 86.91,
+      "off_topic_percentage": 13.09,
+      "off_topic_episodes_count": 2,
+      "final_adherence_score": 34.64,
+      "validation_status": "PASS",
+      "total_processing_time": 759.9
+    }
+  ]
+}

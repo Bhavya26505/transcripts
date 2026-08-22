@@ -1,0 +1,150 @@
+{
+  "video_id": "-SZBrXciDLg",
+  "opening_segments_count": 2,
+  "analyzed_segments_count": 13,
+  "segments": [
+    {
+      "segment_id": 3,
+      "start_time": 95.32,
+      "end_time": 125.96,
+      "primary_point": "NONE",
+      "function": "TRANSITION",
+      "relevance": "TRANSITION",
+      "confidence": 0.92,
+      "evidence": "सोचा कि इन सारी चीजों को कवर करना जरूरी है इसलिए आज इस वीडियो को हम ला रहे हैं।",
+      "evidence_validation": "PASSED"
+    },
+    {
+      "segment_id": 4,
+      "start_time": 125.96,
+      "end_time": 168.52,
+      "primary_point": "P1",
+      "function": "DIRECT_POINT",
+      "relevance": "DIRECT",
+      "confidence": 0.95,
+      "evidence": "देखिए भले ही डोनाल्ड ट्रंप बिजनेसमैन अच्छे ना हो लेकिन वह एक अच्छे मनीपुलेटर जरूर हैं।",
+      "evidence_validation": "PASSED"
+    },
+    {
+      "segment_id": 5,
+      "start_time": 168.52,
+      "end_time": 212.88,
+      "primary_point": "P1",
+      "function": "SUPPORTING_EXPLANATION",
+      "relevance": "DIRECT",
+      "confidence": 0.93,
+      "evidence": "आज वो मार्केट को मैनपुलेट करते हैं। और यह मैं ऐसे नहीं कह रहा कुछ प्रूफ्स के साथ अभी आपको समझाता हूं।",
+      "evidence_validation": "PASSED"
+    },
+    {
+      "segment_id": 6,
+      "start_time": 212.88,
+      "end_time": 260.959,
+      "primary_point": "NONE",
+      "function": "OFF_TOPIC",
+      "relevance": "OFF_TOPIC",
+      "confidence": 0.98,
+      "evidence": "में रिसर्च का काम हमारा और इन्वेस्टिंग का डिसीजन आपका। हर महीने हम आपके लिए वेल रिसर्च स्टॉक्स आइडेंटिफाई करेंगे",
+      "evidence_validation": "PASSED"
+    },
+    {
+      "segment_id": 7,
+      "start_time": 260.959,
+      "end_time": 301.399,
+      "primary_point": "P1",
+      "function": "TRANSITION",
+      "relevance": "DIRECT",
+      "confidence": 0.94,
+      "evidence": "कुछ टाइम पहले ही डोन्ड ट्रंप पर क्रूड ऑयल के मार्केट को मैनपुलेट करने का इल्जाम लगा है।",
+      "evidence_validation": "PASSED"
+    },
+    {
+      "segment_id": 8,
+      "start_time": 301.399,
+      "end_time": 344.719,
+      "primary_point": "P1 | P2 | P3 | P4 | NONE | MULTIPLE | UNCERTAIN",
+      "function": "DIRECT_POINT",
+      "relevance": "DIRECT",
+      "confidence": 0.95,
+      "evidence": "इनफैक्ट ईरान ने रिस्पांस में यह कहा कि डॉनल्ड ट्रंप से हमारी कोई बातचीत ही नहीं हुई है। इनफैक्ट यूएस इज नेगोशिएटिंग विद इटसेल्फ।",
+      "evidence_validation": "PASSED"
+    },
+    {
+      "segment_id": 9,
+      "start_time": 344.719,
+      "end_time": 389.4,
+      "primary_point": "P1 | P2 | P3 | P4 | NONE | MULTIPLE | UNCERTAIN",
+      "function": "EVIDENCE",
+      "relevance": "DIRECT",
+      "confidence": 0.95,
+      "evidence": "अबाउट 6200 ब्रेंट एंड वेस्ट टेक्सस इंटरमीडिएट फ्यूचर कॉन्ट्रैक्ट्स इस दौरान होते हैं। जिनकी नोशनल वैल्यू करीब ₹55 करोड़ होती है।",
+      "evidence_validation": "PASSED"
+    },
+    {
+      "segment_id": 10,
+      "start_time": 389.4,
+      "end_time": 430.039,
+      "primary_point": "P1 | P2 | P3 | P4 | NONE | MULTIPLE | UNCERTAIN",
+      "function": "DIRECT_POINT",
+      "relevance": "DIRECT",
+      "confidence": 0.95,
+      "evidence": "उन्होंने क्या किया लास्ट दिसंबर में अपने एक खास इंसान जिसका नाम है माइकल एस सेलिक को उन्होंने सीएफटीसी का हेड बना दिया।",
+      "evidence_validation": "PASSED"
+    },
+    {
+      "segment_id": 11,
+      "start_time": 430.039,
+      "end_time": 472.44,
+      "primary_point": "P1 | P2 | P3 | P4 | NONE | MULTIPLE | UNCERTAIN",
+      "function": "DIRECT_POINT",
+      "relevance": "DIRECT",
+      "confidence": 0.95,
+      "evidence": "पॉली मार्केट पर छह अकाउंट्स ऐसे थे जिन्होंने 100 करोड़ कमाए यह प्रेडिक्ट करके कि नेक्स्ट 48 आवर्स में यूएस ईरान पर अटैक करने वाला है।",
+      "evidence_validation": "PASSED"
+    },
+    {
+      "segment_id": 12,
+      "start_time": 472.44,
+      "end_time": 512.959,
+      "primary_point": "P1 | P2 | P3 | P4 | NONE | MULTIPLE | UNCERTAIN",
+      "function": "CONCLUSION",
+      "relevance": "DIRECT",
+      "confidence": 0.95,
+      "evidence": "सैड रियलिटी यह है कि दुनिया के सबसे पावरफुल कंट्री का प्रेसिडेंट आज ऐसी हरकतें कर रहा है और यह ऐसे देश में हो रहा है जहां पर आम नागरिक के लिए लॉस काफी स्ट्रिक्ट है।",
+      "evidence_validation": "PASSED"
+    },
+    {
+      "segment_id": 13,
+      "start_time": 512.959,
+      "end_time": 541.6,
+      "primary_point": "P1 | P2 | P3 | P4 | NONE | MULTIPLE | UNCERTAIN",
+      "function": "DIRECT_POINT",
+      "relevance": "DIRECT",
+      "confidence": 0.95,
+      "evidence": "अगर यह वॉर फिर से कंटिन्यू रहता है और प्रॉब्लम बीच में डोन्ड ट्रंप के कुछ और मैनपुलेशन के मूव्स तो जरूर होंगे।",
+      "evidence_validation": "PASSED"
+    },
+    {
+      "segment_id": 14,
+      "start_time": 541.6,
+      "end_time": 573.0,
+      "primary_point": "P1 | P2 | P3 | P4 | NONE | MULTIPLE | UNCERTAIN",
+      "function": "DIRECT_POINT",
+      "relevance": "DIRECT",
+      "confidence": 0.95,
+      "evidence": "ऑलरेडी इन्वेस्टेड है तो होल्ड कीजिए क्योंकि मार्केट जितना तेजी से गिरता है उतना ही तेजी से रिकवर भी होता है।",
+      "evidence_validation": "PASSED"
+    },
+    {
+      "segment_id": 15,
+      "start_time": 573.0,
+      "end_time": 581.16,
+      "primary_point": "P1 | P2 | P3 | P4 | NONE | MULTIPLE | UNCERTAIN",
+      "function": "CONCLUSION",
+      "relevance": "DIRECT",
+      "confidence": 0.95,
+      "evidence": "तो फिलहाल यहीं पर रुकते हैं। मिलते हैं अगले वीडियो में।",
+      "evidence_validation": "PASSED"
+    }
+  ]
+}

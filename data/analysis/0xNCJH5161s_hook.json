@@ -1,0 +1,46 @@
+{
+  "video_id": "0xNCJH5161s",
+  "opening_analysis": {
+    "hook": {
+      "text": "आज हम क्रेडिट कार्ड से रिलेटेद ऐसे ऐसे स्कैम्स के बारे में बात करने वाले हैं जो आपके साथ भी हो सकते हैं",
+      "start_time": 0.0,
+      "end_time": 43.32,
+      "hook_type": "warning",
+      "confidence": 0.95
+    },
+    "core_topic": {
+      "description": "Credit card scams targeting Indian consumers through new evolving methods",
+      "explicit": true,
+      "confidence": 0.95,
+      "evidence": {
+        "start_time": 21.6,
+        "end_time": 43.32,
+        "text": "आज हम क्रेडिट कार्ड से रिलेटेद ऐसे ऐसे स्कैम्स के बारे में बात करने वाले हैं"
+      }
+    },
+    "viewer_problem_or_question": {
+      "description": "How viewers could become victims of new credit card scam methods",
+      "explicit": true,
+      "confidence": 0.9,
+      "evidence": {
+        "start_time": 35.28,
+        "end_time": 43.32,
+        "text": "ये जो स्कैम के तरीके हैं ये अभी-अभी इनोवेट किए गए हैं"
+      }
+    },
+    "promise": {
+      "description": "To discuss credit card scams and help viewers stay alert before they reach them",
+      "explicit": true,
+      "confidence": 0.9,
+      "evidence": {
+        "start_time": 41.28,
+        "end_time": 43.32,
+        "text": "तो आप तक यह स्कैम आने से पहले जरूर सतर्क रहे"
+      }
+    },
+    "expected_points": [],
+    "expected_direction": "Discuss various credit card scam methods targeting Indian consumers and provide awareness about new evolving tactics",
+    "opening_summary": "A Hindi video opens by warning viewers about daily losses from credit card scams in India, promising to discuss new evolving scam methods that could target viewers, and begins a story about a Mumbai woman who lost lakhs after activating her credit card.",
+    "analysis_confidence": 0.92
+  }
+}

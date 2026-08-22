@@ -1,0 +1,222 @@
+{
+  "video_id": "-ckuMh4Px9M",
+  "source_language": "hi",
+  "promise_status": "NO_EXPLICIT_PROMISE",
+  "promised_points_count": 0,
+  "point_coverage": null,
+  "point_coverage_status": "NOT_APPLICABLE",
+  "hook": {
+    "text": "वीडियो शुरू करने से पहले यह क्लिप जरूर देख लीजिए",
+    "start_time": 0.16,
+    "end_time": 5.0,
+    "hook_type": "promise",
+    "confidence": 0.92
+  },
+  "creator_promise": {
+    "description": "Teach fundamentals and valuation analysis to avoid investment pitfalls",
+    "explicit": true,
+    "confidence": 0.9,
+    "evidence": {
+      "start_time": 85.0,
+      "end_time": 90.0,
+      "text": "अब अगर आप इन सारी चीजों से बचने के लिए कंपनी के फंडामेंटल्स और कंपनी के वैल्युएशन को अच्छे से समझना चाहते हो सीखना चाहते हो तो"
+    }
+  },
+  "expected_points": [],
+  "segment_analysis": [
+    {
+      "segment_id": 3,
+      "start_time": 90.8,
+      "end_time": 135.02,
+      "primary_point": "NONE",
+      "function": "OFF_TOPIC",
+      "relevance": "OFF_TOPIC",
+      "confidence": 0.92,
+      "evidence": "हम फंडामेंटल एनालिसिस का कोर्स लॉन्च करते हैं बहुत ही स्पेशल प्राइस पर इस कोर्स में हम सिखाते हैं",
+      "evidence_validation": "PASSED"
+    },
+    {
+      "segment_id": 4,
+      "start_time": 135.02,
+      "end_time": 180.3,
+      "primary_point": "P1",
+      "function": "DIRECT_POINT",
+      "relevance": "DIRECT",
+      "confidence": 0.95,
+      "evidence": "तो वो पैसा कमाते हैं ऑन इंटरेस्ट स्प्रेड जिसे फाइनेंशियल लैंग्वेज में नेट इंटरेस्ट मार्जिन कहा जाता है",
+      "evidence_validation": "PASSED"
+    },
+    {
+      "segment_id": 5,
+      "start_time": 180.3,
+      "end_time": 227.94,
+      "primary_point": "P1",
+      "function": "SUPPORTING_EXPLANATION",
+      "relevance": "DIRECT",
+      "confidence": 0.93,
+      "evidence": "पहला है कैश रिजर्व रेशो जिसे सीआरआर रूल कहते हैं इसमें हर बैंक को अपने डिपॉजिट का सर्टेन परसेंटेज आरबीआई के पास जमा करना होता है",
+      "evidence_validation": "PASSED"
+    },
+    {
+      "segment_id": 6,
+      "start_time": 227.94,
+      "end_time": 276.26,
+      "primary_point": "P1",
+      "function": "SUPPORTING_EXPLANATION",
+      "relevance": "DIRECT",
+      "confidence": 0.94,
+      "evidence": "अब देखिए करंट अकाउंट पर बैंक कितना इंटरेस्ट देती है जीरो सेविंग अकाउंट पर भी बहुत कम होता है",
+      "evidence_validation": "PASSED"
+    },
+    {
+      "segment_id": 7,
+      "start_time": 276.26,
+      "end_time": 324.4,
+      "primary_point": "P1",
+      "function": "EXAMPLE",
+      "relevance": "DIRECT",
+      "confidence": 0.96,
+      "evidence": "मान लीजिए एबीसी नाम का बैंक है जिसके पास 1000 करोड़ का डिपॉजिट है जिसमें से 500 करोड़ का कासा है और 500 करोड़ एफडी से आया हुआ है",
+      "evidence_validation": "PASSED"
+    },
+    {
+      "segment_id": 8,
+      "start_time": 324.4,
+      "end_time": 358.639,
+      "primary_point": "P1 | P2 | P3 | P4 | NONE | MULTIPLE | UNCERTAIN",
+      "function": "SUPPORTING_EXPLANATION",
+      "relevance": "SUPPORTING",
+      "confidence": 0.95,
+      "evidence": "जितना कासा कम होगा यानी करंट सेविंग अकाउंट से आने वाला डिपॉजिट कम होगा वैसे ही बैंक्स के जो मार्जिंस है वह कम हो जाएंगे",
+      "evidence_validation": "PASSED"
+    },
+    {
+      "segment_id": 9,
+      "start_time": 358.639,
+      "end_time": 407.839,
+      "primary_point": "P1 | P2 | P3 | P4 | NONE | MULTIPLE | UNCERTAIN",
+      "function": "EVIDENCE",
+      "relevance": "DIRECT",
+      "confidence": 0.95,
+      "evidence": "इंडियन म्यूचुअल फंड इंडस्ट्री का नेट एसेट अंडर मैनेजमेंट यानी एयूएम जून 2014 में था 9.75 लाख करोड़ और अब वो यानी मात्र 10 साल में गेस कीजिए कितना हुआ होगा 61.6 लाख करोड़",
+      "evidence_validation": "PASSED"
+    },
+    {
+      "segment_id": 10,
+      "start_time": 407.839,
+      "end_time": 447.779,
+      "primary_point": "P1 | P2 | P3 | P4 | NONE | MULTIPLE | UNCERTAIN",
+      "function": "RELATED_EXTENSION",
+      "relevance": "RELATED",
+      "confidence": 0.9,
+      "evidence": "क्या इसी के चलते सरकार ने लॉन्ग टर्म और शॉर्ट टर्म कैपिटल गेन टैक्स तो नहीं बढ़ाया और साथ ही शेयर बाय बैक पर टैक्स तो नहीं लगाया",
+      "evidence_validation": "PASSED"
+    },
+    {
+      "segment_id": 11,
+      "start_time": 447.779,
+      "end_time": 496.819,
+      "primary_point": "P1 | P2 | P3 | P4 | NONE | MULTIPLE | UNCERTAIN",
+      "function": "SUPPORTING_EXPLANATION",
+      "relevance": "SUPPORTING",
+      "confidence": 0.95,
+      "evidence": "सिर्फ 2024 में 11 सरकारी बैंक ने 22331 करोड़ कमाए हैं सिर्फ मिनिमम बैलेंस अकाउंट चार्जेस से",
+      "evidence_validation": "PASSED"
+    },
+    {
+      "segment_id": 12,
+      "start_time": 496.819,
+      "end_time": 539.399,
+      "primary_point": "P1 | P2 | P3 | P4 | NONE | MULTIPLE | UNCERTAIN",
+      "function": "RELATED_EXTENSION",
+      "relevance": "RELATED",
+      "confidence": 0.9,
+      "evidence": "अब इसमें विनर वही रहेगा जिसके पास बैंक का अच्छा आईटी इंफ्रास्ट्रक्चर हो फिजिकल ब्रांचेस से ज्यादा फोकस डिजिटल सुविधा परर हो",
+      "evidence_validation": "PASSED"
+    },
+    {
+      "segment_id": 13,
+      "start_time": 539.399,
+      "end_time": 585.78,
+      "primary_point": "P2 | P3",
+      "function": "SUPPORTING_EXPLANATION",
+      "relevance": "RELATED",
+      "confidence": 0.92,
+      "evidence": "एक तरफ कासा नहीं बढ़ रहा है दूसरी तरफ लोन की ग्रोथ बहुत तेजी से बढ़ रही है यानी अगर बैंक को बहुत तेजी से बढ़ना है तो ज्यादा लोन बांटने पड़ेंगे",
+      "evidence_validation": "PASSED"
+    },
+    {
+      "segment_id": 14,
+      "start_time": 585.78,
+      "end_time": 625.62,
+      "primary_point": "P2 | P3",
+      "function": "SUPPORTING_EXPLANATION",
+      "relevance": "RELATED",
+      "confidence": 0.94,
+      "evidence": "कई सारे लोग शॉर्ट टर्म डेट फंड में लिक्विड फंड में पैसा डाल रहे हैं ताकि वो अपने सेविंग अकाउंट और करंट अकाउंट से बेटर रिटर्न्स कमाए",
+      "evidence_validation": "PASSED"
+    },
+    {
+      "segment_id": 15,
+      "start_time": 625.62,
+      "end_time": 673.16,
+      "primary_point": "P2 | P3",
+      "function": "SUPPORTING_EXPLANATION",
+      "relevance": "RELATED",
+      "confidence": 0.91,
+      "evidence": "लोन इंडस्ट्री इतनी तेजी से बढ़ रही है कि पूछिए मत तो यहां पर जो बैंक सही टाइम पर अपॉर्चुनिटी को टैप करेगी और यहां से सलूशन निकालेगी वो बहुत बड़ा विनर बनेगी",
+      "evidence_validation": "PASSED"
+    }
+  ],
+  "metrics": {
+    "point_coverage": null,
+    "clear_relevance": {
+      "rel_durations": {
+        "DIRECT": 238.58,
+        "SUPPORTING": 83.28,
+        "RELATED": 216.28,
+        "TRANSITION": 0.0,
+        "UNCERTAIN": 0.0,
+        "OFF_TOPIC": 44.22
+      },
+      "rel_percentages": {
+        "DIRECT": 40.97,
+        "SUPPORTING": 14.3,
+        "RELATED": 37.14,
+        "TRANSITION": 0.0,
+        "UNCERTAIN": 0.0,
+        "OFF_TOPIC": 7.59
+      },
+      "clearly_relevant_duration": 538.14,
+      "clearly_relevant_percentage": 92.41,
+      "off_topic_duration": 44.22,
+      "off_topic_percentage": 7.59
+    },
+    "off_topic_percentage": 7.59,
+    "off_topic_episode_count": 1,
+    "missing_points": []
+  },
+  "adherence_score": {
+    "point_coverage_weight": 0.6,
+    "clear_relevance_weight": 0.25,
+    "topic_discipline_weight": 0.15,
+    "point_coverage_score": null,
+    "clear_relevance_score": 92.41,
+    "topic_discipline_score": 92.41,
+    "final_score": null
+  },
+  "validation": {
+    "timeline_integrity": true,
+    "evidence_integrity": true,
+    "metric_integrity": true,
+    "score_integrity": true,
+    "all_validations_pass": true
+  },
+  "performance": {
+    "phase7_latency": 0.0,
+    "phase8_latency": 0.0,
+    "llm_calls_count": 0,
+    "retries_count": 0,
+    "total_processing_time": 0.06
+  }
+}

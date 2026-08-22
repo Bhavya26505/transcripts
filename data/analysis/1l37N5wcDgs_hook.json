@@ -1,0 +1,58 @@
+{
+  "video_id": "1l37N5wcDgs",
+  "opening_analysis": {
+    "hook": {
+      "text": "स्कैम का अमाउंट इतना बड़ा है कि अगर आप इसे कैलकुलेटर पर टाइप करेंगे तो एरर दिखाएगा",
+      "start_time": 0.2,
+      "end_time": 5.98,
+      "hook_type": "curiosity",
+      "confidence": 0.95
+    },
+    "core_topic": {
+      "description": "Property developer scam in Vietnam worth 216000 crores",
+      "explicit": true,
+      "confidence": 0.95,
+      "evidence": {
+        "start_time": 4.0,
+        "end_time": 30.0,
+        "text": "इतना बड़ा है कि इसके सामने सत्यम स्कैम 2g स्कैम कोल स्कैम भी यह सुनने पर मजबूर हो जाएंगे"
+      }
+    },
+    "viewer_problem_or_question": {
+      "description": "What is the story behind this unprecedented property scam?",
+      "explicit": false,
+      "confidence": 0.85,
+      "evidence": {
+        "start_time": 40.0,
+        "end_time": 50.98,
+        "text": "लेकिन अगले कुछ ही मिनटों में मैं आपको डिटेल में इस स्टोरी को बताने वाला हूं"
+      }
+    },
+    "promise": {
+      "description": "Will tell detailed story of the scam in next few minutes",
+      "explicit": true,
+      "confidence": 0.92,
+      "evidence": {
+        "start_time": 45.0,
+        "end_time": 50.98,
+        "text": "लेकिन अगले कुछ ही मिनटों में मैं आपको डिटेल में इस स्टोरी को बताने वाला हूं"
+      }
+    },
+    "expected_points": [
+      {
+        "point_id": "P1",
+        "description": "Detailed narrative of the property developer scam story",
+        "explicitly_promised": true,
+        "confidence": 0.9,
+        "evidence": {
+          "start_time": 45.0,
+          "end_time": 50.98,
+          "text": "मैं आपको डिटेल में इस स्टोरी को बताने वाला हूं"
+        }
+      }
+    ],
+    "expected_direction": "Narrate the complete story of a massive property developer scam in Vietnam, introducing the protagonist Trau Milan and his background",
+    "opening_summary": "Creator hooks viewers with unprecedented scam amount comparison, then introduces main character Trau Milan from Ho Chi Minh City whose family ran tea stall and cosmetics business before entering real estate.",
+    "analysis_confidence": 0.92
+  }
+}

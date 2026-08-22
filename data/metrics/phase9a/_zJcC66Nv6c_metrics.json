@@ -1,0 +1,158 @@
+{
+  "video_id": "_zJcC66Nv6c",
+  "promise_meta": {
+    "promise_status": "NO_EXPLICIT_PROMISE",
+    "promised_points_count": 0,
+    "point_coverage_status": "NOT_APPLICABLE",
+    "point_coverage_score": null,
+    "adherence_score": null
+  },
+  "analysis_window": {
+    "start_time": 91.3,
+    "end_time": 716.36,
+    "duration": 625.06
+  },
+  "timeline_integrity": {
+    "status": "PASS",
+    "expected_segments": 14,
+    "analyzed_segments": 14,
+    "missing_segments": [],
+    "duplicate_segments": [],
+    "timestamp_errors": [],
+    "overlap_duration": 0.0,
+    "uncovered_duration": 0.0
+  },
+  "duration_metrics": {
+    "fn_durations": {
+      "DIRECT_POINT": 137.56,
+      "SUPPORTING_EXPLANATION": 221.6,
+      "EVIDENCE": 48.04,
+      "EXAMPLE": 0.0,
+      "COMPARISON": 91.84,
+      "TRANSITION": 41.76,
+      "CONTEXT": 0.0,
+      "CONCLUSION": 42.94,
+      "RELATED_EXTENSION": 0.0,
+      "OFF_TOPIC": 41.32,
+      "UNCERTAIN": 0.0
+    },
+    "fn_percentages": {
+      "DIRECT_POINT": 22.01,
+      "SUPPORTING_EXPLANATION": 35.45,
+      "EVIDENCE": 7.69,
+      "EXAMPLE": 0.0,
+      "COMPARISON": 14.69,
+      "TRANSITION": 6.68,
+      "CONTEXT": 0.0,
+      "CONCLUSION": 6.87,
+      "RELATED_EXTENSION": 0.0,
+      "OFF_TOPIC": 6.61,
+      "UNCERTAIN": 0.0
+    }
+  },
+  "relevance_metrics": {
+    "rel_durations": {
+      "DIRECT": 541.98,
+      "SUPPORTING": 41.76,
+      "RELATED": 0.0,
+      "TRANSITION": 0.0,
+      "UNCERTAIN": 0.0,
+      "OFF_TOPIC": 41.32
+    },
+    "rel_percentages": {
+      "DIRECT": 86.71,
+      "SUPPORTING": 6.68,
+      "RELATED": 0.0,
+      "TRANSITION": 0.0,
+      "UNCERTAIN": 0.0,
+      "OFF_TOPIC": 6.61
+    },
+    "clearly_relevant_duration": 583.74,
+    "clearly_relevant_percentage": 93.39,
+    "off_topic_duration": 41.32,
+    "off_topic_percentage": 6.61
+  },
+  "point_coverage": null,
+  "point_order": {
+    "first_appearance_order": [],
+    "first_appearances": {}
+  },
+  "point_returns": {},
+  "off_topic": {
+    "episode_count": 1,
+    "episodes": [
+      {
+        "episode_id": 1,
+        "start_segment": 9,
+        "end_segment": 9,
+        "start_time": 364.579,
+        "end_time": 405.899,
+        "duration": 41.32,
+        "segment_ids": [
+          9
+        ],
+        "percentage_of_analyzed_duration": 6.61,
+        "returned_to_topic": true
+      }
+    ],
+    "longest_episode": {
+      "episode_id": 1,
+      "duration": 41.32,
+      "percentage_of_analyzed_duration": 6.61
+    }
+  },
+  "transitions": {
+    "raw_segment_sequence": [
+      "P1 | P2 | P3 | P4 | NONE | MULTIPLE | UNCERTAIN",
+      "P1 | P2 | P3 | P4 | NONE | MULTIPLE | UNCERTAIN",
+      "P1 | P2 | P3 | P4 | NONE | MULTIPLE | UNCERTAIN",
+      "P1 | P2 | P3 | P4 | NONE | MULTIPLE | UNCERTAIN",
+      "P1 | P2 | P3 | P4 | NONE | MULTIPLE | UNCERTAIN",
+      "NONE",
+      "OFF_TOPIC",
+      "P3",
+      "P3",
+      "P3",
+      "P1 | P2 | P3 | P4 | NONE | MULTIPLE | UNCERTAIN",
+      "P2 | P3",
+      "P3",
+      "P1 | P2 | P3 | P4"
+    ],
+    "normalized_run_sequence": [
+      "P1 | P2 | P3 | P4 | NONE | MULTIPLE | UNCERTAIN",
+      "NONE",
+      "OFF_TOPIC",
+      "P3",
+      "P1 | P2 | P3 | P4 | NONE | MULTIPLE | UNCERTAIN",
+      "P2 | P3",
+      "P3",
+      "P1 | P2 | P3 | P4"
+    ],
+    "total_run_count": 8,
+    "point_transitions_count": 5,
+    "off_topic_transitions_count": 2
+  },
+  "mathematical_validation": {
+    "status": "PASS",
+    "assertion_results": [
+      {
+        "assertion": "sum(unique segment durations) == total_analyzed_duration",
+        "expected": 625.06,
+        "actual": 625.06,
+        "passed": true
+      },
+      {
+        "assertion": "sum(relevance category durations) == total_analyzed_duration",
+        "expected": 625.06,
+        "actual": 625.06,
+        "passed": true
+      },
+      {
+        "assertion": "sum(function category durations) == total_analyzed_duration",
+        "expected": 625.06,
+        "actual": 625.06,
+        "passed": true
+      }
+    ]
+  }
+}

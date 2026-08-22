@@ -1,0 +1,65 @@
+{
+  "video_id": "-RgdgqF9wd0",
+  "batch_id": "batch_003",
+  "batch_index": 3,
+  "segment_ids": [
+    13,
+    14,
+    15,
+    16
+  ],
+  "segment_count": 4,
+  "input_characters": 6611,
+  "output_characters": 1382,
+  "latency_seconds": 156.345,
+  "cache_hit": false,
+  "retry_count": 1,
+  "status": "COMPLETE",
+  "segments": [
+    {
+      "segment_id": 13,
+      "start_time": 514.879,
+      "end_time": 544.24,
+      "primary_point": "P2 | P1",
+      "function": "COMPARISON",
+      "relevance": "DIRECT",
+      "confidence": 0.95,
+      "evidence": "हम इसे बाकी प्लेयर्स से कंपेयर करके देखते हैं। तो यहां पर Airtel पेमेंट्स, Fino payments, India पोस्ट पेमेंट्स यह कुछ बड़े प्लेयर्स हैं",
+      "evidence_validation": "PASSED"
+    },
+    {
+      "segment_id": 14,
+      "start_time": 544.24,
+      "end_time": 582.72,
+      "primary_point": "P1",
+      "function": "SUPPORTING_EXPLANATION",
+      "relevance": "DIRECT",
+      "confidence": 0.95,
+      "evidence": "इंडिया पोस्ट पेमेंट्स 134 करोड़ का प्रॉफिट है इसका। बहुत तेजी से प्रॉफिट भी उसका बढ़ रहा है",
+      "evidence_validation": "PASSED"
+    },
+    {
+      "segment_id": 15,
+      "start_time": 582.72,
+      "end_time": 620.279,
+      "primary_point": "P3 | P4",
+      "function": "CONCLUSION",
+      "relevance": "DIRECT",
+      "confidence": 0.95,
+      "evidence": "ओवरऑल अगर लॉन्ग टर्म के हिसाब से देखें तो मुझे कंपनी कहीं ना कहीं थोड़ी ओवरवैल्यूड लगती है",
+      "evidence_validation": "PASSED"
+    },
+    {
+      "segment_id": 16,
+      "start_time": 620.279,
+      "end_time": 649.079,
+      "primary_point": "NONE",
+      "function": "OFF_TOPIC",
+      "relevance": "OFF_TOPIC",
+      "confidence": 0.95,
+      "evidence": "आपको बहुत बारीकी से देखना पड़ेगा। और जाते-जाते क्रेडिट पे को भी जरूर चेक आउट कीजिए",
+      "evidence_validation": "PASSED"
+    }
+  ],
+  "raw_response": "{\n    \"video_id\": \"-RgdgqF9wd0\",\n    \"batch_id\": \"batch_003\",\n    \"segments\": [\n        {\n            \"segment_id\": 13,\n            \"primary_point\": \"P2 | P1\",\n            \"function\": \"COMPARISON\",\n            \"relevance\": \"DIRECT\",\n            \"confidence\": 0.95,\n            \"evidence\": \"हम इसे बाकी प्लेयर्स से कंपेयर करके देखते हैं। तो यहां पर Airtel पेमेंट्स, Fino payments, India पोस्ट पेमेंट्स यह कुछ बड़े प्लेयर्स हैं\"\n        },\n        {\n            \"segment_id\": 14,\n            \"primary_point\": \"P1\",\n            \"function\": \"SUPPORTING_EXPLANATION\",\n            \"relevance\": \"DIRECT\",\n            \"confidence\": 0.95,\n            \"evidence\": \"इंडिया पोस्ट पेमेंट्स 134 करोड़ का प्रॉफिट है इसका। बहुत तेजी से प्रॉफिट भी उसका बढ़ रहा है\"\n        },\n        {\n            \"segment_id\": 15,\n            \"primary_point\": \"P3 | P4\",\n            \"function\": \"CONCLUSION\",\n            \"relevance\": \"DIRECT\",\n            \"confidence\": 0.95,\n            \"evidence\": \"ओवरऑल अगर लॉन्ग टर्म के हिसाब से देखें तो मुझे कंपनी कहीं ना कहीं थोड़ी ओवरवैल्यूड लगती है\"\n        },\n        {\n            \"segment_id\": 16,\n            \"primary_point\": \"NONE\",\n            \"function\": \"OFF_TOPIC\",\n            \"relevance\": \"OFF_TOPIC\",\n            \"confidence\": 0.95,\n            \"evidence\": \"आपको बहुत बारीकी से देखना पड़ेगा। और जाते-जाते क्रेडिट पे को भी जरूर चेक आउट कीजिए\"\n        }\n    ]\n}"
+}

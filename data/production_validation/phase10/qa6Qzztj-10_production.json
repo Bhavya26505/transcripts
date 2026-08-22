@@ -1,0 +1,306 @@
+{
+  "video_id": "qa6Qzztj-10",
+  "source_language": "hi",
+  "promise_status": "NO_EXPLICIT_PROMISE",
+  "promised_points_count": 0,
+  "point_coverage": null,
+  "point_coverage_status": "NOT_APPLICABLE",
+  "hook": {},
+  "creator_promise": {},
+  "expected_points": [],
+  "segment_analysis": [
+    {
+      "segment_id": 4,
+      "start_time": 119.2,
+      "end_time": 166.6,
+      "primary_point": "P1",
+      "function": "SUPPORTING_EXPLANATION",
+      "relevance": "DIRECT",
+      "confidence": 0.92,
+      "evidence": "रिटेल इन्वेस्टर जो है वो बेवकूफ है। बहुत ज्यादा बेवकूफ है। इनको पागल ईजीली बनाया जा सकता है।",
+      "evidence_validation": "PASSED"
+    },
+    {
+      "segment_id": 5,
+      "start_time": 166.6,
+      "end_time": 216.12,
+      "primary_point": "P1",
+      "function": "DIRECT_POINT",
+      "relevance": "DIRECT",
+      "confidence": 0.94,
+      "evidence": "नवंबर 2022 में फिर रणबीर कपूर, आमिर खान और बाकी कई सारे सेलिब्रिटीज और शंकर शर्मा जैसे इन्वेस्टर्स कंपनी में इन्वेस्ट करते हैं।",
+      "evidence_validation": "PASSED"
+    },
+    {
+      "segment_id": 6,
+      "start_time": 216.12,
+      "end_time": 266.12,
+      "primary_point": "P1",
+      "function": "SUPPORTING_EXPLANATION",
+      "relevance": "DIRECT",
+      "confidence": 0.9,
+      "evidence": "आईपीओ आने के 1 महीने के अंदर इन्होंने कुछ इस तरह की अनाउंसमेंट की कि हम एआईटी एंटरप्रेन्योरशिप सेंटर के साथ टाई अप करने जा रहे हैं",
+      "evidence_validation": "PASSED"
+    },
+    {
+      "segment_id": 7,
+      "start_time": 266.12,
+      "end_time": 310.72,
+      "primary_point": "P1",
+      "function": "DIRECT_POINT",
+      "relevance": "DIRECT",
+      "confidence": 0.93,
+      "evidence": "करने जा रहे हैं ड्रोन और जीआईएस डेवलपमेंट प्रोजेक्ट्स के लिए",
+      "evidence_validation": "PASSED"
+    },
+    {
+      "segment_id": 8,
+      "start_time": 310.72,
+      "end_time": 357.8,
+      "primary_point": "P1",
+      "function": "DIRECT_POINT",
+      "relevance": "DIRECT",
+      "confidence": 0.94,
+      "evidence": "इस आईपीओ से पहले करीब 202 इन्वेस्टर्स ने कंपनी में पैसा डाला। जिसमें से 168 इन्वेस्टर्स ने अपने सारे शेयर्स बेच दिए और सारे शेयर्स किसे थोप दिए? रिटेल इन्वेस्टर्स को।",
+      "evidence_validation": "PASSED"
+    },
+    {
+      "segment_id": 9,
+      "start_time": 357.8,
+      "end_time": 407.24,
+      "primary_point": "P1 | P2",
+      "function": "DIRECT_POINT",
+      "relevance": "DIRECT",
+      "confidence": 0.95,
+      "evidence": "अच्छी कंपनी ढूंढना यह सिर्फ 50% टास्क है। बाकी 50% टास्क क्या है? तो उस कंपनी को सही वैल्यू्यूएशन पर खरीदना।",
+      "evidence_validation": "PASSED"
+    },
+    {
+      "segment_id": 10,
+      "start_time": 407.24,
+      "end_time": 452.52,
+      "primary_point": "P2",
+      "function": "SUPPORTING_EXPLANATION",
+      "relevance": "DIRECT",
+      "confidence": 0.95,
+      "evidence": "अच्छी कंपनी को अगर आप ज्यादा वैल्यू्यूएशन पे ओवरवैल्यूड वैल्यू्यूएशन पे खरीदेंगे तो आपके लिए वो खराब और घातक इन्वेस्टमेंट हो सकती है।",
+      "evidence_validation": "PASSED"
+    },
+    {
+      "segment_id": 11,
+      "start_time": 452.52,
+      "end_time": 500.32,
+      "primary_point": "P3",
+      "function": "DIRECT_POINT",
+      "relevance": "DIRECT",
+      "confidence": 0.95,
+      "evidence": "जब भी इन्होंने आईपीओ से पहले सेलिब्रिटीज़ और बाकी लोगों को शेयर्स बेचे तो वहां पर उन्होंने कॉम्प्लेक्स स्ट्रक्चर का इस्तेमाल किया।",
+      "evidence_validation": "PASSED"
+    },
+    {
+      "segment_id": 12,
+      "start_time": 500.32,
+      "end_time": 550.319,
+      "primary_point": "P4",
+      "function": "EVIDENCE",
+      "relevance": "DIRECT",
+      "confidence": 0.95,
+      "evidence": "सेबी ने अपने इन्वेस्टिगेशन में पाया कि द्रोणाचार्य ने माइक्रो इंफ्राटेक नाम की कंपनी को एसक्यूएल सॉफ्टवेयर के लिए ₹6 करोड़ दे दिए।",
+      "evidence_validation": "PASSED"
+    },
+    {
+      "segment_id": 13,
+      "start_time": 550.319,
+      "end_time": 596.72,
+      "primary_point": "P4",
+      "function": "SUPPORTING_EXPLANATION",
+      "relevance": "DIRECT",
+      "confidence": 0.95,
+      "evidence": "उस कंपनी से हमारा कोई लेना देना नहीं है। हम तो उससे अलग हो चुके हैं। लेकिन आज भी उस कंपनी में 100% स्टेक इन दोनों का है।",
+      "evidence_validation": "PASSED"
+    },
+    {
+      "segment_id": 14,
+      "start_time": 596.72,
+      "end_time": 625.279,
+      "primary_point": "P2 | P3",
+      "function": "EVIDENCE",
+      "relevance": "DIRECT",
+      "confidence": 0.95,
+      "evidence": "₹8 करोड़ कंपनी ने डाटा सेतु टेक्नोलॉजीस को ट्रांसफर किए। उसके बारे में भी सेबी को कुछ नहीं मिला कि क्या सर्विस आखिर इन्होंने ली।",
+      "evidence_validation": "PASSED"
+    },
+    {
+      "segment_id": 15,
+      "start_time": 625.279,
+      "end_time": 672.56,
+      "primary_point": "P2 | P3",
+      "function": "EVIDENCE",
+      "relevance": "DIRECT",
+      "confidence": 0.95,
+      "evidence": "रेवेन्यूस को इनफ्लेट करना शुरू किया। यानी कि मैनपुलेट करो। तो ऐसे में उन्होंने ट्राइकनिक्स और आयरड ऐसी दो कंपनीज़ को 12.5 करोड़ का माल बेचा हमने।",
+      "evidence_validation": "PASSED"
+    },
+    {
+      "segment_id": 16,
+      "start_time": 672.56,
+      "end_time": 705.199,
+      "primary_point": "P3",
+      "function": "EVIDENCE",
+      "relevance": "DIRECT",
+      "confidence": 0.95,
+      "evidence": "शुरुआत में कि एक चीज़ थी जिससे आप यह चीज़ पकड़ सकते थे कि कंपनी दिखा तो रही थी कि प्रॉफिट हुए हैं लेकिन कंटिन्यू कंपनी का कैश फ्रॉम ऑपरेटिंग एक्टिविटीज आप यहां पर देख सकते हो इट वास ऑलवेज नेगेटिव",
+      "evidence_validation": "PASSED"
+    },
+    {
+      "segment_id": 17,
+      "start_time": 705.199,
+      "end_time": 734.2,
+      "primary_point": "P2 | P3",
+      "function": "EVIDENCE",
+      "relevance": "DIRECT",
+      "confidence": 0.95,
+      "evidence": "जैसे कि 2024 में 2025 में भी वही था फाइनेंसियल ईयर 2024-25 में भी 25 करोड़ के रिसीवेबल्स हैं",
+      "evidence_validation": "PASSED"
+    },
+    {
+      "segment_id": 18,
+      "start_time": 734.2,
+      "end_time": 777.719,
+      "primary_point": "P3",
+      "function": "EVIDENCE",
+      "relevance": "DIRECT",
+      "confidence": 0.95,
+      "evidence": "रिसीवेबल्स में क्योंकि धंधा तो हो ही नहीं रहा है",
+      "evidence_validation": "PASSED"
+    },
+    {
+      "segment_id": 19,
+      "start_time": 777.719,
+      "end_time": 827.12,
+      "primary_point": "P2 | P4",
+      "function": "DIRECT_POINT",
+      "relevance": "DIRECT",
+      "confidence": 0.95,
+      "evidence": "कंपनी के ऑडिटर थे केपीआरके एंड एसोसिएट्स। अब इन पर क्या एक्शन हुई? अभी तक कुछ नहीं। करोड़ों का झोल हुआ है यहां पर।",
+      "evidence_validation": "PASSED"
+    },
+    {
+      "segment_id": 20,
+      "start_time": 827.12,
+      "end_time": 875.96,
+      "primary_point": "P3 | P4",
+      "function": "SUPPORTING_EXPLANATION",
+      "relevance": "DIRECT",
+      "confidence": 0.92,
+      "evidence": "ऐसी और 50 एसएमई कंपनीज़ को गाइड करेंगे। इन स्टफ इन मोस्ट प्रोबेबबली विल गाइड सम मोर कंपनीज़ कि यार चलो मेरे पास एक बढ़िया बिज़नेस मॉडल है।",
+      "evidence_validation": "PASSED"
+    },
+    {
+      "segment_id": 21,
+      "start_time": 875.96,
+      "end_time": 909.68,
+      "primary_point": "P3",
+      "function": "DIRECT_POINT",
+      "relevance": "DIRECT",
+      "confidence": 0.94,
+      "evidence": "अगर यू आर लूजिंग द मनी किसी को फर्क नहीं पड़ रहा है। नोबडी इज़ आस्किंग कि भाई स्टटरी ऑडिटर को क्या हुआ है? नोबडी इज़ आस्किंग कि कंपनी के प्रमोटर्स को क्या हुआ है?",
+      "evidence_validation": "PASSED"
+    },
+    {
+      "segment_id": 22,
+      "start_time": 909.68,
+      "end_time": 951.68,
+      "primary_point": "P4 | P1",
+      "function": "DIRECT_POINT",
+      "relevance": "DIRECT",
+      "confidence": 0.93,
+      "evidence": "फ्रॉडस्टर्स फ्रॉड करके जा रहे हैं। कुछ नहीं हो रहा है ना जेल लग रही है ना कुछ। अरे भाई जितने का फ्रॉड किया उतना पैसा तो वापस मांगो तो वो भी नहीं हो रहा है।",
+      "evidence_validation": "PASSED"
+    },
+    {
+      "segment_id": 23,
+      "start_time": 951.68,
+      "end_time": 995.56,
+      "primary_point": "P4 | P2",
+      "function": "COMPARISON",
+      "relevance": "DIRECT",
+      "confidence": 0.91,
+      "evidence": "यूएस में जब एंड्रॉन का फ्रॉड हुआ था तो जो ऑडिटर था आर्थर एंडरसन बार किया गया उसको। उसका लाइसेंस नहीं है। आज बिज़नेस से बाहर है वो।",
+      "evidence_validation": "PASSED"
+    },
+    {
+      "segment_id": 24,
+      "start_time": 995.56,
+      "end_time": 1033.999,
+      "primary_point": "P2 | P3",
+      "function": "DIRECT_POINT",
+      "relevance": "DIRECT",
+      "confidence": 0.92,
+      "evidence": "एक बार रिटेल इन्वेस्टर अगर यहां पर अपना कॉन्फिडेंस खो देता है तो दिस इज़ अ हाई अलर्ट। और मुझे लगता है कि इन्वेस्टर्स को भी इसके बारे में आवाज उठानी पड़ेगी।",
+      "evidence_validation": "PASSED"
+    },
+    {
+      "segment_id": 25,
+      "start_time": 1033.999,
+      "end_time": 1072.0,
+      "primary_point": "NONE",
+      "function": "TRANSITION",
+      "relevance": "DIRECT",
+      "confidence": 0.98,
+      "evidence": "अब बारी आपकी है। तो फिलहाल हम यहीं पर रुकते हैं। मिलते हैं अगले वीडियो में।",
+      "evidence_validation": "PASSED"
+    }
+  ],
+  "metrics": {
+    "point_coverage": null,
+    "clear_relevance": {
+      "rel_durations": {
+        "DIRECT": 952.8,
+        "SUPPORTING": 0.0,
+        "RELATED": 0.0,
+        "TRANSITION": 0.0,
+        "UNCERTAIN": 0.0,
+        "OFF_TOPIC": 0.0
+      },
+      "rel_percentages": {
+        "DIRECT": 100.0,
+        "SUPPORTING": 0.0,
+        "RELATED": 0.0,
+        "TRANSITION": 0.0,
+        "UNCERTAIN": 0.0,
+        "OFF_TOPIC": 0.0
+      },
+      "clearly_relevant_duration": 952.8,
+      "clearly_relevant_percentage": 100.0,
+      "off_topic_duration": 0.0,
+      "off_topic_percentage": 0.0
+    },
+    "off_topic_percentage": 0.0,
+    "off_topic_episode_count": 0,
+    "missing_points": []
+  },
+  "adherence_score": {
+    "point_coverage_weight": 0.6,
+    "clear_relevance_weight": 0.25,
+    "topic_discipline_weight": 0.15,
+    "point_coverage_score": null,
+    "clear_relevance_score": 100.0,
+    "topic_discipline_score": 100.0,
+    "final_score": null
+  },
+  "validation": {
+    "timeline_integrity": true,
+    "evidence_integrity": true,
+    "metric_integrity": true,
+    "score_integrity": true,
+    "all_validations_pass": true
+  },
+  "performance": {
+    "phase7_latency": 261.34,
+    "phase8_latency": 948.08,
+    "llm_calls_count": 6,
+    "retries_count": 0,
+    "total_processing_time": 1209.56
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "video_id": "1sVOwYhItqk",
+  "opening_analysis": {
+    "hook": {
+      "text": "इमेजिन कीजिए आप एक रेस्टोरेंट में जाते हैं जहां पर जो चेयर होती है उस पर दाग लगे हुए होते हैं...",
+      "start_time": 0.16,
+      "end_time": 43.66,
+      "hook_type": "story",
+      "confidence": 0.95
+    },
+    "core_topic": {
+      "description": "Indian emigration trends and wealthy Indians leaving India",
+      "explicit": true,
+      "confidence": 0.95,
+      "evidence": {
+        "start_time": 43.66,
+        "end_time": 86.96,
+        "text": "पिछले साल 4500 मिलियन ने इंडिया छोड़ दिया है और इस साल भी 4300 मिलियन यर्स इंडिया छोड़ने की प्लानिंग कर रहे हैं"
+      }
+    },
+    "viewer_problem_or_question": {
+      "description": "Why are Indians especially wealthy ones leaving India?",
+      "explicit": true,
+      "confidence": 0.9,
+      "evidence": {
+        "start_time": 43.66,
+        "end_time": 86.96,
+        "text": "इस तरह की जो फीलिंग है वो आ रही है इसीलिए आजकल इस तरह के कमेंट्स काफी ज्यादा वायरल हो रहे हैं"
+      }
+    },
+    "promise": {
+      "description": "To discuss reports on Indians leaving India and reasons behind it",
+      "explicit": true,
+      "confidence": 0.9,
+      "evidence": {
+        "start_time": 43.66,
+        "end_time": 86.96,
+        "text": "इस रिपोर्ट के बाद इंटरनेट पर हर जगह यही चर्चा होने लगी कि"
+      }
+    },
+    "expected_points": [],
+    "expected_direction": "Discuss reports on Indian emigration trends, reasons for wealthy Indians leaving India, and implications of these migration patterns",
+    "opening_summary": "A restaurant analogy about poor service with high prices transitions into discussing Indian emigration trends and reports on wealthy Indians leaving India. The video introduces a report claiming millions left India recently.",
+    "analysis_confidence": 0.92
+  }
+}

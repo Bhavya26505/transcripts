@@ -1,0 +1,249 @@
+{
+  "video_id": "1jnEhDmvQbk",
+  "opening_segments_count": 2,
+  "analyzed_segments_count": 22,
+  "segments": [
+    {
+      "segment_id": 3,
+      "start_time": 97.32,
+      "end_time": 137.92,
+      "primary_point": "P1 | P2",
+      "function": "DIRECT_POINT",
+      "relevance": "DIRECT",
+      "confidence": 0.95,
+      "evidence": "एक तो सबसे इंपॉर्टेंट चीज मिस की है वो भी मैं आज कवर करूंगा। साथ ही हम यह भी बात करेंगे कि जिस चीज को लेकर विवाद चल रहा है कि रशिया से ऑयल इंपोर्ट करना तो भाई इससे इंडिया को एग्जैक्टली कितना फायदा हो रहा है",
+      "evidence_validation": "PASSED"
+    },
+    {
+      "segment_id": 4,
+      "start_time": 137.92,
+      "end_time": 179.0,
+      "primary_point": "P1",
+      "function": "DIRECT_POINT",
+      "relevance": "DIRECT",
+      "confidence": 0.92,
+      "evidence": "एक तो चीज मुझे पता चली कि यार यह जो बिल है यह बहुत ज्यादा स्ट्रिक्ट है। और जो 500% टेरिफ की मीडिया",
+      "evidence_validation": "PASSED"
+    },
+    {
+      "segment_id": 5,
+      "start_time": 179.0,
+      "end_time": 222.639,
+      "primary_point": "P1",
+      "function": "DIRECT_POINT",
+      "relevance": "DIRECT",
+      "confidence": 0.93,
+      "evidence": "तो इस बिल में 20 सेक्शंस हैं। वन बाय वन हर एक सेक्शन में क्या है मैं आपको बताता हूं",
+      "evidence_validation": "PASSED"
+    },
+    {
+      "segment_id": 6,
+      "start_time": 222.639,
+      "end_time": 252.039,
+      "primary_point": "NONE",
+      "function": "OFF_TOPIC",
+      "relevance": "OFF_TOPIC",
+      "confidence": 0.98,
+      "evidence": "यानी कि महंगी चीजों को सस्ते दामों में खरीदना। जनरली आप देखते होंगे कि आपने शेयर खरीद लिया फिर तुरंत वह गिरने लगता है",
+      "evidence_validation": "PASSED"
+    },
+    {
+      "segment_id": 7,
+      "start_time": 252.039,
+      "end_time": 296.32,
+      "primary_point": "NONE",
+      "function": "OFF_TOPIC",
+      "relevance": "OFF_TOPIC",
+      "confidence": 0.96,
+      "evidence": "तो इस कोहर्ट में वैल्यू इन्वेस्टिंग की सातों के सातों स्ट्रेटजीज़ आपको सीखने मिलती है। जिसमें सिगारb जैसी बेसिक स्ट्रेटजी से लेकर डीसीएफ जैसी एडवांस स्ट्रेटजीज़ इंक्लूड है",
+      "evidence_validation": "PASSED"
+    },
+    {
+      "segment_id": 8,
+      "start_time": 296.32,
+      "end_time": 342.64,
+      "primary_point": "P1",
+      "function": "DIRECT_POINT",
+      "relevance": "DIRECT",
+      "confidence": 0.95,
+      "evidence": "तो इस बिल का नाम है सेंशनिंग रशिया एक्ट ऑफ 2025। यह बिल कहता है कि अगर रशिया यूक्रेन के साथ पीस स्टॉक रिफ्यूज करता है तो यूएस उस पर मैक्सिमम सेंशंस लगाएगा अंडर यूएस लॉ।",
+      "evidence_validation": "PASSED"
+    },
+    {
+      "segment_id": 9,
+      "start_time": 342.64,
+      "end_time": 387.039,
+      "primary_point": "P1",
+      "function": "SUPPORTING_EXPLANATION",
+      "relevance": "DIRECT",
+      "confidence": 0.92,
+      "evidence": "है वो कंटिन्यू रहेगा",
+      "evidence_validation": "PASSED"
+    },
+    {
+      "segment_id": 10,
+      "start_time": 387.039,
+      "end_time": 418.559,
+      "primary_point": "P1",
+      "function": "DIRECT_POINT",
+      "relevance": "DIRECT",
+      "confidence": 0.94,
+      "evidence": "मेंशन किया गया है कि जो भी कंट्री रशिया से कुछ भी इंपोर्ट करेगी उस पर एटलीस्ट 500% का टेरिफ लगाया जाएगा।",
+      "evidence_validation": "PASSED"
+    },
+    {
+      "segment_id": 11,
+      "start_time": 418.559,
+      "end_time": 464.2,
+      "primary_point": "P2",
+      "function": "SUPPORTING_EXPLANATION",
+      "relevance": "DIRECT",
+      "confidence": 0.89,
+      "evidence": "अब जैसे ही यह बिल बाहर आया बहुत सारे ग्लोबल मार्केट गिरने लगे। इंडिया का तो काफी तगड़ा गिरा कल।",
+      "evidence_validation": "PASSED"
+    },
+    {
+      "segment_id": 12,
+      "start_time": 464.2,
+      "end_time": 506.88,
+      "primary_point": "NONE",
+      "function": "RELATED_EXTENSION",
+      "relevance": "RELATED",
+      "confidence": 0.78,
+      "evidence": "यूएस ने दो हफ्ते किया और फाइनली उस टैंकर को बहुत बड़ा ऑयल टैंकर उसे सीज कर लिया। यह जो शीप है ये ऑफिशियली रजिस्टर्ड इन रशिया है।",
+      "evidence_validation": "PASSED"
+    },
+    {
+      "segment_id": 13,
+      "start_time": 506.88,
+      "end_time": 552.399,
+      "primary_point": "P2",
+      "function": "CONTEXT",
+      "relevance": "SUPPORTING",
+      "confidence": 0.95,
+      "evidence": "ये सारा जो बवाल है इंडिया का पर्टिकुलरली यह चल रहा है क्योंकि हम ऑइल ले रहे हैं रशिया से।",
+      "evidence_validation": "PASSED"
+    },
+    {
+      "segment_id": 14,
+      "start_time": 552.399,
+      "end_time": 602.64,
+      "primary_point": "P2",
+      "function": "SUPPORTING_EXPLANATION",
+      "relevance": "DIRECT",
+      "confidence": 0.95,
+      "evidence": "इंडिया को $7.9 बिलियन का प्रॉफिट हुआ था। 7.9 बिलियन मतलब लगभग ₹64,000 करोड़।",
+      "evidence_validation": "PASSED"
+    },
+    {
+      "segment_id": 15,
+      "start_time": 602.64,
+      "end_time": 633.32,
+      "primary_point": "P2",
+      "function": "EVIDENCE",
+      "relevance": "DIRECT",
+      "confidence": 0.95,
+      "evidence": "BPCL का डाटा देखते हो भारत पेट्रोलियम का तो आपको दिखेगा कि रेवेन्यू कुछ बढ़ नहीं रहा है। पिछले 5 सालों में मात्र 9% से रेवेन्यू बढ़ा है। बट इफ यू लुक एट द प्रॉफिट इट इज़ ग्रोइंग बाय 25% कंपाउंडेड सालाना।",
+      "evidence_validation": "PASSED"
+    },
+    {
+      "segment_id": 16,
+      "start_time": 633.32,
+      "end_time": 682.72,
+      "primary_point": "P2",
+      "function": "SUPPORTING_EXPLANATION",
+      "relevance": "DIRECT",
+      "confidence": 0.95,
+      "evidence": "इंडियन यूज़र्स को जो पेट्रोल डीजल अपनी गाड़ी में डाल रहे हैं या फिर इंडस्ट्री में यूज कर रहे हैं उन्हें कुछ प्राइस पे कुछ डिस्काउंट नहीं मिला।",
+      "evidence_validation": "PASSED"
+    },
+    {
+      "segment_id": 17,
+      "start_time": 682.72,
+      "end_time": 727.56,
+      "primary_point": "P2",
+      "function": "CONCLUSION",
+      "relevance": "DIRECT",
+      "confidence": 0.95,
+      "evidence": "जो भी फायदा हमें हो रहा है अभी देखिए ऑलरेडी सेंशंस लगने के बाद दिसंबर में देखें तो जितना भी ऑइल हम इंपोर्ट कर रहे थे उसमें ऑलरेडी 30-35% की गिरावट ऑलरेडी हो चुकी है",
+      "evidence_validation": "PASSED"
+    },
+    {
+      "segment_id": 18,
+      "start_time": 727.56,
+      "end_time": 770.44,
+      "primary_point": "P2",
+      "function": "SUPPORTING_EXPLANATION",
+      "relevance": "DIRECT",
+      "confidence": 0.95,
+      "evidence": "जितना फायदा हमें रशियन ऑयल इंपोर्ट से हो रहा है उससे ज्यादा नुकसान कई गुना ज्यादा नुकसान हमें टेरिफ से और जो बाकी हमारे बिनेसेस हैंपर हो रहे हैं उनसे हो रहा है",
+      "evidence_validation": "PASSED"
+    },
+    {
+      "segment_id": 19,
+      "start_time": 770.44,
+      "end_time": 798.96,
+      "primary_point": "P1",
+      "function": "DIRECT_POINT",
+      "relevance": "DIRECT",
+      "confidence": 0.95,
+      "evidence": "अब इसमें कौन-कौन से सेक्टर्स हैं जो बहुत ज्यादा अफेक्ट होंगे। तो नंबर वन रिफाइनरीज कि इंडिया का जो रशियान से इंपोर्ट है ऑइल का वो 35% है",
+      "evidence_validation": "PASSED"
+    },
+    {
+      "segment_id": 20,
+      "start_time": 798.96,
+      "end_time": 839.199,
+      "primary_point": "P2",
+      "function": "EVIDENCE",
+      "relevance": "DIRECT",
+      "confidence": 0.95,
+      "evidence": "Reliance की शेयर प्राइस पिछले 5 दिनों में 7% से गिर चुकी है। इंडियन ऑयल कॉरपोरेशन यस्टरडे भारत पेट्रोलियम जिसकी प्रॉफिट मार्जिन मैंने आपको दिखाई बहुत ज्यादा है",
+      "evidence_validation": "PASSED"
+    },
+    {
+      "segment_id": 21,
+      "start_time": 839.199,
+      "end_time": 876.199,
+      "primary_point": "P2",
+      "function": "EXAMPLE",
+      "relevance": "DIRECT",
+      "confidence": 0.95,
+      "evidence": "गोकुल दास एक्सपोर्ट है जो पिछले एक साल में 42% डाउन है क्योंकि यार जो भी क्योंकि जो यूएस के सेंशन ऑलरेडी लगे 50% का उसका फटका उन्हें पड़ा ही पड़ा है",
+      "evidence_validation": "PASSED"
+    },
+    {
+      "segment_id": 22,
+      "start_time": 876.199,
+      "end_time": 925.64,
+      "primary_point": "P2",
+      "function": "SUPPORTING_EXPLANATION",
+      "relevance": "DIRECT",
+      "confidence": 0.95,
+      "evidence": "इंजीनियरिंग गुड्स एंड ऑटो कंपोनेंट्स में बात करें तो इसमें Bharat Ford, MDers Summi, Son BLW ये सारी कंपनीज़ इंपैक्ट हो रही है",
+      "evidence_validation": "PASSED"
+    },
+    {
+      "segment_id": 23,
+      "start_time": 925.64,
+      "end_time": 970.2,
+      "primary_point": "NONE",
+      "function": "OFF_TOPIC",
+      "relevance": "OFF_TOPIC",
+      "confidence": 0.98,
+      "evidence": "उसको आपको इसीलिए मैं लास्ट वीडियो में मैंने बोला कि हाउ टू इन्वेस्ट इन 2026 कल मैंने वीडियो डाला था उसे जरूर देखिए।",
+      "evidence_validation": "PASSED"
+    },
+    {
+      "segment_id": 24,
+      "start_time": 970.2,
+      "end_time": 982.279,
+      "primary_point": "NONE",
+      "function": "OFF_TOPIC",
+      "relevance": "OFF_TOPIC",
+      "confidence": 0.97,
+      "evidence": "हम लाते रहते हैं। तो उसके लिए चैनल को जरूर सब्सक्राइब कीजिए।",
+      "evidence_validation": "PASSED"
+    }
+  ]
+}

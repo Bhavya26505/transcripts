@@ -1,0 +1,2791 @@
+{
+  "video_id": "-RgdgqF9wd0",
+  "language": "HINDI",
+  "duration_seconds": 649.079,
+  "statistics": {
+    "raw_duration": 649.079,
+    "preprocessed_duration": 649.079,
+    "duration_difference": 0.0,
+    "word_count_before": 2638,
+    "word_count_after": 2638,
+    "sentence_count": 173,
+    "estimated_wpm": 243.85,
+    "filler_candidate_count": 3,
+    "filler_candidate_terms": {
+      "देखिए": 3
+    },
+    "repeated_phrase_count": 0,
+    "entries_summary": {
+      "raw_entries": 329,
+      "changed_entries": 16,
+      "removed_entries": 0,
+      "merged_entries": 0,
+      "unchanged_entries": 313,
+      "final_entries": 329
+    }
+  },
+  "transformations_log": [
+    {
+      "subtitle_id": 10,
+      "action": "CHANGED",
+      "raw_text": "बिज़नेस मॉडल के बारे में। देखिए एनएसएल का",
+      "normalized_text": "बिज़नेस मॉडल के बारे में। देखिए एनएसएल का",
+      "transformation": "Unicode NFC Normalization, Whitespace Normalization",
+      "why_safe": "Standard Unicode NFC or whitespace/artifact normalization without altering semantic content"
+    },
+    {
+      "subtitle_id": 11,
+      "action": "CHANGED",
+      "raw_text": "फुल फॉर्म क्या है? नेशनल सिक्योरिटीज़",
+      "normalized_text": "फुल फॉर्म क्या है? नेशनल सिक्योरिटीज़",
+      "transformation": "Unicode NFC Normalization, Whitespace Normalization",
+      "why_safe": "Standard Unicode NFC or whitespace/artifact normalization without altering semantic content"
+    },
+    {
+      "subtitle_id": 12,
+      "action": "CHANGED",
+      "raw_text": "डिपॉज़िटरी लिमिटेड। लेकिन इंटरेस्टिंगली",
+      "normalized_text": "डिपॉज़िटरी लिमिटेड। लेकिन इंटरेस्टिंगली",
+      "transformation": "Unicode NFC Normalization, Whitespace Normalization",
+      "why_safe": "Standard Unicode NFC or whitespace/artifact normalization without altering semantic content"
+    },
+    {
+      "subtitle_id": 13,
+      "action": "CHANGED",
+      "raw_text": "डिपॉज़िटरी से ज्यादा इनका रेवेन्यू कहीं",
+      "normalized_text": "डिपॉज़िटरी से ज्यादा इनका रेवेन्यू कहीं",
+      "transformation": "Unicode NFC Normalization, Whitespace Normalization",
+      "why_safe": "Standard Unicode NFC or whitespace/artifact normalization without altering semantic content"
+    },
+    {
+      "subtitle_id": 18,
+      "action": "CHANGED",
+      "raw_text": "इनके बिज़नेस मॉडल में काफी ज्यादा अंतर",
+      "normalized_text": "इनके बिज़नेस मॉडल में काफी ज्यादा अंतर",
+      "transformation": "Unicode NFC Normalization, Whitespace Normalization",
+      "why_safe": "Standard Unicode NFC or whitespace/artifact normalization without altering semantic content"
+    },
+    {
+      "subtitle_id": 20,
+      "action": "CHANGED",
+      "raw_text": "ताकि एनएसडीएल का पूरा बिज़नेस आपको एकदम",
+      "normalized_text": "ताकि एनएसडीएल का पूरा बिज़नेस आपको एकदम",
+      "transformation": "Unicode NFC Normalization, Whitespace Normalization",
+      "why_safe": "Standard Unicode NFC or whitespace/artifact normalization without altering semantic content"
+    },
+    {
+      "subtitle_id": 73,
+      "action": "CHANGED",
+      "raw_text": "पहले ही इन्होंने यह बिज़नेस शुरू किया।",
+      "normalized_text": "पहले ही इन्होंने यह बिज़नेस शुरू किया।",
+      "transformation": "Unicode NFC Normalization, Whitespace Normalization",
+      "why_safe": "Standard Unicode NFC or whitespace/artifact normalization without altering semantic content"
+    },
+    {
+      "subtitle_id": 75,
+      "action": "CHANGED",
+      "raw_text": "रेवेन्यू यहां से आता था। लेकिन यह बिज़नेस",
+      "normalized_text": "रेवेन्यू यहां से आता था। लेकिन यह बिज़नेस",
+      "transformation": "Unicode NFC Normalization, Whitespace Normalization",
+      "why_safe": "Standard Unicode NFC or whitespace/artifact normalization without altering semantic content"
+    },
+    {
+      "subtitle_id": 169,
+      "action": "CHANGED",
+      "raw_text": "मार्केट शेयर डिपॉज़िटरी सेगमेंट में",
+      "normalized_text": "मार्केट शेयर डिपॉज़िटरी सेगमेंट में",
+      "transformation": "Unicode NFC Normalization, Whitespace Normalization",
+      "why_safe": "Standard Unicode NFC or whitespace/artifact normalization without altering semantic content"
+    },
+    {
+      "subtitle_id": 172,
+      "action": "CHANGED",
+      "raw_text": "चला गया और आज सीडीएसएल डिपॉज़िटरी गेम में",
+      "normalized_text": "चला गया और आज सीडीएसएल डिपॉज़िटरी गेम में",
+      "transformation": "Unicode NFC Normalization, Whitespace Normalization",
+      "why_safe": "Standard Unicode NFC or whitespace/artifact normalization without altering semantic content"
+    },
+    {
+      "subtitle_id": 175,
+      "action": "CHANGED",
+      "raw_text": "मार्केट शेयर था डिपॉज़िटरी में वो 40% था",
+      "normalized_text": "मार्केट शेयर था डिपॉज़िटरी में वो 40% था",
+      "transformation": "Unicode NFC Normalization, Whitespace Normalization",
+      "why_safe": "Standard Unicode NFC or whitespace/artifact normalization without altering semantic content"
+    },
+    {
+      "subtitle_id": 216,
+      "action": "CHANGED",
+      "raw_text": "प्रॉफिट है वो बढ़ा है। इट वाज़ 125 करोड़",
+      "normalized_text": "प्रॉफिट है वो बढ़ा है। इट वाज़ 125 करोड़",
+      "transformation": "Unicode NFC Normalization, Whitespace Normalization",
+      "why_safe": "Standard Unicode NFC or whitespace/artifact normalization without altering semantic content"
+    },
+    {
+      "subtitle_id": 238,
+      "action": "CHANGED",
+      "raw_text": "पेमेंट बैंक के बिज़नेस में बहुत कुछ करने",
+      "normalized_text": "पेमेंट बैंक के बिज़नेस में बहुत कुछ करने",
+      "transformation": "Unicode NFC Normalization, Whitespace Normalization",
+      "why_safe": "Standard Unicode NFC or whitespace/artifact normalization without altering semantic content"
+    },
+    {
+      "subtitle_id": 307,
+      "action": "CHANGED",
+      "raw_text": "बिज़नेस आपके लिए अब एकदम क्रिस्टल क्लियर",
+      "normalized_text": "बिज़नेस आपके लिए अब एकदम क्रिस्टल क्लियर",
+      "transformation": "Unicode NFC Normalization, Whitespace Normalization",
+      "why_safe": "Standard Unicode NFC or whitespace/artifact normalization without altering semantic content"
+    },
+    {
+      "subtitle_id": 311,
+      "action": "CHANGED",
+      "raw_text": "कि इनके पेमेंट बिज़नेस से कितना रेवन्यू",
+      "normalized_text": "कि इनके पेमेंट बिज़नेस से कितना रेवन्यू",
+      "transformation": "Unicode NFC Normalization, Whitespace Normalization",
+      "why_safe": "Standard Unicode NFC or whitespace/artifact normalization without altering semantic content"
+    },
+    {
+      "subtitle_id": 321,
+      "action": "CHANGED",
+      "raw_text": "इट इज़ अ क्रेडिट कार्ड। तो सही चीजों के",
+      "normalized_text": "इट इज़ अ क्रेडिट कार्ड। तो सही चीजों के",
+      "transformation": "Unicode NFC Normalization, Whitespace Normalization",
+      "why_safe": "Standard Unicode NFC or whitespace/artifact normalization without altering semantic content"
+    }
+  ],
+  "segments": [
+    {
+      "subtitle_ids": [
+        1
+      ],
+      "start": 0.0,
+      "end": 3.6,
+      "text": "एनएसडीएल का आईपीओ फाइनली आ गया है। 30"
+    },
+    {
+      "subtitle_ids": [
+        2
+      ],
+      "start": 1.92,
+      "end": 5.2,
+      "text": "तारीख से 1 तारीख के बीच ये खुला रहेगा।"
+    },
+    {
+      "subtitle_ids": [
+        3
+      ],
+      "start": 3.6,
+      "end": 7.359,
+      "text": "लेकिन जैसे इस आईपीओ की अनाउंसमेंट हुई"
+    },
+    {
+      "subtitle_ids": [
+        4
+      ],
+      "start": 5.2,
+      "end": 9.44,
+      "text": "दूसरी तरफ इस डीओ ली में एनएसडीएल का जो"
+    },
+    {
+      "subtitle_ids": [
+        5
+      ],
+      "start": 7.359,
+      "end": 11.04,
+      "text": "दूसरा भागीदार है CDSL उसके शेयर प्राइस"
+    },
+    {
+      "subtitle_ids": [
+        6
+      ],
+      "start": 9.44,
+      "end": 13.2,
+      "text": "में गिरावट आना शुरू हो गई। आप देख सकते"
+    },
+    {
+      "subtitle_ids": [
+        7
+      ],
+      "start": 11.04,
+      "end": 15.44,
+      "text": "हो कंपनी के शेयर प्राइस पिछले 5 दिनों"
+    },
+    {
+      "subtitle_ids": [
+        8
+      ],
+      "start": 13.2,
+      "end": 17.359,
+      "text": "में ही 11% से ज्यादा गिर चुकी है। तो आज"
+    },
+    {
+      "subtitle_ids": [
+        9
+      ],
+      "start": 15.44,
+      "end": 19.359,
+      "text": "के इस वीडियो में हम बात करेंगे एनएसएल के"
+    },
+    {
+      "subtitle_ids": [
+        10
+      ],
+      "start": 17.359,
+      "end": 20.96,
+      "text": "बिज़नेस मॉडल के बारे में। देखिए एनएसएल का"
+    },
+    {
+      "subtitle_ids": [
+        11
+      ],
+      "start": 19.359,
+      "end": 22.72,
+      "text": "फुल फॉर्म क्या है? नेशनल सिक्योरिटीज़"
+    },
+    {
+      "subtitle_ids": [
+        12
+      ],
+      "start": 20.96,
+      "end": 24.32,
+      "text": "डिपॉज़िटरी लिमिटेड। लेकिन इंटरेस्टिंगली"
+    },
+    {
+      "subtitle_ids": [
+        13
+      ],
+      "start": 22.72,
+      "end": 25.92,
+      "text": "डिपॉज़िटरी से ज्यादा इनका रेवेन्यू कहीं"
+    },
+    {
+      "subtitle_ids": [
+        14
+      ],
+      "start": 24.32,
+      "end": 27.439,
+      "text": "और से आ रहा है। वो चीज क्या है? उसके"
+    },
+    {
+      "subtitle_ids": [
+        15
+      ],
+      "start": 25.92,
+      "end": 29.439,
+      "text": "बारे में आज हम बात करेंगे। कहने के लिए"
+    },
+    {
+      "subtitle_ids": [
+        16
+      ],
+      "start": 27.439,
+      "end": 31.119,
+      "text": "तो एनएसएल और सीडीएसएल दोनों एक दूसरे के"
+    },
+    {
+      "subtitle_ids": [
+        17
+      ],
+      "start": 29.439,
+      "end": 32.64,
+      "text": "बड़े टफ कंपिटिटर हैं। लेकिन एक्चुअल में"
+    },
+    {
+      "subtitle_ids": [
+        18
+      ],
+      "start": 31.119,
+      "end": 34.239,
+      "text": "इनके बिज़नेस मॉडल में काफी ज्यादा अंतर"
+    },
+    {
+      "subtitle_ids": [
+        19
+      ],
+      "start": 32.64,
+      "end": 36.8,
+      "text": "है। तो उस अंतर की भी आज हम बात करेंगे"
+    },
+    {
+      "subtitle_ids": [
+        20
+      ],
+      "start": 34.239,
+      "end": 38.32,
+      "text": "ताकि एनएसडीएल का पूरा बिज़नेस आपको एकदम"
+    },
+    {
+      "subtitle_ids": [
+        21
+      ],
+      "start": 36.8,
+      "end": 39.76,
+      "text": "यूं पता चल जाए। और आखिर में हम बात"
+    },
+    {
+      "subtitle_ids": [
+        22
+      ],
+      "start": 38.32,
+      "end": 41.6,
+      "text": "करेंगे कंपनी के वैल्यू्यूएशन के बारे में"
+    },
+    {
+      "subtitle_ids": [
+        23
+      ],
+      "start": 39.76,
+      "end": 43.36,
+      "text": "कि कंपनी अंडरवैल्यूड लगती है या"
+    },
+    {
+      "subtitle_ids": [
+        24
+      ],
+      "start": 41.6,
+      "end": 44.96,
+      "text": "ओवरवैल्यूड लगती है। साथ ही लिस्टिंग गेन"
+    },
+    {
+      "subtitle_ids": [
+        25
+      ],
+      "start": 43.36,
+      "end": 46.64,
+      "text": "के मामले में फिलहाल क्या दिख रहा है। तो"
+    },
+    {
+      "subtitle_ids": [
+        26
+      ],
+      "start": 44.96,
+      "end": 48.239,
+      "text": "चलिए बिना किसी देरी के शुरू करते हैं।"
+    },
+    {
+      "subtitle_ids": [
+        27
+      ],
+      "start": 46.64,
+      "end": 50.48,
+      "text": "नमस्कार मैं प्रसाद आपका आज के इस वीडियो"
+    },
+    {
+      "subtitle_ids": [
+        28
+      ],
+      "start": 48.239,
+      "end": 52.239,
+      "text": "में स्वागत करता हूं। देखिए अर्ली 1990 तक"
+    },
+    {
+      "subtitle_ids": [
+        29
+      ],
+      "start": 50.48,
+      "end": 54.079,
+      "text": "जो भी शेयर्स थे वो फिजिकल फॉर्मेट में"
+    },
+    {
+      "subtitle_ids": [
+        30
+      ],
+      "start": 52.239,
+      "end": 55.92,
+      "text": "ट्रेड होते थे। यानी कि कोई ऑनलाइन तरीका"
+    },
+    {
+      "subtitle_ids": [
+        31
+      ],
+      "start": 54.079,
+      "end": 57.76,
+      "text": "नहीं था। आपको फिजिकली वहां पर जाना"
+    },
+    {
+      "subtitle_ids": [
+        32
+      ],
+      "start": 55.92,
+      "end": 59.359,
+      "text": "पड़ेगा। शेयर्स बाय करने पड़ेंगे। फिजिकल"
+    },
+    {
+      "subtitle_ids": [
+        33
+      ],
+      "start": 57.76,
+      "end": 61.6,
+      "text": "फॉर्मेट में अपने पास उन्हें रखना पड़ेगा।"
+    },
+    {
+      "subtitle_ids": [
+        34
+      ],
+      "start": 59.359,
+      "end": 63.44,
+      "text": "बड़ा एकदम टफ प्रोसेस था। बाद में इसे"
+    },
+    {
+      "subtitle_ids": [
+        35
+      ],
+      "start": 61.6,
+      "end": 65.04,
+      "text": "पूरी तरह से ऑनलाइन किया गया और यहीं से"
+    },
+    {
+      "subtitle_ids": [
+        36
+      ],
+      "start": 63.44,
+      "end": 68.159,
+      "text": "शुरुआत हुई दो प्लेयर्स की सीडीएसl और"
+    },
+    {
+      "subtitle_ids": [
+        37
+      ],
+      "start": 65.04,
+      "end": 70.56,
+      "text": "एनएसएल की। CDSL BS प्रमोटेड है तो एनएसएल"
+    },
+    {
+      "subtitle_ids": [
+        38
+      ],
+      "start": 68.159,
+      "end": 72.799,
+      "text": "एनएससी प्रमोटेड है। हालांकि एनएसएल के और"
+    },
+    {
+      "subtitle_ids": [
+        39
+      ],
+      "start": 70.56,
+      "end": 74.56,
+      "text": "भी प्रमोटर्स हैं जैसे कि IDBI, State"
+    },
+    {
+      "subtitle_ids": [
+        40
+      ],
+      "start": 72.799,
+      "end": 76.56,
+      "text": "Bank ऑफ इंडिया, HDFC Bank इनका भी अच्छा"
+    },
+    {
+      "subtitle_ids": [
+        41
+      ],
+      "start": 74.56,
+      "end": 78.24,
+      "text": "खासा स्टेक एनएसडीएल में है। तो जैसे कि"
+    },
+    {
+      "subtitle_ids": [
+        42
+      ],
+      "start": 76.56,
+      "end": 80.159,
+      "text": "मैंने शुरुआत में कहा कि दिखने में तो ये"
+    },
+    {
+      "subtitle_ids": [
+        43
+      ],
+      "start": 78.24,
+      "end": 81.84,
+      "text": "डायरेक्ट कंपिटिट दिखते हैं लेकिन इनके"
+    },
+    {
+      "subtitle_ids": [
+        44
+      ],
+      "start": 80.159,
+      "end": 84.0,
+      "text": "बिजनेस मॉडल में बहुत ज्यादा फर्क है। फॉर"
+    },
+    {
+      "subtitle_ids": [
+        45
+      ],
+      "start": 81.84,
+      "end": 86.24,
+      "text": "एग्जांपल अगर हम एनएसडीएल की बात करें तो"
+    },
+    {
+      "subtitle_ids": [
+        46
+      ],
+      "start": 84.0,
+      "end": 88.799,
+      "text": "इसका मेजॉरिटी रेवेन्यू बैंकिंग सर्विज से"
+    },
+    {
+      "subtitle_ids": [
+        47
+      ],
+      "start": 86.24,
+      "end": 91.2,
+      "text": "आता है 51%। क्या है वो बैंकिंग सर्विज"
+    },
+    {
+      "subtitle_ids": [
+        48
+      ],
+      "start": 88.799,
+      "end": 93.04,
+      "text": "आगे बात करेंगे। सिर्फ 43% ही रेवेन्यू है"
+    },
+    {
+      "subtitle_ids": [
+        49
+      ],
+      "start": 91.2,
+      "end": 95.04,
+      "text": "इनका जो डिपॉजिटरी से आता है और बाकी जो"
+    },
+    {
+      "subtitle_ids": [
+        50
+      ],
+      "start": 93.04,
+      "end": 96.799,
+      "text": "6% रेवेन्यू है वह आता है इनका डेटाबेस"
+    },
+    {
+      "subtitle_ids": [
+        51
+      ],
+      "start": 95.04,
+      "end": 98.56,
+      "text": "मैनेजमेंट से। इतना कोई सिग्निफिकेंट नंबर"
+    },
+    {
+      "subtitle_ids": [
+        52
+      ],
+      "start": 96.799,
+      "end": 101.04,
+      "text": "नहीं है। वहीं पर अगर हम सीडीएसएल की बात"
+    },
+    {
+      "subtitle_ids": [
+        53
+      ],
+      "start": 98.56,
+      "end": 103.6,
+      "text": "करें तो सीडीएसएल का लगभग 80% रेवेन्यू"
+    },
+    {
+      "subtitle_ids": [
+        54
+      ],
+      "start": 101.04,
+      "end": 105.52,
+      "text": "डिपॉजिटरी सर्विज से आता है। तो फर्क काफी"
+    },
+    {
+      "subtitle_ids": [
+        55
+      ],
+      "start": 103.6,
+      "end": 107.04,
+      "text": "क्लियर है। और सीडीएसएल का बैंकिंग सर्विज"
+    },
+    {
+      "subtitle_ids": [
+        56
+      ],
+      "start": 105.52,
+      "end": 109.2,
+      "text": "से कोई रेवेन्यू नहीं आता है। तो बैंकिंग"
+    },
+    {
+      "subtitle_ids": [
+        57
+      ],
+      "start": 107.04,
+      "end": 110.799,
+      "text": "सर्विज रेवेन्यू एक बहुत बड़ा डिफरेंशिएटर"
+    },
+    {
+      "subtitle_ids": [
+        58
+      ],
+      "start": 109.2,
+      "end": 112.799,
+      "text": "है इन दोनों के बीच में। तो इस बैंकिंग"
+    },
+    {
+      "subtitle_ids": [
+        59
+      ],
+      "start": 110.799,
+      "end": 114.399,
+      "text": "सेगमेंट की अगर मैं बात करूं तो एनएसडीएल"
+    },
+    {
+      "subtitle_ids": [
+        60
+      ],
+      "start": 112.799,
+      "end": 116.64,
+      "text": "की एक सब्सिडरी कंपनी है जिसका नाम है"
+    },
+    {
+      "subtitle_ids": [
+        61
+      ],
+      "start": 114.399,
+      "end": 118.56,
+      "text": "एनएसडीएल पेमेंट्स बैंक। यानी इनकी खुद की"
+    },
+    {
+      "subtitle_ids": [
+        62
+      ],
+      "start": 116.64,
+      "end": 120.32,
+      "text": "एक पेमेंट बैंक है और पेमेंट बैंक की बात"
+    },
+    {
+      "subtitle_ids": [
+        63
+      ],
+      "start": 118.56,
+      "end": 122.0,
+      "text": "आती है तो वहां पर डिपॉजिट्स ले रहे हैं।"
+    },
+    {
+      "subtitle_ids": [
+        64
+      ],
+      "start": 120.32,
+      "end": 123.759,
+      "text": "पेमेंट बैंक से तो उस तौर पर बहुत सारी"
+    },
+    {
+      "subtitle_ids": [
+        65
+      ],
+      "start": 122.0,
+      "end": 126.0,
+      "text": "सर्विज ये ऑफर करते हैं। जैसे कि सेविंग"
+    },
+    {
+      "subtitle_ids": [
+        66
+      ],
+      "start": 123.759,
+      "end": 127.68,
+      "text": "अकाउंट, पेमेंट सर्विसेज और बाकी कई सारे"
+    },
+    {
+      "subtitle_ids": [
+        67
+      ],
+      "start": 126.0,
+      "end": 129.039,
+      "text": "फाइनेंसियल प्रोडक्ट्स। यानी कि थोड़ा सा"
+    },
+    {
+      "subtitle_ids": [
+        68
+      ],
+      "start": 127.68,
+      "end": 131.12,
+      "text": "डिटेल में बताऊं तो कंपनी का रेवेन्यू"
+    },
+    {
+      "subtitle_ids": [
+        69
+      ],
+      "start": 129.039,
+      "end": 134.16,
+      "text": "लगभग 1400 करोड़ का है और उसमें से लगभग"
+    },
+    {
+      "subtitle_ids": [
+        70
+      ],
+      "start": 131.12,
+      "end": 136.48,
+      "text": "51% रेवेन्यू यानी 79 करोड़ का रेवेन्यू"
+    },
+    {
+      "subtitle_ids": [
+        71
+      ],
+      "start": 134.16,
+      "end": 138.08,
+      "text": "इनका एनएसएल के पेमेंट बैंक से आया है।"
+    },
+    {
+      "subtitle_ids": [
+        72
+      ],
+      "start": 136.48,
+      "end": 139.68,
+      "text": "इंटरेस्टिंग बात यह है कि अभी कुछ साल"
+    },
+    {
+      "subtitle_ids": [
+        73
+      ],
+      "start": 138.08,
+      "end": 141.84,
+      "text": "पहले ही इन्होंने यह बिज़नेस शुरू किया।"
+    },
+    {
+      "subtitle_ids": [
+        74
+      ],
+      "start": 139.68,
+      "end": 143.599,
+      "text": "2-4 साल पहले देखें तो 8-10% का इनका"
+    },
+    {
+      "subtitle_ids": [
+        75
+      ],
+      "start": 141.84,
+      "end": 145.68,
+      "text": "रेवेन्यू यहां से आता था। लेकिन यह बिज़नेस"
+    },
+    {
+      "subtitle_ids": [
+        76
+      ],
+      "start": 143.599,
+      "end": 147.44,
+      "text": "इनका बहुत तेजी से बढ़ रहा है और इसीलिए"
+    },
+    {
+      "subtitle_ids": [
+        77
+      ],
+      "start": 145.68,
+      "end": 149.92,
+      "text": "ओवरऑल एनएसडीएल की अगर आप टॉप लाइन"
+    },
+    {
+      "subtitle_ids": [
+        78
+      ],
+      "start": 147.44,
+      "end": 151.52,
+      "text": "देखेंगे, रेवेन्यू देखेंगे तो वह भी आपको"
+    },
+    {
+      "subtitle_ids": [
+        79
+      ],
+      "start": 149.92,
+      "end": 154.56,
+      "text": "बहुत तेजी से बढ़ती हुई दिखेगी। फॉर"
+    },
+    {
+      "subtitle_ids": [
+        80
+      ],
+      "start": 151.52,
+      "end": 158.16,
+      "text": "एग्जांपल 2020 में जहां इनका रेवेन्यू 326"
+    },
+    {
+      "subtitle_ids": [
+        81
+      ],
+      "start": 154.56,
+      "end": 160.0,
+      "text": "करोड़ का था वो अब 2025 आते-आते 1420"
+    },
+    {
+      "subtitle_ids": [
+        82
+      ],
+      "start": 158.16,
+      "end": 162.16,
+      "text": "करोड़ का हो चुका है। यानी कि पिछले 5 साल"
+    },
+    {
+      "subtitle_ids": [
+        83
+      ],
+      "start": 160.0,
+      "end": 163.84,
+      "text": "में इनका रेवेन्यू कंपाउंडेड सालाना 34%"
+    },
+    {
+      "subtitle_ids": [
+        84
+      ],
+      "start": 162.16,
+      "end": 166.08,
+      "text": "से बढ़ा है। तो यहां पर आप स्क्रीन पर देख"
+    },
+    {
+      "subtitle_ids": [
+        85
+      ],
+      "start": 163.84,
+      "end": 168.0,
+      "text": "सकते हो कि 2022 में इनके एनएसडीएल"
+    },
+    {
+      "subtitle_ids": [
+        86
+      ],
+      "start": 166.08,
+      "end": 171.36,
+      "text": "पेमेंट्स ने 300 करोड़ का रेवेन्यू बनाया"
+    },
+    {
+      "subtitle_ids": [
+        87
+      ],
+      "start": 168.0,
+      "end": 173.04,
+      "text": "था। जो अभी 2025 आते-आते 722 करोड़ पर आ"
+    },
+    {
+      "subtitle_ids": [
+        88
+      ],
+      "start": 171.36,
+      "end": 174.72,
+      "text": "चुकी है। यानी काफी तेजी से यहां पर ग्रोथ"
+    },
+    {
+      "subtitle_ids": [
+        89
+      ],
+      "start": 173.04,
+      "end": 176.64,
+      "text": "हो रही है पेमेंट बैंक्स में। लेकिन यहां"
+    },
+    {
+      "subtitle_ids": [
+        90
+      ],
+      "start": 174.72,
+      "end": 178.48,
+      "text": "अगर आप नेट प्रॉफिट वाले कॉलम को देखेंगे"
+    },
+    {
+      "subtitle_ids": [
+        91
+      ],
+      "start": 176.64,
+      "end": 180.08,
+      "text": "तो कंपनी यहां पर प्रॉफिट कमाने के लिए"
+    },
+    {
+      "subtitle_ids": [
+        92
+      ],
+      "start": 178.48,
+      "end": 181.68,
+      "text": "स्ट्रगल कर रही है। तो एक चीज तो आपको पता"
+    },
+    {
+      "subtitle_ids": [
+        93
+      ],
+      "start": 180.08,
+      "end": 183.44,
+      "text": "चल गई कि ये सेगमेंट बहुत अच्छा परफॉर्म"
+    },
+    {
+      "subtitle_ids": [
+        94
+      ],
+      "start": 181.68,
+      "end": 185.44,
+      "text": "कर रही है। ये तो हो गई इस चीज की पॉजिटिव"
+    },
+    {
+      "subtitle_ids": [
+        95
+      ],
+      "start": 183.44,
+      "end": 187.28,
+      "text": "साइड। असली पिक्चर अभी बाकी है। नेट"
+    },
+    {
+      "subtitle_ids": [
+        96
+      ],
+      "start": 185.44,
+      "end": 189.84,
+      "text": "प्रॉफिट पर अगर हम आते हैं तो आप देख सकते"
+    },
+    {
+      "subtitle_ids": [
+        97
+      ],
+      "start": 187.28,
+      "end": 191.68,
+      "text": "हो कि 2022 में जो 8 करोड़ लॉस में थी,"
+    },
+    {
+      "subtitle_ids": [
+        98
+      ],
+      "start": 189.84,
+      "end": 193.84,
+      "text": "धीरे-धीरे प्रॉफिट में भी आई है। तो 722"
+    },
+    {
+      "subtitle_ids": [
+        99
+      ],
+      "start": 191.68,
+      "end": 196.239,
+      "text": "करोड़ पर इन्हें प्रॉफिट हुआ है मात्र ₹"
+    },
+    {
+      "subtitle_ids": [
+        100
+      ],
+      "start": 193.84,
+      "end": 199.12,
+      "text": "करोड़ का। यानी कि अगर शॉर्ट में बताऊं तो"
+    },
+    {
+      "subtitle_ids": [
+        101
+      ],
+      "start": 196.239,
+      "end": 201.04,
+      "text": "एनएसडीएल को पिछले फाइनेंसियल ईयर में 343"
+    },
+    {
+      "subtitle_ids": [
+        102
+      ],
+      "start": 199.12,
+      "end": 203.2,
+      "text": "करोड़ का प्रॉफिट हुआ है। उसमें से ₹"
+    },
+    {
+      "subtitle_ids": [
+        103
+      ],
+      "start": 201.04,
+      "end": 205.519,
+      "text": "करोड़ का कंट्रीब्यूशन इस पेमेंट बैंक का"
+    },
+    {
+      "subtitle_ids": [
+        104
+      ],
+      "start": 203.2,
+      "end": 207.68,
+      "text": "है। जहां से कंपनी का 51% रेवेन्यू आया"
+    },
+    {
+      "subtitle_ids": [
+        105
+      ],
+      "start": 205.519,
+      "end": 209.84,
+      "text": "है। और जहां से 59% रेवेन्यू आया है बचा"
+    },
+    {
+      "subtitle_ids": [
+        106
+      ],
+      "start": 207.68,
+      "end": 212.0,
+      "text": "हुआ वहां से कंपनी मेन प्रॉफिट बना रही"
+    },
+    {
+      "subtitle_ids": [
+        107
+      ],
+      "start": 209.84,
+      "end": 213.84,
+      "text": "है। यानी उनका डिपॉजिटरी बिज़नेस ऐसा है"
+    },
+    {
+      "subtitle_ids": [
+        108
+      ],
+      "start": 212.0,
+      "end": 216.0,
+      "text": "जहां से वो बहुत अच्छा प्रॉफिट कमा रहे"
+    },
+    {
+      "subtitle_ids": [
+        109
+      ],
+      "start": 213.84,
+      "end": 218.72,
+      "text": "हैं। वीडियो में आगे बढ़ने से पहले आपको"
+    },
+    {
+      "subtitle_ids": [
+        110
+      ],
+      "start": 216.0,
+      "end": 221.2,
+      "text": "एक बात बोलना चाहूंगा कि आप एक चीज मिस कर"
+    },
+    {
+      "subtitle_ids": [
+        111
+      ],
+      "start": 218.72,
+      "end": 223.2,
+      "text": "रहे हो। वो क्या? तो ढेरों सारा कैशबैक"
+    },
+    {
+      "subtitle_ids": [
+        112
+      ],
+      "start": 221.2,
+      "end": 225.28,
+      "text": "पाने का मौका। वाइल डूइंग यूपीआई पेमेंट्स"
+    },
+    {
+      "subtitle_ids": [
+        113
+      ],
+      "start": 223.2,
+      "end": 227.44,
+      "text": "वाया क्रेडिट कार्ड। लेकिन अब नहीं"
+    },
+    {
+      "subtitle_ids": [
+        114
+      ],
+      "start": 225.28,
+      "end": 229.68,
+      "text": "क्योंकि क्रेडिट पे से आपको मिलेगा 2%"
+    },
+    {
+      "subtitle_ids": [
+        115
+      ],
+      "start": 227.44,
+      "end": 231.76,
+      "text": "अनलिमिटेड कैशबैक सारे यूपीआई स्पेंड्स"
+    },
+    {
+      "subtitle_ids": [
+        116
+      ],
+      "start": 229.68,
+      "end": 233.599,
+      "text": "पर। यूपीआई लिंकिंग के बाद रूप क्रेडिट"
+    },
+    {
+      "subtitle_ids": [
+        117
+      ],
+      "start": 231.76,
+      "end": 235.519,
+      "text": "कार्ड की जो डिमांड है वो एकदम पीक पर चल"
+    },
+    {
+      "subtitle_ids": [
+        118
+      ],
+      "start": 233.599,
+      "end": 237.04,
+      "text": "रही है। इसी के चलते रूप क्रेडिट कार्ड का"
+    },
+    {
+      "subtitle_ids": [
+        119
+      ],
+      "start": 235.519,
+      "end": 240.08,
+      "text": "जो मार्केट शेयर है वो पिछले 2 साल में।"
+    },
+    {
+      "subtitle_ids": [
+        120
+      ],
+      "start": 237.04,
+      "end": 241.76,
+      "text": "3% से 24% हुआ है यानी आठ गुना बढ़ा है।"
+    },
+    {
+      "subtitle_ids": [
+        121
+      ],
+      "start": 240.08,
+      "end": 243.84,
+      "text": "तो क्रेडिट पे ने यहां पर लांच किया है एक"
+    },
+    {
+      "subtitle_ids": [
+        122
+      ],
+      "start": 241.76,
+      "end": 246.239,
+      "text": "सिंपल नो नॉनसेंस यूपीआई क्रेडिट कार्ड जो"
+    },
+    {
+      "subtitle_ids": [
+        123
+      ],
+      "start": 243.84,
+      "end": 248.4,
+      "text": "लाइफटाइम फ्री है और 2% का अनलिमिटेड"
+    },
+    {
+      "subtitle_ids": [
+        124
+      ],
+      "start": 246.239,
+      "end": 250.64,
+      "text": "कैशबैक आपको देती है यूपीआई स्पेंड पर। और"
+    },
+    {
+      "subtitle_ids": [
+        125
+      ],
+      "start": 248.4,
+      "end": 252.239,
+      "text": "हां यह Yes Bank रुप क्रेडिट कार्ड लाइफट"
+    },
+    {
+      "subtitle_ids": [
+        126
+      ],
+      "start": 250.64,
+      "end": 254.48,
+      "text": "के लिए आपको फ्री है। यहां पर ना कोई"
+    },
+    {
+      "subtitle_ids": [
+        127
+      ],
+      "start": 252.239,
+      "end": 256.72,
+      "text": "जॉइनिंग फी है ना ही कोई एनुअल फी। फी तो"
+    },
+    {
+      "subtitle_ids": [
+        128
+      ],
+      "start": 254.48,
+      "end": 259.199,
+      "text": "कुछ नहीं है। ऊपर से आपको मिलता है ₹1000"
+    },
+    {
+      "subtitle_ids": [
+        129
+      ],
+      "start": 256.72,
+      "end": 260.88,
+      "text": "का कैशबैक एज अ जॉइनिंग बोनस ऑन लिंकिंग द"
+    },
+    {
+      "subtitle_ids": [
+        130
+      ],
+      "start": 259.199,
+      "end": 262.72,
+      "text": "कार्ड टू क्रेडिट पे यूपीआई। और इस"
+    },
+    {
+      "subtitle_ids": [
+        131
+      ],
+      "start": 260.88,
+      "end": 264.479,
+      "text": "क्रेडिट कार्ड में आपको 50 डेज इंटरेस्ट"
+    },
+    {
+      "subtitle_ids": [
+        132
+      ],
+      "start": 262.72,
+      "end": 266.4,
+      "text": "फ्री पीरियड भी मिलता है। इस कार्ड पर जो"
+    },
+    {
+      "subtitle_ids": [
+        133
+      ],
+      "start": 264.479,
+      "end": 268.32,
+      "text": "रिवॉर्ड्स है वो डबल है। क्रेडिट पे की"
+    },
+    {
+      "subtitle_ids": [
+        134
+      ],
+      "start": 266.4,
+      "end": 269.68,
+      "text": "तरफ से आपको यूपीआई कैशबैक मिलता है और"
+    },
+    {
+      "subtitle_ids": [
+        135
+      ],
+      "start": 268.32,
+      "end": 271.84,
+      "text": "Yes Bank की तरफ से आपको मिलते हैं"
+    },
+    {
+      "subtitle_ids": [
+        136
+      ],
+      "start": 269.68,
+      "end": 274.479,
+      "text": "रिवॉर्ड पॉइंट्स जब आप बाकी कैटेगरीज में"
+    },
+    {
+      "subtitle_ids": [
+        137
+      ],
+      "start": 271.84,
+      "end": 276.479,
+      "text": "स्पेंड करते हो। इसी के साथ आपको 1% फ्यूल"
+    },
+    {
+      "subtitle_ids": [
+        138
+      ],
+      "start": 274.479,
+      "end": 278.0,
+      "text": "सरचार्ज व्यूअर भी मिलेगा। और जैसे कि आप"
+    },
+    {
+      "subtitle_ids": [
+        139
+      ],
+      "start": 276.479,
+      "end": 279.84,
+      "text": "स्क्रीन पर देख रहे हो क्रेडिट पे से"
+    },
+    {
+      "subtitle_ids": [
+        140
+      ],
+      "start": 278.0,
+      "end": 282.16,
+      "text": "मिलने वाले कैशबैक को यूज करके आप ढेरों"
+    },
+    {
+      "subtitle_ids": [
+        141
+      ],
+      "start": 279.84,
+      "end": 284.08,
+      "text": "सारी शॉपिंग, oटीt और बाकी एप्स पर"
+    },
+    {
+      "subtitle_ids": [
+        142
+      ],
+      "start": 282.16,
+      "end": 286.32,
+      "text": "डिस्काउंट के लिए भी उसे यूज कर सकते हो।"
+    },
+    {
+      "subtitle_ids": [
+        143
+      ],
+      "start": 284.08,
+      "end": 288.479,
+      "text": "जैसे Amazon और बाकी ऐप पर 6% तक का"
+    },
+    {
+      "subtitle_ids": [
+        144
+      ],
+      "start": 286.32,
+      "end": 291.36,
+      "text": "डिस्काउंट ले सकते हो। यूजिंग योर कैशबैक"
+    },
+    {
+      "subtitle_ids": [
+        145
+      ],
+      "start": 288.479,
+      "end": 295.12,
+      "text": "MNTRa D्नी Hotstar पर 12% Dominos पर"
+    },
+    {
+      "subtitle_ids": [
+        146
+      ],
+      "start": 291.36,
+      "end": 296.88,
+      "text": "24%, Sony LV पर 60% और Swiggy 1 पर 100%"
+    },
+    {
+      "subtitle_ids": [
+        147
+      ],
+      "start": 295.12,
+      "end": 298.479,
+      "text": "तक का डिस्काउंट आप यहां पर ले सकते हो।"
+    },
+    {
+      "subtitle_ids": [
+        148
+      ],
+      "start": 296.88,
+      "end": 300.72,
+      "text": "और यही नहीं आने वाले टाइम में आप इनके"
+    },
+    {
+      "subtitle_ids": [
+        149
+      ],
+      "start": 298.479,
+      "end": 302.4,
+      "text": "कैशबैक्स अपनी यूटिलिटी बिल्स और बाकी कई"
+    },
+    {
+      "subtitle_ids": [
+        150
+      ],
+      "start": 300.72,
+      "end": 304.08,
+      "text": "सारी चीजों के लिए यूज कर सकते हो। तो"
+    },
+    {
+      "subtitle_ids": [
+        151
+      ],
+      "start": 302.4,
+      "end": 306.08,
+      "text": "इंतजार किस चीज का? अभी डिस्क्रिप्शन और"
+    },
+    {
+      "subtitle_ids": [
+        152
+      ],
+      "start": 304.08,
+      "end": 308.0,
+      "text": "कमेंट में दिए लिंक पर क्लिक करके क्रेडिट"
+    },
+    {
+      "subtitle_ids": [
+        153
+      ],
+      "start": 306.08,
+      "end": 309.84,
+      "text": "पे का ऐप डाउनलोड कीजिए और यूपीआई क्रेडिट"
+    },
+    {
+      "subtitle_ids": [
+        154
+      ],
+      "start": 308.0,
+      "end": 311.759,
+      "text": "कार्ड के लिए अप्लाई कीजिए। तो चलिए अब"
+    },
+    {
+      "subtitle_ids": [
+        155
+      ],
+      "start": 309.84,
+      "end": 313.68,
+      "text": "आगे बढ़ते हैं। अगर इनके डिपॉजिटरी"
+    },
+    {
+      "subtitle_ids": [
+        156
+      ],
+      "start": 311.759,
+      "end": 317.6,
+      "text": "बिज़नेस को देखा जाए तो यह नंबर्स आप देख"
+    },
+    {
+      "subtitle_ids": [
+        157
+      ],
+      "start": 313.68,
+      "end": 319.759,
+      "text": "लीजिए 202 में एनएसएल के पास 2.15 करोड़"
+    },
+    {
+      "subtitle_ids": [
+        158
+      ],
+      "start": 317.6,
+      "end": 322.88,
+      "text": "डीमेट अकाउंट्स थे। जो अगले साल 25% से"
+    },
+    {
+      "subtitle_ids": [
+        159
+      ],
+      "start": 319.759,
+      "end": 325.039,
+      "text": "बढ़कर 2.76 करोड़ हुए। और फिर इस तरह से"
+    },
+    {
+      "subtitle_ids": [
+        160
+      ],
+      "start": 322.88,
+      "end": 327.84,
+      "text": "2025 आते-आते इनके जो टोटल डीमेट अकाउंट्स"
+    },
+    {
+      "subtitle_ids": [
+        161
+      ],
+      "start": 325.039,
+      "end": 329.52,
+      "text": "हैं वो पहुंच गए हैं 4.05 करोड़ पर। यानी"
+    },
+    {
+      "subtitle_ids": [
+        162
+      ],
+      "start": 327.84,
+      "end": 332.08,
+      "text": "कि NSDL की जो डीमेट अकाउंट ग्रोथ है"
+    },
+    {
+      "subtitle_ids": [
+        163
+      ],
+      "start": 329.52,
+      "end": 333.84,
+      "text": "पिछले 5 सालों की वह कंपाउंडेड सालाना 17%"
+    },
+    {
+      "subtitle_ids": [
+        164
+      ],
+      "start": 332.08,
+      "end": 336.08,
+      "text": "की है जो कि काफी अच्छी भी है। लेकिन अगर"
+    },
+    {
+      "subtitle_ids": [
+        165
+      ],
+      "start": 333.84,
+      "end": 338.96,
+      "text": "आप यह ग्राफ देखेंगे CDSL वर्सेस एनएसडीएल"
+    },
+    {
+      "subtitle_ids": [
+        166
+      ],
+      "start": 336.08,
+      "end": 341.919,
+      "text": "की डीमेट अकाउंट ग्रोथ का तो शायद आप चौंक"
+    },
+    {
+      "subtitle_ids": [
+        167
+      ],
+      "start": 338.96,
+      "end": 344.56,
+      "text": "जाएंगे। क्योंकि देखिए 2011-12 का पीरियड"
+    },
+    {
+      "subtitle_ids": [
+        168
+      ],
+      "start": 341.919,
+      "end": 346.08,
+      "text": "अगर आप देखें इनफैक्ट 2016 तक सबसे ज्यादा"
+    },
+    {
+      "subtitle_ids": [
+        169
+      ],
+      "start": 344.56,
+      "end": 348.72,
+      "text": "मार्केट शेयर डिपॉज़िटरी सेगमेंट में"
+    },
+    {
+      "subtitle_ids": [
+        170
+      ],
+      "start": 346.08,
+      "end": 351.28,
+      "text": "एनएसएल के पास था। लेकिन 2016 के बाद"
+    },
+    {
+      "subtitle_ids": [
+        171
+      ],
+      "start": 348.72,
+      "end": 353.36,
+      "text": "धीरे-धीरे पूरा गेम सीडीएसएल के फेवर में"
+    },
+    {
+      "subtitle_ids": [
+        172
+      ],
+      "start": 351.28,
+      "end": 355.039,
+      "text": "चला गया और आज सीडीएसएल डिपॉज़िटरी गेम में"
+    },
+    {
+      "subtitle_ids": [
+        173
+      ],
+      "start": 353.36,
+      "end": 357.52,
+      "text": "मार्केट लीडर है। इन शॉर्ट अगर मैं आपको"
+    },
+    {
+      "subtitle_ids": [
+        174
+      ],
+      "start": 355.039,
+      "end": 359.759,
+      "text": "बता दूं कि 2011 में सीडीएसएल का जो"
+    },
+    {
+      "subtitle_ids": [
+        175
+      ],
+      "start": 357.52,
+      "end": 362.4,
+      "text": "मार्केट शेयर था डिपॉज़िटरी में वो 40% था"
+    },
+    {
+      "subtitle_ids": [
+        176
+      ],
+      "start": 359.759,
+      "end": 364.319,
+      "text": "और आज वो चला गया है क्लोज टू 80%। वहीं"
+    },
+    {
+      "subtitle_ids": [
+        177
+      ],
+      "start": 362.4,
+      "end": 367.28,
+      "text": "उस टाइम एनएसएल का जो मार्केट शेयर था वो"
+    },
+    {
+      "subtitle_ids": [
+        178
+      ],
+      "start": 364.319,
+      "end": 368.88,
+      "text": "60% था जो अब गिर कर लगभग 20% के करीब आ"
+    },
+    {
+      "subtitle_ids": [
+        179
+      ],
+      "start": 367.28,
+      "end": 370.479,
+      "text": "चुका है। अगर आप इस ग्राफ को देखेंगे और"
+    },
+    {
+      "subtitle_ids": [
+        180
+      ],
+      "start": 368.88,
+      "end": 372.319,
+      "text": "अपने आप से पूछेंगे कि ऐसा क्या हुआ कि"
+    },
+    {
+      "subtitle_ids": [
+        181
+      ],
+      "start": 370.479,
+      "end": 374.4,
+      "text": "CDSL ग्रो हुई और एनएसएल नहीं या फिर"
+    },
+    {
+      "subtitle_ids": [
+        182
+      ],
+      "start": 372.319,
+      "end": 376.8,
+      "text": "एनएसएल की ग्रोथ CDSL कैसे खा गया? तो"
+    },
+    {
+      "subtitle_ids": [
+        183
+      ],
+      "start": 374.4,
+      "end": 378.72,
+      "text": "उसका मेन कारण है कि 2017 के अराउंड"
+    },
+    {
+      "subtitle_ids": [
+        184
+      ],
+      "start": 376.8,
+      "end": 380.56,
+      "text": "ईकेवाईसी स्टार्ट हुई। ईकेवाईसी के"
+    },
+    {
+      "subtitle_ids": [
+        185
+      ],
+      "start": 378.72,
+      "end": 382.24,
+      "text": "साथ-साथ जो डिस्काउंट ब्रोकर थे जो आपको"
+    },
+    {
+      "subtitle_ids": [
+        186
+      ],
+      "start": 380.56,
+      "end": 384.08,
+      "text": "ऑनलाइन सर्विज प्रोवाइड करते हैं थोड़ी"
+    },
+    {
+      "subtitle_ids": [
+        187
+      ],
+      "start": 382.24,
+      "end": 385.52,
+      "text": "डिस्काउंटेड चार्जेस पर उनका जो फ्लो है"
+    },
+    {
+      "subtitle_ids": [
+        188
+      ],
+      "start": 384.08,
+      "end": 387.12,
+      "text": "मार्केट में वो बढ़ने लगा और जो फुल"
+    },
+    {
+      "subtitle_ids": [
+        189
+      ],
+      "start": 385.52,
+      "end": 389.12,
+      "text": "सर्विस ब्रोकर्स हैं ICICI सिक्योरिटीज,"
+    },
+    {
+      "subtitle_ids": [
+        190
+      ],
+      "start": 387.12,
+      "end": 391.039,
+      "text": "HDFC सिक्योरिटीज और मोतीलाल ओसवाल जैसे"
+    },
+    {
+      "subtitle_ids": [
+        191
+      ],
+      "start": 389.12,
+      "end": 392.56,
+      "text": "इनका जो फ्लो है वो थोड़ा कम हो गया। धीमा"
+    },
+    {
+      "subtitle_ids": [
+        192
+      ],
+      "start": 391.039,
+      "end": 394.56,
+      "text": "हो गया। इस चीज से आपको आईडिया आ जाएगी।"
+    },
+    {
+      "subtitle_ids": [
+        193
+      ],
+      "start": 392.56,
+      "end": 396.72,
+      "text": "CDSL के पास अगर देखा जाए तो आज के जो"
+    },
+    {
+      "subtitle_ids": [
+        194
+      ],
+      "start": 394.56,
+      "end": 398.88,
+      "text": "लीडिंग ब्रोकर्स हैं Zerodha Go Annjal वन"
+    },
+    {
+      "subtitle_ids": [
+        195
+      ],
+      "start": 396.72,
+      "end": 401.039,
+      "text": "ये तीनों भी CDSL के पास है। USTOK जो है"
+    },
+    {
+      "subtitle_ids": [
+        196
+      ],
+      "start": 398.88,
+      "end": 402.8,
+      "text": "वो दोनों जगह पे है। CDSL और NSL दोनों"
+    },
+    {
+      "subtitle_ids": [
+        197
+      ],
+      "start": 401.039,
+      "end": 404.88,
+      "text": "जगह पर है। आज अगर आप देखेंगे तो टॉप के"
+    },
+    {
+      "subtitle_ids": [
+        198
+      ],
+      "start": 402.8,
+      "end": 407.12,
+      "text": "थ्री प्लेयर्स हैं। नए डीमेट अकाउंट्स में"
+    },
+    {
+      "subtitle_ids": [
+        199
+      ],
+      "start": 404.88,
+      "end": 409.52,
+      "text": "क्लोज टू 50% ग्रोथ यहीं से आ रही है। इसी"
+    },
+    {
+      "subtitle_ids": [
+        200
+      ],
+      "start": 407.12,
+      "end": 411.84,
+      "text": "के चलते अगर हम फाइनेंसियल 2024 का डाटा"
+    },
+    {
+      "subtitle_ids": [
+        201
+      ],
+      "start": 409.52,
+      "end": 415.199,
+      "text": "देखें तो 2024 में कितने डीमेट अकाउंट ओपन"
+    },
+    {
+      "subtitle_ids": [
+        202
+      ],
+      "start": 411.84,
+      "end": 417.199,
+      "text": "हुए थे? 3.26 करोड़ और उसमें से 88% डीमेट"
+    },
+    {
+      "subtitle_ids": [
+        203
+      ],
+      "start": 415.199,
+      "end": 418.8,
+      "text": "अकाउंट सीडीएसएल के साथ खुल गए। और वहीं"
+    },
+    {
+      "subtitle_ids": [
+        204
+      ],
+      "start": 417.199,
+      "end": 420.479,
+      "text": "अगर हम एनएसएल के साथ जो ब्रोकर्स हैं"
+    },
+    {
+      "subtitle_ids": [
+        205
+      ],
+      "start": 418.8,
+      "end": 421.919,
+      "text": "उनकी बात करें तो उनके पास ज्यादातर फुल"
+    },
+    {
+      "subtitle_ids": [
+        206
+      ],
+      "start": 420.479,
+      "end": 423.84,
+      "text": "सर्विस ब्रोकर्स हैं। ठीक है? ICI"
+    },
+    {
+      "subtitle_ids": [
+        207
+      ],
+      "start": 421.919,
+      "end": 425.52,
+      "text": "सिक्योरिटीज मोतीलाल ओसवाल एंड ऑल। अब ये"
+    },
+    {
+      "subtitle_ids": [
+        208
+      ],
+      "start": 423.84,
+      "end": 427.599,
+      "text": "जो प्लेयर्स हैं ये फुल सर्विस ब्रोकर्स"
+    },
+    {
+      "subtitle_ids": [
+        209
+      ],
+      "start": 425.52,
+      "end": 429.919,
+      "text": "हैं। इनकी जो स्पीड है, रफ्तार है वो उस"
+    },
+    {
+      "subtitle_ids": [
+        210
+      ],
+      "start": 427.599,
+      "end": 431.68,
+      "text": "तरह से नहीं रही जितनी डिस्काउंट ब्रोकर"
+    },
+    {
+      "subtitle_ids": [
+        211
+      ],
+      "start": 429.919,
+      "end": 433.68,
+      "text": "की रही है। और इसी के चलते हमें पता चला"
+    },
+    {
+      "subtitle_ids": [
+        212
+      ],
+      "start": 431.68,
+      "end": 435.44,
+      "text": "कि सीडीएल की ग्रोथ हुई है। हालांकि इनका"
+    },
+    {
+      "subtitle_ids": [
+        213
+      ],
+      "start": 433.68,
+      "end": 437.919,
+      "text": "मार्केट शेयर कम हुआ है। लेकिन फिर भी अगर"
+    },
+    {
+      "subtitle_ids": [
+        214
+      ],
+      "start": 435.44,
+      "end": 440.08,
+      "text": "आप देखेंगे तो एक पॉजिटिव चीज है अभी भी"
+    },
+    {
+      "subtitle_ids": [
+        215
+      ],
+      "start": 437.919,
+      "end": 442.319,
+      "text": "कि इतना सब होने के बावजूद भी कंपनी का जो"
+    },
+    {
+      "subtitle_ids": [
+        216
+      ],
+      "start": 440.08,
+      "end": 445.199,
+      "text": "प्रॉफिट है वो बढ़ा है। इट वाज़ 125 करोड़"
+    },
+    {
+      "subtitle_ids": [
+        217
+      ],
+      "start": 442.319,
+      "end": 446.96,
+      "text": "इन 2020। वहां से बढ़कर यह अभी 343 करोड़"
+    },
+    {
+      "subtitle_ids": [
+        218
+      ],
+      "start": 445.199,
+      "end": 448.639,
+      "text": "पर आया है। अब आप सोचेंगे कि इसका मार्केट"
+    },
+    {
+      "subtitle_ids": [
+        219
+      ],
+      "start": 446.96,
+      "end": 450.56,
+      "text": "शेयर तो कम हुआ। फिर प्रॉफिट तो कम होना"
+    },
+    {
+      "subtitle_ids": [
+        220
+      ],
+      "start": 448.639,
+      "end": 452.24,
+      "text": "चाहिए। लेकिन आपको बता दूं कि डीममेट"
+    },
+    {
+      "subtitle_ids": [
+        221
+      ],
+      "start": 450.56,
+      "end": 453.68,
+      "text": "अकाउंट की ग्रोथ ही इतनी तेजी से बढ़ रही"
+    },
+    {
+      "subtitle_ids": [
+        222
+      ],
+      "start": 452.24,
+      "end": 456.16,
+      "text": "थी कि इतना सब कुछ होने के बाद मार्केट"
+    },
+    {
+      "subtitle_ids": [
+        223
+      ],
+      "start": 453.68,
+      "end": 458.08,
+      "text": "शेयर गवाने के बावजूद भी 17% कंपाउंडेड"
+    },
+    {
+      "subtitle_ids": [
+        224
+      ],
+      "start": 456.16,
+      "end": 459.599,
+      "text": "सालाना ग्रोथ से एनएसडीएल के पास डीमेट"
+    },
+    {
+      "subtitle_ids": [
+        225
+      ],
+      "start": 458.08,
+      "end": 461.759,
+      "text": "अकाउंट खुले हैं और इसी का फायदा यह हुआ"
+    },
+    {
+      "subtitle_ids": [
+        226
+      ],
+      "start": 459.599,
+      "end": 463.599,
+      "text": "है कि अराउंड 20% की ग्रोथ कंपनी ने पिछले"
+    },
+    {
+      "subtitle_ids": [
+        227
+      ],
+      "start": 461.759,
+      "end": 464.96,
+      "text": "चारप सालों में दिखाई है बोथ रेवेन्यू और"
+    },
+    {
+      "subtitle_ids": [
+        228
+      ],
+      "start": 463.599,
+      "end": 466.56,
+      "text": "प्रॉफिट सेगमेंट में। अब बात करते हैं"
+    },
+    {
+      "subtitle_ids": [
+        229
+      ],
+      "start": 464.96,
+      "end": 468.16,
+      "text": "वैल्यू्यूएशन की। शॉर्ट टर्म और लॉन्ग"
+    },
+    {
+      "subtitle_ids": [
+        230
+      ],
+      "start": 466.56,
+      "end": 469.68,
+      "text": "टर्म दोनों की हम बात करेंगे। शुरुआत करते"
+    },
+    {
+      "subtitle_ids": [
+        231
+      ],
+      "start": 468.16,
+      "end": 471.36,
+      "text": "हैं लॉन्ग टर्म से। लॉन्ग टर्म की बात"
+    },
+    {
+      "subtitle_ids": [
+        232
+      ],
+      "start": 469.68,
+      "end": 473.68,
+      "text": "करें तो कंपनी का मार्केट कैपिटलाइजेशन"
+    },
+    {
+      "subtitle_ids": [
+        233
+      ],
+      "start": 471.36,
+      "end": 475.199,
+      "text": "निकल कर आ रहा है लगभग ₹16,000 करोड़। जिस"
+    },
+    {
+      "subtitle_ids": [
+        234
+      ],
+      "start": 473.68,
+      "end": 477.52,
+      "text": "हिसाब से कंपनी का जो प्राइस टू अर्निंग"
+    },
+    {
+      "subtitle_ids": [
+        235
+      ],
+      "start": 475.199,
+      "end": 479.44,
+      "text": "रेशियो है वो है 46 का। 46 का प्राइस टू"
+    },
+    {
+      "subtitle_ids": [
+        236
+      ],
+      "start": 477.52,
+      "end": 481.28,
+      "text": "अर्निंग रेशियो अगर कंपनी को जस्टिफाई"
+    },
+    {
+      "subtitle_ids": [
+        237
+      ],
+      "start": 479.44,
+      "end": 482.96,
+      "text": "करना है तो मुझे लगता है इनको अपने एनएसएल"
+    },
+    {
+      "subtitle_ids": [
+        238
+      ],
+      "start": 481.28,
+      "end": 484.72,
+      "text": "पेमेंट बैंक के बिज़नेस में बहुत कुछ करने"
+    },
+    {
+      "subtitle_ids": [
+        239
+      ],
+      "start": 482.96,
+      "end": 486.96,
+      "text": "की जरूरत है क्योंकि इस तरह से अगर"
+    },
+    {
+      "subtitle_ids": [
+        240
+      ],
+      "start": 484.72,
+      "end": 488.56,
+      "text": "प्रॉफिट दबा रहेगा तो इस वैल्यू्यूएशन को"
+    },
+    {
+      "subtitle_ids": [
+        241
+      ],
+      "start": 486.96,
+      "end": 490.24,
+      "text": "जस्टिफाई करना डिफिकल्ट है क्योंकि अभी"
+    },
+    {
+      "subtitle_ids": [
+        242
+      ],
+      "start": 488.56,
+      "end": 491.84,
+      "text": "क्या हुआ है कि डीमेट अकाउंट की जो ओवरऑल"
+    },
+    {
+      "subtitle_ids": [
+        243
+      ],
+      "start": 490.24,
+      "end": 493.36,
+      "text": "ग्रोथ है वो कम हुई है। अब तक तो सारी"
+    },
+    {
+      "subtitle_ids": [
+        244
+      ],
+      "start": 491.84,
+      "end": 495.36,
+      "text": "चीजें सही थी लेकिन यहां से एक ओवरऑल"
+    },
+    {
+      "subtitle_ids": [
+        245
+      ],
+      "start": 493.36,
+      "end": 497.36,
+      "text": "डीमेट अकाउंट ग्रोथ काफी धीमी हुई है और"
+    },
+    {
+      "subtitle_ids": [
+        246
+      ],
+      "start": 495.36,
+      "end": 499.199,
+      "text": "इस चीज को आप कंपनी के पिछले एक साल की जो"
+    },
+    {
+      "subtitle_ids": [
+        247
+      ],
+      "start": 497.36,
+      "end": 501.12,
+      "text": "ग्रोथ है रेवेन्यू ग्रोथ उसके हिसाब से"
+    },
+    {
+      "subtitle_ids": [
+        248
+      ],
+      "start": 499.199,
+      "end": 502.72,
+      "text": "समझ भी सकते हैं। जहां पर पिछले 5 सालों"
+    },
+    {
+      "subtitle_ids": [
+        249
+      ],
+      "start": 501.12,
+      "end": 505.36,
+      "text": "में कंपनी की रेवेन्यू ग्रोथ कंपाउंडेड"
+    },
+    {
+      "subtitle_ids": [
+        250
+      ],
+      "start": 502.72,
+      "end": 507.52,
+      "text": "सालाना 34% की रही है। वहीं पर पिछले एक"
+    },
+    {
+      "subtitle_ids": [
+        251
+      ],
+      "start": 505.36,
+      "end": 509.199,
+      "text": "साल की ग्रोथ देखें तो मात्र 12% की रही"
+    },
+    {
+      "subtitle_ids": [
+        252
+      ],
+      "start": 507.52,
+      "end": 511.84,
+      "text": "है क्योंकि ओवरऑल डीमेट अकाउंट ग्रोथ में"
+    },
+    {
+      "subtitle_ids": [
+        253
+      ],
+      "start": 509.199,
+      "end": 513.839,
+      "text": "काफी धीमापन एक आ गया है। नंबर वन नंबर टू"
+    },
+    {
+      "subtitle_ids": [
+        254
+      ],
+      "start": 511.84,
+      "end": 515.919,
+      "text": "अब धीमापन आ गया है उसमें भी ज्यादातर"
+    },
+    {
+      "subtitle_ids": [
+        255
+      ],
+      "start": 513.839,
+      "end": 517.76,
+      "text": "ब्रोकर्स सीडीएसएल के पास है तो यह धीमापन"
+    },
+    {
+      "subtitle_ids": [
+        256
+      ],
+      "start": 515.919,
+      "end": 519.519,
+      "text": "आने वाले टाइम में भी जारी रहेगा। यहां पर"
+    },
+    {
+      "subtitle_ids": [
+        257
+      ],
+      "start": 517.76,
+      "end": 521.519,
+      "text": "एक ही चीज कंपनी यहां पर कर सकती है कि जो"
+    },
+    {
+      "subtitle_ids": [
+        258
+      ],
+      "start": 519.519,
+      "end": 523.76,
+      "text": "बड़े-बड़े ब्रोकर्स हैं उनको अपनी तरफ"
+    },
+    {
+      "subtitle_ids": [
+        259
+      ],
+      "start": 521.519,
+      "end": 525.44,
+      "text": "लाना या फिर कुछ तो भी और सशन ढूंढना। अब"
+    },
+    {
+      "subtitle_ids": [
+        260
+      ],
+      "start": 523.76,
+      "end": 527.12,
+      "text": "ये हो गया एक हिस्सा पार्ट का। सेकंड"
+    },
+    {
+      "subtitle_ids": [
+        261
+      ],
+      "start": 525.44,
+      "end": 529.68,
+      "text": "हिस्सा यह है कि इनका जो पेमेंट बिज़नेस"
+    },
+    {
+      "subtitle_ids": [
+        262
+      ],
+      "start": 527.12,
+      "end": 531.6,
+      "text": "है जहां से इनका 51% रेवेन्यू आ रहा है उस"
+    },
+    {
+      "subtitle_ids": [
+        263
+      ],
+      "start": 529.68,
+      "end": 533.279,
+      "text": "बिजनेस को देखा जाए। हम इसे बाकी प्लेयर्स"
+    },
+    {
+      "subtitle_ids": [
+        264
+      ],
+      "start": 531.6,
+      "end": 535.279,
+      "text": "से कंपेयर करके देखते हैं। तो यहां पर"
+    },
+    {
+      "subtitle_ids": [
+        265
+      ],
+      "start": 533.279,
+      "end": 537.12,
+      "text": "Airtel पेमेंट्स, Fino payments, India"
+    },
+    {
+      "subtitle_ids": [
+        266
+      ],
+      "start": 535.279,
+      "end": 538.959,
+      "text": "पोस्ट पेमेंट्स यह कुछ बड़े प्लेयर्स हैं।"
+    },
+    {
+      "subtitle_ids": [
+        267
+      ],
+      "start": 537.12,
+      "end": 541.279,
+      "text": "और इसमें प्रॉफिट के हिसाब से सबसे बड़ा"
+    },
+    {
+      "subtitle_ids": [
+        268
+      ],
+      "start": 538.959,
+      "end": 543.279,
+      "text": "जो प्लेयर है उसे देखकर आपको मजा आ जाएगा"
+    },
+    {
+      "subtitle_ids": [
+        269
+      ],
+      "start": 541.279,
+      "end": 545.2,
+      "text": "वो है फिलहाल इंडिया पोस्ट पेमेंट्स।"
+    },
+    {
+      "subtitle_ids": [
+        270
+      ],
+      "start": 543.279,
+      "end": 547.04,
+      "text": "इंडिया पोस्ट पेमेंट्स 134 करोड़ का"
+    },
+    {
+      "subtitle_ids": [
+        271
+      ],
+      "start": 545.2,
+      "end": 548.399,
+      "text": "प्रॉफिट है इसका। बहुत तेजी से प्रॉफिट भी"
+    },
+    {
+      "subtitle_ids": [
+        272
+      ],
+      "start": 547.04,
+      "end": 549.76,
+      "text": "उसका बढ़ रहा है। बहुत तेजी से रेवेन्यू"
+    },
+    {
+      "subtitle_ids": [
+        273
+      ],
+      "start": 548.399,
+      "end": 551.36,
+      "text": "भी बढ़ रहा है। तो कुछ इस तरह की"
+    },
+    {
+      "subtitle_ids": [
+        274
+      ],
+      "start": 549.76,
+      "end": 553.2,
+      "text": "परफॉर्मेंस एनएसडीएल पेमेंट्स को करनी"
+    },
+    {
+      "subtitle_ids": [
+        275
+      ],
+      "start": 551.36,
+      "end": 554.959,
+      "text": "पड़ेगी। Fino pmेंटs भी आप देख सकते हो।"
+    },
+    {
+      "subtitle_ids": [
+        276
+      ],
+      "start": 553.2,
+      "end": 556.8,
+      "text": "उसकी भी परफॉर्मेंस काफी तेजी से बढ़ रही"
+    },
+    {
+      "subtitle_ids": [
+        277
+      ],
+      "start": 554.959,
+      "end": 558.399,
+      "text": "है। तो यह एक चीज है कि यहां पर इनको जल्द"
+    },
+    {
+      "subtitle_ids": [
+        278
+      ],
+      "start": 556.8,
+      "end": 560.24,
+      "text": "से जल्द प्रॉफिटेबिलिटी लाने की जरूरत है।"
+    },
+    {
+      "subtitle_ids": [
+        279
+      ],
+      "start": 558.399,
+      "end": 562.16,
+      "text": "जो डीमेट वाला गेम है उसका पिछले 5 साल"
+    },
+    {
+      "subtitle_ids": [
+        280
+      ],
+      "start": 560.24,
+      "end": 563.839,
+      "text": "में तो ग्रोथ दिखी लेकिन वैसे ग्रोथ मुझे"
+    },
+    {
+      "subtitle_ids": [
+        281
+      ],
+      "start": 562.16,
+      "end": 565.92,
+      "text": "नहीं लगता अगले 5 साल में दिखेगी। अनलेस"
+    },
+    {
+      "subtitle_ids": [
+        282
+      ],
+      "start": 563.839,
+      "end": 568.32,
+      "text": "एंड अंटिल कोई बड़ा ब्रोकर एनएसएल के पास"
+    },
+    {
+      "subtitle_ids": [
+        283
+      ],
+      "start": 565.92,
+      "end": 570.16,
+      "text": "आता है। जो सिंपल ऑप्शन है उसके पास वो"
+    },
+    {
+      "subtitle_ids": [
+        284
+      ],
+      "start": 568.32,
+      "end": 572.0,
+      "text": "यही है कि पेमेंट्स बैंक बिनेस से बहुत"
+    },
+    {
+      "subtitle_ids": [
+        285
+      ],
+      "start": 570.16,
+      "end": 573.279,
+      "text": "अच्छी ग्रोथ लाना और वहां से बहुत अच्छा"
+    },
+    {
+      "subtitle_ids": [
+        286
+      ],
+      "start": 572.0,
+      "end": 575.36,
+      "text": "प्रॉफिट लाना। लेकिन वहां पर भी एक"
+    },
+    {
+      "subtitle_ids": [
+        287
+      ],
+      "start": 573.279,
+      "end": 577.36,
+      "text": "प्रॉब्लम यह है कि पेमेंट बैंक्स उनका जो"
+    },
+    {
+      "subtitle_ids": [
+        288
+      ],
+      "start": 575.36,
+      "end": 579.92,
+      "text": "बिजनेस है वो भी पिछले एक साल में धीमा हो"
+    },
+    {
+      "subtitle_ids": [
+        289
+      ],
+      "start": 577.36,
+      "end": 581.68,
+      "text": "गया है। 2024 में जहां 720 करोड़ का उनका"
+    },
+    {
+      "subtitle_ids": [
+        290
+      ],
+      "start": 579.92,
+      "end": 583.76,
+      "text": "रेवेन्यू था वो सिर्फ 2 करोड़ से बढ़ा है।"
+    },
+    {
+      "subtitle_ids": [
+        291
+      ],
+      "start": 581.68,
+      "end": 586.0,
+      "text": "अगले साल दोनों जगह पर ग्रोथ का एक बहुत"
+    },
+    {
+      "subtitle_ids": [
+        292
+      ],
+      "start": 583.76,
+      "end": 587.6,
+      "text": "बड़ा चैलेंज एनएसएल के पास है। वहीं पर"
+    },
+    {
+      "subtitle_ids": [
+        293
+      ],
+      "start": 586.0,
+      "end": 589.279,
+      "text": "अगर मैं शॉर्ट टर्म की बात करूं तो फिलहाल"
+    },
+    {
+      "subtitle_ids": [
+        294
+      ],
+      "start": 587.6,
+      "end": 591.68,
+      "text": "कंपनी का जो ग्रे मार्केट प्रीमियम है"
+    },
+    {
+      "subtitle_ids": [
+        295
+      ],
+      "start": 589.279,
+      "end": 593.44,
+      "text": "अराउंड 18% के आसपास चल रहा है। वीडियो"
+    },
+    {
+      "subtitle_ids": [
+        296
+      ],
+      "start": 591.68,
+      "end": 594.64,
+      "text": "रिकॉर्ड करते टाइम और जब आप आईपीओ में"
+    },
+    {
+      "subtitle_ids": [
+        297
+      ],
+      "start": 593.44,
+      "end": 596.32,
+      "text": "अप्लाई करेंगे तो उस टाइम भी आप ग्रे"
+    },
+    {
+      "subtitle_ids": [
+        298
+      ],
+      "start": 594.64,
+      "end": 597.839,
+      "text": "मार्केट प्रीमियम यानी जीएमपी जरूर देख"
+    },
+    {
+      "subtitle_ids": [
+        299
+      ],
+      "start": 596.32,
+      "end": 599.44,
+      "text": "लेना। लेकिन ओवरऑल अगर लॉन्ग टर्म के"
+    },
+    {
+      "subtitle_ids": [
+        300
+      ],
+      "start": 597.839,
+      "end": 601.12,
+      "text": "हिसाब से देखें तो मुझे कंपनी कहीं ना"
+    },
+    {
+      "subtitle_ids": [
+        301
+      ],
+      "start": 599.44,
+      "end": 603.44,
+      "text": "कहीं थोड़ी ओवरवैल्यूड लगती है। और रही"
+    },
+    {
+      "subtitle_ids": [
+        302
+      ],
+      "start": 601.12,
+      "end": 605.04,
+      "text": "शॉर्ट टर्म की बात तो उसमें पूरा गेम"
+    },
+    {
+      "subtitle_ids": [
+        303
+      ],
+      "start": 603.44,
+      "end": 606.8,
+      "text": "कितना टाइम सब्सक्राइब होता है आईपीओ और"
+    },
+    {
+      "subtitle_ids": [
+        304
+      ],
+      "start": 605.04,
+      "end": 608.32,
+      "text": "कितना जीएमपी है वो दोनों चीजें देख के ही"
+    },
+    {
+      "subtitle_ids": [
+        305
+      ],
+      "start": 606.8,
+      "end": 609.839,
+      "text": "पता किया जा सकता है। तो फिलहाल आज हम"
+    },
+    {
+      "subtitle_ids": [
+        306
+      ],
+      "start": 608.32,
+      "end": 611.44,
+      "text": "यहां पर रुकते हैं। आई होप एनएसडीएल का"
+    },
+    {
+      "subtitle_ids": [
+        307
+      ],
+      "start": 609.839,
+      "end": 613.44,
+      "text": "बिज़नेस आपके लिए अब एकदम क्रिस्टल क्लियर"
+    },
+    {
+      "subtitle_ids": [
+        308
+      ],
+      "start": 611.44,
+      "end": 614.88,
+      "text": "हो गया होगा। ग्रोथ के लिए क्या देखना है"
+    },
+    {
+      "subtitle_ids": [
+        309
+      ],
+      "start": 613.44,
+      "end": 616.48,
+      "text": "यहां से आगे जो भी कंपनी के क्वार्टरली"
+    },
+    {
+      "subtitle_ids": [
+        310
+      ],
+      "start": 614.88,
+      "end": 618.16,
+      "text": "रिजल्ट्स आएंगे तो उस टाइम आपको देखना है"
+    },
+    {
+      "subtitle_ids": [
+        311
+      ],
+      "start": 616.48,
+      "end": 619.519,
+      "text": "कि इनके पेमेंट बिज़नेस से कितना रेवन्यू"
+    },
+    {
+      "subtitle_ids": [
+        312
+      ],
+      "start": 618.16,
+      "end": 621.04,
+      "text": "कितना प्रॉफिट आ रहा है। तो उस चीज को"
+    },
+    {
+      "subtitle_ids": [
+        313
+      ],
+      "start": 619.519,
+      "end": 622.72,
+      "text": "आपको बहुत बारीकी से देखना पड़ेगा। और"
+    },
+    {
+      "subtitle_ids": [
+        314
+      ],
+      "start": 621.04,
+      "end": 623.839,
+      "text": "जाते-जाते क्रेडिट पे को भी जरूर चेक आउट"
+    },
+    {
+      "subtitle_ids": [
+        315
+      ],
+      "start": 622.72,
+      "end": 625.279,
+      "text": "कीजिए। लिंक नीचे डिस्क्रिप्शन में और"
+    },
+    {
+      "subtitle_ids": [
+        316
+      ],
+      "start": 623.839,
+      "end": 626.8,
+      "text": "कमेंट बॉक्स में दी गई है। जहां पर आपका"
+    },
+    {
+      "subtitle_ids": [
+        317
+      ],
+      "start": 625.279,
+      "end": 628.32,
+      "text": "जो क्रेडिट स्कोर है उसे इंप्रूव करने का"
+    },
+    {
+      "subtitle_ids": [
+        318
+      ],
+      "start": 626.8,
+      "end": 630.24,
+      "text": "एक बहुत अच्छा मौका आपके हाथ में है। कोई"
+    },
+    {
+      "subtitle_ids": [
+        319
+      ],
+      "start": 628.32,
+      "end": 631.92,
+      "text": "हिडन चार्जेस नहीं। बड़ा ही सिंपल सा यह"
+    },
+    {
+      "subtitle_ids": [
+        320
+      ],
+      "start": 630.24,
+      "end": 633.6,
+      "text": "कार्ड है। सो यू कैन चेक इट आउट। बट अगेन"
+    },
+    {
+      "subtitle_ids": [
+        321
+      ],
+      "start": 631.92,
+      "end": 635.279,
+      "text": "इट इज़ अ क्रेडिट कार्ड। तो सही चीजों के"
+    },
+    {
+      "subtitle_ids": [
+        322
+      ],
+      "start": 633.6,
+      "end": 637.2,
+      "text": "लिए और सही तरीके से उसका इस्तेमाल कीजिए।"
+    },
+    {
+      "subtitle_ids": [
+        323
+      ],
+      "start": 635.279,
+      "end": 639.12,
+      "text": "अदरवाइज इट इज अ डबल एजेट स्वार्ड। तो दो"
+    },
+    {
+      "subtitle_ids": [
+        324
+      ],
+      "start": 637.2,
+      "end": 640.959,
+      "text": "धारी तलवार की तरह यह चीज होती है। तो उसे"
+    },
+    {
+      "subtitle_ids": [
+        325
+      ],
+      "start": 639.12,
+      "end": 642.56,
+      "text": "संभल के इस्तेमाल करना है और अपने फायदे"
+    },
+    {
+      "subtitle_ids": [
+        326
+      ],
+      "start": 640.959,
+      "end": 643.92,
+      "text": "के लिए ही इस्तेमाल करना है। तो फिलहाल हम"
+    },
+    {
+      "subtitle_ids": [
+        327
+      ],
+      "start": 642.56,
+      "end": 645.92,
+      "text": "यहीं पर रुकते हैं। थैंक यू सो मच फॉर"
+    },
+    {
+      "subtitle_ids": [
+        328
+      ],
+      "start": 643.92,
+      "end": 649.079,
+      "text": "वाचिंग। मिलते हैं अगले वीडियो में। बाय-ब"
+    },
+    {
+      "subtitle_ids": [
+        329
+      ],
+      "start": 645.92,
+      "end": 649.079,
+      "text": "टेक केयर।"
+    }
+  ]
+}

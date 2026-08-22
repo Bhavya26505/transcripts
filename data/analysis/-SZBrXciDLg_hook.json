@@ -1,0 +1,86 @@
+{
+  "raw_record": {
+    "log_metrics": {
+      "video_id": "-SZBrXciDLg",
+      "model_id": "qwen3.5-9b-claude-4.6-opus-reasoning-distilled-v2",
+      "target_window_seconds": 90.0,
+      "max_window_seconds": 120.0,
+      "actual_opening_duration": 91.72,
+      "final_end_timestamp": 95.32,
+      "number_of_segments": 2,
+      "input_character_count": 5160,
+      "output_character_count": 2274,
+      "latency_seconds": 159.806,
+      "temperature": 0.1,
+      "max_tokens": 2500,
+      "json_valid": true,
+      "validation_issues": [],
+      "parse_error": ""
+    },
+    "formatted_prompt_input": "[SEGMENT 1]\nTIME: 3.60 - 49.84\nLANGUAGE: HINDI\nTEXT:\nट्रंप पूरी दुनिया को बना रहा है। पहले तो डॉनल्ड ट्रंप ने ईरान से अननेसेसरी पंगा लिया और पूरी दुनिया को एक इकोनमिक क्राइसिस में डाल दिया। पूरी दुनिया के स्टॉक मार्केट गिर गए। ऑयल के रूट्स बंद हो गए। ऑयल एंड एलएनजी क्राइसिस हो गया। फिर ईरान के पूरे सिविलाइजेशन को खत्म करने की धमकी देते हैं। कहते हैं कि अगर स्टेट ऑफ हॉर्मोंस को ईरान ने ओपन नहीं किया तो ईरान का हर पावर प्लांट और मेजर ब्रिज को बम से उड़ा देंगे। पूरी दुनिया एक पैनिकिक मोड में चली जाती है। क्रूड ऑयल 115 पर पहुंच जाता है। इंडियन मार्केट भी आज पूरी तैयारी में था कि आज खुलते ही मैं गिर जाऊं। लेकिन फिर तभी ट्रंप कुछ ऐसा करते हैं जो वह करते आए हैं। इंडियन टाइम के हिसाब से सुबह 5:00 बजे न्यूज़ आती है कि वह ईरान को दो हफ्तों का और एक्सटेंशन देने वाले हैं। यह सब होने के बाद एक बात तो पर्सनली मेरे मन में क्लियर है कि डोन्ड ट्रंप मार्केट मैनिपुलेशन कर\n\n[SEGMENT 2]\nTIME: 49.84 - 95.32\nLANGUAGE: HINDI\nTEXT:\nरहे हैं। यस, पास्ट में भी डोन्ड ट्रंप पर सीरियस मार्केट मैनपुलेशन और इंसाइडर ट्रेडिंग के आरोप लगे हैं। आरोप है कि खुद के और अपने फैमिली और बिजनेस फ्रेंड्स के फायदे के लिए पूरी दुनिया को उन्होंने क्राइसिस में डाला है। और आरोप ऐसे गंभीर है कि वह दोनों तरफ से मार्केट को मैनिपुलेट कर रहे हैं। पहले तो वह खुद क्राइसिस क्रिएट करते हैं और इनके जो इंसाइडर लोग हैं वह शॉर्ट करके मार्केट में पैसा बनाते हैं। शॉर्ट करना मतलब जब आपको लगता है कि मार्केट डाउन जाएगा तो उसके लिए शॉर्ट पोजीशन ली जाती है जिससे आप प्रॉफिट कमाते हो। यानी कि आपने शॉर्ट पोजीशन लेने के बाद जितना ज्यादा मार्केट या पर्टिकुलर स्टॉक गिरेगा उतना ज्यादा आपको फायदा मिलेगा। उसके बाद उनके स्टेप टू है कि क्राइसिस को ठीक करने का नाटक करो और फिर उनके इंसाइडर सर्कल के लोग मार्केट को लॉन्ग करके यहां पर पैसा कमाते हैं। देखिए यह वीडियो तो वैसे लास्ट वीक ही आने वाली थी लेकिन पिछले हफ्ते में दो-तीन बार मार्केट मैनपुलेशन जैसी सिचुएशनंस उन्होंने क्रिएट की है। इसीलिए",
+    "raw_response": "{\n    \"video_id\": \"-SZBrXciDLg\",\n    \"opening_analysis\": {\n        \"hook\": {\n            \"text\": \"ट्रंप पूरी दुनिया को बना रहा है। पहले तो डॉनल्ड ट्रंप ने ईरान से अननेसेसरी पंगा लिया और पूरी दुनिया को एक इकोनमिक क्राइसिस में डाल दिया।\",\n            \"start_time\": 3.6,\n            \"end_time\": 49.84,\n            \"hook_type\": \"controversy\",\n            \"confidence\": 0.95\n        },\n        \"core_topic\": {\n            \"description\": \"Trump's alleged market manipulation and insider trading practices affecting global economy.\",\n            \"explicit\": true,\n            \"confidence\": 0.95,\n            \"evidence\": {\n                \"start_time\": 49.84,\n                \"end_time\": 62.0,\n                \"text\": \"डोन्ड ट्रंप मार्केट मैनिपुलेशन कर रहे हैं। यस, पास्ट में भी डोन्ड ट्रंप पर सीरियस मार्केट मैनपुलेशन और इंसाइडर ट्रेडिंग के आरोप लगे हैं।\"\n            }\n        },\n        \"viewer_problem_or_question\": {\n            \"description\": \"Understanding Trump's alleged market manipulation patterns and their impact on investors.\",\n            \"explicit\": true,\n            \"confidence\": 0.90,\n            \"evidence\": {\n                \"start_time\": 49.84,\n                \"end_time\": 62.0,\n                \"text\": \"डोन्ड ट्रंप मार्केट मैनिपुलेशन कर रहे हैं।\"\n            }\n        },\n        \"promise\": {\n            \"description\": \"To explain the pattern of crisis creation and market manipulation with evidence.\",\n            \"explicit\": true,\n            \"confidence\": 0.90,\n            \"evidence\": {\n                \"start_time\": 78.0,\n                \"end_time\": 95.32,\n                \"text\": \"पहले तो वह खुद क्राइसिस क्रिएट करते हैं और इनके जो इंसाइडर लोग हैं वह शॉर्ट करके मार्केट में पैसा बनाते हैं।\"\n            }\n        },\n        \"expected_points\": [],\n        \"expected_direction\": \"Analyze Trump's alleged market manipulation patterns, explain short selling mechanics, and discuss historical evidence of crisis creation followed by profit-taking.\",\n        \"opening_summary\": \"The creator opens with strong claims about Trump causing global economic crises through alleged insider trading. They then explain the pattern of creating market crashes for short positions before fixing markets to take long profits.\",\n        \"analysis_confidence\": 0.92\n    }\n}"
+  },
+  "parsed_analysis": {
+    "video_id": "-SZBrXciDLg",
+    "opening_analysis": {
+      "hook": {
+        "text": "ट्रंप पूरी दुनिया को बना रहा है। पहले तो डॉनल्ड ट्रंप ने ईरान से अननेसेसरी पंगा लिया और पूरी दुनिया को एक इकोनमिक क्राइसिस में डाल दिया।",
+        "start_time": 3.6,
+        "end_time": 49.84,
+        "hook_type": "controversy",
+        "confidence": 0.95
+      },
+      "core_topic": {
+        "description": "Trump's alleged market manipulation and insider trading practices affecting global economy.",
+        "explicit": true,
+        "confidence": 0.95,
+        "evidence": {
+          "start_time": 49.84,
+          "end_time": 62.0,
+          "text": "डोन्ड ट्रंप मार्केट मैनिपुलेशन कर रहे हैं। यस, पास्ट में भी डोन्ड ट्रंप पर सीरियस मार्केट मैनपुलेशन और इंसाइडर ट्रेडिंग के आरोप लगे हैं।"
+        }
+      },
+      "viewer_problem_or_question": {
+        "description": "Understanding Trump's alleged market manipulation patterns and their impact on investors.",
+        "explicit": true,
+        "confidence": 0.9,
+        "evidence": {
+          "start_time": 49.84,
+          "end_time": 62.0,
+          "text": "डोन्ड ट्रंप मार्केट मैनिपुलेशन कर रहे हैं।"
+        }
+      },
+      "promise": {
+        "description": "To explain the pattern of crisis creation and market manipulation with evidence.",
+        "explicit": true,
+        "confidence": 0.9,
+        "evidence": {
+          "start_time": 78.0,
+          "end_time": 95.32,
+          "text": "पहले तो वह खुद क्राइसिस क्रिएट करते हैं और इनके जो इंसाइडर लोग हैं वह शॉर्ट करके मार्केट में पैसा बनाते हैं।"
+        }
+      },
+      "expected_points": [],
+      "expected_direction": "Analyze Trump's alleged market manipulation patterns, explain short selling mechanics, and discuss historical evidence of crisis creation followed by profit-taking.",
+      "opening_summary": "The creator opens with strong claims about Trump causing global economic crises through alleged insider trading. They then explain the pattern of creating market crashes for short positions before fixing markets to take long profits.",
+      "analysis_confidence": 0.92
+    }
+  },
+  "log_metrics": {
+    "video_id": "-SZBrXciDLg",
+    "model_id": "qwen3.5-9b-claude-4.6-opus-reasoning-distilled-v2",
+    "target_window_seconds": 90.0,
+    "max_window_seconds": 120.0,
+    "actual_opening_duration": 91.72,
+    "final_end_timestamp": 95.32,
+    "number_of_segments": 2,
+    "input_character_count": 5160,
+    "output_character_count": 2274,
+    "latency_seconds": 159.806,
+    "temperature": 0.1,
+    "max_tokens": 2500,
+    "json_valid": true,
+    "validation_issues": [],
+    "parse_error": ""
+  }
+}

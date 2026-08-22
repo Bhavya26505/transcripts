@@ -1,0 +1,77 @@
+{
+  "video_id": "-RgdgqF9wd0",
+  "batch_id": "batch_002",
+  "batch_index": 2,
+  "segment_ids": [
+    8,
+    9,
+    10,
+    11,
+    12
+  ],
+  "segment_count": 5,
+  "input_characters": 7854,
+  "output_characters": 1974,
+  "latency_seconds": 192.754,
+  "cache_hit": false,
+  "retry_count": 0,
+  "status": "COMPLETE",
+  "segments": [
+    {
+      "segment_id": 8,
+      "start_time": 297.679,
+      "end_time": 347.4,
+      "primary_point": "NONE",
+      "function": "OFF_TOPIC",
+      "relevance": "OFF_TOPIC",
+      "confidence": 1.0,
+      "evidence": "और यही नहीं आने वाले टाइम में आप इनके कैशबैक्स अपनी यूटिलिटी बिल्स और बाकी कई सारी चीजों के लिए यूज कर सकते हो। तो इंतजार किस चीज का? अभी डिस्क्रिप्शन और कमेंट में दिए लिंक पर क्लिक करके क्रेडिट पे का ऐप डाउनलोड कीजिए",
+      "evidence_validation": "PASSED"
+    },
+    {
+      "segment_id": 9,
+      "start_time": 347.4,
+      "end_time": 391.799,
+      "primary_point": "P2",
+      "function": "SUPPORTING_EXPLANATION",
+      "relevance": "DIRECT",
+      "confidence": 0.95,
+      "evidence": "एनएसएल के पास था। लेकिन 2016 के बाद धीरे-धीरे पूरा गेम सीडीएसएल के फेवर में चला गया और आज सीडीएसएल डिपॉज़िटरी गेम में मार्केट लीडर है",
+      "evidence_validation": "PASSED"
+    },
+    {
+      "segment_id": 10,
+      "start_time": 391.799,
+      "end_time": 434.56,
+      "primary_point": "P2",
+      "function": "EVIDENCE",
+      "relevance": "DIRECT",
+      "confidence": 0.95,
+      "evidence": "CDSL के पास अगर देखा जाए तो आज के जो लीडिंग ब्रोकर्स हैं Zerodha Go Annjal वन ये तीनों भी CDSL के पास है",
+      "evidence_validation": "PASSED"
+    },
+    {
+      "segment_id": 11,
+      "start_time": 434.56,
+      "end_time": 474.44,
+      "primary_point": "P3",
+      "function": "DIRECT_POINT",
+      "relevance": "DIRECT",
+      "confidence": 0.95,
+      "evidence": "अब बात करते हैं वैल्यू्यूएशन की। शॉर्ट टर्म और लॉन्ग टर्म दोनों की हम बात करेंगे। शुरुआत करते हैं लॉन्ग टर्म से",
+      "evidence_validation": "PASSED"
+    },
+    {
+      "segment_id": 12,
+      "start_time": 474.44,
+      "end_time": 514.879,
+      "primary_point": "P3",
+      "function": "SUPPORTING_EXPLANATION",
+      "relevance": "DIRECT",
+      "confidence": 0.95,
+      "evidence": "हिसाब से कंपनी का जो प्राइस टू अर्निंग रेशियो है वो है 46 का। 46 का प्राइस टू अर्निंग रेशियो अगर कंपनी को जस्टिफाई करना है तो मुझे लगता है इनको अपने एनएसएल पेमेंट बैंक के बिज़नेस में बहुत कुछ करने की जरूरत है",
+      "evidence_validation": "PASSED"
+    }
+  ],
+  "raw_response": "{\n    \"video_id\": \"-RgdgqF9wd0\",\n    \"batch_id\": \"batch_002\",\n    \"segments\": [\n        {\n            \"segment_id\": 8,\n            \"primary_point\": \"NONE\",\n            \"function\": \"OFF_TOPIC\",\n            \"relevance\": \"OFF_TOPIC\",\n            \"confidence\": 1.0,\n            \"evidence\": \"और यही नहीं आने वाले टाइम में आप इनके कैशबैक्स अपनी यूटिलिटी बिल्स और बाकी कई सारी चीजों के लिए यूज कर सकते हो। तो इंतजार किस चीज का? अभी डिस्क्रिप्शन और कमेंट में दिए लिंक पर क्लिक करके क्रेडिट पे का ऐप डाउनलोड कीजिए\"\n        },\n        {\n            \"segment_id\": 9,\n            \"primary_point\": \"P2\",\n            \"function\": \"SUPPORTING_EXPLANATION\",\n            \"relevance\": \"DIRECT\",\n            \"confidence\": 0.95,\n            \"evidence\": \"एनएसएल के पास था। लेकिन 2016 के बाद धीरे-धीरे पूरा गेम सीडीएसएल के फेवर में चला गया और आज सीडीएसएल डिपॉज़िटरी गेम में मार्केट लीडर है\"\n        },\n        {\n            \"segment_id\": 10,\n            \"primary_point\": \"P2\",\n            \"function\": \"EVIDENCE\",\n            \"relevance\": \"DIRECT\",\n            \"confidence\": 0.95,\n            \"evidence\": \"CDSL के पास अगर देखा जाए तो आज के जो लीडिंग ब्रोकर्स हैं Zerodha Go Annjal वन ये तीनों भी CDSL के पास है\"\n        },\n        {\n            \"segment_id\": 11,\n            \"primary_point\": \"P3\",\n            \"function\": \"DIRECT_POINT\",\n            \"relevance\": \"DIRECT\",\n            \"confidence\": 0.95,\n            \"evidence\": \"अब बात करते हैं वैल्यू्यूएशन की। शॉर्ट टर्म और लॉन्ग टर्म दोनों की हम बात करेंगे। शुरुआत करते हैं लॉन्ग टर्म से\"\n        },\n        {\n            \"segment_id\": 12,\n            \"primary_point\": \"P3\",\n            \"function\": \"SUPPORTING_EXPLANATION\",\n            \"relevance\": \"DIRECT\",\n            \"confidence\": 0.95,\n            \"evidence\": \"हिसाब से कंपनी का जो प्राइस टू अर्निंग रेशियो है वो है 46 का। 46 का प्राइस टू अर्निंग रेशियो अगर कंपनी को जस्टिफाई करना है तो मुझे लगता है इनको अपने एनएसएल पेमेंट बैंक के बिज़नेस में बहुत कुछ करने की जरूरत है\"\n        }\n    ]\n}"
+}

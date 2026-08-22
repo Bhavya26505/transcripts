@@ -1,0 +1,347 @@
+{
+  "video_id": "-RgdgqF9wd0",
+  "promise_meta": {
+    "promise_status": "EXPLICIT_PROMISE",
+    "promised_points_count": 4,
+    "point_coverage_status": "CALCULATED",
+    "point_coverage_score": 75.0,
+    "adherence_score": 73.37
+  },
+  "analysis_window": {
+    "start_time": 87.519,
+    "end_time": 649.079,
+    "duration": 561.56
+  },
+  "timeline_integrity": {
+    "status": "PASS",
+    "expected_segments": 14,
+    "analyzed_segments": 14,
+    "missing_segments": [],
+    "duplicate_segments": [],
+    "timestamp_errors": [],
+    "overlap_duration": 0.0,
+    "uncovered_duration": 0.0
+  },
+  "duration_metrics": {
+    "fn_durations": {
+      "DIRECT_POINT": 71.2,
+      "SUPPORTING_EXPLANATION": 204.32,
+      "EVIDENCE": 39.88,
+      "EXAMPLE": 0.0,
+      "COMPARISON": 82.88,
+      "TRANSITION": 0.0,
+      "CONTEXT": 0.0,
+      "CONCLUSION": 0.0,
+      "RELATED_EXTENSION": 0.0,
+      "OFF_TOPIC": 163.28,
+      "UNCERTAIN": 0.0
+    },
+    "fn_percentages": {
+      "DIRECT_POINT": 12.68,
+      "SUPPORTING_EXPLANATION": 36.38,
+      "EVIDENCE": 7.1,
+      "EXAMPLE": 0.0,
+      "COMPARISON": 14.76,
+      "TRANSITION": 0.0,
+      "CONTEXT": 0.0,
+      "CONCLUSION": 0.0,
+      "RELATED_EXTENSION": 0.0,
+      "OFF_TOPIC": 29.08,
+      "UNCERTAIN": 0.0
+    }
+  },
+  "relevance_metrics": {
+    "rel_durations": {
+      "DIRECT": 398.28,
+      "SUPPORTING": 0.0,
+      "RELATED": 0.0,
+      "TRANSITION": 0.0,
+      "UNCERTAIN": 0.0,
+      "OFF_TOPIC": 163.28
+    },
+    "rel_percentages": {
+      "DIRECT": 70.92,
+      "SUPPORTING": 0.0,
+      "RELATED": 0.0,
+      "TRANSITION": 0.0,
+      "UNCERTAIN": 0.0,
+      "OFF_TOPIC": 29.08
+    },
+    "clearly_relevant_duration": 398.28,
+    "clearly_relevant_percentage": 70.92,
+    "off_topic_duration": 163.28,
+    "off_topic_percentage": 29.08
+  },
+  "point_coverage": {
+    "P1": {
+      "description": "NSDL business model explanation and revenue sources beyond depository services.",
+      "coverage_type": "DIRECTLY_COVERED",
+      "segment_count": 5,
+      "duration": 193.24,
+      "percentage_of_analyzed_duration": 34.41,
+      "function_counts": {
+        "DIRECT_POINT": 1,
+        "SUPPORTING_EXPLANATION": 3,
+        "EVIDENCE": 0,
+        "EXAMPLE": 0,
+        "COMPARISON": 1,
+        "TRANSITION": 0,
+        "CONTEXT": 0,
+        "CONCLUSION": 0,
+        "RELATED_EXTENSION": 0,
+        "OFF_TOPIC": 0,
+        "UNCERTAIN": 0
+      },
+      "non_zero_function_counts": {
+        "DIRECT_POINT": 1,
+        "SUPPORTING_EXPLANATION": 3,
+        "COMPARISON": 1
+      },
+      "segment_ids": [
+        3,
+        4,
+        5,
+        13,
+        14
+      ]
+    },
+    "P2": {
+      "description": "Difference in business models between NSDL and CDSL.",
+      "coverage_type": "DIRECTLY_COVERED",
+      "segment_count": 5,
+      "duration": 188.64,
+      "percentage_of_analyzed_duration": 33.59,
+      "function_counts": {
+        "DIRECT_POINT": 1,
+        "SUPPORTING_EXPLANATION": 2,
+        "EVIDENCE": 0,
+        "EXAMPLE": 0,
+        "COMPARISON": 2,
+        "TRANSITION": 0,
+        "CONTEXT": 0,
+        "CONCLUSION": 0,
+        "RELATED_EXTENSION": 0,
+        "OFF_TOPIC": 0,
+        "UNCERTAIN": 0
+      },
+      "non_zero_function_counts": {
+        "DIRECT_POINT": 1,
+        "SUPPORTING_EXPLANATION": 2,
+        "COMPARISON": 2
+      },
+      "segment_ids": [
+        3,
+        9,
+        10,
+        13,
+        14
+      ]
+    },
+    "P3": {
+      "description": "NSDL valuation assessment - under or over valued.",
+      "coverage_type": "DIRECTLY_COVERED",
+      "segment_count": 3,
+      "duration": 117.88,
+      "percentage_of_analyzed_duration": 20.99,
+      "function_counts": {
+        "DIRECT_POINT": 1,
+        "SUPPORTING_EXPLANATION": 1,
+        "EVIDENCE": 1,
+        "EXAMPLE": 0,
+        "COMPARISON": 0,
+        "TRANSITION": 0,
+        "CONTEXT": 0,
+        "CONCLUSION": 0,
+        "RELATED_EXTENSION": 0,
+        "OFF_TOPIC": 0,
+        "UNCERTAIN": 0
+      },
+      "non_zero_function_counts": {
+        "DIRECT_POINT": 1,
+        "SUPPORTING_EXPLANATION": 1,
+        "EVIDENCE": 1
+      },
+      "segment_ids": [
+        11,
+        12,
+        15
+      ]
+    },
+    "P4": {
+      "description": "Listing gains assessment for NSDL.",
+      "coverage_type": "NOT_COVERED",
+      "segment_count": 0,
+      "duration": 0,
+      "percentage_of_analyzed_duration": 0.0,
+      "function_counts": {
+        "DIRECT_POINT": 0,
+        "SUPPORTING_EXPLANATION": 0,
+        "EVIDENCE": 0,
+        "EXAMPLE": 0,
+        "COMPARISON": 0,
+        "TRANSITION": 0,
+        "CONTEXT": 0,
+        "CONCLUSION": 0,
+        "RELATED_EXTENSION": 0,
+        "OFF_TOPIC": 0,
+        "UNCERTAIN": 0
+      },
+      "non_zero_function_counts": {},
+      "segment_ids": []
+    }
+  },
+  "point_order": {
+    "first_appearance_order": [
+      "P1",
+      "P2",
+      "P3"
+    ],
+    "first_appearances": {
+      "P1": 87.519,
+      "P2": 87.519,
+      "P3": 434.56
+    }
+  },
+  "point_returns": {
+    "P1": {
+      "first_segment": 3,
+      "last_segment": 14,
+      "number_of_segments": 5,
+      "number_of_contiguous_runs": 2
+    },
+    "P2": {
+      "first_segment": 3,
+      "last_segment": 14,
+      "number_of_segments": 5,
+      "number_of_contiguous_runs": 3
+    },
+    "P3": {
+      "first_segment": 11,
+      "last_segment": 15,
+      "number_of_segments": 3,
+      "number_of_contiguous_runs": 2
+    },
+    "P4": {
+      "first_segment": null,
+      "last_segment": null,
+      "number_of_segments": 0,
+      "number_of_contiguous_runs": 0
+    }
+  },
+  "off_topic": {
+    "episode_count": 2,
+    "episodes": [
+      {
+        "episode_id": 1,
+        "start_segment": 6,
+        "end_segment": 8,
+        "start_time": 212.92,
+        "end_time": 347.4,
+        "duration": 134.48,
+        "segment_ids": [
+          6,
+          7,
+          8
+        ],
+        "percentage_of_analyzed_duration": 23.95,
+        "returned_to_topic": true
+      },
+      {
+        "episode_id": 2,
+        "start_segment": 16,
+        "end_segment": 16,
+        "start_time": 620.279,
+        "end_time": 649.079,
+        "duration": 28.8,
+        "segment_ids": [
+          16
+        ],
+        "percentage_of_analyzed_duration": 5.13,
+        "returned_to_topic": false
+      }
+    ],
+    "longest_episode": {
+      "episode_id": 1,
+      "duration": 134.48,
+      "percentage_of_analyzed_duration": 23.95
+    }
+  },
+  "transitions": {
+    "raw_segment_sequence": [
+      "P1 | P2",
+      "P1",
+      "P1",
+      "OFF_TOPIC",
+      "OFF_TOPIC",
+      "OFF_TOPIC",
+      "P2",
+      "P2",
+      "P3",
+      "P3",
+      "P1 | P2",
+      "P1 | P2",
+      "P3",
+      "OFF_TOPIC"
+    ],
+    "normalized_run_sequence": [
+      "P1 | P2",
+      "P1",
+      "OFF_TOPIC",
+      "P2",
+      "P3",
+      "P1 | P2",
+      "P3",
+      "OFF_TOPIC"
+    ],
+    "total_run_count": 8,
+    "point_transitions_count": 4,
+    "off_topic_transitions_count": 3
+  },
+  "mathematical_validation": {
+    "status": "PASS",
+    "assertion_results": [
+      {
+        "assertion": "P1 function counts sum == segment_count",
+        "expected": 5,
+        "actual": 5,
+        "passed": true
+      },
+      {
+        "assertion": "P2 function counts sum == segment_count",
+        "expected": 5,
+        "actual": 5,
+        "passed": true
+      },
+      {
+        "assertion": "P3 function counts sum == segment_count",
+        "expected": 3,
+        "actual": 3,
+        "passed": true
+      },
+      {
+        "assertion": "P4 function counts sum == segment_count",
+        "expected": 0,
+        "actual": 0,
+        "passed": true
+      },
+      {
+        "assertion": "sum(unique segment durations) == total_analyzed_duration",
+        "expected": 561.56,
+        "actual": 561.56,
+        "passed": true
+      },
+      {
+        "assertion": "sum(relevance category durations) == total_analyzed_duration",
+        "expected": 561.56,
+        "actual": 561.56,
+        "passed": true
+      },
+      {
+        "assertion": "sum(function category durations) == total_analyzed_duration",
+        "expected": 561.56,
+        "actual": 561.56,
+        "passed": true
+      }
+    ]
+  }
+}

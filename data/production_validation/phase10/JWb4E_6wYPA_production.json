@@ -1,0 +1,152 @@
+{
+  "video_id": "JWb4E_6wYPA",
+  "source_language": "hi",
+  "promise_status": "NO_EXPLICIT_PROMISE",
+  "promised_points_count": 0,
+  "point_coverage": null,
+  "point_coverage_status": "NOT_APPLICABLE",
+  "hook": {},
+  "creator_promise": {},
+  "expected_points": [],
+  "segment_analysis": [
+    {
+      "segment_id": 3,
+      "start_time": 81.52,
+      "end_time": 141.92,
+      "primary_point": "P2 | P3",
+      "function": "DIRECT_POINT",
+      "relevance": "DIRECT",
+      "confidence": 0.95,
+      "evidence": "पेटीएम ने अपना मार्केट कैप कितना रखा 1.49 लाख करोड़ वो दिन है और आज का दिन है आज paytm2 करोड़ का है",
+      "evidence_validation": "PASSED"
+    },
+    {
+      "segment_id": 4,
+      "start_time": 141.92,
+      "end_time": 169.84,
+      "primary_point": "P2 | P3",
+      "function": "SUPPORTING_EXPLANATION",
+      "relevance": "DIRECT",
+      "confidence": 0.95,
+      "evidence": "reliance1 करोड़ की म्यूचुअल फंड इन्वेस्टमेंट्स तो एक चीज मुझे बड़ी आसानी से समझ में आ गई कि कंपनी के ऊपर कुछ खास लायबिलिटीज है ही नहीं",
+      "evidence_validation": "PASSED"
+    },
+    {
+      "segment_id": 5,
+      "start_time": 169.84,
+      "end_time": 209.84,
+      "primary_point": "P2 | P3",
+      "function": "COMPARISON",
+      "relevance": "DIRECT",
+      "confidence": 0.95,
+      "evidence": "जो इन्वेस्टमेंट है 112000 करोड़ की यह मात्र ढाई साल में 5 लाख करोड़ से भी ज्यादा हो जाएगी",
+      "evidence_validation": "PASSED"
+    },
+    {
+      "segment_id": 6,
+      "start_time": 209.84,
+      "end_time": 253.9,
+      "primary_point": "P3 | P4",
+      "function": "DIRECT_POINT",
+      "relevance": "DIRECT",
+      "confidence": 0.95,
+      "evidence": "पल फार्मिंग एक ऐसी स्ट्रेटेजी है जहां पर कंपनी के रिजर्व्स और इन्वेस्टमेंट्स कंपनी के मार्केट कैप से भी ज्यादा हो जाते हैं",
+      "evidence_validation": "PASSED"
+    },
+    {
+      "segment_id": 7,
+      "start_time": 253.9,
+      "end_time": 301.36,
+      "primary_point": "P4",
+      "function": "RELATED_EXTENSION",
+      "relevance": "RELATED",
+      "confidence": 0.95,
+      "evidence": "हमारे फंडामेंटल एनालिसिस 2.0 में ये सारी चीजें हमने बहुत आसान भाषा में कवर की है जिसमें आप बहुत बेसिक से एडवांस तक फंडामेंटल एनालिसिस सीख सकते हो",
+      "evidence_validation": "PASSED"
+    },
+    {
+      "segment_id": 8,
+      "start_time": 301.36,
+      "end_time": 342.02,
+      "primary_point": "P1 | P2 | P3 | P4 | NONE | MULTIPLE | UNCERTAIN",
+      "function": "SUPPORTING_EXPLANATION",
+      "relevance": "DIRECT",
+      "confidence": 0.92,
+      "evidence": "कंपनी के पास जो इन्वेस्टमेंट्स है वो अभी बढ़कर 132000 करोड़ की हो गई है उसमें से कुछ 1 2000 करोड़ की इन्वेस्टम",
+      "evidence_validation": "PASSED"
+    },
+    {
+      "segment_id": 9,
+      "start_time": 342.02,
+      "end_time": 388.56,
+      "primary_point": "P1 | P2 | P3 | P4 | NONE | MULTIPLE | UNCERTAIN",
+      "function": "EXAMPLE",
+      "relevance": "DIRECT",
+      "confidence": 0.89,
+      "evidence": "एलसीडी इन्वेस्टमेंट के साथ भी हुई थी अब एलसीडी इन्वेस्टमेंट्स के अगर मैं फाइनेंशियल्स देखूं आप देखेंगे तो कंपनी के पास",
+      "evidence_validation": "PASSED"
+    },
+    {
+      "segment_id": 10,
+      "start_time": 388.56,
+      "end_time": 431.759,
+      "primary_point": "P1 | P2 | P3 | P4 | NONE | MULTIPLE | UNCERTAIN",
+      "function": "CONCLUSION",
+      "relevance": "DIRECT",
+      "confidence": 0.87,
+      "evidence": "क्या आपको भी कभी कुछ इस तरह की अपॉर्चुनिटी मिली है जिसका आपने बहुत फायदा उठाया नीचे कमेंट करके जरूर बताएं",
+      "evidence_validation": "PASSED"
+    }
+  ],
+  "metrics": {
+    "point_coverage": null,
+    "clear_relevance": {
+      "rel_durations": {
+        "DIRECT": 302.78,
+        "SUPPORTING": 0.0,
+        "RELATED": 47.46,
+        "TRANSITION": 0.0,
+        "UNCERTAIN": 0.0,
+        "OFF_TOPIC": 0.0
+      },
+      "rel_percentages": {
+        "DIRECT": 86.45,
+        "SUPPORTING": 0.0,
+        "RELATED": 13.55,
+        "TRANSITION": 0.0,
+        "UNCERTAIN": 0.0,
+        "OFF_TOPIC": 0.0
+      },
+      "clearly_relevant_duration": 350.24,
+      "clearly_relevant_percentage": 100.0,
+      "off_topic_duration": 0.0,
+      "off_topic_percentage": 0.0
+    },
+    "off_topic_percentage": 0.0,
+    "off_topic_episode_count": 0,
+    "missing_points": []
+  },
+  "adherence_score": {
+    "point_coverage_weight": 0.6,
+    "clear_relevance_weight": 0.25,
+    "topic_discipline_weight": 0.15,
+    "point_coverage_score": null,
+    "clear_relevance_score": 100.0,
+    "topic_discipline_score": 100.0,
+    "final_score": null
+  },
+  "validation": {
+    "timeline_integrity": true,
+    "evidence_integrity": true,
+    "metric_integrity": true,
+    "score_integrity": true,
+    "all_validations_pass": true
+  },
+  "performance": {
+    "phase7_latency": 239.16,
+    "phase8_latency": 349.01,
+    "llm_calls_count": 3,
+    "retries_count": 0,
+    "total_processing_time": 588.47
+  }
+}

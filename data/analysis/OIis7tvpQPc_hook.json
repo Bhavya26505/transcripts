@@ -1,0 +1,86 @@
+{
+  "raw_record": {
+    "log_metrics": {
+      "video_id": "OIis7tvpQPc",
+      "model_id": "qwen3.5-9b-claude-4.6-opus-reasoning-distilled-v2",
+      "target_window_seconds": 90.0,
+      "max_window_seconds": 120.0,
+      "actual_opening_duration": 112.59,
+      "final_end_timestamp": 112.665,
+      "number_of_segments": 3,
+      "input_character_count": 5378,
+      "output_character_count": 2076,
+      "latency_seconds": 157.647,
+      "temperature": 0.1,
+      "max_tokens": 2500,
+      "json_valid": true,
+      "validation_issues": [],
+      "parse_error": ""
+    },
+    "formatted_prompt_input": "[SEGMENT 1]\nTIME: 0.08 - 34.70\nLANGUAGE: MIXED\nTEXT:\nThis person has done a scam of Rs 500 crore with Bollywood actor Annu Kapoor and around 800 people. This scam includes many Bollywood people and Mumbai businessmen. This scam was such that people could not believe it. That they have been scammed. Many elderly people got fever after hearing that they have been trapped by a person whom they have trusted for years. This is a very strange scam which can happen to any of you tomorrow. So listen to all the things carefully, Hello, I Prasad welcome you in today's video.\n\n[SEGMENT 2]\nTIME: 34.70 - 72.21\nLANGUAGE: MIXED\nTEXT:\nJust a few days ago, Annu Kapoor called a meeting. What was this meeting about? The meeting related to the people whom this person has trapped. Then Annu Kapoor thought that some 15-20 people would come to the meeting but shockingly a lot of people came there who were trapped by this person, then after that everyone came to know that this is not a small scam, it is a very big scam worth about Rs 500 crores and for this now they will have to take further steps but now if we talk about its back story then in Lokhandwala Complex, Mumbai. There is a very good CA, whose name is Amber Dalal and his office is in Lokhandwala Complex.\n\n[SEGMENT 3]\nTIME: 72.21 - 112.67\nLANGUAGE: MIXED\nTEXT:\nAnd from past many years, Amber is now 59 years old. You can understand Amber is guiding people for a long time. Whether it is taxation or how you should invest to save tax, all those tricks Amber used to tell all these things to his clients. Now the problem in India is that people do not know the difference between CA and Financial Advisor. They think that CA is the person who will look after our taxes and also give us financial advice. Where should one invest or not, all this will also be told by CA, now awareness is needed for this, that is a separate part, so what used to happen now is that when many people used to come to Amber, then Amber used to say that if you want to save tax then so much money should be invested in NPS.",
+    "raw_response": "{\n    \"video_id\": \"OIis7tvpQPc\",\n    \"opening_analysis\": {\n        \"hook\": {\n            \"text\": \"This person has done a scam of Rs 500 crore with Bollywood actor Annu Kapoor and around 800 people.\",\n            \"start_time\": 0.0,\n            \"end_time\": 34.7,\n            \"hook_type\": \"controversy\",\n            \"confidence\": 0.95\n        },\n        \"core_topic\": {\n            \"description\": \"A Rs 500 crore financial scam involving Bollywood figures and Mumbai businessmen.\",\n            \"explicit\": true,\n            \"confidence\": 0.95,\n            \"evidence\": {\n                \"start_time\": 0.0,\n                \"end_time\": 34.7,\n                \"text\": \"This person has done a scam of Rs 500 crore with Bollywood actor Annu Kapoor and around 800 people.\"\n            }\n        },\n        \"viewer_problem_or_question\": {\n            \"description\": \"How such large-scale scams can happen to anyone including viewers themselves.\",\n            \"explicit\": true,\n            \"confidence\": 0.90,\n            \"evidence\": {\n                \"start_time\": 34.7,\n                \"end_time\": 52.0,\n                \"text\": \"This scam was such that people could not believe it. That they have been scammed.\"\n            }\n        },\n        \"promise\": {\n            \"description\": \"To explain the back story of this major financial scam.\",\n            \"explicit\": true,\n            \"confidence\": 0.90,\n            \"evidence\": {\n                \"start_time\": 52.0,\n                \"end_time\": 72.2,\n                \"text\": \"but now if we talk about its back story then in Lokhandwala Complex, Mumbai.\"\n            }\n        },\n        \"expected_points\": [],\n        \"expected_direction\": \"Explain the details and back story of a Rs 500 crore financial scam involving Bollywood figures and Mumbai businessmen.\",\n        \"opening_summary\": \"A dramatic opening about a Rs 500 crore scam involving Annu Kapoor transitions into introducing Amber Dalal, a CA in Mumbai's Lokhandwala Complex who allegedly used tax-saving advice to trap victims.\",\n        \"analysis_confidence\": 0.92\n    }\n}"
+  },
+  "parsed_analysis": {
+    "video_id": "OIis7tvpQPc",
+    "opening_analysis": {
+      "hook": {
+        "text": "This person has done a scam of Rs 500 crore with Bollywood actor Annu Kapoor and around 800 people.",
+        "start_time": 0.0,
+        "end_time": 34.7,
+        "hook_type": "controversy",
+        "confidence": 0.95
+      },
+      "core_topic": {
+        "description": "A Rs 500 crore financial scam involving Bollywood figures and Mumbai businessmen.",
+        "explicit": true,
+        "confidence": 0.95,
+        "evidence": {
+          "start_time": 0.0,
+          "end_time": 34.7,
+          "text": "This person has done a scam of Rs 500 crore with Bollywood actor Annu Kapoor and around 800 people."
+        }
+      },
+      "viewer_problem_or_question": {
+        "description": "How such large-scale scams can happen to anyone including viewers themselves.",
+        "explicit": true,
+        "confidence": 0.9,
+        "evidence": {
+          "start_time": 34.7,
+          "end_time": 52.0,
+          "text": "This scam was such that people could not believe it. That they have been scammed."
+        }
+      },
+      "promise": {
+        "description": "To explain the back story of this major financial scam.",
+        "explicit": true,
+        "confidence": 0.9,
+        "evidence": {
+          "start_time": 52.0,
+          "end_time": 72.2,
+          "text": "but now if we talk about its back story then in Lokhandwala Complex, Mumbai."
+        }
+      },
+      "expected_points": [],
+      "expected_direction": "Explain the details and back story of a Rs 500 crore financial scam involving Bollywood figures and Mumbai businessmen.",
+      "opening_summary": "A dramatic opening about a Rs 500 crore scam involving Annu Kapoor transitions into introducing Amber Dalal, a CA in Mumbai's Lokhandwala Complex who allegedly used tax-saving advice to trap victims.",
+      "analysis_confidence": 0.92
+    }
+  },
+  "log_metrics": {
+    "video_id": "OIis7tvpQPc",
+    "model_id": "qwen3.5-9b-claude-4.6-opus-reasoning-distilled-v2",
+    "target_window_seconds": 90.0,
+    "max_window_seconds": 120.0,
+    "actual_opening_duration": 112.59,
+    "final_end_timestamp": 112.665,
+    "number_of_segments": 3,
+    "input_character_count": 5378,
+    "output_character_count": 2076,
+    "latency_seconds": 157.647,
+    "temperature": 0.1,
+    "max_tokens": 2500,
+    "json_valid": true,
+    "validation_issues": [],
+    "parse_error": ""
+  }
+}

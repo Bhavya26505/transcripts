@@ -1,0 +1,82 @@
+{
+  "video_id": "-RgdgqF9wd0",
+  "report_summary": "===========================================================================\n PHASE 9B CANDIDATE ADHERENCE SCORES REPORT (-RgdgqF9wd0)\n===========================================================================\n\n1. CORE SCORING DIMENSIONS:\n   - Point Coverage Score   : 75.00% (3/4 promised points directly covered)\n   - Clear Relevance Score  : 70.92% (398.28s of 561.56s)\n   - Topic Discipline Score : 70.92% (100% - 29.08% off-topic)\n\n2. OFF-TOPIC & DIAGNOSTIC METRICS:\n   - Off-Topic Duration     : 163.28s (29.08%)\n   - Off-Topic Episodes     : 2\n   - Longest Episode Pct    : 23.95%\n   - Returned After Midroll : True\n\n3. MISSING POINT DIAGNOSTICS:\n   - Missing Point Count    : 1 point (P4: Listing gains assessment)\n   - Missing Point Pct      : 25.00%\n\n4. EXPERIMENTAL CANDIDATE SCORES COMPARISON TABLE:\n---------------------------------------------------------------------------\nMetric / Candidate Formula          | Weighting Breakdown       | Score     \n---------------------------------------------------------------------------\nPoint Coverage Score                | Baseline (3/4 Covered)    |     75.00%\nClear Relevance Score               | Direct + Supp + Rel       |     70.92%\nTopic Discipline Score              | 100% - Off-Topic %        |     70.92%\n---------------------------------------------------------------------------\nCandidate A (Balanced)              | 40% Cov / 40% Rel / 20% Disc |     72.55\nCandidate B (Promise-First)         | 60% Cov / 25% Rel / 15% Disc |     73.37\nCandidate C (Focus-First)           | 30% Cov / 30% Rel / 40% Disc |     72.14\n---------------------------------------------------------------------------\n\n5. DETAILED TECHNICAL INTERPRETATION OF DIFFERENCES:\n   ► Candidate A (Balanced: 40/40/20):\n     - Score: 72.55\n     - Rewards creators who cover most promised points while maintaining strong core content duration.\n     - Provides an even balance between promised point delivery and video relevance.\n\n   ► Candidate B (Promise-First: 60/25/15):\n     - Score: 73.37\n     - Strongly rewards fulfilling promised points (60% weight on coverage).\n     - Yields a slightly higher score (73.37 vs 72.55) because the creator fulfilled 75% of promised points (P1, P2, P3), which is higher than the 70.92% duration relevance.\n     - Highly sensitive to missing promised points.\n\n   ► Candidate C (Focus-First: 30/30/40):\n     - Score: 72.15\n     - Strongly penalizes digressions and sponsor plugs (40% weight on discipline).\n     - Yields the lowest score (72.15) because the video contains 29.08% off-topic duration (mid-roll credit card ad + outro).\n\n6. SPONSOR & OFF-TOPIC INTERPRETATION:\n   - Episode 1 (212.92s–347.40s): 134.48s mid-roll credit card plug. The creator cleanly returned to promised Point P2 at 347.40s.\n   - Episode 2 (620.28s–649.08s): 28.80s outro sponsor call-to-action.\n   - All candidate formulas report off-topic duration without making subjective value judgments.\n\n7. IMPORTANT LIMITATIONS:\n   - Candidate formulas are currently experimental design options.\n   - No formula has been selected as the final production metric.\n\n===========================================================================\n Saved Candidate JSON   : C:\\Users\\ADMIN\\OneDrive\\Desktop\\Transcript-2\\data\\metrics\\phase9b\\-RgdgqF9wd0_score_candidates.json",
+  "scores_data": {
+    "video_id": "-RgdgqF9wd0",
+    "scoring_dimensions": {
+      "point_coverage": {
+        "score": 75.0,
+        "total_promised_points": 4,
+        "directly_covered_count": 3,
+        "supporting_only_count": 0,
+        "not_covered_count": 1
+      },
+      "clear_relevance": {
+        "score": 70.92,
+        "clearly_relevant_duration": 398.28,
+        "total_analyzed_duration": 561.56
+      },
+      "topic_discipline": {
+        "score": 70.92,
+        "off_topic_duration": 163.28,
+        "off_topic_percentage": 29.08
+      },
+      "off_topic_diagnostics": {
+        "episode_count": 2,
+        "longest_episode_percentage": 23.95,
+        "returned_to_topic_after_midroll": true
+      },
+      "point_distribution": {
+        "P1": {
+          "point_duration": 193.24,
+          "percentage_of_clearly_relevant_duration": 48.52
+        },
+        "P2": {
+          "point_duration": 188.64,
+          "percentage_of_clearly_relevant_duration": 47.36
+        },
+        "P3": {
+          "point_duration": 117.88,
+          "percentage_of_clearly_relevant_duration": 29.6
+        },
+        "P4": {
+          "point_duration": 0,
+          "percentage_of_clearly_relevant_duration": 0.0
+        }
+      },
+      "diagnostic_penalties": {
+        "missing_point_count": 1,
+        "missing_point_percentage": 25.0
+      }
+    },
+    "candidate_scores": {
+      "Candidate_A_Balanced": {
+        "score": 72.55,
+        "weights": {
+          "coverage": 0.4,
+          "relevance": 0.4,
+          "discipline": 0.2
+        },
+        "formula_description": "40% Point Coverage + 40% Clear Relevance + 20% Topic Discipline"
+      },
+      "Candidate_B_PromiseFirst": {
+        "score": 73.37,
+        "weights": {
+          "coverage": 0.6,
+          "relevance": 0.25,
+          "discipline": 0.15
+        },
+        "formula_description": "60% Point Coverage + 25% Clear Relevance + 15% Topic Discipline"
+      },
+      "Candidate_C_FocusFirst": {
+        "score": 72.14,
+        "weights": {
+          "coverage": 0.3,
+          "relevance": 0.3,
+          "discipline": 0.4
+        },
+        "formula_description": "30% Point Coverage + 30% Clear Relevance + 40% Topic Discipline"
+      }
+    }
+  }
+}

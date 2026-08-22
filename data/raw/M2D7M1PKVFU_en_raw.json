@@ -1,0 +1,3164 @@
+{
+  "video_id": "M2D7M1PKVFU",
+  "source_type": "srt",
+  "language": "ENGLISH",
+  "file_path": "C:\\Users\\ADMIN\\Downloads\\UCUMccND2H_CVS0dMZKCPCXA\\UCUMccND2H_CVS0dMZKCPCXA\\M2D7M1PKVFU\\transcript\\en.srt",
+  "total_entries": 524,
+  "time_range": {
+    "start": 0.08,
+    "end": 1050.64,
+    "duration": 1050.56
+  },
+  "overlap_summary": {
+    "overlap_count": 523,
+    "has_overlap": true,
+    "max_overlap_seconds": 4.24
+  },
+  "parsing_issues": [],
+  "segments": [
+    {
+      "subtitle_id": 1,
+      "start": 0.08,
+      "end": 5.6,
+      "text": "All the data that is created in the world"
+    },
+    {
+      "subtitle_id": 2,
+      "start": 2.159,
+      "end": 8.88,
+      "text": "India alone creates 20% of its data."
+    },
+    {
+      "subtitle_id": 3,
+      "start": 5.6,
+      "end": 10.719,
+      "text": "But how much does it store? Only 1%. When"
+    },
+    {
+      "subtitle_id": 4,
+      "start": 8.88,
+      "end": 12.88,
+      "text": "Are you also making any UPI payment?"
+    },
+    {
+      "subtitle_id": 5,
+      "start": 10.719,
+      "end": 15.04,
+      "text": "Are you watching cricket match on Hotstar?"
+    },
+    {
+      "subtitle_id": 6,
+      "start": 12.88,
+      "end": 17.52,
+      "text": "Calling on WhatsApp, Chat GPT,"
+    },
+    {
+      "subtitle_id": 7,
+      "start": 15.04,
+      "end": 20.0,
+      "text": "Searching a query on cloud or GK"
+    },
+    {
+      "subtitle_id": 8,
+      "start": 17.52,
+      "end": 22.32,
+      "text": "Yes, then the data center behind everything"
+    },
+    {
+      "subtitle_id": 9,
+      "start": 20.0,
+      "end": 24.56,
+      "text": "Has a very important role. in the us"
+    },
+    {
+      "subtitle_id": 10,
+      "start": 22.32,
+      "end": 26.8,
+      "text": "Where the average data center capacity is 100"
+    },
+    {
+      "subtitle_id": 11,
+      "start": 24.56,
+      "end": 28.48,
+      "text": "It is of MW, how much will it be in India?"
+    },
+    {
+      "subtitle_id": 12,
+      "start": 26.8,
+      "end": 31.119,
+      "text": "The highest data center of India"
+    },
+    {
+      "subtitle_id": 13,
+      "start": 28.48,
+      "end": 32.88,
+      "text": "According to recent data it is 5.8 MW"
+    },
+    {
+      "subtitle_id": 14,
+      "start": 31.119,
+      "end": 34.719,
+      "text": "Is. That is, in the US where the minimum"
+    },
+    {
+      "subtitle_id": 15,
+      "start": 32.88,
+      "end": 37.04,
+      "text": "Capacity of data center starts"
+    },
+    {
+      "subtitle_id": 16,
+      "start": 34.719,
+      "end": 38.879,
+      "text": "Our highest is even lower than that. so the question"
+    },
+    {
+      "subtitle_id": 17,
+      "start": 37.04,
+      "end": 41.04,
+      "text": "is that which data center data center"
+    },
+    {
+      "subtitle_id": 18,
+      "start": 38.879,
+      "end": 44.079,
+      "text": "We have been hearing things for many years"
+    },
+    {
+      "subtitle_id": 19,
+      "start": 41.04,
+      "end": 45.68,
+      "text": "From. Is that going to be a big dream?"
+    },
+    {
+      "subtitle_id": 20,
+      "start": 44.079,
+      "end": 47.36,
+      "text": "In India? because in recent times"
+    },
+    {
+      "subtitle_id": 21,
+      "start": 45.68,
+      "end": 49.44,
+      "text": "If you look at it 7-8 years ago"
+    },
+    {
+      "subtitle_id": 22,
+      "start": 47.36,
+      "end": 51.2,
+      "text": "There was also a boom in manufacturing. Very"
+    },
+    {
+      "subtitle_id": 23,
+      "start": 49.44,
+      "end": 52.64,
+      "text": "Big things happened in India."
+    },
+    {
+      "subtitle_id": 24,
+      "start": 51.2,
+      "end": 54.399,
+      "text": "Big manufacturing is taking place. We"
+    },
+    {
+      "subtitle_id": 25,
+      "start": 52.64,
+      "end": 55.92,
+      "text": "We are going to compete with China somewhere"
+    },
+    {
+      "subtitle_id": 26,
+      "start": 54.399,
+      "end": 57.84,
+      "text": "Are. But this did not happen in reality."
+    },
+    {
+      "subtitle_id": 27,
+      "start": 55.92,
+      "end": 59.44,
+      "text": "If mobile manufacturing is left today"
+    },
+    {
+      "subtitle_id": 28,
+      "start": 57.84,
+      "end": 61.039,
+      "text": "We also get many things from China"
+    },
+    {
+      "subtitle_id": 29,
+      "start": 59.44,
+      "end": 62.8,
+      "text": "Let's import. But in today's video"
+    },
+    {
+      "subtitle_id": 30,
+      "start": 61.039,
+      "end": 64.879,
+      "text": "I will tell you why data center"
+    },
+    {
+      "subtitle_id": 31,
+      "start": 62.8,
+      "end": 66.96,
+      "text": "Chances of success remaining in India"
+    },
+    {
+      "subtitle_id": 32,
+      "start": 64.879,
+      "end": 68.72,
+      "text": "Much more than any other sector. as well as"
+    },
+    {
+      "subtitle_id": 33,
+      "start": 66.96,
+      "end": 71.04,
+      "text": "Today we will also know which ones"
+    },
+    {
+      "subtitle_id": 34,
+      "start": 68.72,
+      "end": 73.2,
+      "text": "There are sectors, there are companies which need this data."
+    },
+    {
+      "subtitle_id": 35,
+      "start": 71.04,
+      "end": 75.2,
+      "text": "Center boom can be of great benefit"
+    },
+    {
+      "subtitle_id": 36,
+      "start": 73.2,
+      "end": 77.36,
+      "text": "Is. Hello, I am your Prasad in today's"
+    },
+    {
+      "subtitle_id": 37,
+      "start": 75.2,
+      "end": 80.32,
+      "text": "Welcome to the video. in 2023"
+    },
+    {
+      "subtitle_id": 38,
+      "start": 77.36,
+      "end": 82.479,
+      "text": "India passed an act. the name of the act was"
+    },
+    {
+      "subtitle_id": 39,
+      "start": 80.32,
+      "end": 84.88,
+      "text": "Digital Personal Data Protection Act. i.e"
+    },
+    {
+      "subtitle_id": 40,
+      "start": 82.479,
+      "end": 87.2,
+      "text": "Companies were forced as per law"
+    },
+    {
+      "subtitle_id": 41,
+      "start": 84.88,
+      "end": 89.439,
+      "text": "That the data of Indian citizens is in India only"
+    },
+    {
+      "subtitle_id": 42,
+      "start": 87.2,
+      "end": 91.52,
+      "text": "To be stored. Even if you are a bank,"
+    },
+    {
+      "subtitle_id": 43,
+      "start": 89.439,
+      "end": 93.439,
+      "text": "Be it hospitals, fintech or OTT"
+    },
+    {
+      "subtitle_id": 44,
+      "start": 91.52,
+      "end": 95.52,
+      "text": "Have platforms. So first where this data"
+    },
+    {
+      "subtitle_id": 45,
+      "start": 93.439,
+      "end": 97.84,
+      "text": "Stores in countries like US and Singapore"
+    },
+    {
+      "subtitle_id": 46,
+      "start": 95.52,
+      "end": 99.68,
+      "text": "Was done. The government forced that"
+    },
+    {
+      "subtitle_id": 47,
+      "start": 97.84,
+      "end": 102.0,
+      "text": "You should store it in India only"
+    },
+    {
+      "subtitle_id": 48,
+      "start": 99.68,
+      "end": 104.079,
+      "text": "Will have to. What happened to impact? The impact happened"
+    },
+    {
+      "subtitle_id": 49,
+      "start": 102.0,
+      "end": 106.479,
+      "text": "That big banks like HDFC Bank,"
+    },
+    {
+      "subtitle_id": 50,
+      "start": 104.079,
+      "end": 108.799,
+      "text": "ICICI Bank Now with its dedicated data"
+    },
+    {
+      "subtitle_id": 51,
+      "start": 106.479,
+      "end": 110.56,
+      "text": "Building campuses. i.e. where"
+    },
+    {
+      "subtitle_id": 52,
+      "start": 108.799,
+      "end": 112.88,
+      "text": "People are understanding that the child GPT,"
+    },
+    {
+      "subtitle_id": 53,
+      "start": 110.56,
+      "end": 114.64,
+      "text": "Grock and Claude came because of him, Data"
+    },
+    {
+      "subtitle_id": 54,
+      "start": 112.88,
+      "end": 116.56,
+      "text": "There is a need for a centre. Or else"
+    },
+    {
+      "subtitle_id": 55,
+      "start": 114.64,
+      "end": 118.799,
+      "text": "Non core technology companies of India"
+    },
+    {
+      "subtitle_id": 56,
+      "start": 116.56,
+      "end": 120.88,
+      "text": "Yes, banks have come, many companies have come,"
+    },
+    {
+      "subtitle_id": 57,
+      "start": 118.799,
+      "end": 123.119,
+      "text": "Sectors have arrived, they also need to get their data now"
+    },
+    {
+      "subtitle_id": 58,
+      "start": 120.88,
+      "end": 125.04,
+      "text": "Centers will have to be made. if their scale"
+    },
+    {
+      "subtitle_id": 59,
+      "start": 123.119,
+      "end": 126.719,
+      "text": "Has it increased or is it from some other data center?"
+    },
+    {
+      "subtitle_id": 60,
+      "start": 125.04,
+      "end": 129.2,
+      "text": "Will have to use. what is its impact"
+    },
+    {
+      "subtitle_id": 61,
+      "start": 126.719,
+      "end": 130.8,
+      "text": "Happened? So ₹3 lakh crore in this sector"
+    },
+    {
+      "subtitle_id": 62,
+      "start": 129.2,
+      "end": 132.879,
+      "text": "Invested in the last 2 years."
+    },
+    {
+      "subtitle_id": 63,
+      "start": 130.8,
+      "end": 135.28,
+      "text": "AWS signs MoU Maharashtra"
+    },
+    {
+      "subtitle_id": 64,
+      "start": 132.879,
+      "end": 137.28,
+      "text": "Rs 70,000 crore with the government"
+    },
+    {
+      "subtitle_id": 65,
+      "start": 135.28,
+      "end": 138.861,
+      "text": "For investment. Also recently"
+    },
+    {
+      "subtitle_id": 66,
+      "start": 137.28,
+      "end": 140.959,
+      "text": "If we look in Vizag then Google"
+    },
+    {
+      "subtitle_id": 67,
+      "start": 138.861,
+      "end": 143.2,
+      "text": "[Music] made around 50000 crores"
+    },
+    {
+      "subtitle_id": 68,
+      "start": 140.959,
+      "end": 145.599,
+      "text": "Investment is made in data center and power"
+    },
+    {
+      "subtitle_id": 69,
+      "start": 143.2,
+      "end": 147.28,
+      "text": "For infra. Microsoft whose already"
+    },
+    {
+      "subtitle_id": 70,
+      "start": 145.599,
+      "end": 149.28,
+      "text": "Hyderabad now has a data center"
+    },
+    {
+      "subtitle_id": 71,
+      "start": 147.28,
+      "end": 151.28,
+      "text": "Expanding further in Hyderabad region."
+    },
+    {
+      "subtitle_id": 72,
+      "start": 149.28,
+      "end": 153.44,
+      "text": "So overall this is the story. now in this situation"
+    },
+    {
+      "subtitle_id": 73,
+      "start": 151.28,
+      "end": 155.92,
+      "text": "Be it Google's servers, Amazon's AWS"
+    },
+    {
+      "subtitle_id": 74,
+      "start": 153.44,
+      "end": 158.08,
+      "text": "Server or Microsoft Azure server"
+    },
+    {
+      "subtitle_id": 75,
+      "start": 155.92,
+      "end": 160.16,
+      "text": "Yes, they are used a lot by Indian companies."
+    },
+    {
+      "subtitle_id": 76,
+      "start": 158.08,
+      "end": 162.239,
+      "text": "Does it. Now they are facing a lot of problems"
+    },
+    {
+      "subtitle_id": 77,
+      "start": 160.16,
+      "end": 164.56,
+      "text": "Were related to taxation due to which recent"
+    },
+    {
+      "subtitle_id": 78,
+      "start": 162.239,
+      "end": 166.4,
+      "text": "It was announced in the budget that whatever global"
+    },
+    {
+      "subtitle_id": 79,
+      "start": 164.56,
+      "end": 169.76,
+      "text": "Companies are building data centers in India"
+    },
+    {
+      "subtitle_id": 80,
+      "start": 166.4,
+      "end": 171.599,
+      "text": "Want to get tax holiday till 2047"
+    },
+    {
+      "subtitle_id": 81,
+      "start": 169.76,
+      "end": 173.28,
+      "text": "which is a huge boost"
+    },
+    {
+      "subtitle_id": 82,
+      "start": 171.599,
+      "end": 175.36,
+      "text": "For the entire sector. Look, if you want data"
+    },
+    {
+      "subtitle_id": 83,
+      "start": 173.28,
+      "end": 177.2,
+      "text": "Center sector in a very good way if"
+    },
+    {
+      "subtitle_id": 84,
+      "start": 175.36,
+      "end": 178.8,
+      "text": "If you want to understand then its positive side."
+    },
+    {
+      "subtitle_id": 85,
+      "start": 177.2,
+      "end": 180.879,
+      "text": "I talked about it being a huge opportunity"
+    },
+    {
+      "subtitle_id": 86,
+      "start": 178.8,
+      "end": 182.64,
+      "text": "Is. I will talk further but its negative"
+    },
+    {
+      "subtitle_id": 87,
+      "start": 180.879,
+      "end": 184.08,
+      "text": "It is also important to understand the side. one for him"
+    },
+    {
+      "subtitle_id": 88,
+      "start": 182.64,
+      "end": 186.159,
+      "text": "Interesting case study let me tell you"
+    },
+    {
+      "subtitle_id": 89,
+      "start": 184.08,
+      "end": 187.84,
+      "text": "Am. See, there is a village named Mekaguda"
+    },
+    {
+      "subtitle_id": 90,
+      "start": 186.159,
+      "end": 190.08,
+      "text": "Whose name you probably never heard of"
+    },
+    {
+      "subtitle_id": 91,
+      "start": 187.84,
+      "end": 193.2,
+      "text": "will be. This is a small place near Hyderabad"
+    },
+    {
+      "subtitle_id": 92,
+      "start": 190.08,
+      "end": 195.84,
+      "text": "It is a village. Now the people who are here are generals"
+    },
+    {
+      "subtitle_id": 93,
+      "start": 193.2,
+      "end": 198.08,
+      "text": "Do farming and sell milk. it"
+    },
+    {
+      "subtitle_id": 94,
+      "start": 195.84,
+      "end": 200.0,
+      "text": "They have two main sources of revenue. And"
+    },
+    {
+      "subtitle_id": 95,
+      "start": 198.08,
+      "end": 202.159,
+      "text": "They are the economy of the entire village."
+    },
+    {
+      "subtitle_id": 96,
+      "start": 200.0,
+      "end": 204.08,
+      "text": "It depends on two-three things. now farming"
+    },
+    {
+      "subtitle_id": 97,
+      "start": 202.159,
+      "end": 206.319,
+      "text": "If so, water is required for farming. So"
+    },
+    {
+      "subtitle_id": 98,
+      "start": 204.08,
+      "end": 208.239,
+      "text": "There is a lake named Tunga Kunda near the village."
+    },
+    {
+      "subtitle_id": 99,
+      "start": 206.319,
+      "end": 210.0,
+      "text": "Is. From where their farms get water"
+    },
+    {
+      "subtitle_id": 100,
+      "start": 208.239,
+      "end": 211.519,
+      "text": "And the water here is for their economy."
+    },
+    {
+      "subtitle_id": 101,
+      "start": 210.0,
+      "end": 213.28,
+      "text": "It is very important. a few years ago"
+    },
+    {
+      "subtitle_id": 102,
+      "start": 211.519,
+      "end": 214.959,
+      "text": "Microsoft whose India head quarter"
+    },
+    {
+      "subtitle_id": 103,
+      "start": 213.28,
+      "end": 217.12,
+      "text": "Currently in Hyderabad. he a lot"
+    },
+    {
+      "subtitle_id": 104,
+      "start": 214.959,
+      "end": 218.72,
+      "text": "Made a big announcement that we will open our data center"
+    },
+    {
+      "subtitle_id": 105,
+      "start": 217.12,
+      "end": 220.799,
+      "text": "Hyderabad Outskirts is going to open"
+    },
+    {
+      "subtitle_id": 106,
+      "start": 218.72,
+      "end": 223.36,
+      "text": "In. There was huge applause, huge applause."
+    },
+    {
+      "subtitle_id": 107,
+      "start": 220.799,
+      "end": 225.44,
+      "text": "Headlines made and their data center"
+    },
+    {
+      "subtitle_id": 108,
+      "start": 223.36,
+      "end": 226.959,
+      "text": "Made in this village. now at the beginning"
+    },
+    {
+      "subtitle_id": 109,
+      "start": 225.44,
+      "end": 228.48,
+      "text": "Slowly the villagers also became happy here"
+    },
+    {
+      "subtitle_id": 110,
+      "start": 226.959,
+      "end": 230.48,
+      "text": "Because the people there also need small things"
+    },
+    {
+      "subtitle_id": 111,
+      "start": 228.48,
+      "end": 232.239,
+      "text": "Jobs found here. This data center is"
+    },
+    {
+      "subtitle_id": 112,
+      "start": 230.48,
+      "end": 234.08,
+      "text": "Employs approximately 200 people."
+    },
+    {
+      "subtitle_id": 113,
+      "start": 232.239,
+      "end": 236.0,
+      "text": "Telangana government supported him a lot"
+    },
+    {
+      "subtitle_id": 114,
+      "start": 234.08,
+      "end": 237.519,
+      "text": "Also done because for the economy such"
+    },
+    {
+      "subtitle_id": 115,
+      "start": 236.0,
+      "end": 239.2,
+      "text": "Data centers are also very important"
+    },
+    {
+      "subtitle_id": 116,
+      "start": 237.519,
+      "end": 240.959,
+      "text": "Are. Before proceeding further in the video you should"
+    },
+    {
+      "subtitle_id": 117,
+      "start": 239.2,
+      "end": 243.04,
+      "text": "Let me tell you that many people invest"
+    },
+    {
+      "subtitle_id": 118,
+      "start": 240.959,
+      "end": 245.04,
+      "text": "Want to do it but do all this research,"
+    },
+    {
+      "subtitle_id": 119,
+      "start": 243.04,
+      "end": 247.12,
+      "text": "Do not give time for valuation"
+    },
+    {
+      "subtitle_id": 120,
+      "start": 245.04,
+      "end": 249.439,
+      "text": "Find. And for busy people like this we have"
+    },
+    {
+      "subtitle_id": 121,
+      "start": 247.12,
+      "end": 251.28,
+      "text": "lch ekhi pro in which my team your work"
+    },
+    {
+      "subtitle_id": 122,
+      "start": 249.439,
+      "end": 252.64,
+      "text": "Will make it absolutely easy. those good shares"
+    },
+    {
+      "subtitle_id": 123,
+      "start": 251.28,
+      "end": 254.4,
+      "text": "Will find. Will research on them,"
+    },
+    {
+      "subtitle_id": 124,
+      "start": 252.64,
+      "end": 255.76,
+      "text": "Will find out valuation and stock now"
+    },
+    {
+      "subtitle_id": 125,
+      "start": 254.4,
+      "end": 258.079,
+      "text": "Good to enter the market"
+    },
+    {
+      "subtitle_id": 126,
+      "start": 255.76,
+      "end": 260.0,
+      "text": "She will also tell you whether she has time or not and"
+    },
+    {
+      "subtitle_id": 127,
+      "start": 258.079,
+      "end": 262.0,
+      "text": "Stock that stock for you on daily basis"
+    },
+    {
+      "subtitle_id": 128,
+      "start": 260.0,
+      "end": 263.84,
+      "text": "Will also track so that your work will be done"
+    },
+    {
+      "subtitle_id": 129,
+      "start": 262.0,
+      "end": 265.68,
+      "text": "no brainer. And yes we are SEBI"
+    },
+    {
+      "subtitle_id": 130,
+      "start": 263.84,
+      "end": 267.52,
+      "text": "Registered Research Analyst. this community"
+    },
+    {
+      "subtitle_id": 131,
+      "start": 265.68,
+      "end": 269.199,
+      "text": "There are two plans. one is 6 months old"
+    },
+    {
+      "subtitle_id": 132,
+      "start": 267.52,
+      "end": 271.12,
+      "text": "In which you will get six well research stocks"
+    },
+    {
+      "subtitle_id": 133,
+      "start": 269.199,
+      "end": 272.96,
+      "text": "will meet and the second one is of 12 months in which"
+    },
+    {
+      "subtitle_id": 134,
+      "start": 271.12,
+      "end": 274.56,
+      "text": "You will find 12 Well Research stocks. So"
+    },
+    {
+      "subtitle_id": 135,
+      "start": 272.96,
+      "end": 277.199,
+      "text": "You can get all these things through email and WhatsApp."
+    },
+    {
+      "subtitle_id": 136,
+      "start": 274.56,
+      "end": 278.4,
+      "text": "Will be given through. Then what are you waiting for? One pro"
+    },
+    {
+      "subtitle_id": 137,
+      "start": 277.199,
+      "end": 280.0,
+      "text": "You will find the inquiry form below."
+    },
+    {
+      "subtitle_id": 138,
+      "start": 278.4,
+      "end": 282.0,
+      "text": "Find in description and comment box"
+    },
+    {
+      "subtitle_id": 139,
+      "start": 280.0,
+      "end": 284.16,
+      "text": "Will go. Fill out that form and my team will contact you."
+    },
+    {
+      "subtitle_id": 140,
+      "start": 282.0,
+      "end": 286.4,
+      "text": "will connect and tell you all about it"
+    },
+    {
+      "subtitle_id": 141,
+      "start": 284.16,
+      "end": 288.72,
+      "text": "Will give information. So see you in the community"
+    },
+    {
+      "subtitle_id": 142,
+      "start": 286.4,
+      "end": 290.32,
+      "text": "And Yes One More Thing We Did Recently"
+    },
+    {
+      "subtitle_id": 143,
+      "start": 288.72,
+      "end": 292.16,
+      "text": "Times Community is also of LCH where"
+    },
+    {
+      "subtitle_id": 144,
+      "start": 290.32,
+      "end": 293.84,
+      "text": "Daily updates of stock market and all"
+    },
+    {
+      "subtitle_id": 145,
+      "start": 292.16,
+      "end": 295.919,
+      "text": "You can find reviews of IPOS here"
+    },
+    {
+      "subtitle_id": 146,
+      "start": 293.84,
+      "end": 298.24,
+      "text": "Are. With Ika it is absolutely free to you."
+    },
+    {
+      "subtitle_id": 147,
+      "start": 295.919,
+      "end": 300.0,
+      "text": "Get it. If you enroll in Ek pro this month"
+    },
+    {
+      "subtitle_id": 148,
+      "start": 298.24,
+      "end": 301.919,
+      "text": "If you do. So definitely take advantage of this special offer."
+    },
+    {
+      "subtitle_id": 149,
+      "start": 300.0,
+      "end": 303.84,
+      "text": "Take advantage. Let's move towards the video."
+    },
+    {
+      "subtitle_id": 150,
+      "start": 301.919,
+      "end": 305.68,
+      "text": "But meanwhile these villagers"
+    },
+    {
+      "subtitle_id": 151,
+      "start": 303.84,
+      "end": 307.68,
+      "text": "He observed some things. they"
+    },
+    {
+      "subtitle_id": 152,
+      "start": 305.68,
+      "end": 309.6,
+      "text": "I saw that this lake has a lot of water."
+    },
+    {
+      "subtitle_id": 153,
+      "start": 307.68,
+      "end": 311.84,
+      "text": "is decreasing rapidly and not just"
+    },
+    {
+      "subtitle_id": 154,
+      "start": 309.6,
+      "end": 313.919,
+      "text": "Microsoft's data is decreasing"
+    },
+    {
+      "subtitle_id": 155,
+      "start": 311.84,
+      "end": 315.28,
+      "text": "Centre. Dumping this lake like a yard"
+    },
+    {
+      "subtitle_id": 156,
+      "start": 313.919,
+      "end": 317.919,
+      "text": "Is using. whatever industrial waste"
+    },
+    {
+      "subtitle_id": 157,
+      "start": 315.28,
+      "end": 319.68,
+      "text": "is from the data center and is putting it here"
+    },
+    {
+      "subtitle_id": 158,
+      "start": 317.919,
+      "end": 321.52,
+      "text": "Due to which the water is getting spoiled. of water"
+    },
+    {
+      "subtitle_id": 159,
+      "start": 319.68,
+      "end": 323.039,
+      "text": "The quantity is also decreasing due to excessive use."
+    },
+    {
+      "subtitle_id": 160,
+      "start": 321.52,
+      "end": 325.36,
+      "text": "Because the data center needs too much"
+    },
+    {
+      "subtitle_id": 161,
+      "start": 323.039,
+      "end": 327.919,
+      "text": "Looks like water. How much do you think perhaps?"
+    },
+    {
+      "subtitle_id": 162,
+      "start": 325.36,
+      "end": 330.16,
+      "text": "You will be surprised to hear. See if you AI"
+    },
+    {
+      "subtitle_id": 163,
+      "start": 327.919,
+      "end": 333.44,
+      "text": "But if you type a prompt of 100 words"
+    },
+    {
+      "subtitle_id": 164,
+      "start": 330.16,
+      "end": 335.28,
+      "text": "So for that 590 ml i.e. half liter"
+    },
+    {
+      "subtitle_id": 165,
+      "start": 333.44,
+      "end": 337.039,
+      "text": "Water is supplied to the data center here."
+    },
+    {
+      "subtitle_id": 166,
+      "start": 335.28,
+      "end": 339.28,
+      "text": "Because like this village, Greater Noida"
+    },
+    {
+      "subtitle_id": 167,
+      "start": 337.039,
+      "end": 341.44,
+      "text": "Data is Building a Massive Campus in Utah"
+    },
+    {
+      "subtitle_id": 168,
+      "start": 339.28,
+      "end": 343.199,
+      "text": "Of the centre. The residents there"
+    },
+    {
+      "subtitle_id": 169,
+      "start": 341.44,
+      "end": 345.28,
+      "text": "Are also protesting. this is what they say"
+    },
+    {
+      "subtitle_id": 170,
+      "start": 343.199,
+      "end": 347.759,
+      "text": "That the ground water from here 20 years ago"
+    },
+    {
+      "subtitle_id": 171,
+      "start": 345.28,
+      "end": 350.4,
+      "text": "It used to come at a distance of 20-30 feet only. But"
+    },
+    {
+      "subtitle_id": 172,
+      "start": 347.759,
+      "end": 352.4,
+      "text": "Despite 80 feet of digging here"
+    },
+    {
+      "subtitle_id": 173,
+      "start": 350.4,
+      "end": 353.84,
+      "text": "Water is not coming out. And this one from Yota"
+    },
+    {
+      "subtitle_id": 174,
+      "start": 352.4,
+      "end": 356.639,
+      "text": "How much water does a data center consume in a day?"
+    },
+    {
+      "subtitle_id": 175,
+      "start": 353.84,
+      "end": 358.8,
+      "text": "Do you know who is going to consume? 2 million"
+    },
+    {
+      "subtitle_id": 176,
+      "start": 356.639,
+      "end": 360.8,
+      "text": "Litre. That is, if the data center is in your area"
+    },
+    {
+      "subtitle_id": 177,
+      "start": 358.8,
+      "end": 362.639,
+      "text": "If he is coming, he is also carrying some problems."
+    },
+    {
+      "subtitle_id": 178,
+      "start": 360.8,
+      "end": 364.4,
+      "text": "Is coming. That's why strategic location here"
+    },
+    {
+      "subtitle_id": 179,
+      "start": 362.639,
+      "end": 366.16,
+      "text": "But it matters a lot. Now here's the data"
+    },
+    {
+      "subtitle_id": 180,
+      "start": 364.4,
+      "end": 368.16,
+      "text": "If India ranks number one in the center"
+    },
+    {
+      "subtitle_id": 181,
+      "start": 366.16,
+      "end": 370.479,
+      "text": "There is someone. See Singapore here a few years ago"
+    },
+    {
+      "subtitle_id": 182,
+      "start": 368.16,
+      "end": 372.319,
+      "text": "But used to be on top. because of this water"
+    },
+    {
+      "subtitle_id": 183,
+      "start": 370.479,
+      "end": 374.4,
+      "text": "Singapore government said that brother we"
+    },
+    {
+      "subtitle_id": 184,
+      "start": 372.319,
+      "end": 376.0,
+      "text": "Do not bring data center. last 3 years"
+    },
+    {
+      "subtitle_id": 185,
+      "start": 374.4,
+      "end": 378.4,
+      "text": "How many data centers have they approved in India?"
+    },
+    {
+      "subtitle_id": 186,
+      "start": 376.0,
+      "end": 379.84,
+      "text": "Must have done. Not even one. because of this"
+    },
+    {
+      "subtitle_id": 187,
+      "start": 378.4,
+      "end": 381.759,
+      "text": "India saw an opportunity here"
+    },
+    {
+      "subtitle_id": 188,
+      "start": 379.84,
+      "end": 384.0,
+      "text": "That we can boom on the data center."
+    },
+    {
+      "subtitle_id": 189,
+      "start": 381.759,
+      "end": 385.84,
+      "text": "Our economy can boom. off course"
+    },
+    {
+      "subtitle_id": 190,
+      "start": 384.0,
+      "end": 387.68,
+      "text": "It also has a cost. but strategic"
+    },
+    {
+      "subtitle_id": 191,
+      "start": 385.84,
+      "end": 389.52,
+      "text": "Location is very important here. so india"
+    },
+    {
+      "subtitle_id": 192,
+      "start": 387.68,
+      "end": 391.6,
+      "text": "Currently the number one location data center in"
+    },
+    {
+      "subtitle_id": 193,
+      "start": 389.52,
+      "end": 393.759,
+      "text": "That is Navi Mumbai where Yota"
+    },
+    {
+      "subtitle_id": 194,
+      "start": 391.6,
+      "end": 395.759,
+      "text": "The company I talked about is in Greater Noida."
+    },
+    {
+      "subtitle_id": 195,
+      "start": 393.759,
+      "end": 397.52,
+      "text": "It is already in Navi Mumbai."
+    },
+    {
+      "subtitle_id": 196,
+      "start": 395.759,
+      "end": 399.36,
+      "text": "AWS is also working Navi Mumbai"
+    },
+    {
+      "subtitle_id": 197,
+      "start": 397.52,
+      "end": 401.52,
+      "text": "data centers in and at"
+    },
+    {
+      "subtitle_id": 198,
+      "start": 399.36,
+      "end": 403.52,
+      "text": "The second hub which is coming in the center case which"
+    },
+    {
+      "subtitle_id": 199,
+      "start": 401.52,
+      "end": 406.4,
+      "text": "Navi Mumbai will also be left behind in the times to come"
+    },
+    {
+      "subtitle_id": 200,
+      "start": 403.52,
+      "end": 408.8,
+      "text": "Andhra Pradesh Government will give that."
+    },
+    {
+      "subtitle_id": 201,
+      "start": 406.4,
+      "end": 410.72,
+      "text": "These data center companies get huge lands"
+    },
+    {
+      "subtitle_id": 202,
+      "start": 408.8,
+      "end": 412.96,
+      "text": "She is providing parcel and that too very well."
+    },
+    {
+      "subtitle_id": 203,
+      "start": 410.72,
+      "end": 415.12,
+      "text": "At the Same Time AP in Discounted Value"
+    },
+    {
+      "subtitle_id": 204,
+      "start": 412.96,
+      "end": 416.96,
+      "text": "Government owned renewable energy companies"
+    },
+    {
+      "subtitle_id": 205,
+      "start": 415.12,
+      "end": 418.639,
+      "text": "They are also being given huge subsidies that"
+    },
+    {
+      "subtitle_id": 206,
+      "start": 416.96,
+      "end": 420.639,
+      "text": "You come and do manufacturing with us"
+    },
+    {
+      "subtitle_id": 207,
+      "start": 418.639,
+      "end": 422.72,
+      "text": "Because they know that if the data center"
+    },
+    {
+      "subtitle_id": 208,
+      "start": 420.639,
+      "end": 424.639,
+      "text": "If you bring then three or four things are very important."
+    },
+    {
+      "subtitle_id": 209,
+      "start": 422.72,
+      "end": 427.28,
+      "text": "Firstly, cooling companies will have to be brought in."
+    },
+    {
+      "subtitle_id": 210,
+      "start": 424.639,
+      "end": 428.88,
+      "text": "Energy that is if you are using AI"
+    },
+    {
+      "subtitle_id": 211,
+      "start": 427.28,
+      "end": 430.96,
+      "text": "So do you know its raw material?"
+    },
+    {
+      "subtitle_id": 212,
+      "start": 428.88,
+      "end": 433.039,
+      "text": "It is not even a data center. his raw"
+    },
+    {
+      "subtitle_id": 213,
+      "start": 430.96,
+      "end": 435.28,
+      "text": "The material is not even a semiconductor. his main"
+    },
+    {
+      "subtitle_id": 214,
+      "start": 433.039,
+      "end": 437.28,
+      "text": "Raw material is energy. This energy is very"
+    },
+    {
+      "subtitle_id": 215,
+      "start": 435.28,
+      "end": 439.199,
+      "text": "Consume more. as cheap as"
+    },
+    {
+      "subtitle_id": 216,
+      "start": 437.28,
+      "end": 441.039,
+      "text": "The more energy you get, the better the work will be. I"
+    },
+    {
+      "subtitle_id": 217,
+      "start": 439.199,
+      "end": 442.72,
+      "text": "Even if I come on energy, Andhra will come here."
+    },
+    {
+      "subtitle_id": 218,
+      "start": 441.039,
+      "end": 444.16,
+      "text": "State Government on creating an ecosystem"
+    },
+    {
+      "subtitle_id": 219,
+      "start": 442.72,
+      "end": 446.56,
+      "text": "Is working. And here the water"
+    },
+    {
+      "subtitle_id": 220,
+      "start": 444.16,
+      "end": 448.96,
+      "text": "If there is a problem then how can the sea water be used?"
+    },
+    {
+      "subtitle_id": 221,
+      "start": 446.56,
+      "end": 450.88,
+      "text": "Will you use it? How will you treat?"
+    },
+    {
+      "subtitle_id": 222,
+      "start": 448.96,
+      "end": 453.199,
+      "text": "This is a big challenge in front of them."
+    },
+    {
+      "subtitle_id": 223,
+      "start": 450.88,
+      "end": 455.28,
+      "text": "For which there is only one session and that is extensive."
+    },
+    {
+      "subtitle_id": 224,
+      "start": 453.199,
+      "end": 457.039,
+      "text": "RAD means Research and Development. Now"
+    },
+    {
+      "subtitle_id": 225,
+      "start": 455.28,
+      "end": 458.72,
+      "text": "Look at the way the government forced"
+    },
+    {
+      "subtitle_id": 226,
+      "start": 457.039,
+      "end": 461.039,
+      "text": "Do companies have data centers in India?"
+    },
+    {
+      "subtitle_id": 227,
+      "start": 458.72,
+      "end": 462.639,
+      "text": "Will have to be made. So there are some drawbacks"
+    },
+    {
+      "subtitle_id": 228,
+      "start": 461.039,
+      "end": 464.319,
+      "text": "But they have to come to India only."
+    },
+    {
+      "subtitle_id": 229,
+      "start": 462.639,
+      "end": 466.96,
+      "text": "There is a lot of data in India only."
+    },
+    {
+      "subtitle_id": 230,
+      "start": 464.319,
+      "end": 468.88,
+      "text": "To center companies. Now they will come here"
+    },
+    {
+      "subtitle_id": 231,
+      "start": 466.96,
+      "end": 470.319,
+      "text": "If you build a data center then there are some things"
+    },
+    {
+      "subtitle_id": 232,
+      "start": 468.88,
+      "end": 472.24,
+      "text": "Which directly benefits some sectors"
+    },
+    {
+      "subtitle_id": 233,
+      "start": 470.319,
+      "end": 474.08,
+      "text": "will get. Some companies will get it. look i"
+    },
+    {
+      "subtitle_id": 234,
+      "start": 472.24,
+      "end": 476.639,
+      "text": "I want to tell you a story here."
+    },
+    {
+      "subtitle_id": 235,
+      "start": 474.08,
+      "end": 478.72,
+      "text": "This is the story of 1850 California."
+    },
+    {
+      "subtitle_id": 236,
+      "start": 476.639,
+      "end": 481.759,
+      "text": "California comes to America. over there"
+    },
+    {
+      "subtitle_id": 237,
+      "start": 478.72,
+      "end": 483.68,
+      "text": "Gold rush happened. Gold Rush means many things"
+    },
+    {
+      "subtitle_id": 238,
+      "start": 481.759,
+      "end": 485.759,
+      "text": "Companies found out that a lot of people"
+    },
+    {
+      "subtitle_id": 239,
+      "start": 483.68,
+      "end": 487.84,
+      "text": "Man, if we dig here,"
+    },
+    {
+      "subtitle_id": 240,
+      "start": 485.759,
+      "end": 490.08,
+      "text": "We will get gold. so big there"
+    },
+    {
+      "subtitle_id": 241,
+      "start": 487.84,
+      "end": 492.72,
+      "text": "A large number of companies and people came to do mining."
+    },
+    {
+      "subtitle_id": 242,
+      "start": 490.08,
+      "end": 494.8,
+      "text": "Engaged. Now someone got success in that time"
+    },
+    {
+      "subtitle_id": 243,
+      "start": 492.72,
+      "end": 497.919,
+      "text": "So no one found it. but some"
+    },
+    {
+      "subtitle_id": 244,
+      "start": 494.8,
+      "end": 500.08,
+      "text": "There were particular companies which are today the largest in the world."
+    },
+    {
+      "subtitle_id": 245,
+      "start": 497.919,
+      "end": 502.08,
+      "text": "Big companies have been formed in that sector."
+    },
+    {
+      "subtitle_id": 246,
+      "start": 500.08,
+      "end": 504.0,
+      "text": "He applied something different there."
+    },
+    {
+      "subtitle_id": 247,
+      "start": 502.08,
+      "end": 505.599,
+      "text": "They thought we would mine gold"
+    },
+    {
+      "subtitle_id": 248,
+      "start": 504.0,
+      "end": 508.8,
+      "text": "You may or may not get gold."
+    },
+    {
+      "subtitle_id": 249,
+      "start": 505.599,
+      "end": 510.24,
+      "text": "Can. Chances are 50-50. 100% chances what?"
+    },
+    {
+      "subtitle_id": 250,
+      "start": 508.8,
+      "end": 512.32,
+      "text": "will happen? I think a lot of you"
+    },
+    {
+      "subtitle_id": 251,
+      "start": 510.24,
+      "end": 514.8,
+      "text": "Everyone must use Levitros jeans."
+    },
+    {
+      "subtitle_id": 252,
+      "start": 512.32,
+      "end": 516.719,
+      "text": "Must have been. This brand was also prepared during the same period"
+    },
+    {
+      "subtitle_id": 253,
+      "start": 514.8,
+      "end": 518.8,
+      "text": "Happened. A person named Levistraus migrated."
+    },
+    {
+      "subtitle_id": 254,
+      "start": 516.719,
+      "end": 520.399,
+      "text": "Happened in the same area during the same gold rush."
+    },
+    {
+      "subtitle_id": 255,
+      "start": 518.8,
+      "end": 521.839,
+      "text": "Here he concentrated on what"
+    },
+    {
+      "subtitle_id": 256,
+      "start": 520.399,
+      "end": 524.72,
+      "text": "Minors are for them if we get good genes"
+    },
+    {
+      "subtitle_id": 257,
+      "start": 521.839,
+      "end": 526.64,
+      "text": "Will make it so that the digging and mining is done."
+    },
+    {
+      "subtitle_id": 258,
+      "start": 524.72,
+      "end": 528.959,
+      "text": "If you can do it well then"
+    },
+    {
+      "subtitle_id": 259,
+      "start": 526.64,
+      "end": 530.64,
+      "text": "There will be a lot of benefit and I will also earn money."
+    },
+    {
+      "subtitle_id": 260,
+      "start": 528.959,
+      "end": 532.08,
+      "text": "There are many labourers. success to someone"
+    },
+    {
+      "subtitle_id": 261,
+      "start": 530.64,
+      "end": 534.24,
+      "text": "I may or may not get it but I will definitely get it."
+    },
+    {
+      "subtitle_id": 262,
+      "start": 532.08,
+      "end": 536.32,
+      "text": "Will be successful. levi strauss world today"
+    },
+    {
+      "subtitle_id": 263,
+      "start": 534.24,
+      "end": 538.399,
+      "text": "One of the biggest clothing brands in"
+    },
+    {
+      "subtitle_id": 264,
+      "start": 536.32,
+      "end": 539.92,
+      "text": "Is one of. And it's not just him alone."
+    },
+    {
+      "subtitle_id": 265,
+      "start": 538.399,
+      "end": 542.0,
+      "text": "Here I would like to add another case study."
+    },
+    {
+      "subtitle_id": 266,
+      "start": 539.92,
+      "end": 543.68,
+      "text": "Would like. There was another person who"
+    },
+    {
+      "subtitle_id": 267,
+      "start": 542.0,
+      "end": 546.0,
+      "text": "But saw the opportunity. his name was henry"
+    },
+    {
+      "subtitle_id": 268,
+      "start": 543.68,
+      "end": 547.519,
+      "text": "Wills. They saw that look friend mining"
+    },
+    {
+      "subtitle_id": 269,
+      "start": 546.0,
+      "end": 549.279,
+      "text": "There will be gold etc. a lot of people"
+    },
+    {
+      "subtitle_id": 270,
+      "start": 547.519,
+      "end": 551.12,
+      "text": "Will come, if there is transport then they will be here"
+    },
+    {
+      "subtitle_id": 271,
+      "start": 549.279,
+      "end": 552.959,
+      "text": "But banking and transport are also needed"
+    },
+    {
+      "subtitle_id": 272,
+      "start": 551.12,
+      "end": 554.8,
+      "text": "Will have to. I could solve this problem"
+    },
+    {
+      "subtitle_id": 273,
+      "start": 552.959,
+      "end": 556.88,
+      "text": "Am. That's why they started providing banking services."
+    },
+    {
+      "subtitle_id": 274,
+      "start": 554.8,
+      "end": 558.72,
+      "text": "Started mining companies and labourers."
+    },
+    {
+      "subtitle_id": 275,
+      "start": 556.88,
+      "end": 561.2,
+      "text": "Also providing transport service"
+    },
+    {
+      "subtitle_id": 276,
+      "start": 558.72,
+      "end": 563.44,
+      "text": "began. What was the result? Success. Very"
+    },
+    {
+      "subtitle_id": 277,
+      "start": 561.2,
+      "end": 565.279,
+      "text": "Big success. Today he started the company"
+    },
+    {
+      "subtitle_id": 278,
+      "start": 563.44,
+      "end": 567.68,
+      "text": "One of the biggest financial in the world"
+    },
+    {
+      "subtitle_id": 279,
+      "start": 565.279,
+      "end": 570.56,
+      "text": "is one of the service companies named"
+    },
+    {
+      "subtitle_id": 280,
+      "start": 567.68,
+      "end": 572.72,
+      "text": "WS Fargo. Now I have given you these two case studies."
+    },
+    {
+      "subtitle_id": 281,
+      "start": 570.56,
+      "end": 575.44,
+      "text": "Why made? It was created so that the data"
+    },
+    {
+      "subtitle_id": 282,
+      "start": 572.72,
+      "end": 577.36,
+      "text": "There is a center which Google is building, Adani is building it."
+    },
+    {
+      "subtitle_id": 283,
+      "start": 575.44,
+      "end": 579.519,
+      "text": "Is making, Reliance is making, Airtel is making"
+    },
+    {
+      "subtitle_id": 284,
+      "start": 577.36,
+      "end": 581.68,
+      "text": "TCS is also entering into it now."
+    },
+    {
+      "subtitle_id": 285,
+      "start": 579.519,
+      "end": 584.72,
+      "text": "Some of them may be successful, some"
+    },
+    {
+      "subtitle_id": 286,
+      "start": 581.68,
+      "end": 587.6,
+      "text": "Will fail too. But these data centers"
+    },
+    {
+      "subtitle_id": 287,
+      "start": 584.72,
+      "end": 589.68,
+      "text": "Those who will become part of the ecosystem will definitely"
+    },
+    {
+      "subtitle_id": 288,
+      "start": 587.6,
+      "end": 591.44,
+      "text": "Will be successful here. so this data"
+    },
+    {
+      "subtitle_id": 289,
+      "start": 589.68,
+      "end": 593.44,
+      "text": "Some four to five of the center's ecosystem"
+    },
+    {
+      "subtitle_id": 290,
+      "start": 591.44,
+      "end": 595.04,
+      "text": "There are parts which I will discuss in detail here."
+    },
+    {
+      "subtitle_id": 291,
+      "start": 593.44,
+      "end": 597.04,
+      "text": "Let me explain it to you so that you will know"
+    },
+    {
+      "subtitle_id": 292,
+      "start": 595.04,
+      "end": 598.48,
+      "text": "which sectors and which"
+    },
+    {
+      "subtitle_id": 293,
+      "start": 597.04,
+      "end": 600.0,
+      "text": "Companies will benefit a lot here"
+    },
+    {
+      "subtitle_id": 294,
+      "start": 598.48,
+      "end": 602.48,
+      "text": "More. Now this is where we start"
+    },
+    {
+      "subtitle_id": 295,
+      "start": 600.0,
+      "end": 604.48,
+      "text": "From the cooling system. Look at these data centers"
+    },
+    {
+      "subtitle_id": 296,
+      "start": 602.48,
+      "end": 606.72,
+      "text": "Whatever bill comes electricity bill"
+    },
+    {
+      "subtitle_id": 297,
+      "start": 604.48,
+      "end": 608.32,
+      "text": "40% comes only for cooling. See"
+    },
+    {
+      "subtitle_id": 298,
+      "start": 606.72,
+      "end": 610.24,
+      "text": "I already told you that after cooling"
+    },
+    {
+      "subtitle_id": 299,
+      "start": 608.32,
+      "end": 612.32,
+      "text": "There is definitely water here. like 100"
+    },
+    {
+      "subtitle_id": 300,
+      "start": 610.24,
+      "end": 614.24,
+      "text": "If you put Word AI prompt then almost half"
+    },
+    {
+      "subtitle_id": 301,
+      "start": 612.32,
+      "end": 616.16,
+      "text": "Liters of water will be required here. now sam here"
+    },
+    {
+      "subtitle_id": 302,
+      "start": 614.24,
+      "end": 618.32,
+      "text": "Altman made a statement last year."
+    },
+    {
+      "subtitle_id": 303,
+      "start": 616.16,
+      "end": 621.279,
+      "text": "He said that a chat gpt's query"
+    },
+    {
+      "subtitle_id": 304,
+      "start": 618.32,
+      "end": 623.2,
+      "text": "0.34 watt hour of electricity is required for"
+    },
+    {
+      "subtitle_id": 305,
+      "start": 621.279,
+      "end": 626.24,
+      "text": "Is. Here let me tell you an example"
+    },
+    {
+      "subtitle_id": 306,
+      "start": 623.2,
+      "end": 628.0,
+      "text": "Single rack of 80 ND GPOS"
+    },
+    {
+      "subtitle_id": 307,
+      "start": 626.24,
+      "end": 630.32,
+      "text": "The amount of heat generated in a small restaurant"
+    },
+    {
+      "subtitle_id": 308,
+      "start": 628.0,
+      "end": 632.16,
+      "text": "It generates that much heat and that is why"
+    },
+    {
+      "subtitle_id": 309,
+      "start": 630.32,
+      "end": 634.32,
+      "text": "Strong cooling is felt here. cooling"
+    },
+    {
+      "subtitle_id": 310,
+      "start": 632.16,
+      "end": 636.8,
+      "text": "HVSC companies and many more"
+    },
+    {
+      "subtitle_id": 311,
+      "start": 634.32,
+      "end": 638.72,
+      "text": "All water means water treatment companies. Now"
+    },
+    {
+      "subtitle_id": 312,
+      "start": 636.8,
+      "end": 640.48,
+      "text": "There are many trial and error cases here in India."
+    },
+    {
+      "subtitle_id": 313,
+      "start": 638.72,
+      "end": 642.16,
+      "text": "Errors are going on how to water at least"
+    },
+    {
+      "subtitle_id": 314,
+      "start": 640.48,
+      "end": 643.68,
+      "text": "Can be used in these data centers"
+    },
+    {
+      "subtitle_id": 315,
+      "start": 642.16,
+      "end": 645.6,
+      "text": "For. It is a big challenge. huge"
+    },
+    {
+      "subtitle_id": 316,
+      "start": 643.68,
+      "end": 647.76,
+      "text": "RAD will be installed here. so water treatment"
+    },
+    {
+      "subtitle_id": 317,
+      "start": 645.6,
+      "end": 650.0,
+      "text": "Whatever is there in companies India is denta"
+    },
+    {
+      "subtitle_id": 318,
+      "start": 647.76,
+      "end": 651.44,
+      "text": "Or is it Enviro Infra [Music] Is it that"
+    },
+    {
+      "subtitle_id": 319,
+      "start": 650.0,
+      "end": 653.2,
+      "text": "Currently, RAD is not being done at the level."
+    },
+    {
+      "subtitle_id": 320,
+      "start": 651.44,
+      "end": 655.12,
+      "text": "They have a very basic level work going on."
+    },
+    {
+      "subtitle_id": 321,
+      "start": 653.2,
+      "end": 657.76,
+      "text": "Is. So if any of these two RADA"
+    },
+    {
+      "subtitle_id": 322,
+      "start": 655.12,
+      "end": 659.44,
+      "text": "I do something big or something new"
+    },
+    {
+      "subtitle_id": 323,
+      "start": 657.76,
+      "end": 661.68,
+      "text": "Player comes who makes some break through here"
+    },
+    {
+      "subtitle_id": 324,
+      "start": 659.44,
+      "end": 663.6,
+      "text": "If it brings a big opportunity here"
+    },
+    {
+      "subtitle_id": 325,
+      "start": 661.68,
+      "end": 665.519,
+      "text": "But it will happen. Also the big HVCs"
+    },
+    {
+      "subtitle_id": 326,
+      "start": 663.6,
+      "end": 667.04,
+      "text": "There are companies like Volts so already"
+    },
+    {
+      "subtitle_id": 327,
+      "start": 665.519,
+      "end": 669.04,
+      "text": "Those MEP Data Center Projects"
+    },
+    {
+      "subtitle_id": 328,
+      "start": 667.04,
+      "end": 671.12,
+      "text": "Executing more in Noida"
+    },
+    {
+      "subtitle_id": 329,
+      "start": 669.04,
+      "end": 672.88,
+      "text": "They are moving towards data centres. Blue"
+    },
+    {
+      "subtitle_id": 330,
+      "start": 671.12,
+      "end": 675.04,
+      "text": "star and a player in this segment which"
+    },
+    {
+      "subtitle_id": 331,
+      "start": 672.88,
+      "end": 677.12,
+      "text": "Works at Premium Commercial Hvac"
+    },
+    {
+      "subtitle_id": 332,
+      "start": 675.04,
+      "end": 679.279,
+      "text": "and its data center specific precision"
+    },
+    {
+      "subtitle_id": 333,
+      "start": 677.12,
+      "end": 681.12,
+      "text": "There is cooling. his order book is very fast"
+    },
+    {
+      "subtitle_id": 334,
+      "start": 679.279,
+      "end": 682.959,
+      "text": "It is also increasing. Apart from these two and also"
+    },
+    {
+      "subtitle_id": 335,
+      "start": 681.12,
+      "end": 684.72,
+      "text": "There are players that you can find here in the market."
+    },
+    {
+      "subtitle_id": 336,
+      "start": 682.959,
+      "end": 686.399,
+      "text": "You can search. Keep in mind that any"
+    },
+    {
+      "subtitle_id": 337,
+      "start": 684.72,
+      "end": 688.16,
+      "text": "Do not invest directly in the company."
+    },
+    {
+      "subtitle_id": 338,
+      "start": 686.399,
+      "end": 690.0,
+      "text": "Look at the fundamentals of the company, valuation"
+    },
+    {
+      "subtitle_id": 339,
+      "start": 688.16,
+      "end": 691.76,
+      "text": "See. I am just telling you the name"
+    },
+    {
+      "subtitle_id": 340,
+      "start": 690.0,
+      "end": 693.44,
+      "text": "For example, I am telling which ones"
+    },
+    {
+      "subtitle_id": 341,
+      "start": 691.76,
+      "end": 695.279,
+      "text": "Is business relevant. That's some buy and sell."
+    },
+    {
+      "subtitle_id": 342,
+      "start": 693.44,
+      "end": 696.64,
+      "text": "Not a recommendation. After that here"
+    },
+    {
+      "subtitle_id": 343,
+      "start": 695.279,
+      "end": 698.56,
+      "text": "The most important player is like me"
+    },
+    {
+      "subtitle_id": 344,
+      "start": 696.64,
+      "end": 700.72,
+      "text": "Told you what is raw material? so energy"
+    },
+    {
+      "subtitle_id": 345,
+      "start": 698.56,
+      "end": 703.76,
+      "text": "Is. Now let's talk about electricity demand"
+    },
+    {
+      "subtitle_id": 346,
+      "start": 700.72,
+      "end": 705.6,
+      "text": "So the data says that by 2030 it will be completed"
+    },
+    {
+      "subtitle_id": 347,
+      "start": 703.76,
+      "end": 707.839,
+      "text": "The amount of electricity India consumes"
+    },
+    {
+      "subtitle_id": 348,
+      "start": 705.6,
+      "end": 709.76,
+      "text": "There is so much electricity only for data centers."
+    },
+    {
+      "subtitle_id": 349,
+      "start": 707.839,
+      "end": 711.92,
+      "text": "Will be affected. Because Sam Wightman's a"
+    },
+    {
+      "subtitle_id": 350,
+      "start": 709.76,
+      "end": 714.88,
+      "text": "The statement is a chart of last year"
+    },
+    {
+      "subtitle_id": 351,
+      "start": 711.92,
+      "end": 716.8,
+      "text": "0.34 watt hour for GPT query"
+    },
+    {
+      "subtitle_id": 352,
+      "start": 714.88,
+      "end": 718.24,
+      "text": "Electricity is required. talk about india"
+    },
+    {
+      "subtitle_id": 353,
+      "start": 716.8,
+      "end": 719.839,
+      "text": "If we do then we will still be more on coal"
+    },
+    {
+      "subtitle_id": 354,
+      "start": 718.24,
+      "end": 721.76,
+      "text": "Is dependent. about 60% of our"
+    },
+    {
+      "subtitle_id": 355,
+      "start": 719.839,
+      "end": 723.519,
+      "text": "Electricity is generated from there. So"
+    },
+    {
+      "subtitle_id": 356,
+      "start": 721.76,
+      "end": 725.04,
+      "text": "Here the renewable energy sector is"
+    },
+    {
+      "subtitle_id": 357,
+      "start": 723.519,
+      "end": 727.04,
+      "text": "Here's a big one for him"
+    },
+    {
+      "subtitle_id": 358,
+      "start": 725.04,
+      "end": 728.56,
+      "text": "There is opportunity. See who from all over the world"
+    },
+    {
+      "subtitle_id": 359,
+      "start": 727.04,
+      "end": 731.36,
+      "text": "There are large data centers such as"
+    },
+    {
+      "subtitle_id": 360,
+      "start": 728.56,
+      "end": 733.04,
+      "text": "There is Microsoft, there is Amazon, there is Google"
+    },
+    {
+      "subtitle_id": 361,
+      "start": 731.36,
+      "end": 735.44,
+      "text": "He has pledged that soon"
+    },
+    {
+      "subtitle_id": 362,
+      "start": 733.04,
+      "end": 737.6,
+      "text": "Will run on 100% renewable energy. so which"
+    },
+    {
+      "subtitle_id": 363,
+      "start": 735.44,
+      "end": 740.24,
+      "text": "Data Center Companies Reliable in Data"
+    },
+    {
+      "subtitle_id": 364,
+      "start": 737.6,
+      "end": 741.839,
+      "text": "He will be able to supply power to the centers"
+    },
+    {
+      "subtitle_id": 365,
+      "start": 740.24,
+      "end": 743.92,
+      "text": "Will be able to become a big player. so here this"
+    },
+    {
+      "subtitle_id": 366,
+      "start": 741.839,
+      "end": 746.0,
+      "text": "Adan Gan is already working in the sector."
+    },
+    {
+      "subtitle_id": 367,
+      "start": 743.92,
+      "end": 748.399,
+      "text": "Many like Vari Energy Tata Power"
+    },
+    {
+      "subtitle_id": 368,
+      "start": 746.0,
+      "end": 750.0,
+      "text": "Companies can take advantage of this. now who"
+    },
+    {
+      "subtitle_id": 369,
+      "start": 748.399,
+      "end": 751.68,
+      "text": "How much does this time take advantage of?"
+    },
+    {
+      "subtitle_id": 370,
+      "start": 750.0,
+      "end": 753.44,
+      "text": "Will tell because if seen now the data"
+    },
+    {
+      "subtitle_id": 371,
+      "start": 751.68,
+      "end": 755.04,
+      "text": "Some special revenue of this company from the center"
+    },
+    {
+      "subtitle_id": 372,
+      "start": 753.44,
+      "end": 756.8,
+      "text": "Doesn't come. So who in the coming time"
+    },
+    {
+      "subtitle_id": 373,
+      "start": 755.04,
+      "end": 759.279,
+      "text": "Focusing more on this segment"
+    },
+    {
+      "subtitle_id": 374,
+      "start": 756.8,
+      "end": 761.2,
+      "text": "But who else will grab more market share?"
+    },
+    {
+      "subtitle_id": 375,
+      "start": 759.279,
+      "end": 763.2,
+      "text": "There is a big game on this. so you are very active"
+    },
+    {
+      "subtitle_id": 376,
+      "start": 761.2,
+      "end": 764.88,
+      "text": "You will have to stay in this entire field, this field"
+    },
+    {
+      "subtitle_id": 377,
+      "start": 763.2,
+      "end": 766.8,
+      "text": "To find the winner. now here which"
+    },
+    {
+      "subtitle_id": 378,
+      "start": 764.88,
+      "end": 768.32,
+      "text": "Backup power is also a big game. Now"
+    },
+    {
+      "subtitle_id": 379,
+      "start": 766.8,
+      "end": 770.0,
+      "text": "How about data centers that they have to be rounded up?"
+    },
+    {
+      "subtitle_id": 380,
+      "start": 768.32,
+      "end": 771.92,
+      "text": "Need clock power. there will be one half office"
+    },
+    {
+      "subtitle_id": 381,
+      "start": 770.0,
+      "end": 774.079,
+      "text": "Light for 2-4 seconds for 5 minutes"
+    },
+    {
+      "subtitle_id": 382,
+      "start": 771.92,
+      "end": 775.839,
+      "text": "Even if she leaves, you will say ok let's go on."
+    },
+    {
+      "subtitle_id": 383,
+      "start": 774.079,
+      "end": 777.6,
+      "text": "Will go. But it is not like that. over here"
+    },
+    {
+      "subtitle_id": 384,
+      "start": 775.839,
+      "end": 779.6,
+      "text": "Even for a few seconds if electricity"
+    },
+    {
+      "subtitle_id": 385,
+      "start": 777.6,
+      "end": 781.279,
+      "text": "Had it gone, they would have suffered a loss of crores."
+    },
+    {
+      "subtitle_id": 386,
+      "start": 779.6,
+      "end": 782.959,
+      "text": "Is. So for this they need electricity"
+    },
+    {
+      "subtitle_id": 387,
+      "start": 781.279,
+      "end": 784.88,
+      "text": "Backup systems have to be maintained. no matter what"
+    },
+    {
+      "subtitle_id": 388,
+      "start": 782.959,
+      "end": 787.04,
+      "text": "It can accommodate diesel gensets, UPS"
+    },
+    {
+      "subtitle_id": 389,
+      "start": 784.88,
+      "end": 789.6,
+      "text": "It may come, batteries may come. so a 100"
+    },
+    {
+      "subtitle_id": 390,
+      "start": 787.04,
+      "end": 791.76,
+      "text": "The megawatt campus is 15 to 20 massive."
+    },
+    {
+      "subtitle_id": 391,
+      "start": 789.6,
+      "end": 793.76,
+      "text": "Diesel generator keeps full on standby"
+    },
+    {
+      "subtitle_id": 392,
+      "start": 791.76,
+      "end": 795.519,
+      "text": "Fuel well so that in case of any emergency"
+    },
+    {
+      "subtitle_id": 393,
+      "start": 793.76,
+      "end": 797.68,
+      "text": "It should be used in the situation. so here"
+    },
+    {
+      "subtitle_id": 394,
+      "start": 795.519,
+      "end": 800.399,
+      "text": "But the genset companies and battery companies"
+    },
+    {
+      "subtitle_id": 395,
+      "start": 797.68,
+      "end": 803.12,
+      "text": "Be it Cummins India or KLs be it this type of genset"
+    },
+    {
+      "subtitle_id": 396,
+      "start": 800.399,
+      "end": 805.12,
+      "text": "Companies like Amra Raja XID in"
+    },
+    {
+      "subtitle_id": 397,
+      "start": 803.12,
+      "end": 807.2,
+      "text": "Battery companies can benefit here"
+    },
+    {
+      "subtitle_id": 398,
+      "start": 805.12,
+      "end": 809.839,
+      "text": "But one thing is changing the game here"
+    },
+    {
+      "subtitle_id": 399,
+      "start": 807.2,
+      "end": 812.32,
+      "text": "That is BESS. What is this BASS?"
+    },
+    {
+      "subtitle_id": 400,
+      "start": 809.839,
+      "end": 814.079,
+      "text": "BASS stands for Battery Energy Storage"
+    },
+    {
+      "subtitle_id": 401,
+      "start": 812.32,
+      "end": 816.24,
+      "text": "System. This is a technology that"
+    },
+    {
+      "subtitle_id": 402,
+      "start": 814.079,
+      "end": 818.079,
+      "text": "Stores electricity in battery"
+    },
+    {
+      "subtitle_id": 403,
+      "start": 816.24,
+      "end": 820.16,
+      "text": "And later when needed"
+    },
+    {
+      "subtitle_id": 404,
+      "start": 818.079,
+      "end": 822.32,
+      "text": "Discharges. Now the bass is enough"
+    },
+    {
+      "subtitle_id": 405,
+      "start": 820.16,
+      "end": 824.16,
+      "text": "growing rapidly in India and coming"
+    },
+    {
+      "subtitle_id": 406,
+      "start": 822.32,
+      "end": 825.92,
+      "text": "This is very useful for backup in times of need."
+    },
+    {
+      "subtitle_id": 407,
+      "start": 824.16,
+      "end": 827.839,
+      "text": "Will come for these data centres. so which"
+    },
+    {
+      "subtitle_id": 408,
+      "start": 825.92,
+      "end": 829.68,
+      "text": "Will your genset manufacturing companies also be there or"
+    },
+    {
+      "subtitle_id": 409,
+      "start": 827.839,
+      "end": 831.2,
+      "text": "Then it will be the battery companies that are innovating."
+    },
+    {
+      "subtitle_id": 410,
+      "start": 829.68,
+      "end": 832.56,
+      "text": "Is it or not? which is necessary for data center"
+    },
+    {
+      "subtitle_id": 411,
+      "start": 831.2,
+      "end": 834.24,
+      "text": "Is she doing things like this or not?"
+    },
+    {
+      "subtitle_id": 412,
+      "start": 832.56,
+      "end": 836.24,
+      "text": "Will be important because in India"
+    },
+    {
+      "subtitle_id": 413,
+      "start": 834.24,
+      "end": 838.24,
+      "text": "Companies RAD i.e. Research and Development"
+    },
+    {
+      "subtitle_id": 414,
+      "start": 836.24,
+      "end": 840.079,
+      "text": "But does not invest. here too"
+    },
+    {
+      "subtitle_id": 415,
+      "start": 838.24,
+      "end": 842.079,
+      "text": "The opportunity is big. But if Indian"
+    },
+    {
+      "subtitle_id": 416,
+      "start": 840.079,
+      "end": 844.079,
+      "text": "Companies could not innovate anything here,"
+    },
+    {
+      "subtitle_id": 417,
+      "start": 842.079,
+      "end": 846.32,
+      "text": "If you can't do anything better, then lose it."
+    },
+    {
+      "subtitle_id": 418,
+      "start": 844.079,
+      "end": 848.56,
+      "text": "There will be some other companies from outside which are good"
+    },
+    {
+      "subtitle_id": 419,
+      "start": 846.32,
+      "end": 850.56,
+      "text": "Will do, from there the flow of imports will return again"
+    },
+    {
+      "subtitle_id": 420,
+      "start": 848.56,
+      "end": 852.399,
+      "text": "Can start. So, that's a thing too"
+    },
+    {
+      "subtitle_id": 421,
+      "start": 850.56,
+      "end": 853.839,
+      "text": "Which you will have to keep in mind. so these data"
+    },
+    {
+      "subtitle_id": 422,
+      "start": 852.399,
+      "end": 855.76,
+      "text": "Before investing in center companies"
+    },
+    {
+      "subtitle_id": 423,
+      "start": 853.839,
+      "end": 857.36,
+      "text": "Also please check that this is on your RAD"
+    },
+    {
+      "subtitle_id": 424,
+      "start": 855.76,
+      "end": 859.04,
+      "text": "How much are people spending? Something what?"
+    },
+    {
+      "subtitle_id": 425,
+      "start": 857.36,
+      "end": 860.72,
+      "text": "Innovating. what some patents"
+    },
+    {
+      "subtitle_id": 426,
+      "start": 859.04,
+      "end": 862.48,
+      "text": "They are getting it. The land after this"
+    },
+    {
+      "subtitle_id": 427,
+      "start": 860.72,
+      "end": 864.48,
+      "text": "That is also very important for them."
+    },
+    {
+      "subtitle_id": 428,
+      "start": 862.48,
+      "end": 866.399,
+      "text": "See Anant Raj in 2019 who is a"
+    },
+    {
+      "subtitle_id": 429,
+      "start": 864.48,
+      "end": 868.24,
+      "text": "Real estate company is their work very comfortably"
+    },
+    {
+      "subtitle_id": 430,
+      "start": 866.399,
+      "end": 869.68,
+      "text": "Was going on. Revenues are increasing slowly"
+    },
+    {
+      "subtitle_id": 431,
+      "start": 868.24,
+      "end": 871.12,
+      "text": "Were. Things were progressing slowly. Delhi"
+    },
+    {
+      "subtitle_id": 432,
+      "start": 869.68,
+      "end": 873.199,
+      "text": "They have very big factories in NCR."
+    },
+    {
+      "subtitle_id": 433,
+      "start": 871.12,
+      "end": 875.12,
+      "text": "Had properties. Be it in Manesar or"
+    },
+    {
+      "subtitle_id": 434,
+      "start": 873.199,
+      "end": 877.12,
+      "text": "Then you are in Panchkula. And then suddenly"
+    },
+    {
+      "subtitle_id": 435,
+      "start": 875.12,
+      "end": 879.44,
+      "text": "Data center boom has come in the area. now this"
+    },
+    {
+      "subtitle_id": 436,
+      "start": 877.12,
+      "end": 881.12,
+      "text": "When the boom came, Anant Raj thought that"
+    },
+    {
+      "subtitle_id": 437,
+      "start": 879.44,
+      "end": 882.72,
+      "text": "Our land parcels are real estate."
+    },
+    {
+      "subtitle_id": 438,
+      "start": 881.12,
+      "end": 884.88,
+      "text": "The market was moving a little slow during that time."
+    },
+    {
+      "subtitle_id": 439,
+      "start": 882.72,
+      "end": 886.72,
+      "text": "Why not go to the data center and"
+    },
+    {
+      "subtitle_id": 440,
+      "start": 884.88,
+      "end": 888.399,
+      "text": "He gave data to the lying land."
+    },
+    {
+      "subtitle_id": 441,
+      "start": 886.72,
+      "end": 890.24,
+      "text": "Started using for centers and"
+    },
+    {
+      "subtitle_id": 442,
+      "start": 888.399,
+      "end": 892.56,
+      "text": "Share price ₹30 in last few years"
+    },
+    {
+      "subtitle_id": 443,
+      "start": 890.24,
+      "end": 894.48,
+      "text": "It went down to about ₹300. So Anant Raj's"
+    },
+    {
+      "subtitle_id": 444,
+      "start": 892.56,
+      "end": 896.56,
+      "text": "Apart from this, there are other real estate companies which"
+    },
+    {
+      "subtitle_id": 445,
+      "start": 894.48,
+      "end": 898.639,
+      "text": "Thinking differently, focus on data center"
+    },
+    {
+      "subtitle_id": 446,
+      "start": 896.56,
+      "end": 900.399,
+      "text": "You must keep an eye on them too. And"
+    },
+    {
+      "subtitle_id": 447,
+      "start": 898.639,
+      "end": 903.199,
+      "text": "Whenever there is talk of data centers here"
+    },
+    {
+      "subtitle_id": 448,
+      "start": 900.399,
+      "end": 904.959,
+      "text": "So there are cables, wires and fibers."
+    },
+    {
+      "subtitle_id": 449,
+      "start": 903.199,
+      "end": 907.04,
+      "text": "Is used a lot. One"
+    },
+    {
+      "subtitle_id": 450,
+      "start": 904.959,
+      "end": 909.199,
+      "text": "Thousands off in a single hyper scale campus"
+    },
+    {
+      "subtitle_id": 451,
+      "start": 907.04,
+      "end": 911.12,
+      "text": "Kilometers of cable internally used by caste"
+    },
+    {
+      "subtitle_id": 452,
+      "start": 909.199,
+      "end": 912.8,
+      "text": "Which is sometimes more than the small cities of India"
+    },
+    {
+      "subtitle_id": 453,
+      "start": 911.12,
+      "end": 915.199,
+      "text": "It is more. Now in this segment"
+    },
+    {
+      "subtitle_id": 454,
+      "start": 912.8,
+      "end": 917.44,
+      "text": "Polycab, KEI Industries, Finolex"
+    },
+    {
+      "subtitle_id": 455,
+      "start": 915.199,
+      "end": 919.04,
+      "text": "Cables, Sterlite Technology as well as many"
+    },
+    {
+      "subtitle_id": 456,
+      "start": 917.44,
+      "end": 920.959,
+      "text": "There are all the companies which are already in this sector."
+    },
+    {
+      "subtitle_id": 457,
+      "start": 919.04,
+      "end": 922.88,
+      "text": "Is working. you should keep an eye on them"
+    },
+    {
+      "subtitle_id": 458,
+      "start": 920.959,
+      "end": 924.56,
+      "text": "Will have to. That means these sectors here"
+    },
+    {
+      "subtitle_id": 459,
+      "start": 922.88,
+      "end": 926.24,
+      "text": "I have named the players here."
+    },
+    {
+      "subtitle_id": 460,
+      "start": 924.56,
+      "end": 928.48,
+      "text": "A tough fight between them is about to start here."
+    },
+    {
+      "subtitle_id": 461,
+      "start": 926.24,
+      "end": 930.32,
+      "text": "It is about who will become bigger. but who doesn't"
+    },
+    {
+      "subtitle_id": 462,
+      "start": 928.48,
+      "end": 932.0,
+      "text": "Will also become big and that too very well here."
+    },
+    {
+      "subtitle_id": 463,
+      "start": 930.32,
+      "end": 934.56,
+      "text": "Can grow at speed. something like this"
+    },
+    {
+      "subtitle_id": 464,
+      "start": 932.0,
+      "end": 936.56,
+      "text": "This is boom. Now here along with the companies"
+    },
+    {
+      "subtitle_id": 465,
+      "start": 934.56,
+      "end": 938.16,
+      "text": "Finally state governments also fight here"
+    },
+    {
+      "subtitle_id": 466,
+      "start": 936.56,
+      "end": 939.68,
+      "text": "More and more data centers have started"
+    },
+    {
+      "subtitle_id": 467,
+      "start": 938.16,
+      "end": 941.279,
+      "text": "To attract because they know"
+    },
+    {
+      "subtitle_id": 468,
+      "start": 939.68,
+      "end": 942.72,
+      "text": "That if they come then there will be a lot of economic impact"
+    },
+    {
+      "subtitle_id": 469,
+      "start": 941.279,
+      "end": 944.48,
+      "text": "Good boost can be found here. One"
+    },
+    {
+      "subtitle_id": 470,
+      "start": 942.72,
+      "end": 945.92,
+      "text": "If ecosystem is created which is made up of water"
+    },
+    {
+      "subtitle_id": 471,
+      "start": 944.48,
+      "end": 947.92,
+      "text": "The problem is simple, if it is solved and"
+    },
+    {
+      "subtitle_id": 472,
+      "start": 945.92,
+      "end": 950.24,
+      "text": "Two-four more issues were resolved with RAD."
+    },
+    {
+      "subtitle_id": 473,
+      "start": 947.92,
+      "end": 952.24,
+      "text": "That is possible. But again there will be power"
+    },
+    {
+      "subtitle_id": 474,
+      "start": 950.24,
+      "end": 954.079,
+      "text": "Needed So this could become a very big game."
+    },
+    {
+      "subtitle_id": 475,
+      "start": 952.24,
+      "end": 956.0,
+      "text": "Is. So Maharashtra which is currently on the lead"
+    },
+    {
+      "subtitle_id": 476,
+      "start": 954.079,
+      "end": 958.959,
+      "text": "But Andhra Pradesh came here"
+    },
+    {
+      "subtitle_id": 477,
+      "start": 956.0,
+      "end": 960.8,
+      "text": "Many bumper offers have been given to companies"
+    },
+    {
+      "subtitle_id": 478,
+      "start": 958.959,
+      "end": 962.399,
+      "text": "Due to which many companies recently"
+    },
+    {
+      "subtitle_id": 479,
+      "start": 960.8,
+      "end": 964.0,
+      "text": "Making a deal. me in the future"
+    },
+    {
+      "subtitle_id": 480,
+      "start": 962.399,
+      "end": 966.079,
+      "text": "Looks like he will go to number one."
+    },
+    {
+      "subtitle_id": 481,
+      "start": 964.0,
+      "end": 967.68,
+      "text": "Tamil Nadu is also not behind here. i.e"
+    },
+    {
+      "subtitle_id": 482,
+      "start": 966.079,
+      "end": 970.079,
+      "text": "Every state is offering something here"
+    },
+    {
+      "subtitle_id": 483,
+      "start": 967.68,
+      "end": 971.6,
+      "text": "Is. Maharashtra is saying that 247 assured"
+    },
+    {
+      "subtitle_id": 484,
+      "start": 970.079,
+      "end": 972.88,
+      "text": "We will provide you power. There itself"
+    },
+    {
+      "subtitle_id": 485,
+      "start": 971.6,
+      "end": 974.88,
+      "text": "Tamil Nadu is saying that priority"
+    },
+    {
+      "subtitle_id": 486,
+      "start": 972.88,
+      "end": 976.639,
+      "text": "Renewable power will be allocated to you. with"
+    },
+    {
+      "subtitle_id": 487,
+      "start": 974.88,
+      "end": 978.24,
+      "text": "We can provide you only dedicated power feeders."
+    },
+    {
+      "subtitle_id": 488,
+      "start": 976.639,
+      "end": 979.519,
+      "text": "Will give. Telangana Government said there"
+    },
+    {
+      "subtitle_id": 489,
+      "start": 978.24,
+      "end": 981.839,
+      "text": "It is said that brother, take the land also. We"
+    },
+    {
+      "subtitle_id": 490,
+      "start": 979.519,
+      "end": 983.6,
+      "text": "Renewable energy is also around us and"
+    },
+    {
+      "subtitle_id": 491,
+      "start": 981.839,
+      "end": 985.759,
+      "text": "If you need anything else please let me know because"
+    },
+    {
+      "subtitle_id": 492,
+      "start": 983.6,
+      "end": 987.36,
+      "text": "He took the lead and built the data center directly."
+    },
+    {
+      "subtitle_id": 493,
+      "start": 985.759,
+      "end": 989.12,
+      "text": "Only a policy has been made. so this"
+    },
+    {
+      "subtitle_id": 494,
+      "start": 987.36,
+      "end": 991.12,
+      "text": "It is certain that there will be a boom in the sector but"
+    },
+    {
+      "subtitle_id": 495,
+      "start": 989.12,
+      "end": 993.519,
+      "text": "Which are the issues of water crisis?"
+    },
+    {
+      "subtitle_id": 496,
+      "start": 991.12,
+      "end": 995.279,
+      "text": "Already many metro cities like Chennai"
+    },
+    {
+      "subtitle_id": 497,
+      "start": 993.519,
+      "end": 996.959,
+      "text": "Doing a huge amount of face. if these"
+    },
+    {
+      "subtitle_id": 498,
+      "start": 995.279,
+      "end": 998.72,
+      "text": "There will be problem if the data center comes there."
+    },
+    {
+      "subtitle_id": 499,
+      "start": 996.959,
+      "end": 1000.48,
+      "text": "It may increase further. so as soon as possible"
+    },
+    {
+      "subtitle_id": 500,
+      "start": 998.72,
+      "end": 1002.32,
+      "text": "Many solutions will have to be found how to"
+    },
+    {
+      "subtitle_id": 501,
+      "start": 1000.48,
+      "end": 1003.68,
+      "text": "Water should be used for"
+    },
+    {
+      "subtitle_id": 502,
+      "start": 1002.32,
+      "end": 1005.519,
+      "text": "Something for the rest for cooling"
+    },
+    {
+      "subtitle_id": 503,
+      "start": 1003.68,
+      "end": 1007.199,
+      "text": "Companies are also doing it on trial. so such"
+    },
+    {
+      "subtitle_id": 504,
+      "start": 1005.519,
+      "end": 1009.92,
+      "text": "If India can do some innovation then"
+    },
+    {
+      "subtitle_id": 505,
+      "start": 1007.199,
+      "end": 1012.32,
+      "text": "Finally, which has been pending for a long time, this"
+    },
+    {
+      "subtitle_id": 506,
+      "start": 1009.92,
+      "end": 1014.56,
+      "text": "Sector is quite a game changer Puri Indian"
+    },
+    {
+      "subtitle_id": 507,
+      "start": 1012.32,
+      "end": 1016.48,
+      "text": "Can be made for the economy. data center theme"
+    },
+    {
+      "subtitle_id": 508,
+      "start": 1014.56,
+      "end": 1018.48,
+      "text": "A huge beneficiary transformer of"
+    },
+    {
+      "subtitle_id": 509,
+      "start": 1016.48,
+      "end": 1020.24,
+      "text": "Sector is also going to happen. let me tell you that"
+    },
+    {
+      "subtitle_id": 510,
+      "start": 1018.48,
+      "end": 1022.399,
+      "text": "Which are the big transformer companies of India?"
+    },
+    {
+      "subtitle_id": 511,
+      "start": 1020.24,
+      "end": 1024.559,
+      "text": "His condition at present is such that in the next"
+    },
+    {
+      "subtitle_id": 512,
+      "start": 1022.399,
+      "end": 1027.039,
+      "text": "No capacity for them for one and a half years"
+    },
+    {
+      "subtitle_id": 513,
+      "start": 1024.559,
+      "end": 1028.959,
+      "text": "Saved because all the orders are booked. so enough"
+    },
+    {
+      "subtitle_id": 514,
+      "start": 1027.039,
+      "end": 1030.88,
+      "text": "Crazy demand is being created here also. So"
+    },
+    {
+      "subtitle_id": 515,
+      "start": 1028.959,
+      "end": 1033.439,
+      "text": "There are many companies here also. Whether he"
+    },
+    {
+      "subtitle_id": 516,
+      "start": 1030.88,
+      "end": 1035.52,
+      "text": "Be it Voltamp or Indetec. but same"
+    },
+    {
+      "subtitle_id": 517,
+      "start": 1033.439,
+      "end": 1036.959,
+      "text": "That just the name will not suffice. To you"
+    },
+    {
+      "subtitle_id": 518,
+      "start": 1035.52,
+      "end": 1038.72,
+      "text": "Analyze yourself in full detail"
+    },
+    {
+      "subtitle_id": 519,
+      "start": 1036.959,
+      "end": 1040.72,
+      "text": "Will have to. Because Ultimately It Matters"
+    },
+    {
+      "subtitle_id": 520,
+      "start": 1038.72,
+      "end": 1042.64,
+      "text": "Who will crack this game in a big way."
+    },
+    {
+      "subtitle_id": 521,
+      "start": 1040.72,
+      "end": 1044.319,
+      "text": "If you wanted then definitely check out the pro."
+    },
+    {
+      "subtitle_id": 522,
+      "start": 1042.64,
+      "end": 1046.4,
+      "text": "Huge discounts are going on here"
+    },
+    {
+      "subtitle_id": 523,
+      "start": 1044.319,
+      "end": 1050.64,
+      "text": "Are. Don't miss the offer at all. So"
+    },
+    {
+      "subtitle_id": 524,
+      "start": 1046.4,
+      "end": 1050.64,
+      "text": "See you in the next video very soon."
+    }
+  ]
+}

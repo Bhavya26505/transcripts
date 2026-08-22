@@ -1,0 +1,162 @@
+{
+  "video_id": "OIis7tvpQPc",
+  "promise_meta": {
+    "promise_status": "NO_EXPLICIT_PROMISE",
+    "promised_points_count": 0,
+    "point_coverage_status": "NOT_APPLICABLE",
+    "point_coverage_score": null,
+    "adherence_score": null
+  },
+  "analysis_window": {
+    "start_time": 112.665,
+    "end_time": 1179.28,
+    "duration": 1066.62
+  },
+  "timeline_integrity": {
+    "status": "PASS",
+    "expected_segments": 29,
+    "analyzed_segments": 29,
+    "missing_segments": [],
+    "duplicate_segments": [],
+    "timestamp_errors": [],
+    "overlap_duration": 0.0,
+    "uncovered_duration": 0.0
+  },
+  "duration_metrics": {
+    "fn_durations": {
+      "DIRECT_POINT": 80.3,
+      "SUPPORTING_EXPLANATION": 627.32,
+      "EVIDENCE": 125.16,
+      "EXAMPLE": 0.0,
+      "COMPARISON": 0.0,
+      "TRANSITION": 0.0,
+      "CONTEXT": 36.24,
+      "CONCLUSION": 58.47,
+      "RELATED_EXTENSION": 0.0,
+      "OFF_TOPIC": 0.0,
+      "UNCERTAIN": 139.08
+    },
+    "fn_percentages": {
+      "DIRECT_POINT": 7.53,
+      "SUPPORTING_EXPLANATION": 58.81,
+      "EVIDENCE": 11.73,
+      "EXAMPLE": 0.0,
+      "COMPARISON": 0.0,
+      "TRANSITION": 0.0,
+      "CONTEXT": 3.4,
+      "CONCLUSION": 5.48,
+      "RELATED_EXTENSION": 0.0,
+      "OFF_TOPIC": 0.0,
+      "UNCERTAIN": 13.04
+    }
+  },
+  "relevance_metrics": {
+    "rel_durations": {
+      "DIRECT": 882.02,
+      "SUPPORTING": 148.31,
+      "RELATED": 36.24,
+      "TRANSITION": 0.0,
+      "UNCERTAIN": 0.0,
+      "OFF_TOPIC": 0.0
+    },
+    "rel_percentages": {
+      "DIRECT": 82.69,
+      "SUPPORTING": 13.9,
+      "RELATED": 3.4,
+      "TRANSITION": 0.0,
+      "UNCERTAIN": 0.0,
+      "OFF_TOPIC": 0.0
+    },
+    "clearly_relevant_duration": 1066.57,
+    "clearly_relevant_percentage": 100.0,
+    "off_topic_duration": 0.0,
+    "off_topic_percentage": 0.0
+  },
+  "point_coverage": null,
+  "point_order": {
+    "first_appearance_order": [],
+    "first_appearances": {}
+  },
+  "point_returns": {},
+  "off_topic": {
+    "episode_count": 0,
+    "episodes": [],
+    "longest_episode": {
+      "episode_id": null,
+      "duration": 0.0,
+      "percentage_of_analyzed_duration": 0.0
+    }
+  },
+  "transitions": {
+    "raw_segment_sequence": [
+      "P2",
+      "P2 | P3",
+      "P2 | P3",
+      "P2 | P3",
+      "P2 | P3",
+      "P1 | P2 | P3 | P4 | NONE | MULTIPLE | UNCERTAIN",
+      "P1 | P2 | P3 | P4 | NONE | MULTIPLE | UNCERTAIN",
+      "P1 | P2 | P3 | P4 | NONE | MULTIPLE | UNCERTAIN",
+      "P1 | P2 | P3 | P4 | NONE | MULTIPLE | UNCERTAIN",
+      "P1 | P2 | P3 | P4 | NONE | MULTIPLE | UNCERTAIN",
+      "P2 | P3",
+      "P2 | P3",
+      "P2 | P3",
+      "P2 | P3",
+      "P2 | P3",
+      "P1 | P2 | NONE",
+      "P1 | P2",
+      "P1 | P2",
+      "P1 | P2",
+      "P1 | P2",
+      "P1 | P3",
+      "P3",
+      "P1 | P3",
+      "P4",
+      "P4",
+      "P1 | P2 | P3 | P4 | NONE | MULTIPLE | UNCERTAIN",
+      "P1 | P2 | P3 | P4 | NONE | MULTIPLE | UNCERTAIN",
+      "P1 | P2 | P3 | P4 | NONE | MULTIPLE | UNCERTAIN",
+      "P1 | P2 | P3 | P4 | NONE | MULTIPLE | UNCERTAIN"
+    ],
+    "normalized_run_sequence": [
+      "P2",
+      "P2 | P3",
+      "P1 | P2 | P3 | P4 | NONE | MULTIPLE | UNCERTAIN",
+      "P2 | P3",
+      "P1 | P2 | NONE",
+      "P1 | P2",
+      "P1 | P3",
+      "P3",
+      "P1 | P3",
+      "P4",
+      "P1 | P2 | P3 | P4 | NONE | MULTIPLE | UNCERTAIN"
+    ],
+    "total_run_count": 11,
+    "point_transitions_count": 10,
+    "off_topic_transitions_count": 0
+  },
+  "mathematical_validation": {
+    "status": "PASS",
+    "assertion_results": [
+      {
+        "assertion": "sum(unique segment durations) == total_analyzed_duration",
+        "expected": 1066.62,
+        "actual": 1066.62,
+        "passed": true
+      },
+      {
+        "assertion": "sum(relevance category durations) == total_analyzed_duration",
+        "expected": 1066.62,
+        "actual": 1066.57,
+        "passed": true
+      },
+      {
+        "assertion": "sum(function category durations) == total_analyzed_duration",
+        "expected": 1066.62,
+        "actual": 1066.57,
+        "passed": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,109 @@
+{
+  "raw_record": {
+    "log_metrics": {
+      "video_id": "qa6Qzztj-10",
+      "model_id": "qwen3.5-9b-claude-4.6-opus-reasoning-distilled-v2",
+      "target_window_seconds": 90.0,
+      "max_window_seconds": 120.0,
+      "actual_opening_duration": 117.28,
+      "final_end_timestamp": 119.2,
+      "number_of_segments": 3,
+      "input_character_count": 5617,
+      "output_character_count": 3331,
+      "latency_seconds": 261.338,
+      "temperature": 0.1,
+      "max_tokens": 2500,
+      "json_valid": true,
+      "validation_issues": [],
+      "parse_error": ""
+    },
+    "formatted_prompt_input": "[SEGMENT 1]\nTIME: 1.92 - 51.64\nLANGUAGE: HINDI\nTEXT:\nआज का यह जो वीडियो है यह कोई वीडियो नहीं बल्कि केस स्टडी है कि किस तरह से एसएमई कंपनीज़ और पूरा एसएमई मार्केट आज सिर्फ निवेशकों को ही नहीं बल्कि पूरे सिस्टम को बेवकूफ बना रहा है और यह जो कंपनी है उसका एक इनक्रेडिबल एग्जांपल है कि कैसे यह आसानी से किया जा रहा है। कैसे इन्वेस्टर्स को आसानी से बेवकूफ बनाया जा रहा है। यहां पर इन्वेस्टर्स तो पैसा नहीं कमा पाएगा लेकिन कंपनी के प्रमोटर्स जरूर पैसा कमा रहे हैं। एक्टर, एक्ट्रेस जैसे कि इस केस में रणबीर कपूर, आमिर खान दे आर मेकिंग मनी लाइक एनीथिंग। और एकदम सिंपल भाषा में बोलूं तो रिसेंटली क्लिप बहुत वायरल हुई जिसमें संदीप भैया जो कि एक फंड मैनेजर हैं। उन्होंने बहुत सिंपल तरीके से ये कहा था कि इंडियन मार्केट में आज की डेट में क्या हो रहा है कि गरीब और मिडिल क्लास का पैसा अमीरों के जेब में जा रहा है। और यही काम एसएमए, आईपीओ और बहुत सारी एसएमएस इंडिया में फिलहाल कर रही है। सब की सब नहीं लेकिन बहुत सारी। तो इस\n\n[SEGMENT 2]\nTIME: 51.64 - 89.80\nLANGUAGE: HINDI\nTEXT:\nद्रोणाचार्य के केस में किसने कितना पैसा कमाया और उन्होंने एक दो वो कौन सी गलतियां की थी जिससे आप किसी भी आईपीओ में होने वाले फ्रॉड को पता कर सकते हो। जानेंगे ये डिटेल में आज की इस वीडियो में। अभी मैं देख रहा था कि बहुत सारे नए आईपीओस आ रहे हैं। अपकमिंग आईपीओस उसमें से भी कई सारी कंपनीज़ में यह चीजें जो चीज द्रोणाचार्य में थी उससे सिमिलर चीजें हैं। तो क्या देखना है, कैसे देखना है, वह भी मैं आपको इस वीडियो में बताऊंगा। नमस्कार मैं प्रसाद आपका आज की इस वीडियो में स्वागत करता हूं और इस केस की शुरुआत होती है नवंबर 2022 में। देखिए ड्रोनाचार्य एररियल इनोवेशन यह एक ड्रोन बनाने वाली कंपनी है। प्रतीक श्रीवास्तव और निकिता श्रीवास्तव ये दोनों कंपनी के फाउंडर्स हैं। इन्होंने ये कंपनी शुरू की।\n\n[SEGMENT 3]\nTIME: 89.80 - 119.20\nLANGUAGE: HINDI\nTEXT:\nशुरुआत के एक-द सालों में अगर देखेंगे तो रेवेन्यू बिल्कुल भी नहीं था। 2022 से कंपनी का रेवेन्यू आना स्टार्ट हुआ। बहुत ही मिनिमल रेवेन्यू था। कंपनी का कोई ट्रैक रिकॉर्ड नहीं है। आप देखेंगे 2020 में रेवेन्यू ज़ीरो है। 2021 में रेवेन्यू ज़ीरो है। 2022 में मात्र 4 करोड़ का रेवेन्यू है। उसके बावजूद भी कंपनी जाती है आईपीओ के लिए। 4 करोड़ के रेवेन्यू वाली कंपनी 32 करोड़ का आईपीओ लेकर आती है और उस आईपीओ से पहले एक प्रॉपर प्लानिंग की जाती है ताकि पूरे सिस्टम को और इन्वेस्टर्स को बेवकूफ बनाया जाए। प्लानिंग कैसे होती है? तो कंपनी के जो दो फाउंडर्स हैं वो इंस्टाफिन कैपिटल के साथ बैठते हैं।",
+    "raw_response": "{\n    \"video_id\": \"qa6Qzztj-10\",\n    \"opening_analysis\": {\n        \"hook\": {\n            \"text\": \"आज का यह जो वीडियो है यह कोई वीडियो नहीं बल्कि केस स्टडी है कि किस तरह से एसएमई कंपनीज़ और पूरा एसएमई मार्केट आज सिर्फ निवेशकों को ही नहीं बल्कि पूरे सिस्टम को बेवकूफ बना रहा है\",\n            \"start_time\": 1.92,\n            \"end_time\": 51.64,\n            \"hook_type\": \"controversy\",\n            \"confidence\": 0.95\n        },\n        \"core_topic\": {\n            \"description\": \"SME companies and IPO fraud in India using Dronacharya as case study\",\n            \"explicit\": true,\n            \"confidence\": 0.95,\n            \"evidence\": {\n                \"start_time\": 1.92,\n                \"end_time\": 51.64,\n                \"text\": \"केस स्टडी है कि किस तरह से एसएमई कंपनीज़ और पूरा एसएमई मार्केट आज सिर्फ निवेशकों को ही नहीं बल्कि पूरे सिस्टम को बेवकूफ बना रहा है\"\n            }\n        },\n        \"viewer_problem_or_question\": {\n            \"description\": \"How to identify fraud in Indian IPOs and understand what's happening with SME companies\",\n            \"explicit\": true,\n            \"confidence\": 0.90,\n            \"evidence\": {\n                \"start_time\": 51.64,\n                \"end_time\": 89.80,\n                \"text\": \"जिससे आप किसी भी आईपीओ में होने वाले फ्रॉड को पता कर सकते हो\"\n            }\n        },\n        \"promise\": {\n            \"description\": \"Will explain how to spot IPO fraud and what to look for in upcoming IPOs\",\n            \"explicit\": true,\n            \"confidence\": 0.90,\n            \"evidence\": {\n                \"start_time\": 51.64,\n                \"end_time\": 89.80,\n                \"text\": \"कैसे देखना है, कैसे देखना है, वह भी मैं आपको इस वीडियो में बताऊंगा\"\n            }\n        },\n        \"expected_points\": [\n            {\n                \"point_id\": \"P1\",\n                \"description\": \"How Dronacharya case reveals what to look for in any IPO fraud\",\n                \"explicitly_promised\": true,\n                \"confidence\": 0.90,\n                \"evidence\": {\n                    \"start_time\": 51.64,\n                    \"end_time\": 89.80,\n                    \"text\": \"द्रोणाचार्य के केस में किसने कितना पैसा कमाया और उन्होंने एक दो वो कौन सी गलतियां की थी जिससे आप किसी भी आईपीओ में होने वाले फ्रॉड को पता कर सकते हो\"\n                }\n            },\n            {\n                \"point_id\": \"P2\",\n                \"description\": \"Similarities between Dronacharya and upcoming IPOs that investors should watch for\",\n                \"explicitly_promised\": true,\n                \"confidence\": 0.85,\n                \"evidence\": {\n                    \"start_time\": 51.64,\n                    \"end_time\": 89.80,\n                    \"text\": \"अपकमिंग आईपीओस उसमें से भी कई सारी कंपनीज़ में यह चीजें जो चीज द्रोणाचार्य में थी उससे सिमिलर चीजें हैं\"\n                }\n            }\n        ],\n        \"expected_direction\": \"Analyze Dronacharya case study to reveal patterns of SME IPO fraud, compare with upcoming IPOs, and teach viewers how to identify red flags in Indian stock market investments\",\n        \"opening_summary\": \"Creator introduces a case study on how Indian SME companies are deceiving investors through strategic planning. He promises to explain what happened in Dronacharya IPO and how to spot similar patterns in future listings.\",\n        \"analysis_confidence\": 0.92\n    }\n}"
+  },
+  "parsed_analysis": {
+    "video_id": "qa6Qzztj-10",
+    "opening_analysis": {
+      "hook": {
+        "text": "आज का यह जो वीडियो है यह कोई वीडियो नहीं बल्कि केस स्टडी है कि किस तरह से एसएमई कंपनीज़ और पूरा एसएमई मार्केट आज सिर्फ निवेशकों को ही नहीं बल्कि पूरे सिस्टम को बेवकूफ बना रहा है",
+        "start_time": 1.92,
+        "end_time": 51.64,
+        "hook_type": "controversy",
+        "confidence": 0.95
+      },
+      "core_topic": {
+        "description": "SME companies and IPO fraud in India using Dronacharya as case study",
+        "explicit": true,
+        "confidence": 0.95,
+        "evidence": {
+          "start_time": 1.92,
+          "end_time": 51.64,
+          "text": "केस स्टडी है कि किस तरह से एसएमई कंपनीज़ और पूरा एसएमई मार्केट आज सिर्फ निवेशकों को ही नहीं बल्कि पूरे सिस्टम को बेवकूफ बना रहा है"
+        }
+      },
+      "viewer_problem_or_question": {
+        "description": "How to identify fraud in Indian IPOs and understand what's happening with SME companies",
+        "explicit": true,
+        "confidence": 0.9,
+        "evidence": {
+          "start_time": 51.64,
+          "end_time": 89.8,
+          "text": "जिससे आप किसी भी आईपीओ में होने वाले फ्रॉड को पता कर सकते हो"
+        }
+      },
+      "promise": {
+        "description": "Will explain how to spot IPO fraud and what to look for in upcoming IPOs",
+        "explicit": true,
+        "confidence": 0.9,
+        "evidence": {
+          "start_time": 51.64,
+          "end_time": 89.8,
+          "text": "कैसे देखना है, कैसे देखना है, वह भी मैं आपको इस वीडियो में बताऊंगा"
+        }
+      },
+      "expected_points": [
+        {
+          "point_id": "P1",
+          "description": "How Dronacharya case reveals what to look for in any IPO fraud",
+          "explicitly_promised": true,
+          "confidence": 0.9,
+          "evidence": {
+            "start_time": 51.64,
+            "end_time": 89.8,
+            "text": "द्रोणाचार्य के केस में किसने कितना पैसा कमाया और उन्होंने एक दो वो कौन सी गलतियां की थी जिससे आप किसी भी आईपीओ में होने वाले फ्रॉड को पता कर सकते हो"
+          }
+        },
+        {
+          "point_id": "P2",
+          "description": "Similarities between Dronacharya and upcoming IPOs that investors should watch for",
+          "explicitly_promised": true,
+          "confidence": 0.85,
+          "evidence": {
+            "start_time": 51.64,
+            "end_time": 89.8,
+            "text": "अपकमिंग आईपीओस उसमें से भी कई सारी कंपनीज़ में यह चीजें जो चीज द्रोणाचार्य में थी उससे सिमिलर चीजें हैं"
+          }
+        }
+      ],
+      "expected_direction": "Analyze Dronacharya case study to reveal patterns of SME IPO fraud, compare with upcoming IPOs, and teach viewers how to identify red flags in Indian stock market investments",
+      "opening_summary": "Creator introduces a case study on how Indian SME companies are deceiving investors through strategic planning. He promises to explain what happened in Dronacharya IPO and how to spot similar patterns in future listings.",
+      "analysis_confidence": 0.92
+    }
+  },
+  "log_metrics": {
+    "video_id": "qa6Qzztj-10",
+    "model_id": "qwen3.5-9b-claude-4.6-opus-reasoning-distilled-v2",
+    "target_window_seconds": 90.0,
+    "max_window_seconds": 120.0,
+    "actual_opening_duration": 117.28,
+    "final_end_timestamp": 119.2,
+    "number_of_segments": 3,
+    "input_character_count": 5617,
+    "output_character_count": 3331,
+    "latency_seconds": 261.338,
+    "temperature": 0.1,
+    "max_tokens": 2500,
+    "json_valid": true,
+    "validation_issues": [],
+    "parse_error": ""
+  }
+}

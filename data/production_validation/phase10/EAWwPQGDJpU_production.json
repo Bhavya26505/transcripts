@@ -1,0 +1,218 @@
+{
+  "video_id": "EAWwPQGDJpU",
+  "source_language": "hi",
+  "promise_status": "NO_EXPLICIT_PROMISE",
+  "promised_points_count": 0,
+  "point_coverage": null,
+  "point_coverage_status": "NOT_APPLICABLE",
+  "hook": {},
+  "creator_promise": {},
+  "expected_points": [],
+  "segment_analysis": [
+    {
+      "segment_id": 3,
+      "start_time": 91.399,
+      "end_time": 128.88,
+      "primary_point": "P2 | P3",
+      "function": "SUPPORTING_EXPLANATION",
+      "relevance": "DIRECT",
+      "confidence": 0.95,
+      "evidence": "देखिए गोल्ड की प्राइसेस मेनली दो जगह पर डिसाइड होती है। पहली है कॉमिक्स यानी कि द कमोडिटी एक्सचेंज इन न्यूयॉर्क और दूसरा है एलबीएमए",
+      "evidence_validation": "PASSED"
+    },
+    {
+      "segment_id": 4,
+      "start_time": 128.88,
+      "end_time": 177.64,
+      "primary_point": "P2 | P3",
+      "function": "SUPPORTING_EXPLANATION",
+      "relevance": "DIRECT",
+      "confidence": 0.95,
+      "evidence": "हिस्टोरिकली देखें तो गोल्ड सिर्फ एक एसेट नहीं है। हम इंडियंस के लिए एक इमोशन है।",
+      "evidence_validation": "PASSED"
+    },
+    {
+      "segment_id": 5,
+      "start_time": 177.64,
+      "end_time": 224.44,
+      "primary_point": "NONE",
+      "function": "OFF_TOPIC",
+      "relevance": "OFF_TOPIC",
+      "confidence": 0.98,
+      "evidence": "हेल्थ इंश्योरेंस होना आज के टाइम के लिए सबसे इंपॉर्टेंट इन्वेस्टमेंट है। सिर्फ ₹700 से ₹900 महीने में आपको 10 से 20 लाख तक का फैमिली कवर मिल जाता है",
+      "evidence_validation": "PASSED"
+    },
+    {
+      "segment_id": 6,
+      "start_time": 224.44,
+      "end_time": 266.88,
+      "primary_point": "P3",
+      "function": "TRANSITION",
+      "relevance": "DIRECT",
+      "confidence": 0.95,
+      "evidence": "तो अब आते हैं अपने मुद्दे पर कि साल 2022 में ऐसा क्या हुआ कि गोल्ड गोल्ड नहीं बल्कि स्टॉक मार्केट की तरह परफॉर्म करने लगा।",
+      "evidence_validation": "PASSED"
+    },
+    {
+      "segment_id": 7,
+      "start_time": 266.88,
+      "end_time": 304.64,
+      "primary_point": "P3",
+      "function": "SUPPORTING_EXPLANATION",
+      "relevance": "DIRECT",
+      "confidence": 0.95,
+      "evidence": "यूनाइटेड स्टेट्स और उसके G7 एलीज ने कुछ ऐसा किया जो पहले कभी नहीं हुआ था। उन्होंने रशिया के $300 बिलियन के फॉरेन एक्सचेंज रिजर्व पूरी तरह से फ्रीज़ कर दिया।",
+      "evidence_validation": "PASSED"
+    },
+    {
+      "segment_id": 8,
+      "start_time": 304.64,
+      "end_time": 353.6,
+      "primary_point": "P1 | P2 | P3 | P4 | NONE | MULTIPLE | UNCERTAIN",
+      "function": "SUPPORTING_EXPLANATION",
+      "relevance": "DIRECT",
+      "confidence": 0.95,
+      "evidence": "जवाब था गोल्ड। गोल्ड एक ऐसा एसेट क्लास है जिसे कोई सेंशन नहीं कर सकता। कोई फ्रीज भी नहीं कर सकता।",
+      "evidence_validation": "PASSED"
+    },
+    {
+      "segment_id": 9,
+      "start_time": 353.6,
+      "end_time": 401.84,
+      "primary_point": "P1 | P2 | P3 | P4 | NONE | MULTIPLE | UNCERTAIN",
+      "function": "EVIDENCE",
+      "relevance": "DIRECT",
+      "confidence": 0.95,
+      "evidence": "गया। अगले साल 1045 टन्स यानी कि तीन क्सक्यूटिव इयर",
+      "evidence_validation": "PASSED"
+    },
+    {
+      "segment_id": 10,
+      "start_time": 401.84,
+      "end_time": 451.68,
+      "primary_point": "P1 | P2 | P3 | P4 | NONE | MULTIPLE | UNCERTAIN",
+      "function": "SUPPORTING_EXPLANATION",
+      "relevance": "DIRECT",
+      "confidence": 0.95,
+      "evidence": "सिर्फ एक साल में 53 ऑल टाइम हाई देखने मिले। 65% से गोल्ड की प्राइस एक साल में बढ़ गई",
+      "evidence_validation": "PASSED"
+    },
+    {
+      "segment_id": 11,
+      "start_time": 451.68,
+      "end_time": 482.639,
+      "primary_point": "P1 | P2 | P3 | P4 | NONE | MULTIPLE | UNCERTAIN",
+      "function": "RELATED_EXTENSION",
+      "relevance": "RELATED",
+      "confidence": 0.9,
+      "evidence": "28th फरवरी को यूनाइटेड स्टेट्स ने ईरान पर मिलिट्री स्ट्राइक शुरू कर दी। इस कॉन्फ्लिक्ट के चलते क्या हुआ? क्रूड ऑयल की प्राइसेस बहुत तेजी से आगे बढ़ने लगी।",
+      "evidence_validation": "PASSED"
+    },
+    {
+      "segment_id": 12,
+      "start_time": 482.639,
+      "end_time": 527.88,
+      "primary_point": "P1 | P2 | P3 | P4 | NONE | MULTIPLE | UNCERTAIN",
+      "function": "SUPPORTING_EXPLANATION",
+      "relevance": "DIRECT",
+      "confidence": 0.95,
+      "evidence": "देखिए ये एक मैकेनिज्म है जो आपको बहुत अच्छे से समझना जरूरी है। तो देखिए ऑयल डॉलर में खरीदा जाता है।",
+      "evidence_validation": "PASSED"
+    },
+    {
+      "segment_id": 13,
+      "start_time": 527.88,
+      "end_time": 559.2,
+      "primary_point": "P2 | P3",
+      "function": "SUPPORTING_EXPLANATION",
+      "relevance": "DIRECT",
+      "confidence": 0.95,
+      "evidence": "ईटीएफ के आउटफ्ल्स एक्सलरेटेड हो गए। कॉमिक्स पर रैपिड प्रॉफिट टेकिंग होने लगी",
+      "evidence_validation": "PASSED"
+    },
+    {
+      "segment_id": 14,
+      "start_time": 559.2,
+      "end_time": 589.4,
+      "primary_point": "P2 | P3",
+      "function": "EVIDENCE",
+      "relevance": "DIRECT",
+      "confidence": 0.95,
+      "evidence": "मॉडर्न हिस्ट्री में ऐसा पहली बार हुआ है",
+      "evidence_validation": "PASSED"
+    },
+    {
+      "segment_id": 15,
+      "start_time": 589.4,
+      "end_time": 630.52,
+      "primary_point": "P3 | P4",
+      "function": "SUPPORTING_EXPLANATION",
+      "relevance": "DIRECT",
+      "confidence": 0.95,
+      "evidence": "आपको चारप सालों में एक आध बार ऐसी अपॉर्चुनिटी आती है, बुल रन आता है",
+      "evidence_validation": "PASSED"
+    },
+    {
+      "segment_id": 16,
+      "start_time": 630.52,
+      "end_time": 652.079,
+      "primary_point": "P4",
+      "function": "CONCLUSION",
+      "relevance": "DIRECT",
+      "confidence": 0.95,
+      "evidence": "चाहिए जो जनरली हिस्टोरिकली 10 से 12% है और अगर आप उससे खुश हैं तो ही आप गोल्ड में जाइए",
+      "evidence_validation": "PASSED"
+    }
+  ],
+  "metrics": {
+    "point_coverage": null,
+    "clear_relevance": {
+      "rel_durations": {
+        "DIRECT": 482.92,
+        "SUPPORTING": 0.0,
+        "RELATED": 30.96,
+        "TRANSITION": 0.0,
+        "UNCERTAIN": 0.0,
+        "OFF_TOPIC": 46.8
+      },
+      "rel_percentages": {
+        "DIRECT": 86.13,
+        "SUPPORTING": 0.0,
+        "RELATED": 5.52,
+        "TRANSITION": 0.0,
+        "UNCERTAIN": 0.0,
+        "OFF_TOPIC": 8.35
+      },
+      "clearly_relevant_duration": 513.88,
+      "clearly_relevant_percentage": 91.65,
+      "off_topic_duration": 46.8,
+      "off_topic_percentage": 8.35
+    },
+    "off_topic_percentage": 8.35,
+    "off_topic_episode_count": 1,
+    "missing_points": []
+  },
+  "adherence_score": {
+    "point_coverage_weight": 0.6,
+    "clear_relevance_weight": 0.25,
+    "topic_discipline_weight": 0.15,
+    "point_coverage_score": null,
+    "clear_relevance_score": 91.65,
+    "topic_discipline_score": 91.65,
+    "final_score": null
+  },
+  "validation": {
+    "timeline_integrity": true,
+    "evidence_integrity": true,
+    "metric_integrity": true,
+    "score_integrity": true,
+    "all_validations_pass": true
+  },
+  "performance": {
+    "phase7_latency": 211.05,
+    "phase8_latency": 538.52,
+    "llm_calls_count": 4,
+    "retries_count": 0,
+    "total_processing_time": 749.88
+  }
+}

@@ -1,0 +1,155 @@
+{
+  "video_id": "-RgdgqF9wd0",
+  "validation_status": "PASS",
+  "formula": {
+    "name": "Candidate A (Balanced)",
+    "expression": "0.40 * Point_Coverage + 0.40 * Clear_Relevance + 0.20 * Topic_Discipline",
+    "weight_coverage": 0.4,
+    "weight_relevance": 0.4,
+    "weight_discipline": 0.2,
+    "weight_sum": 1.0,
+    "weight_sum_passed": true
+  },
+  "baseline": {
+    "coverage": 75.0,
+    "relevance": 70.92,
+    "discipline": 70.92,
+    "score": 72.55
+  },
+  "scenarios": [
+    {
+      "id": 1,
+      "name": "Ideal Video",
+      "coverage": 100.0,
+      "relevance": 100.0,
+      "discipline": 100.0,
+      "score": 100.0
+    },
+    {
+      "id": 2,
+      "name": "Current Baseline (-RgdgqF9wd0)",
+      "coverage": 75.0,
+      "relevance": 70.92,
+      "discipline": 70.92,
+      "score": 72.55
+    },
+    {
+      "id": 3,
+      "name": "All Points Covered, Low Digression",
+      "coverage": 100.0,
+      "relevance": 90.0,
+      "discipline": 90.0,
+      "score": 94.0
+    },
+    {
+      "id": 4,
+      "name": "Few Points Covered, Very Focused",
+      "coverage": 25.0,
+      "relevance": 95.0,
+      "discipline": 95.0,
+      "score": 67.0
+    },
+    {
+      "id": 5,
+      "name": "All Points Covered, High Digression",
+      "coverage": 100.0,
+      "relevance": 60.0,
+      "discipline": 60.0,
+      "score": 76.0
+    },
+    {
+      "id": 6,
+      "name": "No Points Covered",
+      "coverage": 0.0,
+      "relevance": 100.0,
+      "discipline": 100.0,
+      "score": 60.0
+    },
+    {
+      "id": 7,
+      "name": "Perfect Point Coverage, Poor Focus",
+      "coverage": 100.0,
+      "relevance": 30.0,
+      "discipline": 30.0,
+      "score": 58.0
+    },
+    {
+      "id": 8,
+      "name": "One Missing Point (75% Coverage)",
+      "coverage": 75.0,
+      "relevance": 90.0,
+      "discipline": 90.0,
+      "score": 84.0
+    },
+    {
+      "id": 9,
+      "name": "Sponsor Interruption (Minor Off-Topic)",
+      "coverage": 100.0,
+      "relevance": 85.0,
+      "discipline": 85.0,
+      "score": 91.0
+    }
+  ],
+  "monotonicity_tests": {
+    "coverage_sequence": [
+      30.0,
+      40.0,
+      50.0,
+      60.0,
+      70.0
+    ],
+    "relevance_sequence": [
+      30.0,
+      40.0,
+      50.0,
+      60.0,
+      70.0
+    ],
+    "discipline_sequence": [
+      40.0,
+      45.0,
+      50.0,
+      55.0,
+      60.0
+    ],
+    "passed": true
+  },
+  "boundary_tests": {
+    "min_score_0_0_0": 0.0,
+    "max_score_100_100_100": 100.0,
+    "passed": true
+  },
+  "sensitivity_analysis": {
+    "plus_10_coverage_effect": 4.0,
+    "plus_10_relevance_effect": 4.0,
+    "plus_10_discipline_effect": 2.0,
+    "passed": true
+  },
+  "design_answers": {
+    "Q1_zero_coverage_score_above_40": {
+      "question": "Can a video with ZERO promised-point coverage score above 40?",
+      "answer": "YES. If a video covers 0 promised points (Coverage=0) but has 100% general relevance and 100% discipline, Candidate A yields a score of 60.00 (0.40*0 + 0.40*100 + 0.20*100 = 60.00).",
+      "implication": "The formula awards up to 60 points for high general topic focus even when all specific promised points are missed."
+    },
+    "Q2_perfect_coverage_poor_focus": {
+      "question": "Can a video with 100% promised-point coverage but very poor focus still score relatively high?",
+      "answer": "YES. If a video directly covers all promised points (Coverage=100) but has poor focus (Relevance=30%, Discipline=30%), Candidate A yields a score of 58.00 (0.40*100 + 0.40*30 + 0.20*30 = 58.00).",
+      "implication": "Fulfilling all promised points guarantees a baseline floor score of 40 points regardless of digressions."
+    },
+    "Q3_equal_importance_coverage_relevance": {
+      "question": "Does Candidate A give equal importance to Point Coverage and Clear Relevance?",
+      "answer": "YES. Both Point Coverage and Clear Relevance carry an identical weighting of 40% (0.40 weight each).",
+      "implication": "A 10 percentage point increase in either dimension increases the total score by exactly 4.00 points."
+    },
+    "Q4_sensitivity_to_missing_points": {
+      "question": "Is the formula sensitive enough to missing promised points?",
+      "answer": "MODERATE. For a 4-point promise, missing 1 point reduces Point Coverage by 25%, which reduces the final score by 10.00 points (25% * 0.40).",
+      "implication": "Missing 1 out of 4 points causes a 10-point score reduction."
+    },
+    "Q5_sensitivity_to_off_topic_content": {
+      "question": "Is the formula sensitive enough to substantial off-topic content?",
+      "answer": "STRONG. Clear Relevance (40%) and Topic Discipline (20%) together control 60% of the score weight.",
+      "implication": "A 50% off-topic digression reduces the total score by 30.00 points (50% * 0.60)."
+    }
+  }
+}

@@ -1,0 +1,408 @@
+{
+  "video_id": "-RgdgqF9wd0",
+  "source_language": "hi",
+  "promise_status": "EXPLICIT_PROMISE",
+  "promised_points_count": 4,
+  "point_coverage": 75.0,
+  "point_coverage_status": "CALCULATED",
+  "hook": {
+    "text": "एनएसडीएल का आईपीओ फाइनली आ गया है। 30 तारीख से 1 तारीख के बीच ये खुला रहेगा। लेकिन जैसे इस आईपीओ की अनाउंसमेंट हुई दूसरी तरफ इस डीओ ली में एनएसडीएल का जो दूसरा भागीदार है CDSL उसके शेयर प्राइस में गिरावट आना शुरू हो गई।",
+    "start_time": 0.0,
+    "end_time": 42.48,
+    "hook_type": "news/event | curiosity",
+    "confidence": 0.95,
+    "evidence_validation": "PASSED",
+    "evidence": {
+      "start_time": 0.0,
+      "end_time": 42.48,
+      "text": "एनएसडीएल का आईपीओ फाइनली आ गया है। 30 तारीख से 1 तारीख के बीच ये खुला रहेगा। लेकिन जैसे इस आईपीओ की अनाउंसमेंट हुई दूसरी तरफ इस डीओ ली में एनएसडीएल का जो दूसरा भागीदार है CDSL उसके शेयर प्राइस में गिरावट आना शुरू हो गई।"
+    }
+  },
+  "creator_promise": {
+    "description": "Analyze NSDL's business model and revenue sources, compare it with CDSL, evaluate valuation, and discuss listing gains.",
+    "explicit": true,
+    "confidence": 0.9,
+    "evidence": {
+      "start_time": 52.0,
+      "end_time": 60.0,
+      "text": "इंटरेस्टिंगली डिपॉज़िटरी से ज्यादा इनका रेवेन्यू कहीं और से आ रहा है। वो चीज क्या है? उसके बारे में आज हम बात करेंगे।"
+    },
+    "evidence_validation": "PASSED"
+  },
+  "expected_points": [
+    {
+      "point_id": "P1",
+      "description": "NSDL business model explanation and revenue sources beyond depository services.",
+      "explicitly_promised": true,
+      "confidence": 0.95,
+      "evidence": {
+        "start_time": 42.48,
+        "end_time": 60.0,
+        "text": "तो आज के इस वीडियो में हम बात करेंगे एनएसएल के बिज़नेस मॉडल के बारे में।"
+      },
+      "evidence_validation": "PASSED"
+    },
+    {
+      "point_id": "P2",
+      "description": "Difference in business models between NSDL and CDSL.",
+      "explicitly_promised": true,
+      "confidence": 0.95,
+      "evidence": {
+        "start_time": 47.0,
+        "end_time": 52.0,
+        "text": "लेकिन एक्चुअल में इनके बिज़नेस मॉडल में काफी ज्यादा अंतर है।"
+      },
+      "evidence_validation": "PASSED"
+    },
+    {
+      "point_id": "P3",
+      "description": "NSDL valuation assessment - under or over valued.",
+      "explicitly_promised": true,
+      "confidence": 0.95,
+      "evidence": {
+        "start_time": 78.0,
+        "end_time": 82.0,
+        "text": "आखिर में हम बात करेंगे कंपनी के वैल्यू्यूएशन के बारे में कि कंपनी अंडरवैल्यूड लगती है या"
+      },
+      "evidence_validation": "PASSED"
+    },
+    {
+      "point_id": "P4",
+      "description": "Listing gains assessment for NSDL.",
+      "explicitly_promised": true,
+      "confidence": 0.95,
+      "evidence": {
+        "start_time": 82.0,
+        "end_time": 87.0,
+        "text": "ओवरवैल्यूड लगती है। साथ ही लिस्टिंग गेन के मामले में फिलहाल क्या दिख रहा है।"
+      },
+      "evidence_validation": "PASSED"
+    }
+  ],
+  "segment_analysis": [
+    {
+      "segment_id": 3,
+      "start_time": 87.519,
+      "end_time": 121.16,
+      "primary_point": "P1 | P2",
+      "function": "DIRECT_POINT",
+      "relevance": "DIRECT",
+      "confidence": 0.95,
+      "evidence": "सिर्फ 43% ही रेवेन्यू है इनका जो डिपॉजिटरी से आता है और बाकी जो 6% रेवेन्यू है वह आता है इनका डेटाबेस मैनेजमेंट से। इतना कोई सिग्निफिकेंट नंबर नहीं है। वहीं पर अगर हम सीडीएसएल की बात करें तो सीडीएसएल का लगभग 80% रेवेन्यू डिपॉजिटरी सर्विज से आता है।",
+      "evidence_validation": "PASSED"
+    },
+    {
+      "segment_id": 4,
+      "start_time": 121.16,
+      "end_time": 169.68,
+      "primary_point": "P1",
+      "function": "SUPPORTING_EXPLANATION",
+      "relevance": "DIRECT",
+      "confidence": 0.95,
+      "evidence": "कंपनी का रेवेन्यू लगभग 1400 करोड़ का है और उसमें से लगभग 51% रेवेन्यू यानी 79 करोड़ का रेवेन्यू इनका एनएसएल के पेमेंट बैंक से आया है।",
+      "evidence_validation": "PASSED"
+    },
+    {
+      "segment_id": 5,
+      "start_time": 169.68,
+      "end_time": 212.92,
+      "primary_point": "P1",
+      "function": "SUPPORTING_EXPLANATION",
+      "relevance": "DIRECT",
+      "confidence": 0.95,
+      "evidence": "जहां से कंपनी का 51% रेवेन्यू आया है। और जहां से 59% रेवेन्यू आया है बचा हुआ वहां से कंपनी मेन प्रॉफिट बना रही है।",
+      "evidence_validation": "PASSED"
+    },
+    {
+      "segment_id": 6,
+      "start_time": 212.92,
+      "end_time": 257.96,
+      "primary_point": "NONE",
+      "function": "OFF_TOPIC",
+      "relevance": "OFF_TOPIC",
+      "confidence": 0.98,
+      "evidence": "वीडियो में आगे बढ़ने से पहले आपको एक बात बोलना चाहूंगा कि आप एक चीज मिस कर रहे हो। वो क्या? तो ढेरों सारा कैशबैक पाने का मौका।",
+      "evidence_validation": "PASSED"
+    },
+    {
+      "segment_id": 7,
+      "start_time": 257.96,
+      "end_time": 297.679,
+      "primary_point": "NONE",
+      "function": "OFF_TOPIC",
+      "relevance": "OFF_TOPIC",
+      "confidence": 0.98,
+      "evidence": "क्रेडिट पे से मिलने वाले कैशबैक को यूज करके आप ढेरों सारी शॉपिंग, oटीt और बाकी एप्स पर डिस्काउंट के लिए भी उसे यूज कर सकते हो।",
+      "evidence_validation": "PASSED"
+    },
+    {
+      "segment_id": 8,
+      "start_time": 297.679,
+      "end_time": 347.4,
+      "primary_point": "NONE",
+      "function": "OFF_TOPIC",
+      "relevance": "OFF_TOPIC",
+      "confidence": 0.95,
+      "evidence": "तो चलिए अब आगे बढ़ते हैं",
+      "evidence_validation": "PASSED"
+    },
+    {
+      "segment_id": 9,
+      "start_time": 347.4,
+      "end_time": 391.799,
+      "primary_point": "P2",
+      "function": "COMPARISON",
+      "relevance": "DIRECT",
+      "confidence": 0.95,
+      "evidence": "एनएसएल के पास था। लेकिन 2016 के बाद धीरे-धीरे पूरा गेम सीडीएसएल के फेवर में चला गया और आज सीडीएसएल डिपॉज़िटरी गेम में मार्केट लीडर है।",
+      "evidence_validation": "PASSED"
+    },
+    {
+      "segment_id": 10,
+      "start_time": 391.799,
+      "end_time": 434.56,
+      "primary_point": "P2",
+      "function": "SUPPORTING_EXPLANATION",
+      "relevance": "DIRECT",
+      "confidence": 0.95,
+      "evidence": "CDSL के पास अगर देखा जाए तो आज के जो लीडिंग ब्रोकर्स हैं Zerodha Go Annjal वन ये तीनों भी CDSL के पास है।",
+      "evidence_validation": "PASSED"
+    },
+    {
+      "segment_id": 11,
+      "start_time": 434.56,
+      "end_time": 474.44,
+      "primary_point": "P3",
+      "function": "EVIDENCE",
+      "relevance": "DIRECT",
+      "confidence": 0.95,
+      "evidence": "लॉन्ग टर्म की बात करें तो कंपनी का मार्केट कैपिटलाइजेशन निकल कर आ रहा है लगभग ₹16,000 करोड़।",
+      "evidence_validation": "PASSED"
+    },
+    {
+      "segment_id": 12,
+      "start_time": 474.44,
+      "end_time": 514.879,
+      "primary_point": "P3",
+      "function": "SUPPORTING_EXPLANATION",
+      "relevance": "DIRECT",
+      "confidence": 0.95,
+      "evidence": "हिसाब से कंपनी का जो प्राइस टू अर्निंग रेशियो है वो है 46 का।",
+      "evidence_validation": "PASSED"
+    },
+    {
+      "segment_id": 13,
+      "start_time": 514.879,
+      "end_time": 544.24,
+      "primary_point": "P1 | P2",
+      "function": "SUPPORTING_EXPLANATION",
+      "relevance": "DIRECT",
+      "confidence": 0.95,
+      "evidence": "इनका जो पेमेंट बिज़नेस है जहां से इनका 51% रेवेन्यू आ रहा है उस बिजनेस को देखा जाए। हम इसे बाकी प्लेयर्स से कंपेयर करके देखते हैं",
+      "evidence_validation": "PASSED"
+    },
+    {
+      "segment_id": 14,
+      "start_time": 544.24,
+      "end_time": 582.72,
+      "primary_point": "P1 | P2",
+      "function": "COMPARISON",
+      "relevance": "DIRECT",
+      "confidence": 0.95,
+      "evidence": "इंडिया पोस्ट पेमेंट्स 134 करोड़ का प्रॉफिट है इसका। बहुत तेजी से प्रॉफिट भी उसका बढ़ रहा है",
+      "evidence_validation": "PASSED"
+    },
+    {
+      "segment_id": 15,
+      "start_time": 582.72,
+      "end_time": 620.279,
+      "primary_point": "P3",
+      "function": "DIRECT_POINT",
+      "relevance": "DIRECT",
+      "confidence": 0.95,
+      "evidence": "ओवरऑल अगर लॉन्ग टर्म के हिसाब से देखें तो मुझे कंपनी कहीं ना कहीं थोड़ी ओवरवैल्यूड लगती है",
+      "evidence_validation": "PASSED"
+    },
+    {
+      "segment_id": 16,
+      "start_time": 620.279,
+      "end_time": 649.079,
+      "primary_point": "NONE",
+      "function": "OFF_TOPIC",
+      "relevance": "OFF_TOPIC",
+      "confidence": 0.95,
+      "evidence": "आपको बहुत बारीकी से देखना पड़ेगा। और जाते-जाते क्रेडिट पे को भी जरूर चेक आउट कीजिए",
+      "evidence_validation": "PASSED"
+    }
+  ],
+  "metrics": {
+    "point_coverage": {
+      "P1": {
+        "description": "NSDL business model explanation and revenue sources beyond depository services.",
+        "coverage_type": "DIRECTLY_COVERED",
+        "segment_count": 5,
+        "duration": 193.24,
+        "percentage_of_analyzed_duration": 34.41,
+        "function_counts": {
+          "DIRECT_POINT": 1,
+          "SUPPORTING_EXPLANATION": 3,
+          "EVIDENCE": 0,
+          "EXAMPLE": 0,
+          "COMPARISON": 1,
+          "TRANSITION": 0,
+          "CONTEXT": 0,
+          "CONCLUSION": 0,
+          "RELATED_EXTENSION": 0,
+          "OFF_TOPIC": 0,
+          "UNCERTAIN": 0
+        },
+        "non_zero_function_counts": {
+          "DIRECT_POINT": 1,
+          "SUPPORTING_EXPLANATION": 3,
+          "COMPARISON": 1
+        },
+        "segment_ids": [
+          3,
+          4,
+          5,
+          13,
+          14
+        ]
+      },
+      "P2": {
+        "description": "Difference in business models between NSDL and CDSL.",
+        "coverage_type": "DIRECTLY_COVERED",
+        "segment_count": 5,
+        "duration": 188.64,
+        "percentage_of_analyzed_duration": 33.59,
+        "function_counts": {
+          "DIRECT_POINT": 1,
+          "SUPPORTING_EXPLANATION": 2,
+          "EVIDENCE": 0,
+          "EXAMPLE": 0,
+          "COMPARISON": 2,
+          "TRANSITION": 0,
+          "CONTEXT": 0,
+          "CONCLUSION": 0,
+          "RELATED_EXTENSION": 0,
+          "OFF_TOPIC": 0,
+          "UNCERTAIN": 0
+        },
+        "non_zero_function_counts": {
+          "DIRECT_POINT": 1,
+          "SUPPORTING_EXPLANATION": 2,
+          "COMPARISON": 2
+        },
+        "segment_ids": [
+          3,
+          9,
+          10,
+          13,
+          14
+        ]
+      },
+      "P3": {
+        "description": "NSDL valuation assessment - under or over valued.",
+        "coverage_type": "DIRECTLY_COVERED",
+        "segment_count": 3,
+        "duration": 117.88,
+        "percentage_of_analyzed_duration": 20.99,
+        "function_counts": {
+          "DIRECT_POINT": 1,
+          "SUPPORTING_EXPLANATION": 1,
+          "EVIDENCE": 1,
+          "EXAMPLE": 0,
+          "COMPARISON": 0,
+          "TRANSITION": 0,
+          "CONTEXT": 0,
+          "CONCLUSION": 0,
+          "RELATED_EXTENSION": 0,
+          "OFF_TOPIC": 0,
+          "UNCERTAIN": 0
+        },
+        "non_zero_function_counts": {
+          "DIRECT_POINT": 1,
+          "SUPPORTING_EXPLANATION": 1,
+          "EVIDENCE": 1
+        },
+        "segment_ids": [
+          11,
+          12,
+          15
+        ]
+      },
+      "P4": {
+        "description": "Listing gains assessment for NSDL.",
+        "coverage_type": "NOT_COVERED",
+        "segment_count": 0,
+        "duration": 0,
+        "percentage_of_analyzed_duration": 0.0,
+        "function_counts": {
+          "DIRECT_POINT": 0,
+          "SUPPORTING_EXPLANATION": 0,
+          "EVIDENCE": 0,
+          "EXAMPLE": 0,
+          "COMPARISON": 0,
+          "TRANSITION": 0,
+          "CONTEXT": 0,
+          "CONCLUSION": 0,
+          "RELATED_EXTENSION": 0,
+          "OFF_TOPIC": 0,
+          "UNCERTAIN": 0
+        },
+        "non_zero_function_counts": {},
+        "segment_ids": []
+      }
+    },
+    "clear_relevance": {
+      "rel_durations": {
+        "DIRECT": 398.28,
+        "SUPPORTING": 0.0,
+        "RELATED": 0.0,
+        "TRANSITION": 0.0,
+        "UNCERTAIN": 0.0,
+        "OFF_TOPIC": 163.28
+      },
+      "rel_percentages": {
+        "DIRECT": 70.92,
+        "SUPPORTING": 0.0,
+        "RELATED": 0.0,
+        "TRANSITION": 0.0,
+        "UNCERTAIN": 0.0,
+        "OFF_TOPIC": 29.08
+      },
+      "clearly_relevant_duration": 398.28,
+      "clearly_relevant_percentage": 70.92,
+      "off_topic_duration": 163.28,
+      "off_topic_percentage": 29.08
+    },
+    "off_topic_percentage": 29.08,
+    "off_topic_episode_count": 2,
+    "missing_points": [
+      "P4"
+    ]
+  },
+  "adherence_score": {
+    "point_coverage_weight": 0.6,
+    "clear_relevance_weight": 0.25,
+    "topic_discipline_weight": 0.15,
+    "point_coverage_score": 75.0,
+    "clear_relevance_score": 70.92,
+    "topic_discipline_score": 70.92,
+    "final_score": 73.37
+  },
+  "validation": {
+    "timeline_integrity": true,
+    "evidence_integrity": true,
+    "metric_integrity": true,
+    "score_integrity": true,
+    "all_validations_pass": true
+  },
+  "performance": {
+    "phase7_latency": 0.0,
+    "phase8_latency": 0.0,
+    "llm_calls_count": 0,
+    "retries_count": 0,
+    "total_processing_time": 0.1
+  }
+}

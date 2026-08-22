@@ -1,0 +1,291 @@
+{
+  "video_id": "-RgdgqF9wd0",
+  "validation_status": "PASS",
+  "formula": {
+    "name": "Candidate B (Promise-First)",
+    "expression": "0.60 * Point_Coverage + 0.25 * Clear_Relevance + 0.15 * Topic_Discipline",
+    "weight_coverage": 0.6,
+    "weight_relevance": 0.25,
+    "weight_discipline": 0.15,
+    "weight_sum": 1.0,
+    "weight_sum_passed": true
+  },
+  "baseline": {
+    "coverage": 75.0,
+    "relevance": 70.92,
+    "discipline": 70.92,
+    "score_B": 73.37,
+    "score_A": 72.55
+  },
+  "scenarios": [
+    {
+      "id": 1,
+      "name": "Ideal Video",
+      "coverage": 100.0,
+      "relevance": 100.0,
+      "discipline": 100.0,
+      "score_B": 100.0,
+      "score_A": 100.0,
+      "diff_B_minus_A": 0.0
+    },
+    {
+      "id": 2,
+      "name": "Current Baseline (-RgdgqF9wd0)",
+      "coverage": 75.0,
+      "relevance": 70.92,
+      "discipline": 70.92,
+      "score_B": 73.37,
+      "score_A": 72.55,
+      "diff_B_minus_A": 0.82
+    },
+    {
+      "id": 3,
+      "name": "All Points Covered, Low Digression",
+      "coverage": 100.0,
+      "relevance": 90.0,
+      "discipline": 90.0,
+      "score_B": 96.0,
+      "score_A": 94.0,
+      "diff_B_minus_A": 2.0
+    },
+    {
+      "id": 4,
+      "name": "Few Points Covered, Very Focused",
+      "coverage": 25.0,
+      "relevance": 95.0,
+      "discipline": 95.0,
+      "score_B": 53.0,
+      "score_A": 67.0,
+      "diff_B_minus_A": -14.0
+    },
+    {
+      "id": 5,
+      "name": "All Points Covered, High Digression",
+      "coverage": 100.0,
+      "relevance": 60.0,
+      "discipline": 60.0,
+      "score_B": 84.0,
+      "score_A": 76.0,
+      "diff_B_minus_A": 8.0
+    },
+    {
+      "id": 6,
+      "name": "No Points Covered, Perfect Focus",
+      "coverage": 0.0,
+      "relevance": 100.0,
+      "discipline": 100.0,
+      "score_B": 40.0,
+      "score_A": 60.0,
+      "diff_B_minus_A": -20.0
+    },
+    {
+      "id": 7,
+      "name": "Perfect Point Coverage, Poor Focus",
+      "coverage": 100.0,
+      "relevance": 30.0,
+      "discipline": 30.0,
+      "score_B": 72.0,
+      "score_A": 58.0,
+      "diff_B_minus_A": 14.0
+    },
+    {
+      "id": 8,
+      "name": "One Missing Point (75% Coverage)",
+      "coverage": 75.0,
+      "relevance": 90.0,
+      "discipline": 90.0,
+      "score_B": 81.0,
+      "score_A": 84.0,
+      "diff_B_minus_A": -3.0
+    },
+    {
+      "id": 9,
+      "name": "Sponsor Interruption (Minor Off-Topic)",
+      "coverage": 100.0,
+      "relevance": 85.0,
+      "discipline": 85.0,
+      "score_B": 94.0,
+      "score_A": 91.0,
+      "diff_B_minus_A": 3.0
+    }
+  ],
+  "promise_coverage_table": [
+    {
+      "coverage": 0.0,
+      "relevance": 100.0,
+      "discipline": 100.0,
+      "max_possible_score": 40.0
+    },
+    {
+      "coverage": 25.0,
+      "relevance": 100.0,
+      "discipline": 100.0,
+      "max_possible_score": 55.0
+    },
+    {
+      "coverage": 50.0,
+      "relevance": 100.0,
+      "discipline": 100.0,
+      "max_possible_score": 70.0
+    },
+    {
+      "coverage": 75.0,
+      "relevance": 100.0,
+      "discipline": 100.0,
+      "max_possible_score": 85.0
+    },
+    {
+      "coverage": 100.0,
+      "relevance": 100.0,
+      "discipline": 100.0,
+      "max_possible_score": 100.0
+    }
+  ],
+  "focus_penalty_table": [
+    {
+      "coverage": 100.0,
+      "relevance": 100.0,
+      "discipline": 100.0,
+      "score": 100.0
+    },
+    {
+      "coverage": 100.0,
+      "relevance": 80.0,
+      "discipline": 80.0,
+      "score": 92.0
+    },
+    {
+      "coverage": 100.0,
+      "relevance": 60.0,
+      "discipline": 60.0,
+      "score": 84.0
+    },
+    {
+      "coverage": 100.0,
+      "relevance": 40.0,
+      "discipline": 40.0,
+      "score": 76.0
+    },
+    {
+      "coverage": 100.0,
+      "relevance": 20.0,
+      "discipline": 20.0,
+      "score": 68.0
+    },
+    {
+      "coverage": 100.0,
+      "relevance": 0.0,
+      "discipline": 0.0,
+      "score": 60.0
+    }
+  ],
+  "monotonicity_tests": {
+    "coverage_sequence": [
+      20.0,
+      35.0,
+      50.0,
+      65.0,
+      80.0
+    ],
+    "relevance_sequence": [
+      37.5,
+      43.75,
+      50.0,
+      56.25,
+      62.5
+    ],
+    "discipline_sequence": [
+      42.5,
+      46.25,
+      50.0,
+      53.75,
+      57.5
+    ],
+    "passed": true
+  },
+  "boundary_tests": {
+    "min_score_0_0_0": 0.0,
+    "max_score_100_100_100": 100.0,
+    "passed": true
+  },
+  "sensitivity_analysis": {
+    "plus_10_coverage_effect": 6.0,
+    "plus_10_relevance_effect": 2.5,
+    "plus_10_discipline_effect": 1.5,
+    "passed": true
+  },
+  "comparison_candidate_A_vs_B": [
+    {
+      "metric": "Baseline Score (-RgdgqF9wd0)",
+      "candidate_A": 72.55,
+      "candidate_B": 73.37,
+      "diff": 0.82
+    },
+    {
+      "metric": "Zero-Point Maximum (Cov=0, Rel=100, Disc=100)",
+      "candidate_A": 60.0,
+      "candidate_B": 40.0,
+      "diff": -20.0
+    },
+    {
+      "metric": "Full-Coverage / Poor-Focus (Cov=100, Rel=30, Disc=30)",
+      "candidate_A": 58.0,
+      "candidate_B": 72.0,
+      "diff": 14.0
+    },
+    {
+      "metric": "One-Missing-Point (Cov=75, Rel=90, Disc=90)",
+      "candidate_A": 84.0,
+      "candidate_B": 81.0,
+      "diff": -3.0
+    },
+    {
+      "metric": "Few Points Covered, Very Focused (Cov=25, Rel=95, Disc=95)",
+      "candidate_A": 67.0,
+      "candidate_B": 53.0,
+      "diff": -14.0
+    }
+  ],
+  "design_answers": {
+    "Q1_zero_coverage_max_score": {
+      "question": "What is the maximum score when ZERO promised points are covered?",
+      "answer": "EXACTLY 40.00. Under Candidate B, if Coverage=0%, maximum possible score even with 100% relevance and 100% discipline is 40.00 (0.60*0 + 0.25*100 + 0.15*100 = 40.00).",
+      "implication": "Enforces a strict cap of 40 points when the creator fails to cover any promised points."
+    },
+    "Q2_few_points_covered_focused": {
+      "question": "What happens when only 1/4 promised points are covered but the video is otherwise highly focused?",
+      "answer": "Yields 53.00 (Scenario 4: Cov=25%, Rel=95%, Disc=95%).",
+      "implication": "Candidate B prevents highly focused digression videos from receiving a passing adherence score when 75% of promised points are missed."
+    },
+    "Q3_response_to_missing_points": {
+      "question": "How strongly does Candidate B respond to missing promised points?",
+      "answer": "VERY STRONGLY. For a 4-point promise, missing 1 point reduces Point Coverage by 25%, causing a 15.00 point drop in final score (25% * 0.60 = 15.00).",
+      "implication": "Each omitted opening promise applies a strict 15-point penalty."
+    },
+    "Q4_response_to_off_topic_content": {
+      "question": "How strongly does Candidate B respond to off-topic content?",
+      "answer": "MODERATE TO STRONG. Combined weight for Relevance (25%) and Discipline (15%) is 40%. A 50% off-topic digression reduces score by 20.00 points (50% * 0.40 = 20.00).",
+      "implication": "Sponsor plugs and off-topic digressions are penalized fairly while prioritizing promise delivery."
+    },
+    "Q5_digression_penalty_under_full_coverage": {
+      "question": "Does Candidate B preserve a meaningful penalty for severe digression even when all promised points are covered?",
+      "answer": "YES. Even with 100% Point Coverage, if relevance and discipline drop to 0%, the score drops to 60.00 (Focus Penalty Test).",
+      "implication": "Full promise coverage cannot completely eliminate severe off-topic penalties."
+    },
+    "Q6_missing_point_penalty_under_focused_content": {
+      "question": "Does Candidate B preserve a meaningful penalty when promised points are missing even if the video is focused?",
+      "answer": "YES. Missing 3/4 promised points (Cov=25%) caps the maximum achievable score at 55.00 regardless of perfect 100% focus.",
+      "implication": "Focus alone cannot compensate for unfulfilled creator promises."
+    },
+    "Q7_monotonicity_verification": {
+      "question": "Is the score monotonic for every dimension?",
+      "answer": "YES. Verified programmatically across Coverage, Relevance, and Discipline sequences.",
+      "implication": "Increasing any metric dimension strictly increases or maintains the final score."
+    },
+    "Q8_boundary_range_verification": {
+      "question": "Does the formula remain bounded between 0 and 100?",
+      "answer": "YES. Verified programmatically (Min=0.00 at (0,0,0) and Max=100.00 at (100,100,100)).",
+      "implication": "100% mathematically valid bounds."
+    }
+  }
+}

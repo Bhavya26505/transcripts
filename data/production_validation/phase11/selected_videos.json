@@ -1,0 +1,74 @@
+{
+  "selection_phase": "PHASE_11_SMALL_BATCH_VALIDATION",
+  "total_selected": 10,
+  "excluded_videos": [
+    "1sVOwYhItqk",
+    "-ckuMh4Px9M",
+    "1jnEhDmvQbk",
+    "-RgdgqF9wd0",
+    "0xNCJH5161s",
+    "1l37N5wcDgs"
+  ],
+  "selected_videos": [
+    {
+      "video_id": "-SZBrXciDLg",
+      "duration_seconds": 0.0,
+      "title": "",
+      "channel": ""
+    },
+    {
+      "video_id": "7dQQa91RLls",
+      "duration_seconds": 0.0,
+      "title": "",
+      "channel": ""
+    },
+    {
+      "video_id": "EAWwPQGDJpU",
+      "duration_seconds": 0.0,
+      "title": "",
+      "channel": ""
+    },
+    {
+      "video_id": "JWb4E_6wYPA",
+      "duration_seconds": 0.0,
+      "title": "",
+      "channel": ""
+    },
+    {
+      "video_id": "OIis7tvpQPc",
+      "duration_seconds": 0.0,
+      "title": "",
+      "channel": ""
+    },
+    {
+      "video_id": "V7FSbEYZiX0",
+      "duration_seconds": 0.0,
+      "title": "",
+      "channel": ""
+    },
+    {
+      "video_id": "_zJcC66Nv6c",
+      "duration_seconds": 0.0,
+      "title": "",
+      "channel": ""
+    },
+    {
+      "video_id": "gY6unuo8Q9I",
+      "duration_seconds": 0.0,
+      "title": "",
+      "channel": ""
+    },
+    {
+      "video_id": "lmpKVhN-5FY",
+      "duration_seconds": 0.0,
+      "title": "",
+      "channel": ""
+    },
+    {
+      "video_id": "qa6Qzztj-10",
+      "duration_seconds": 0.0,
+      "title": "",
+      "channel": ""
+    }
+  ]
+}

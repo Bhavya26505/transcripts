@@ -1,0 +1,120 @@
+{
+  "raw_record": {
+    "log_metrics": {
+      "video_id": "_zJcC66Nv6c",
+      "model_id": "qwen3.5-9b-claude-4.6-opus-reasoning-distilled-v2",
+      "target_window_seconds": 90.0,
+      "max_window_seconds": 120.0,
+      "actual_opening_duration": 91.3,
+      "final_end_timestamp": 91.3,
+      "number_of_segments": 2,
+      "input_character_count": 5150,
+      "output_character_count": 3681,
+      "latency_seconds": 247.539,
+      "temperature": 0.1,
+      "max_tokens": 2500,
+      "json_valid": true,
+      "validation_issues": [],
+      "parse_error": ""
+    },
+    "formatted_prompt_input": "[SEGMENT 1]\nTIME: 0.00 - 43.90\nLANGUAGE: HINDI\nTEXT:\nलग्जरी होटल चन हायत को इंडिया में चैने वाली कंपनी का आईपीओ आ रहा है और इस कंपनी का नाम है जून परर होटल्स अब इंटरेस्टिंग चीज यह है कि लग्जरी हॉटल की जो डिमांड है पिछले टाइम में काफी ज्यादा बढी है तो ऐसे में अगर हम मेरिट की बात करें जो कि यूएस लिस्टेड कंपनी है जिसके इंडिया में कई सारे होटल्स हैं उसके अगर शेयर प्राइस की पिछले 10 साल की कंपाउंडेड सालाना ग्रोथ रेट देखें तो वो 27 पर है कंपाउंडेड सालाना जो कि बहुत ही एक्स्ट्राऑर्डिनरी है और कुछ इसी तरह की ग्रोथ रिसेंट टाइम में कुछ प्रीमियम होटल्स को मिल रही है तो क्या यह सेम चीज जुनी परर पर अप्लाई होगी यह समझने के लिए हमें इस बिनेस को बहुत समझना पड़ेगा क्योंकि ये बिजनेस बाकी बिजनेसेस से थोड़ा मुझे अलग लगता है क्यों अलग लगता है उसके बारे में बात करेंगे तो आज के इस वीडियो में जानेंगे कि इस बिजनेस में सही में ग्रोथ पोटेंशियल है सेकंड चीज हम जानेंगे कि वैल्यूएशन सही है और तीसरी\n\n[SEGMENT 2]\nTIME: 43.90 - 91.30\nLANGUAGE: HINDI\nTEXT:\nचीज हम जानेंगे कि लिस्टिंग इन के क्या प्रोबेबिलिटीज यहां पर है नमस्कार मैं प्रसाद आपका आज के इस वीडियो में स्वागत करता हूं सब हायथ होटल्स आपने कई बार मुंबई दिल्ली बाकी जगह पर देखे होंगे इनकी इंडिया में जो प्रेजेंस है इसका सबसे बड़ा क्रेडिट जाता है राधेश्याम सराफ इस व्यक्ति को अब आप सोचेंगे कि हायत होटल्स कॉरपोरेशन यह तो अमेरिका की मल्टीनेशनल हॉस्पिटैलिटी कंपनी है तो राधेश्याम सराफ का इससे क्या लेना देना तो देखिए उसके लिए थोड़ा आपको हिस्ट्री समझनी पड़ेगी इस कंपनी की जनी पर की देखिए राधेश्याम सराफ इन्होंने शुरुआत में ट्रेडिंग का बिजनेस शुरू किया उसके बाद वो नेपाल चले गए वहां पर उन्होंने ट्रेडिंग का बिजनेस किया और वहां पर उन्होंने फिर एक हॉटल चैन शुरू की और इस हॉटल चैन का नाम उन्होंने रखा था यक एंड यटी औरन लाइटर नोट इस यती का रणवीर वाली यटी से कोई लेना देना नहीं है फिर 1980 में मिस्टर सराफ ने हायत रीजेंसी की शुरुआत की दिल्ली में 1982 में एशियन गेम्स थे उससे 2 साल पहले पहले इन्होंने",
+    "raw_response": "{\n    \"video_id\": \"_zJcC66Nv6c\",\n    \"opening_analysis\": {\n        \"hook\": {\n            \"text\": \"लग्जरी होटल चन हायत को इंडिया में चैने वाली कंपनी का आईपीओ आ रहा है और इस कंपनी का नाम है जून परर होटल्स\",\n            \"start_time\": 0.0,\n            \"end_time\": 15.0,\n            \"hook_type\": \"news/event\",\n            \"confidence\": 0.95\n        },\n        \"core_topic\": {\n            \"description\": \"Analyzing Hyatt Hotels IPO: business model, growth potential, valuation, and listing probability for Indian investors.\",\n            \"explicit\": true,\n            \"confidence\": 0.95,\n            \"evidence\": {\n                \"start_time\": 30.0,\n                \"end_time\": 45.0,\n                \"text\": \"आज के इस वीडियो में जानेंगे कि इस बिनेस में सही में ग्रोथ पोटेंशियल है सेकंड चीज हम जानेंगे कि वैल्यूएशन सही है और तीसरी\"\n            }\n        },\n        \"viewer_problem_or_question\": {\n            \"description\": \"Whether Hyatt Hotels can replicate the extraordinary growth of US-listed competitors like Marriott in India.\",\n            \"explicit\": true,\n            \"confidence\": 0.90,\n            \"evidence\": {\n                \"start_time\": 27.0,\n                \"end_time\": 35.0,\n                \"text\": \"क्या यह सेम चीज जुनी परर पर अप्लाई होगी यह समझने के लिए हमें इस बिनेस को बहुत समझना पड़ेगा\"\n            }\n        },\n        \"promise\": {\n            \"description\": \"Will explain three things: growth potential, valuation correctness, and listing probability for Hyatt Hotels IPO.\",\n            \"explicit\": true,\n            \"confidence\": 0.90,\n            \"evidence\": {\n                \"start_time\": 30.0,\n                \"end_time\": 45.0,\n                \"text\": \"आज के इस वीडियो में जानेंगे कि इस बिनेस में सही में ग्रोथ पोटेंशियल है सेकंड चीज हम जानेंगे कि वैल्यूएशन सही है और तीसरी\"\n            }\n        },\n        \"expected_points\": [\n            {\n                \"point_id\": \"P1\",\n                \"description\": \"Analyze Hyatt Hotels' growth potential in the Indian luxury hotel market.\",\n                \"explicitly_promised\": true,\n                \"confidence\": 0.90,\n                \"evidence\": {\n                    \"start_time\": 30.0,\n                    \"end_time\": 45.0,\n                    \"text\": \"पहली चीज हम जानेंगे कि इस बिनेस में सही में ग्रोथ पोटेंशियल है\"\n                }\n            },\n            {\n                \"point_id\": \"P2\",\n                \"description\": \"Evaluate whether Hyatt Hotels' current valuation is appropriate.\",\n                \"explicitly_promised\": true,\n                \"confidence\": 0.90,\n                \"evidence\": {\n                    \"start_time\": 35.0,\n                    \"end_time\": 45.0,\n                    \"text\": \"सेकंड चीज हम जानेंगे कि वैल्यूएशन सही है\"\n                }\n            },\n            {\n                \"point_id\": \"P3\",\n                \"description\": \"Discuss the probability of Hyatt Hotels' successful IPO listing.\",\n                \"explicitly_promised\": true,\n                \"confidence\": 0.90,\n                \"evidence\": {\n                    \"start_time\": 45.0,\n                    \"end_time\": 50.0,\n                    \"text\": \"तीसरी चीज हम जानेंगे कि लिस्टिंग इन के क्या प्रोबेबिलिटीज यहां पर है\"\n                }\n            }\n        ],\n        \"expected_direction\": \"Analyze Hyatt Hotels' business model and growth potential in India, evaluate its valuation for the upcoming IPO, and assess listing probability.\",\n        \"opening_summary\": \"The video opens with news about Hyatt Hotels' Indian IPO, introducing the company's history and promising analysis of their business model, valuation, and listing prospects for investors.\",\n        \"analysis_confidence\": 0.92\n    }\n}"
+  },
+  "parsed_analysis": {
+    "video_id": "_zJcC66Nv6c",
+    "opening_analysis": {
+      "hook": {
+        "text": "लग्जरी होटल चन हायत को इंडिया में चैने वाली कंपनी का आईपीओ आ रहा है और इस कंपनी का नाम है जून परर होटल्स",
+        "start_time": 0.0,
+        "end_time": 15.0,
+        "hook_type": "news/event",
+        "confidence": 0.95
+      },
+      "core_topic": {
+        "description": "Analyzing Hyatt Hotels IPO: business model, growth potential, valuation, and listing probability for Indian investors.",
+        "explicit": true,
+        "confidence": 0.95,
+        "evidence": {
+          "start_time": 30.0,
+          "end_time": 45.0,
+          "text": "आज के इस वीडियो में जानेंगे कि इस बिनेस में सही में ग्रोथ पोटेंशियल है सेकंड चीज हम जानेंगे कि वैल्यूएशन सही है और तीसरी"
+        }
+      },
+      "viewer_problem_or_question": {
+        "description": "Whether Hyatt Hotels can replicate the extraordinary growth of US-listed competitors like Marriott in India.",
+        "explicit": true,
+        "confidence": 0.9,
+        "evidence": {
+          "start_time": 27.0,
+          "end_time": 35.0,
+          "text": "क्या यह सेम चीज जुनी परर पर अप्लाई होगी यह समझने के लिए हमें इस बिनेस को बहुत समझना पड़ेगा"
+        }
+      },
+      "promise": {
+        "description": "Will explain three things: growth potential, valuation correctness, and listing probability for Hyatt Hotels IPO.",
+        "explicit": true,
+        "confidence": 0.9,
+        "evidence": {
+          "start_time": 30.0,
+          "end_time": 45.0,
+          "text": "आज के इस वीडियो में जानेंगे कि इस बिनेस में सही में ग्रोथ पोटेंशियल है सेकंड चीज हम जानेंगे कि वैल्यूएशन सही है और तीसरी"
+        }
+      },
+      "expected_points": [
+        {
+          "point_id": "P1",
+          "description": "Analyze Hyatt Hotels' growth potential in the Indian luxury hotel market.",
+          "explicitly_promised": true,
+          "confidence": 0.9,
+          "evidence": {
+            "start_time": 30.0,
+            "end_time": 45.0,
+            "text": "पहली चीज हम जानेंगे कि इस बिनेस में सही में ग्रोथ पोटेंशियल है"
+          }
+        },
+        {
+          "point_id": "P2",
+          "description": "Evaluate whether Hyatt Hotels' current valuation is appropriate.",
+          "explicitly_promised": true,
+          "confidence": 0.9,
+          "evidence": {
+            "start_time": 35.0,
+            "end_time": 45.0,
+            "text": "सेकंड चीज हम जानेंगे कि वैल्यूएशन सही है"
+          }
+        },
+        {
+          "point_id": "P3",
+          "description": "Discuss the probability of Hyatt Hotels' successful IPO listing.",
+          "explicitly_promised": true,
+          "confidence": 0.9,
+          "evidence": {
+            "start_time": 45.0,
+            "end_time": 50.0,
+            "text": "तीसरी चीज हम जानेंगे कि लिस्टिंग इन के क्या प्रोबेबिलिटीज यहां पर है"
+          }
+        }
+      ],
+      "expected_direction": "Analyze Hyatt Hotels' business model and growth potential in India, evaluate its valuation for the upcoming IPO, and assess listing probability.",
+      "opening_summary": "The video opens with news about Hyatt Hotels' Indian IPO, introducing the company's history and promising analysis of their business model, valuation, and listing prospects for investors.",
+      "analysis_confidence": 0.92
+    }
+  },
+  "log_metrics": {
+    "video_id": "_zJcC66Nv6c",
+    "model_id": "qwen3.5-9b-claude-4.6-opus-reasoning-distilled-v2",
+    "target_window_seconds": 90.0,
+    "max_window_seconds": 120.0,
+    "actual_opening_duration": 91.3,
+    "final_end_timestamp": 91.3,
+    "number_of_segments": 2,
+    "input_character_count": 5150,
+    "output_character_count": 3681,
+    "latency_seconds": 247.539,
+    "temperature": 0.1,
+    "max_tokens": 2500,
+    "json_valid": true,
+    "validation_issues": [],
+    "parse_error": ""
+  }
+}

@@ -1,0 +1,87 @@
+{
+  "phase": "PHASE_10B_NO_PROMISE_CORRECTION",
+  "validation_status": "PASS",
+  "total_test_videos": 6,
+  "llm_calls_made": 0,
+  "videos_reprocessed": 0,
+  "videos_report": [
+    {
+      "video_id": "-ckuMh4Px9M",
+      "promise_status": "NO_EXPLICIT_PROMISE",
+      "promised_points_count": 0,
+      "point_coverage_status": "NOT_APPLICABLE",
+      "point_coverage_percentage": null,
+      "clear_relevance_percentage": 92.41,
+      "topic_discipline_percentage": 92.41,
+      "off_topic_percentage": 7.59,
+      "off_topic_episodes_count": 1,
+      "final_adherence_score": null,
+      "validation_status": "PASS"
+    },
+    {
+      "video_id": "0xNCJH5161s",
+      "promise_status": "NO_EXPLICIT_PROMISE",
+      "promised_points_count": 0,
+      "point_coverage_status": "NOT_APPLICABLE",
+      "point_coverage_percentage": null,
+      "clear_relevance_percentage": 87.56,
+      "topic_discipline_percentage": 94.93,
+      "off_topic_percentage": 5.07,
+      "off_topic_episodes_count": 1,
+      "final_adherence_score": null,
+      "validation_status": "PASS"
+    },
+    {
+      "video_id": "1jnEhDmvQbk",
+      "promise_status": "EXPLICIT_PROMISE",
+      "promised_points_count": 2,
+      "point_coverage_status": "CALCULATED",
+      "point_coverage_percentage": 100.0,
+      "clear_relevance_percentage": 85.27,
+      "topic_discipline_percentage": 85.27,
+      "off_topic_percentage": 14.73,
+      "off_topic_episodes_count": 2,
+      "final_adherence_score": 94.11,
+      "validation_status": "PASS"
+    },
+    {
+      "video_id": "1l37N5wcDgs",
+      "promise_status": "EXPLICIT_PROMISE",
+      "promised_points_count": 1,
+      "point_coverage_status": "CALCULATED",
+      "point_coverage_percentage": 100.0,
+      "clear_relevance_percentage": 84.64,
+      "topic_discipline_percentage": 84.64,
+      "off_topic_percentage": 15.36,
+      "off_topic_episodes_count": 1,
+      "final_adherence_score": 93.86,
+      "validation_status": "PASS"
+    },
+    {
+      "video_id": "1sVOwYhItqk",
+      "promise_status": "NO_EXPLICIT_PROMISE",
+      "promised_points_count": 0,
+      "point_coverage_status": "NOT_APPLICABLE",
+      "point_coverage_percentage": null,
+      "clear_relevance_percentage": 86.4,
+      "topic_discipline_percentage": 86.91,
+      "off_topic_percentage": 13.09,
+      "off_topic_episodes_count": 2,
+      "final_adherence_score": null,
+      "validation_status": "PASS"
+    },
+    {
+      "video_id": "-RgdgqF9wd0",
+      "promise_status": "EXPLICIT_PROMISE",
+      "promised_points_count": 4,
+      "point_coverage_status": "CALCULATED",
+      "point_coverage_percentage": 75.0,
+      "clear_relevance_percentage": 70.92,
+      "topic_discipline_percentage": 70.92,
+      "off_topic_percentage": 29.08,
+      "off_topic_episodes_count": 2,
+      "final_adherence_score": 73.37,
+      "validation_status": "PASS"
+    }
+  ]
+}

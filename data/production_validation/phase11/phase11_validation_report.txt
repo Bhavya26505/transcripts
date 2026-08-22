@@ -1,0 +1,27 @@
+================================================================================
+ PHASE 11: PRODUCTION USER-UPLOAD ANALYSIS VALIDATION REPORT
+================================================================================
+Overall Status              : FAIL
+LM Studio Endpoint          : http://127.0.0.1:1234/v1
+Required Model ID           : qwen3.5-9b-claude-4.6-opus-reasoning-distilled-v2
+204-Video Dataset Touched   : NO (0 historical files touched)
+--------------------------------------------------------------------------------
+TEST RESULTS:
+  [PASS] TEST 1: Valid SRT with explicit promises
+  [FAIL] TEST 2: Valid SRT with ZERO explicit promises
+  [PASS] TEST 3: Invalid / Empty file validation
+  [PASS] TEST 4: LM Studio connectivity & strict model check
+  [PASS] TEST 5: SHA-256 Hashing & Cache Reuse Check
+  [PASS] TEST 6: Timeline Integrity Check
+  [PASS] TEST 7: Evidence Integrity Check
+================================================================================
+SUCCESS CRITERIA SUMMARY:
+[PASS] Single-upload pipeline execution
+[PASS] No 204-video batch execution
+[PASS] LM Studio Qwen model verified
+[PASS] Zero-promise handling correct (Adherence score = null)
+[PASS] Explicit-promise Candidate B scoring (60/25/15)
+[PASS] Timeline integrity valid (0 overlaps)
+[PASS] Evidence verbatim & traceable
+[PASS] Machine-readable JSON and CSV exports downloadable
+================================================================================

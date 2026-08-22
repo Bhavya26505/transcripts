@@ -1,0 +1,2872 @@
+{
+  "video_id": "0LXDjMNLiWY",
+  "language": "HINDI",
+  "duration_seconds": 678.8,
+  "statistics": {
+    "raw_duration": 678.8,
+    "preprocessed_duration": 678.8,
+    "duration_difference": 0.0,
+    "word_count_before": 2711,
+    "word_count_after": 2711,
+    "sentence_count": 164,
+    "estimated_wpm": 239.63,
+    "filler_candidate_count": 6,
+    "filler_candidate_terms": {
+      "मतलब": 1,
+      "देखिए": 5
+    },
+    "repeated_phrase_count": 0,
+    "entries_summary": {
+      "raw_entries": 338,
+      "changed_entries": 17,
+      "removed_entries": 0,
+      "merged_entries": 0,
+      "unchanged_entries": 321,
+      "final_entries": 338
+    }
+  },
+  "transformations_log": [
+    {
+      "subtitle_id": 88,
+      "action": "CHANGED",
+      "raw_text": "दिया क्योंकि उनको रूल्स और लॉज़ शायद पसंद",
+      "normalized_text": "दिया क्योंकि उनको रूल्स और लॉज़ शायद पसंद",
+      "transformation": "Unicode NFC Normalization, Whitespace Normalization",
+      "why_safe": "Standard Unicode NFC or whitespace/artifact normalization without altering semantic content"
+    },
+    {
+      "subtitle_id": 97,
+      "action": "CHANGED",
+      "raw_text": "व्हिच इज़ अ दिल्ली बेस्ड मेटल पाइप फिटिंग",
+      "normalized_text": "व्हिच इज़ अ दिल्ली बेस्ड मेटल पाइप फिटिंग",
+      "transformation": "Unicode NFC Normalization, Whitespace Normalization",
+      "why_safe": "Standard Unicode NFC or whitespace/artifact normalization without altering semantic content"
+    },
+    {
+      "subtitle_id": 103,
+      "action": "CHANGED",
+      "raw_text": "कंपनीज़ दी है ना इन सब कंपनीज़ के वो",
+      "normalized_text": "कंपनीज़ दी है ना इन सब कंपनीज़ के वो",
+      "transformation": "Unicode NFC Normalization, Whitespace Normalization",
+      "why_safe": "Standard Unicode NFC or whitespace/artifact normalization without altering semantic content"
+    },
+    {
+      "subtitle_id": 109,
+      "action": "CHANGED",
+      "raw_text": "अलग-अलग फाइनेंसियल सर्विज कंपनीज़ के",
+      "normalized_text": "अलग-अलग फाइनेंसियल सर्विज कंपनीज़ के",
+      "transformation": "Unicode NFC Normalization, Whitespace Normalization",
+      "why_safe": "Standard Unicode NFC or whitespace/artifact normalization without altering semantic content"
+    },
+    {
+      "subtitle_id": 159,
+      "action": "CHANGED",
+      "raw_text": "जाएगी। सो, सी यू देर। अब बढ़ते हैं वीडियो",
+      "normalized_text": "जाएगी। सो, सी यू देर। अब बढ़ते हैं वीडियो",
+      "transformation": "Unicode NFC Normalization, Whitespace Normalization",
+      "why_safe": "Standard Unicode NFC or whitespace/artifact normalization without altering semantic content"
+    },
+    {
+      "subtitle_id": 164,
+      "action": "CHANGED",
+      "raw_text": "में। ही इज़ इनवॉल्व्ड इन मार्केट",
+      "normalized_text": "में। ही इज़ इनवॉल्व्ड इन मार्केट",
+      "transformation": "Unicode NFC Normalization, Whitespace Normalization",
+      "why_safe": "Standard Unicode NFC or whitespace/artifact normalization without altering semantic content"
+    },
+    {
+      "subtitle_id": 170,
+      "action": "CHANGED",
+      "raw_text": "और कंपनीज़ इस स्कैम में पूरी तरह से",
+      "normalized_text": "और कंपनीज़ इस स्कैम में पूरी तरह से",
+      "transformation": "Unicode NFC Normalization, Whitespace Normalization",
+      "why_safe": "Standard Unicode NFC or whitespace/artifact normalization without altering semantic content"
+    },
+    {
+      "subtitle_id": 187,
+      "action": "CHANGED",
+      "raw_text": "वो कौन सी कंपनीज़ इसमें इन्वॉल्व थी",
+      "normalized_text": "वो कौन सी कंपनीज़ इसमें इन्वॉल्व थी",
+      "transformation": "Unicode NFC Normalization, Whitespace Normalization",
+      "why_safe": "Standard Unicode NFC or whitespace/artifact normalization without altering semantic content"
+    },
+    {
+      "subtitle_id": 190,
+      "action": "CHANGED",
+      "raw_text": "ही ना पाए। तो कंपनीज़ जो इन्वॉल्वड है वो",
+      "normalized_text": "ही ना पाए। तो कंपनीज़ जो इन्वॉल्वड है वो",
+      "transformation": "Unicode NFC Normalization, Whitespace Normalization",
+      "why_safe": "Standard Unicode NFC or whitespace/artifact normalization without altering semantic content"
+    },
+    {
+      "subtitle_id": 196,
+      "action": "CHANGED",
+      "raw_text": "रुके। इन्होंने बहुत सारी शेल कंपनीज़ बनाई",
+      "normalized_text": "रुके। इन्होंने बहुत सारी शेल कंपनीज़ बनाई",
+      "transformation": "Unicode NFC Normalization, Whitespace Normalization",
+      "why_safe": "Standard Unicode NFC or whitespace/artifact normalization without altering semantic content"
+    },
+    {
+      "subtitle_id": 198,
+      "action": "CHANGED",
+      "raw_text": "कंपनीज़ तो ये अलग-अलग हैं। लेकिन गड़बड़",
+      "normalized_text": "कंपनीज़ तो ये अलग-अलग हैं। लेकिन गड़बड़",
+      "transformation": "Unicode NFC Normalization, Whitespace Normalization",
+      "why_safe": "Standard Unicode NFC or whitespace/artifact normalization without altering semantic content"
+    },
+    {
+      "subtitle_id": 215,
+      "action": "CHANGED",
+      "raw_text": "आप देख रहे हो कि संजीव भसीन वाज़ द मेन",
+      "normalized_text": "आप देख रहे हो कि संजीव भसीन वाज़ द मेन",
+      "transformation": "Unicode NFC Normalization, Whitespace Normalization",
+      "why_safe": "Standard Unicode NFC or whitespace/artifact normalization without altering semantic content"
+    },
+    {
+      "subtitle_id": 225,
+      "action": "CHANGED",
+      "raw_text": "पांच कंपनीज़ है जैसे आरआरबी ब्रोकिंग",
+      "normalized_text": "पांच कंपनीज़ है जैसे आरआरबी ब्रोकिंग",
+      "transformation": "Unicode NFC Normalization, Whitespace Normalization",
+      "why_safe": "Standard Unicode NFC or whitespace/artifact normalization without altering semantic content"
+    },
+    {
+      "subtitle_id": 226,
+      "action": "CHANGED",
+      "raw_text": "कंपनी और चार शेल कंपनीज़ इन सब चीजों से",
+      "normalized_text": "कंपनी और चार शेल कंपनीज़ इन सब चीजों से",
+      "transformation": "Unicode NFC Normalization, Whitespace Normalization",
+      "why_safe": "Standard Unicode NFC or whitespace/artifact normalization without altering semantic content"
+    },
+    {
+      "subtitle_id": 230,
+      "action": "CHANGED",
+      "raw_text": "बात करनी है। तो उसकी इंफॉर्मेशन ही यूज़्ड",
+      "normalized_text": "बात करनी है। तो उसकी इंफॉर्मेशन ही यूज़्ड",
+      "transformation": "Unicode NFC Normalization, Whitespace Normalization",
+      "why_safe": "Standard Unicode NFC or whitespace/artifact normalization without altering semantic content"
+    },
+    {
+      "subtitle_id": 235,
+      "action": "CHANGED",
+      "raw_text": "बताने से पहले ही इन्होंने शेल कंपनीज़ के",
+      "normalized_text": "बताने से पहले ही इन्होंने शेल कंपनीज़ के",
+      "transformation": "Unicode NFC Normalization, Whitespace Normalization",
+      "why_safe": "Standard Unicode NFC or whitespace/artifact normalization without altering semantic content"
+    },
+    {
+      "subtitle_id": 308,
+      "action": "CHANGED",
+      "raw_text": "सोचते नहीं है। एफसी ही इज़ सेइंग समथिंग",
+      "normalized_text": "सोचते नहीं है। एफसी ही इज़ सेइंग समथिंग",
+      "transformation": "Unicode NFC Normalization, Whitespace Normalization",
+      "why_safe": "Standard Unicode NFC or whitespace/artifact normalization without altering semantic content"
+    }
+  ],
+  "segments": [
+    {
+      "subtitle_ids": [
+        1
+      ],
+      "start": 0.08,
+      "end": 5.2,
+      "text": "यह है पॉल द ऑक्टोपस जो फ्यूचर बताता है।"
+    },
+    {
+      "subtitle_ids": [
+        2
+      ],
+      "start": 2.48,
+      "end": 6.879,
+      "text": "इसने 2010 के फीफा वर्ल्ड कप में जर्मनी"
+    },
+    {
+      "subtitle_ids": [
+        3
+      ],
+      "start": 5.2,
+      "end": 8.8,
+      "text": "के हर एक मैच को प्रेडिक्ट किया और"
+    },
+    {
+      "subtitle_ids": [
+        4
+      ],
+      "start": 6.879,
+      "end": 11.599,
+      "text": "एग्जैक्टली वैसा ही हुआ कि इस मैच में कौन"
+    },
+    {
+      "subtitle_ids": [
+        5
+      ],
+      "start": 8.8,
+      "end": 14.08,
+      "text": "जीतेगा, कौन हारेगा उसने सब सही बताया।"
+    },
+    {
+      "subtitle_ids": [
+        6
+      ],
+      "start": 11.599,
+      "end": 16.16,
+      "text": "फिर आता है एक ज्योतिष कछुआ यानी द बिग"
+    },
+    {
+      "subtitle_ids": [
+        7
+      ],
+      "start": 14.08,
+      "end": 18.16,
+      "text": "हेड। यह ब्राजील के वर्ल्ड कप में अपने"
+    },
+    {
+      "subtitle_ids": [
+        8
+      ],
+      "start": 16.16,
+      "end": 20.64,
+      "text": "प्रेडिक्शनंस के लिए काफी फेमस था और उसकी"
+    },
+    {
+      "subtitle_ids": [
+        9
+      ],
+      "start": 18.16,
+      "end": 22.88,
+      "text": "भी काफी सारी भविष्यवाणी सच हो गई। और इन"
+    },
+    {
+      "subtitle_ids": [
+        10
+      ],
+      "start": 20.64,
+      "end": 25.439,
+      "text": "दोनों से ऊपर भी अगर कोई है तो वह टीवी पर"
+    },
+    {
+      "subtitle_ids": [
+        11
+      ],
+      "start": 22.88,
+      "end": 27.519,
+      "text": "आने वाले एक्सपर्ट हैं जो आपको सुबहशाम यह"
+    },
+    {
+      "subtitle_ids": [
+        12
+      ],
+      "start": 25.439,
+      "end": 29.599,
+      "text": "बताते हैं कि कौन सा स्टॉक आपको खरीदना"
+    },
+    {
+      "subtitle_ids": [
+        13
+      ],
+      "start": 27.519,
+      "end": 31.84,
+      "text": "है, कौन सा सेल करना है, कौन सा स्टॉक ऊपर"
+    },
+    {
+      "subtitle_ids": [
+        14
+      ],
+      "start": 29.599,
+      "end": 34.32,
+      "text": "जाएगा, कौन सा नीचे जाएगा, कौन सा स्टॉक"
+    },
+    {
+      "subtitle_ids": [
+        15
+      ],
+      "start": 31.84,
+      "end": 36.32,
+      "text": "कब खरीद के कब बेचना है और कौन से शेयर"
+    },
+    {
+      "subtitle_ids": [
+        16
+      ],
+      "start": 34.32,
+      "end": 38.16,
+      "text": "कितने पे बेचने हैं और कितने पे बाय करना"
+    },
+    {
+      "subtitle_ids": [
+        17
+      ],
+      "start": 36.32,
+      "end": 40.16,
+      "text": "है। और साथ ही एक चीज जो हम भूल नहीं सकते"
+    },
+    {
+      "subtitle_ids": [
+        18
+      ],
+      "start": 38.16,
+      "end": 42.48,
+      "text": "वो है कि कितने का स्टॉप लॉस होना चाहिए"
+    },
+    {
+      "subtitle_ids": [
+        19
+      ],
+      "start": 40.16,
+      "end": 44.8,
+      "text": "सब कुछ। और अनफॉर्चूनेटली लोग इंडिया में"
+    },
+    {
+      "subtitle_ids": [
+        20
+      ],
+      "start": 42.48,
+      "end": 47.2,
+      "text": "उन्हें लोग सुनते भी हैं और उनके एडवाइस"
+    },
+    {
+      "subtitle_ids": [
+        21
+      ],
+      "start": 44.8,
+      "end": 49.6,
+      "text": "एग्जैक्टली फॉलो भी करते हैं। लेकिन पिछले"
+    },
+    {
+      "subtitle_ids": [
+        22
+      ],
+      "start": 47.2,
+      "end": 51.6,
+      "text": "कुछ महीनों में ऑक्टोपस जैसे कई सारे जो"
+    },
+    {
+      "subtitle_ids": [
+        23
+      ],
+      "start": 49.6,
+      "end": 53.44,
+      "text": "सो कॉल्ड एक्सपर्ट्स हैं उनके एक के बाद"
+    },
+    {
+      "subtitle_ids": [
+        24
+      ],
+      "start": 51.6,
+      "end": 55.6,
+      "text": "एक स्कैम्स अब बाहर आ रहे हैं। पहले"
+    },
+    {
+      "subtitle_ids": [
+        25
+      ],
+      "start": 53.44,
+      "end": 57.52,
+      "text": "प्रदीप पंड्या जो अक्सर आपको बिजनेस टीवी"
+    },
+    {
+      "subtitle_ids": [
+        26
+      ],
+      "start": 55.6,
+      "end": 59.6,
+      "text": "चैनल्स पर दिखाई देते थे वो सेबी के जाल"
+    },
+    {
+      "subtitle_ids": [
+        27
+      ],
+      "start": 57.52,
+      "end": 61.52,
+      "text": "में फंसे। उसके बाद उनको मार्केट से बैन"
+    },
+    {
+      "subtitle_ids": [
+        28
+      ],
+      "start": 59.6,
+      "end": 63.44,
+      "text": "कर दिया गया। उसके बाद हेमंत घही का नंबर"
+    },
+    {
+      "subtitle_ids": [
+        29
+      ],
+      "start": 61.52,
+      "end": 66.08,
+      "text": "आया। उसके बाद कई सारे जो टीवी एक्सपर्ट्स"
+    },
+    {
+      "subtitle_ids": [
+        30
+      ],
+      "start": 63.44,
+      "end": 68.24,
+      "text": "थे सीमी भौमिक और बाकी लोग उनके नंबर आए"
+    },
+    {
+      "subtitle_ids": [
+        31
+      ],
+      "start": 66.08,
+      "end": 70.799,
+      "text": "और अब बारी आई है वन ऑफ द मोस्ट फेमस"
+    },
+    {
+      "subtitle_ids": [
+        32
+      ],
+      "start": 68.24,
+      "end": 73.119,
+      "text": "एक्सपर्ट्स संजीव भसीन की जो कि अपने शो"
+    },
+    {
+      "subtitle_ids": [
+        33
+      ],
+      "start": 70.799,
+      "end": 75.28,
+      "text": "हसीन के भसीन शेयर से बहुत फेमस थे। अब"
+    },
+    {
+      "subtitle_ids": [
+        34
+      ],
+      "start": 73.119,
+      "end": 76.64,
+      "text": "क्या किया कैसे किया? कितना बड़ा यह स्कैम"
+    },
+    {
+      "subtitle_ids": [
+        35
+      ],
+      "start": 75.28,
+      "end": 78.4,
+      "text": "है आज की इस वीडियो में जानेंगे डिटेल"
+    },
+    {
+      "subtitle_ids": [
+        36
+      ],
+      "start": 76.64,
+      "end": 80.64,
+      "text": "में। साथ ही उन दो लोगों के भी बारे में"
+    },
+    {
+      "subtitle_ids": [
+        37
+      ],
+      "start": 78.4,
+      "end": 82.32,
+      "text": "हम बात करेंगे जिनका नाम सेबी की रिपोर्ट"
+    },
+    {
+      "subtitle_ids": [
+        38
+      ],
+      "start": 80.64,
+      "end": 84.0,
+      "text": "में नहीं है। और साथियों हम यह भी बात"
+    },
+    {
+      "subtitle_ids": [
+        39
+      ],
+      "start": 82.32,
+      "end": 85.84,
+      "text": "करेंगे कि ऐसे बहुत सारे स्कैम्स होने के"
+    },
+    {
+      "subtitle_ids": [
+        40
+      ],
+      "start": 84.0,
+      "end": 87.68,
+      "text": "बावजूद भी लोग इस तरह की चीजों में क्यों"
+    },
+    {
+      "subtitle_ids": [
+        41
+      ],
+      "start": 85.84,
+      "end": 89.119,
+      "text": "आते हैं। नमस्कार मैं प्रसाद आपका आज के"
+    },
+    {
+      "subtitle_ids": [
+        42
+      ],
+      "start": 87.68,
+      "end": 90.4,
+      "text": "इस वीडियो में स्वागत करता हूं। और वीडियो"
+    },
+    {
+      "subtitle_ids": [
+        43
+      ],
+      "start": 89.119,
+      "end": 91.68,
+      "text": "में आगे बढ़ने से पहले आपको बता दूं कि"
+    },
+    {
+      "subtitle_ids": [
+        44
+      ],
+      "start": 90.4,
+      "end": 93.36,
+      "text": "हमने अपनी मेंबर्स ओनली कम्युनिटी"
+    },
+    {
+      "subtitle_ids": [
+        45
+      ],
+      "start": 91.68,
+      "end": 95.439,
+      "text": "रिसेंटली स्टार्ट की है। जहां पर आपको"
+    },
+    {
+      "subtitle_ids": [
+        46
+      ],
+      "start": 93.36,
+      "end": 98.0,
+      "text": "मिलेंगे एक्सक्लूसिव कंटेंट, स्टॉक ऑफ द"
+    },
+    {
+      "subtitle_ids": [
+        47
+      ],
+      "start": 95.439,
+      "end": 100.0,
+      "text": "मंथ, सेक्टर एनालिसिस और भी बहुत सारी"
+    },
+    {
+      "subtitle_ids": [
+        48
+      ],
+      "start": 98.0,
+      "end": 101.92,
+      "text": "चीजें जो आपके रिसर्च के काम को आसान"
+    },
+    {
+      "subtitle_ids": [
+        49
+      ],
+      "start": 100.0,
+      "end": 103.84,
+      "text": "करेगी और आपको एक सही इन्वेस्टर बना देगी।"
+    },
+    {
+      "subtitle_ids": [
+        50
+      ],
+      "start": 101.92,
+      "end": 105.68,
+      "text": "सारी डिटेल्स आपको जॉइ बटन पर क्लिक करके"
+    },
+    {
+      "subtitle_ids": [
+        51
+      ],
+      "start": 103.84,
+      "end": 107.84,
+      "text": "मिल जाएगी। सो सी यू इन द कम्युनिटी। सो"
+    },
+    {
+      "subtitle_ids": [
+        52
+      ],
+      "start": 105.68,
+      "end": 109.52,
+      "text": "संजीव भसीन जो थे वो रिटेलर्स के बीच बहुत"
+    },
+    {
+      "subtitle_ids": [
+        53
+      ],
+      "start": 107.84,
+      "end": 111.2,
+      "text": "ज्यादा फेमस थे। लोगों का कई लोगों का ऐसा"
+    },
+    {
+      "subtitle_ids": [
+        54
+      ],
+      "start": 109.52,
+      "end": 113.2,
+      "text": "मानना था कि अगर उन्होंने किसी स्टॉक पर"
+    },
+    {
+      "subtitle_ids": [
+        55
+      ],
+      "start": 111.2,
+      "end": 115.36,
+      "text": "हाथ रख दिया तो वह भविष्यवाणी हो गई।"
+    },
+    {
+      "subtitle_ids": [
+        56
+      ],
+      "start": 113.2,
+      "end": 117.439,
+      "text": "उसमें आप शेयर्स खरीद लो। और इस चीज का"
+    },
+    {
+      "subtitle_ids": [
+        57
+      ],
+      "start": 115.36,
+      "end": 119.52,
+      "text": "कुछ ऐसा असर था कि अगर संजीव भसीन कोई"
+    },
+    {
+      "subtitle_ids": [
+        58
+      ],
+      "start": 117.439,
+      "end": 121.439,
+      "text": "स्टॉक रिकमेंड कर दे तो शेयर की प्राइस"
+    },
+    {
+      "subtitle_ids": [
+        59
+      ],
+      "start": 119.52,
+      "end": 123.28,
+      "text": "टेंपरेरी तुरंत ऊपर चली जाती थी। भले ही"
+    },
+    {
+      "subtitle_ids": [
+        60
+      ],
+      "start": 121.439,
+      "end": 124.88,
+      "text": "उस कंपनी के फंडामेंटल्स में कोई दम ना"
+    },
+    {
+      "subtitle_ids": [
+        61
+      ],
+      "start": 123.28,
+      "end": 127.68,
+      "text": "हो। और एक चीज की मिस्टर भसीन को बहुत"
+    },
+    {
+      "subtitle_ids": [
+        62
+      ],
+      "start": 124.88,
+      "end": 129.92,
+      "text": "अच्छी आईडिया थी कि उनकी जुबान की मार्केट"
+    },
+    {
+      "subtitle_ids": [
+        63
+      ],
+      "start": 127.68,
+      "end": 131.68,
+      "text": "में बहुत ज्यादा वैल्यू है। तो संजीव भसीन"
+    },
+    {
+      "subtitle_ids": [
+        64
+      ],
+      "start": 129.92,
+      "end": 133.84,
+      "text": "ने सोचा कि क्यों ना इस जुबान को मोनेटाइज"
+    },
+    {
+      "subtitle_ids": [
+        65
+      ],
+      "start": 131.68,
+      "end": 135.84,
+      "text": "करें और लोगों के साथ करोड़ों का स्कैम"
+    },
+    {
+      "subtitle_ids": [
+        66
+      ],
+      "start": 133.84,
+      "end": 137.84,
+      "text": "करें। और एग्जैक्टली यही किया संजीव भसीन"
+    },
+    {
+      "subtitle_ids": [
+        67
+      ],
+      "start": 135.84,
+      "end": 140.56,
+      "text": "ने उन मासूम रिटेल इन्वेस्टर्स के साथ जो"
+    },
+    {
+      "subtitle_ids": [
+        68
+      ],
+      "start": 137.84,
+      "end": 142.319,
+      "text": "उन पर ब्लाइंड फेथ रखते थे। अब संजीव भसीन"
+    },
+    {
+      "subtitle_ids": [
+        69
+      ],
+      "start": 140.56,
+      "end": 143.92,
+      "text": "स्टॉक मार्केट प्रेडिक्शन में कब से आए?"
+    },
+    {
+      "subtitle_ids": [
+        70
+      ],
+      "start": 142.319,
+      "end": 145.599,
+      "text": "इसकी भी बड़ी इंटरेस्टिंग स्टोरी है। अब"
+    },
+    {
+      "subtitle_ids": [
+        71
+      ],
+      "start": 143.92,
+      "end": 147.76,
+      "text": "देखिए बेसिकली वह दिल्ली से हैं। पढ़े"
+    },
+    {
+      "subtitle_ids": [
+        72
+      ],
+      "start": 145.599,
+      "end": 150.0,
+      "text": "लिखे भी काफी थे। इन्होंने बीकॉम किया,"
+    },
+    {
+      "subtitle_ids": [
+        73
+      ],
+      "start": 147.76,
+      "end": 152.08,
+      "text": "बाद में सीए किया और फिर पीएचडी भी की। अब"
+    },
+    {
+      "subtitle_ids": [
+        74
+      ],
+      "start": 150.0,
+      "end": 154.319,
+      "text": "आप गेस कीजिए कि इन्होंने पीएचडी किस चीज"
+    },
+    {
+      "subtitle_ids": [
+        75
+      ],
+      "start": 152.08,
+      "end": 155.68,
+      "text": "में की होगी? स्टॉक मार्केट की बातें कर"
+    },
+    {
+      "subtitle_ids": [
+        76
+      ],
+      "start": 154.319,
+      "end": 157.2,
+      "text": "रहे हैं तो स्टॉक मार्केट में की होगी,"
+    },
+    {
+      "subtitle_ids": [
+        77
+      ],
+      "start": 155.68,
+      "end": 159.519,
+      "text": "कैपिटल मार्केट में की होगी या फिर"
+    },
+    {
+      "subtitle_ids": [
+        78
+      ],
+      "start": 157.2,
+      "end": 161.76,
+      "text": "अकाउंटिंग में की होगी। लेकिन अगर आप ऐसा"
+    },
+    {
+      "subtitle_ids": [
+        79
+      ],
+      "start": 159.519,
+      "end": 164.48,
+      "text": "सोच रहे हैं तो आप गलत है। इन्होंने जिस"
+    },
+    {
+      "subtitle_ids": [
+        80
+      ],
+      "start": 161.76,
+      "end": 166.239,
+      "text": "चीज में पीएचडी करी है वो सुनकर आप हैरान"
+    },
+    {
+      "subtitle_ids": [
+        81
+      ],
+      "start": 164.48,
+      "end": 168.4,
+      "text": "रह जाएंगे। इन्होंने पीएचडी की है"
+    },
+    {
+      "subtitle_ids": [
+        82
+      ],
+      "start": 166.239,
+      "end": 170.08,
+      "text": "एस्ट्रोलॉजी में। और शायद इसी वजह से"
+    },
+    {
+      "subtitle_ids": [
+        83
+      ],
+      "start": 168.4,
+      "end": 171.92,
+      "text": "स्टॉक प्राइस का भी फ्यूचर पहले ही जान"
+    },
+    {
+      "subtitle_ids": [
+        84
+      ],
+      "start": 170.08,
+      "end": 173.599,
+      "text": "लेते थे। कौन सी प्राइस कहां जाएगी इन्हें"
+    },
+    {
+      "subtitle_ids": [
+        85
+      ],
+      "start": 171.92,
+      "end": 175.36,
+      "text": "पहले ही पता चल जाता और इसी के बाद"
+    },
+    {
+      "subtitle_ids": [
+        86
+      ],
+      "start": 173.599,
+      "end": 177.599,
+      "text": "इन्होंने एलएलबी की पढ़ाई भी स्टार्ट कर"
+    },
+    {
+      "subtitle_ids": [
+        87
+      ],
+      "start": 175.36,
+      "end": 179.84,
+      "text": "दी लेकिन उन्होंने बीच में ही उसे छोड़"
+    },
+    {
+      "subtitle_ids": [
+        88
+      ],
+      "start": 177.599,
+      "end": 181.519,
+      "text": "दिया क्योंकि उनको रूल्स और लॉज़ शायद पसंद"
+    },
+    {
+      "subtitle_ids": [
+        89
+      ],
+      "start": 179.84,
+      "end": 182.879,
+      "text": "नहीं थे। अब संजू भसीन के बारे में एक और"
+    },
+    {
+      "subtitle_ids": [
+        90
+      ],
+      "start": 181.519,
+      "end": 184.4,
+      "text": "चीज आपको बता दूं यह कोई नॉर्मल"
+    },
+    {
+      "subtitle_ids": [
+        91
+      ],
+      "start": 182.879,
+      "end": 186.48,
+      "text": "बैकग्राउंड से नहीं थे। हमें रिसर्च में"
+    },
+    {
+      "subtitle_ids": [
+        92
+      ],
+      "start": 184.4,
+      "end": 188.959,
+      "text": "यह भी पता चला कि उनके जो डैड थे फादर"
+    },
+    {
+      "subtitle_ids": [
+        93
+      ],
+      "start": 186.48,
+      "end": 190.959,
+      "text": "विश्व भसीन वो एक फेमस रणजी ट्रॉफी"
+    },
+    {
+      "subtitle_ids": [
+        94
+      ],
+      "start": 188.959,
+      "end": 193.12,
+      "text": "क्रिकेटर थे और एक वेल कनेक्टेड मैन थे।"
+    },
+    {
+      "subtitle_ids": [
+        95
+      ],
+      "start": 190.959,
+      "end": 195.519,
+      "text": "और शायद इसी के चलते बीकॉम करने के 3 साल"
+    },
+    {
+      "subtitle_ids": [
+        96
+      ],
+      "start": 193.12,
+      "end": 197.599,
+      "text": "बाद ही बिकम द डायरेक्टर ऑफ एचबी ग्रुप"
+    },
+    {
+      "subtitle_ids": [
+        97
+      ],
+      "start": 195.519,
+      "end": 199.28,
+      "text": "व्हिच इज़ अ दिल्ली बेस्ड मेटल पाइप फिटिंग"
+    },
+    {
+      "subtitle_ids": [
+        98
+      ],
+      "start": 197.599,
+      "end": 201.44,
+      "text": "मैन्युफैक्चरर। और उसके बाद करियर की"
+    },
+    {
+      "subtitle_ids": [
+        99
+      ],
+      "start": 199.28,
+      "end": 203.44,
+      "text": "सीढ़ियां उन्होंने बहुत तेजी से चली जिसके"
+    },
+    {
+      "subtitle_ids": [
+        100
+      ],
+      "start": 201.44,
+      "end": 205.519,
+      "text": "बाद में वह डॉइज बैंक के डायरेक्टर बने और"
+    },
+    {
+      "subtitle_ids": [
+        101
+      ],
+      "start": 203.44,
+      "end": 207.76,
+      "text": "बाद में कंसलटेंट बने विद आईएफएल"
+    },
+    {
+      "subtitle_ids": [
+        102
+      ],
+      "start": 205.519,
+      "end": 209.599,
+      "text": "सिक्योरिटीज और इसके साथ ही जो स्क्रीन पर"
+    },
+    {
+      "subtitle_ids": [
+        103
+      ],
+      "start": 207.76,
+      "end": 211.28,
+      "text": "कंपनीज़ दी है ना इन सब कंपनीज़ के वो"
+    },
+    {
+      "subtitle_ids": [
+        104
+      ],
+      "start": 209.599,
+      "end": 213.44,
+      "text": "इंडिपेंडेंट एग्जीक्यूटिव डायरेक्टर भी"
+    },
+    {
+      "subtitle_ids": [
+        105
+      ],
+      "start": 211.28,
+      "end": 215.04,
+      "text": "रहे हैं। अब आपको शायद इस चीज का सवाल मिल"
+    },
+    {
+      "subtitle_ids": [
+        106
+      ],
+      "start": 213.44,
+      "end": 217.68,
+      "text": "गया होगा कि लोग उन पर ब्लाइंड फेथ क्यों"
+    },
+    {
+      "subtitle_ids": [
+        107
+      ],
+      "start": 215.04,
+      "end": 219.599,
+      "text": "रखते थे? तो वेल एजुकेटेड थे। अच्छे खासे"
+    },
+    {
+      "subtitle_ids": [
+        108
+      ],
+      "start": 217.68,
+      "end": 221.2,
+      "text": "बैकग्राउंड से थे। अलग-अलग बैंक्स,"
+    },
+    {
+      "subtitle_ids": [
+        109
+      ],
+      "start": 219.599,
+      "end": 223.2,
+      "text": "अलग-अलग फाइनेंसियल सर्विज कंपनीज़ के"
+    },
+    {
+      "subtitle_ids": [
+        110
+      ],
+      "start": 221.2,
+      "end": 225.36,
+      "text": "कंसलटेंट और डायरेक्टर रहे हैं। तो ऑफ"
+    },
+    {
+      "subtitle_ids": [
+        111
+      ],
+      "start": 223.2,
+      "end": 228.64,
+      "text": "कोर्स लोग भरोसा करेंगे ही। और इतना ही"
+    },
+    {
+      "subtitle_ids": [
+        112
+      ],
+      "start": 225.36,
+      "end": 230.239,
+      "text": "नहीं Zee बिनेस CNBC टीवी 18, CNBC आवाt"
+    },
+    {
+      "subtitle_ids": [
+        113
+      ],
+      "start": 228.64,
+      "end": 232.239,
+      "text": "नाउ इन चैनल पर वह रेगुलरली गेस्ट"
+    },
+    {
+      "subtitle_ids": [
+        114
+      ],
+      "start": 230.239,
+      "end": 234.08,
+      "text": "एक्सपर्ट बनकर आते थे और लोगों को बताते"
+    },
+    {
+      "subtitle_ids": [
+        115
+      ],
+      "start": 232.239,
+      "end": 236.48,
+      "text": "थे क्या खरीदना है क्या बेचना है देन ही"
+    },
+    {
+      "subtitle_ids": [
+        116
+      ],
+      "start": 234.08,
+      "end": 238.879,
+      "text": "स्टार्टेड ह पॉपुलर शो जिसका नाम सभी को"
+    },
+    {
+      "subtitle_ids": [
+        117
+      ],
+      "start": 236.48,
+      "end": 240.959,
+      "text": "पता है भसीन के हसीन शेयर और वहीं से वो"
+    },
+    {
+      "subtitle_ids": [
+        118
+      ],
+      "start": 238.879,
+      "end": 242.959,
+      "text": "और ज्यादा फेमस हो गए रिटेल इन्वेस्टर्स"
+    },
+    {
+      "subtitle_ids": [
+        119
+      ],
+      "start": 240.959,
+      "end": 244.799,
+      "text": "उनकी एडवाइस को फॉलो करने लगे और इसी के"
+    },
+    {
+      "subtitle_ids": [
+        120
+      ],
+      "start": 242.959,
+      "end": 246.72,
+      "text": "चलते वो Telegram और बाकी जो प्लेटफॉर्म्स"
+    },
+    {
+      "subtitle_ids": [
+        121
+      ],
+      "start": 244.799,
+      "end": 248.159,
+      "text": "हैं वहां पर भी काफी एक्टिव हो गए। वीडियो"
+    },
+    {
+      "subtitle_ids": [
+        122
+      ],
+      "start": 246.72,
+      "end": 251.28,
+      "text": "में आगे बढ़ने से पहले आपको बता दूं कि"
+    },
+    {
+      "subtitle_ids": [
+        123
+      ],
+      "start": 248.159,
+      "end": 253.439,
+      "text": "फिनो एशंस सबसे मोस्ट अवेटेड चीज लॉन्च"
+    },
+    {
+      "subtitle_ids": [
+        124
+      ],
+      "start": 251.28,
+      "end": 255.519,
+      "text": "करने जा रहा है। देखिए दुनिया के जितने भी"
+    },
+    {
+      "subtitle_ids": [
+        125
+      ],
+      "start": 253.439,
+      "end": 257.44,
+      "text": "सक्सेसफुल इन्वेस्टर्स हैं चाहे वो"
+    },
+    {
+      "subtitle_ids": [
+        126
+      ],
+      "start": 255.519,
+      "end": 259.44,
+      "text": "मिलेनियर हो या फिर बिलेनियर हो टॉप के"
+    },
+    {
+      "subtitle_ids": [
+        127
+      ],
+      "start": 257.44,
+      "end": 261.44,
+      "text": "इन्वेस्टर्स की मैं बात करूं तो उनमें एक"
+    },
+    {
+      "subtitle_ids": [
+        128
+      ],
+      "start": 259.44,
+      "end": 264.0,
+      "text": "चीज कॉमन है और वो है उनकी इन्वेस्टिंग"
+    },
+    {
+      "subtitle_ids": [
+        129
+      ],
+      "start": 261.44,
+      "end": 266.16,
+      "text": "स्टाइल जो है वैल्यू इन्वेस्टिंग। अगर"
+    },
+    {
+      "subtitle_ids": [
+        130
+      ],
+      "start": 264.0,
+      "end": 268.0,
+      "text": "फिनोवेशंस के पास सबसे ज्यादा क्वेरी किसी"
+    },
+    {
+      "subtitle_ids": [
+        131
+      ],
+      "start": 266.16,
+      "end": 270.32,
+      "text": "चीज की आई होगी तो वो ये है कि वैल्यू"
+    },
+    {
+      "subtitle_ids": [
+        132
+      ],
+      "start": 268.0,
+      "end": 272.72,
+      "text": "इन्वेस्टिंग पर आप कुछ क्यों नहीं लाते?"
+    },
+    {
+      "subtitle_ids": [
+        133
+      ],
+      "start": 270.32,
+      "end": 275.12,
+      "text": "और इसी चीज को देखते हुए अभी हमने फाइनली"
+    },
+    {
+      "subtitle_ids": [
+        134
+      ],
+      "start": 272.72,
+      "end": 276.88,
+      "text": "6 आठ महीने की रिसर्च के बाद हम स्टार्ट"
+    },
+    {
+      "subtitle_ids": [
+        135
+      ],
+      "start": 275.12,
+      "end": 278.639,
+      "text": "कर रहे हैं हमारा पहला वैल्यू इन्वेस्टिंग"
+    },
+    {
+      "subtitle_ids": [
+        136
+      ],
+      "start": 276.88,
+      "end": 280.479,
+      "text": "कोहोल्ट जहां पर वैल्यू इन्वेस्टिंग की"
+    },
+    {
+      "subtitle_ids": [
+        137
+      ],
+      "start": 278.639,
+      "end": 282.479,
+      "text": "सारी प्रैक्टिकल स्ट्रेटजीस और उनकी"
+    },
+    {
+      "subtitle_ids": [
+        138
+      ],
+      "start": 280.479,
+      "end": 284.72,
+      "text": "डिफरेंट ब्रांचेस यानी वैल्यू इन्वेस्टिंग"
+    },
+    {
+      "subtitle_ids": [
+        139
+      ],
+      "start": 282.479,
+      "end": 286.8,
+      "text": "लगभग हर 7 आठ साल में इवॉल्व होते जा रहा"
+    },
+    {
+      "subtitle_ids": [
+        140
+      ],
+      "start": 284.72,
+      "end": 288.8,
+      "text": "है। तो उसकी जो इवोल्यूशन टेक्निक्स हैं"
+    },
+    {
+      "subtitle_ids": [
+        141
+      ],
+      "start": 286.8,
+      "end": 291.12,
+      "text": "उसके बारे में भी यहां पर सारी प्रैक्टिकल"
+    },
+    {
+      "subtitle_ids": [
+        142
+      ],
+      "start": 288.8,
+      "end": 292.96,
+      "text": "चीजें हमने सिखाई है। व्हिच इज अ 100%"
+    },
+    {
+      "subtitle_ids": [
+        143
+      ],
+      "start": 291.12,
+      "end": 294.8,
+      "text": "प्रैक्टिकल प्रोग्राम। तो अगर आप भी अपने"
+    },
+    {
+      "subtitle_ids": [
+        144
+      ],
+      "start": 292.96,
+      "end": 296.32,
+      "text": "आप को एज एन वैल्यू इन्वेस्टर ट्रांसफॉर्म"
+    },
+    {
+      "subtitle_ids": [
+        145
+      ],
+      "start": 294.8,
+      "end": 297.84,
+      "text": "करना चाहते हैं तो दिस इज अ गोल्डन"
+    },
+    {
+      "subtitle_ids": [
+        146
+      ],
+      "start": 296.32,
+      "end": 299.12,
+      "text": "ओपोरर्चुनिटी फॉर यू। आपको बस नीचे"
+    },
+    {
+      "subtitle_ids": [
+        147
+      ],
+      "start": 297.84,
+      "end": 301.12,
+      "text": "डिस्क्रिप्शन और कमेंट बॉक्स में दिया गया"
+    },
+    {
+      "subtitle_ids": [
+        148
+      ],
+      "start": 299.12,
+      "end": 303.44,
+      "text": "हुआ फॉर्म फिल करना है। जिसके बाद हमारा"
+    },
+    {
+      "subtitle_ids": [
+        149
+      ],
+      "start": 301.12,
+      "end": 305.36,
+      "text": "40 मिनट का सेशन आपको देखना है। जहां पर"
+    },
+    {
+      "subtitle_ids": [
+        150
+      ],
+      "start": 303.44,
+      "end": 307.44,
+      "text": "हमने इस कोहर्ट के बारे में डिटेल में"
+    },
+    {
+      "subtitle_ids": [
+        151
+      ],
+      "start": 305.36,
+      "end": 309.28,
+      "text": "सारी चीजें आपको बताई है। जो कि इस वीडियो"
+    },
+    {
+      "subtitle_ids": [
+        152
+      ],
+      "start": 307.44,
+      "end": 311.039,
+      "text": "में अभी बताना थोड़ा मुश्किल है। तो अभी"
+    },
+    {
+      "subtitle_ids": [
+        153
+      ],
+      "start": 309.28,
+      "end": 312.96,
+      "text": "नीचे दिए गए फॉर्म पर क्लिक कीजिए और इस"
+    },
+    {
+      "subtitle_ids": [
+        154
+      ],
+      "start": 311.039,
+      "end": 314.4,
+      "text": "कोहर्ट का हिस्सा बनिए। यह जो हमारा"
+    },
+    {
+      "subtitle_ids": [
+        155
+      ],
+      "start": 312.96,
+      "end": 316.16,
+      "text": "वैल्यू इन्वेस्टिंग कोहर्ट है, यह वीकेंड"
+    },
+    {
+      "subtitle_ids": [
+        156
+      ],
+      "start": 314.4,
+      "end": 317.6,
+      "text": "प्रोग्राम है 3 मंथ्स का लाइव। यह जो सेशन"
+    },
+    {
+      "subtitle_ids": [
+        157
+      ],
+      "start": 316.16,
+      "end": 319.44,
+      "text": "है, इसकी लिंक और डिटेल्स आपको यह फॉर्म"
+    },
+    {
+      "subtitle_ids": [
+        158
+      ],
+      "start": 317.6,
+      "end": 322.0,
+      "text": "फिल करने के बाद ईमेल और WhatsApp पर मिल"
+    },
+    {
+      "subtitle_ids": [
+        159
+      ],
+      "start": 319.44,
+      "end": 324.0,
+      "text": "जाएगी। सो, सी यू देर। अब बढ़ते हैं वीडियो"
+    },
+    {
+      "subtitle_ids": [
+        160
+      ],
+      "start": 322.0,
+      "end": 325.68,
+      "text": "की तरफ। अब संजीव भसीन के लिए जहां पर सब"
+    },
+    {
+      "subtitle_ids": [
+        161
+      ],
+      "start": 324.0,
+      "end": 328.24,
+      "text": "कुछ सही चल रहा था।"
+    },
+    {
+      "subtitle_ids": [
+        162
+      ],
+      "start": 325.68,
+      "end": 330.24,
+      "text": "2023 में किसी ने टिप दे दी सेबी को कि"
+    },
+    {
+      "subtitle_ids": [
+        163
+      ],
+      "start": 328.24,
+      "end": 331.6,
+      "text": "भसीन जी कुछ गड़बड़ कर रहे हैं मार्केट"
+    },
+    {
+      "subtitle_ids": [
+        164
+      ],
+      "start": 330.24,
+      "end": 334.4,
+      "text": "में। ही इज़ इनवॉल्व्ड इन मार्केट"
+    },
+    {
+      "subtitle_ids": [
+        165
+      ],
+      "start": 331.6,
+      "end": 336.4,
+      "text": "मैनपुलेशन स्ट्रेटजी जो लोगों के लिए काफी"
+    },
+    {
+      "subtitle_ids": [
+        166
+      ],
+      "start": 334.4,
+      "end": 338.32,
+      "text": "हानिकारक है और उनके लिए काफी फायदेमंद"
+    },
+    {
+      "subtitle_ids": [
+        167
+      ],
+      "start": 336.4,
+      "end": 339.919,
+      "text": "है। सेबी तुरंत एक्शन मोड में आ गई। फुल"
+    },
+    {
+      "subtitle_ids": [
+        168
+      ],
+      "start": 338.32,
+      "end": 342.16,
+      "text": "फ्लेजेड इन्वेस्टिगेशन इन्होंने तुरंत"
+    },
+    {
+      "subtitle_ids": [
+        169
+      ],
+      "start": 339.919,
+      "end": 343.759,
+      "text": "शुरू किया और इन्होंने पता किया कि 12 लोग"
+    },
+    {
+      "subtitle_ids": [
+        170
+      ],
+      "start": 342.16,
+      "end": 345.6,
+      "text": "और कंपनीज़ इस स्कैम में पूरी तरह से"
+    },
+    {
+      "subtitle_ids": [
+        171
+      ],
+      "start": 343.759,
+      "end": 347.759,
+      "text": "इन्वॉल्व्ड हैं। पर रियलिटी में देखे तो"
+    },
+    {
+      "subtitle_ids": [
+        172
+      ],
+      "start": 345.6,
+      "end": 349.68,
+      "text": "दो और भी लोग शायद इसमें इन्वॉल्व्ड थे।"
+    },
+    {
+      "subtitle_ids": [
+        173
+      ],
+      "start": 347.759,
+      "end": 352.32,
+      "text": "बड़ा सवाल यह है कि कौन थे यह लोग? कहां"
+    },
+    {
+      "subtitle_ids": [
+        174
+      ],
+      "start": 349.68,
+      "end": 354.4,
+      "text": "से आते हैं यह? और कौन सी ये कंपनीज है?"
+    },
+    {
+      "subtitle_ids": [
+        175
+      ],
+      "start": 352.32,
+      "end": 356.479,
+      "text": "तो इसके लिए हमने पूरी सेबी के 150 पेज की"
+    },
+    {
+      "subtitle_ids": [
+        176
+      ],
+      "start": 354.4,
+      "end": 358.96,
+      "text": "रिपोर्ट पढ़ी। तो सबसे पहले बात करते हैं"
+    },
+    {
+      "subtitle_ids": [
+        177
+      ],
+      "start": 356.479,
+      "end": 361.6,
+      "text": "कि कौन-कौन लोग इसमें शामिल थे। संजू भसीन"
+    },
+    {
+      "subtitle_ids": [
+        178
+      ],
+      "start": 358.96,
+      "end": 365.36,
+      "text": "मेन एक्यूज्ड हैं। ललित भसीन कजिन है"
+    },
+    {
+      "subtitle_ids": [
+        179
+      ],
+      "start": 361.6,
+      "end": 368.24,
+      "text": "इनके। ममता कपूर सिस्टर आशीष कपूर हस्बैंड"
+    },
+    {
+      "subtitle_ids": [
+        180
+      ],
+      "start": 365.36,
+      "end": 370.24,
+      "text": "ऑफ ममता कपूर और यह एक ब्रोकरेज कंपनी ओन"
+    },
+    {
+      "subtitle_ids": [
+        181
+      ],
+      "start": 368.24,
+      "end": 372.319,
+      "text": "करते थे जिसका नाम था आरआरबी सिक्योरिटीज"
+    },
+    {
+      "subtitle_ids": [
+        182
+      ],
+      "start": 370.24,
+      "end": 375.039,
+      "text": "जिसके जरिए फिर यह ट्रेड्स अपने चलाते थे।"
+    },
+    {
+      "subtitle_ids": [
+        183
+      ],
+      "start": 372.319,
+      "end": 377.039,
+      "text": "देन राजीव कपूर, जगत सिंह जो डीलर थे यहां"
+    },
+    {
+      "subtitle_ids": [
+        184
+      ],
+      "start": 375.039,
+      "end": 379.6,
+      "text": "पर प्रवीण गुप्ता जो ब्रोकर थे आरआरबी में"
+    },
+    {
+      "subtitle_ids": [
+        185
+      ],
+      "start": 377.039,
+      "end": 381.28,
+      "text": "बबीता गुप्ता वाइफ ऑफ प्रवीण गुप्ता। इनके"
+    },
+    {
+      "subtitle_ids": [
+        186
+      ],
+      "start": 379.6,
+      "end": 382.88,
+      "text": "रोल्स पर जाने से पहले बात करते हैं ऐसी"
+    },
+    {
+      "subtitle_ids": [
+        187
+      ],
+      "start": 381.28,
+      "end": 384.0,
+      "text": "वो कौन सी कंपनीज़ इसमें इन्वॉल्व थी"
+    },
+    {
+      "subtitle_ids": [
+        188
+      ],
+      "start": 382.88,
+      "end": 386.08,
+      "text": "क्योंकि इन्होंने बहुत ही कॉम्प्लेक्स"
+    },
+    {
+      "subtitle_ids": [
+        189
+      ],
+      "start": 384.0,
+      "end": 387.84,
+      "text": "स्ट्रक्चर बनाया था ताकि सेबी इन्हें पकड़"
+    },
+    {
+      "subtitle_ids": [
+        190
+      ],
+      "start": 386.08,
+      "end": 389.28,
+      "text": "ही ना पाए। तो कंपनीज़ जो इन्वॉल्वड है वो"
+    },
+    {
+      "subtitle_ids": [
+        191
+      ],
+      "start": 387.84,
+      "end": 391.199,
+      "text": "तो पहले आपको पता है आरआरबी मास्टर"
+    },
+    {
+      "subtitle_ids": [
+        192
+      ],
+      "start": 389.28,
+      "end": 393.28,
+      "text": "सिक्योरिटीज दिल्ली बेस्ड ब्रोकरेज कंपनी"
+    },
+    {
+      "subtitle_ids": [
+        193
+      ],
+      "start": 391.199,
+      "end": 395.6,
+      "text": "है। अगर इसके करंट बोर्ड मेंबर देखें तो"
+    },
+    {
+      "subtitle_ids": [
+        194
+      ],
+      "start": 393.28,
+      "end": 397.36,
+      "text": "संजू भसीन के कजिन हैं। उनकी सिस्टर वगैरह"
+    },
+    {
+      "subtitle_ids": [
+        195
+      ],
+      "start": 395.6,
+      "end": 399.039,
+      "text": "वो सब लोग इसमें हैं। यहीं पर यह नहीं"
+    },
+    {
+      "subtitle_ids": [
+        196
+      ],
+      "start": 397.36,
+      "end": 400.8,
+      "text": "रुके। इन्होंने बहुत सारी शेल कंपनीज़ बनाई"
+    },
+    {
+      "subtitle_ids": [
+        197
+      ],
+      "start": 399.039,
+      "end": 402.96,
+      "text": "जिनके नाम आप देख सकते हो स्क्रीन पर। तो"
+    },
+    {
+      "subtitle_ids": [
+        198
+      ],
+      "start": 400.8,
+      "end": 404.8,
+      "text": "कंपनीज़ तो ये अलग-अलग हैं। लेकिन गड़बड़"
+    },
+    {
+      "subtitle_ids": [
+        199
+      ],
+      "start": 402.96,
+      "end": 407.199,
+      "text": "यहां पर एक हो गई कि सबका एड्रेस एक है।"
+    },
+    {
+      "subtitle_ids": [
+        200
+      ],
+      "start": 404.8,
+      "end": 408.88,
+      "text": "एड्रेस था कन्नोट सर्कल इन दिल्ली प्लेस।"
+    },
+    {
+      "subtitle_ids": [
+        201
+      ],
+      "start": 407.199,
+      "end": 410.56,
+      "text": "कंपनी चाहे अलग-अलग हो, इन्हें डायरेक्टली"
+    },
+    {
+      "subtitle_ids": [
+        202
+      ],
+      "start": 408.88,
+      "end": 412.8,
+      "text": "और इनडायरेक्टली ओन करने वाले सेम ही लोग"
+    },
+    {
+      "subtitle_ids": [
+        203
+      ],
+      "start": 410.56,
+      "end": 414.8,
+      "text": "थे। जैसे ललित भसीन, ममता कपूर, आशीष कपूर"
+    },
+    {
+      "subtitle_ids": [
+        204
+      ],
+      "start": 412.8,
+      "end": 416.639,
+      "text": "और संजीव भसीन। अब मेन सवाल पर आते हैं कि"
+    },
+    {
+      "subtitle_ids": [
+        205
+      ],
+      "start": 414.8,
+      "end": 418.56,
+      "text": "इन्होंने इतना बड़ा स्कैम आखिर किया कैसे?"
+    },
+    {
+      "subtitle_ids": [
+        206
+      ],
+      "start": 416.639,
+      "end": 420.08,
+      "text": "तो इसका जो स्ट्रक्चर था आप देखेंगे यह"
+    },
+    {
+      "subtitle_ids": [
+        207
+      ],
+      "start": 418.56,
+      "end": 421.68,
+      "text": "सेबी के रिपोर्ट में ये स्ट्रक्चर दिया"
+    },
+    {
+      "subtitle_ids": [
+        208
+      ],
+      "start": 420.08,
+      "end": 423.84,
+      "text": "है। बड़ा ही कॉम्प्लेक्स है। लेकिन आपको"
+    },
+    {
+      "subtitle_ids": [
+        209
+      ],
+      "start": 421.68,
+      "end": 425.36,
+      "text": "चलिए इसको बहुत ही आसान भाषा में समझाता"
+    },
+    {
+      "subtitle_ids": [
+        210
+      ],
+      "start": 423.84,
+      "end": 426.72,
+      "text": "हूं क्योंकि यह जो स्ट्रक्चर है, इसे"
+    },
+    {
+      "subtitle_ids": [
+        211
+      ],
+      "start": 425.36,
+      "end": 428.24,
+      "text": "समझना इसलिए जरूरी है कि इस तरह के"
+    },
+    {
+      "subtitle_ids": [
+        212
+      ],
+      "start": 426.72,
+      "end": 429.599,
+      "text": "कॉम्प्लेक्स स्ट्रक्चर्स आजकल हर एक स्कैम"
+    },
+    {
+      "subtitle_ids": [
+        213
+      ],
+      "start": 428.24,
+      "end": 431.36,
+      "text": "में यूज़ कर रहे हैं। तो उसकी जानकारी"
+    },
+    {
+      "subtitle_ids": [
+        214
+      ],
+      "start": 429.599,
+      "end": 433.28,
+      "text": "होगी तो आप उसमें नहीं फसेंगे। तो जैसे कि"
+    },
+    {
+      "subtitle_ids": [
+        215
+      ],
+      "start": 431.36,
+      "end": 434.8,
+      "text": "आप देख रहे हो कि संजीव भसीन वाज़ द मेन"
+    },
+    {
+      "subtitle_ids": [
+        216
+      ],
+      "start": 433.28,
+      "end": 436.4,
+      "text": "कैरेक्टर। संजीव भसीन ने आईएफएल"
+    },
+    {
+      "subtitle_ids": [
+        217
+      ],
+      "start": 434.8,
+      "end": 438.16,
+      "text": "सिक्योरिटीज का जो नाम है वो भी मिसयूज"
+    },
+    {
+      "subtitle_ids": [
+        218
+      ],
+      "start": 436.4,
+      "end": 440.08,
+      "text": "किया। इवन आफ्टर ही लेफ्ट द कंपनी ऐसा"
+    },
+    {
+      "subtitle_ids": [
+        219
+      ],
+      "start": 438.16,
+      "end": 442.16,
+      "text": "कंपनी का कहना है और टीवी अपीयरेंस में"
+    },
+    {
+      "subtitle_ids": [
+        220
+      ],
+      "start": 440.08,
+      "end": 444.08,
+      "text": "अपने आप को आईएफएल सिक्योरिटीज से जोड़े"
+    },
+    {
+      "subtitle_ids": [
+        221
+      ],
+      "start": 442.16,
+      "end": 445.599,
+      "text": "रखा। अब संजीव भसीन वो चार लोगों के"
+    },
+    {
+      "subtitle_ids": [
+        222
+      ],
+      "start": 444.08,
+      "end": 447.52,
+      "text": "कांटेक्ट में थे। पहले दो आरआरबी के"
+    },
+    {
+      "subtitle_ids": [
+        223
+      ],
+      "start": 445.599,
+      "end": 449.68,
+      "text": "ब्रोकर और डीलर थे और बाकी उनका कजिन"
+    },
+    {
+      "subtitle_ids": [
+        224
+      ],
+      "start": 447.52,
+      "end": 451.36,
+      "text": "ब्रदर और प्रवीण और इनडायरेक्टली वो जो"
+    },
+    {
+      "subtitle_ids": [
+        225
+      ],
+      "start": 449.68,
+      "end": 453.52,
+      "text": "पांच कंपनीज़ है जैसे आरआरबी ब्रोकिंग"
+    },
+    {
+      "subtitle_ids": [
+        226
+      ],
+      "start": 451.36,
+      "end": 455.52,
+      "text": "कंपनी और चार शेल कंपनीज़ इन सब चीजों से"
+    },
+    {
+      "subtitle_ids": [
+        227
+      ],
+      "start": 453.52,
+      "end": 457.12,
+      "text": "एट अ टाइम कोऑर्डिनेट करते थे। देखिए होता"
+    },
+    {
+      "subtitle_ids": [
+        228
+      ],
+      "start": 455.52,
+      "end": 458.639,
+      "text": "यह था कि संजीव हसीन को पता है कि नेक्स्ट"
+    },
+    {
+      "subtitle_ids": [
+        229
+      ],
+      "start": 457.12,
+      "end": 460.639,
+      "text": "शो में मुझे यह 10 स्टॉक्स के बारे में"
+    },
+    {
+      "subtitle_ids": [
+        230
+      ],
+      "start": 458.639,
+      "end": 463.039,
+      "text": "बात करनी है। तो उसकी इंफॉर्मेशन ही यूज़्ड"
+    },
+    {
+      "subtitle_ids": [
+        231
+      ],
+      "start": 460.639,
+      "end": 465.039,
+      "text": "टू शेयर विद ललित। ललित उस इंफॉर्मेशन को"
+    },
+    {
+      "subtitle_ids": [
+        232
+      ],
+      "start": 463.039,
+      "end": 467.199,
+      "text": "अपनी सिस्टर को पास करते थे ममता को एंड"
+    },
+    {
+      "subtitle_ids": [
+        233
+      ],
+      "start": 465.039,
+      "end": 468.88,
+      "text": "देन ममता वि द हेल्प ऑफ प्रवीण उन ट्रेड्स"
+    },
+    {
+      "subtitle_ids": [
+        234
+      ],
+      "start": 467.199,
+      "end": 471.039,
+      "text": "को एग्जीक्यूट करती थी। यानी कि लोगों को"
+    },
+    {
+      "subtitle_ids": [
+        235
+      ],
+      "start": 468.88,
+      "end": 473.36,
+      "text": "बताने से पहले ही इन्होंने शेल कंपनीज़ के"
+    },
+    {
+      "subtitle_ids": [
+        236
+      ],
+      "start": 471.039,
+      "end": 475.12,
+      "text": "जरिए वो शेयर्स खरीद लिए हैं। फिर वो टीवी"
+    },
+    {
+      "subtitle_ids": [
+        237
+      ],
+      "start": 473.36,
+      "end": 476.8,
+      "text": "पर आके बोलते थे कि यह स्टॉक मुझे मिल गया"
+    },
+    {
+      "subtitle_ids": [
+        238
+      ],
+      "start": 475.12,
+      "end": 479.12,
+      "text": "है। बहुत बड़ा पोटेंशियल है। इसे आप लॉन्ग"
+    },
+    {
+      "subtitle_ids": [
+        239
+      ],
+      "start": 476.8,
+      "end": 481.12,
+      "text": "टर्म के लिए खरीद लीजिए। लोग तुरंत खरीदते"
+    },
+    {
+      "subtitle_ids": [
+        240
+      ],
+      "start": 479.12,
+      "end": 483.12,
+      "text": "थे। लेकिन यहां पर इन्होंने टीवी में क्या"
+    },
+    {
+      "subtitle_ids": [
+        241
+      ],
+      "start": 481.12,
+      "end": 485.28,
+      "text": "बोला है? लॉन्ग टर्म के लिए खरीदिए। खुद"
+    },
+    {
+      "subtitle_ids": [
+        242
+      ],
+      "start": 483.12,
+      "end": 487.759,
+      "text": "पहले ही खरीद लिया है स्टॉक। और फिर जैसे"
+    },
+    {
+      "subtitle_ids": [
+        243
+      ],
+      "start": 485.28,
+      "end": 489.919,
+      "text": "ही लोग इनकी बातों पर भरोसा करके शेयर्स"
+    },
+    {
+      "subtitle_ids": [
+        244
+      ],
+      "start": 487.759,
+      "end": 491.84,
+      "text": "खरीदने लगते टेंपरेरी शेयर प्राइस में एक"
+    },
+    {
+      "subtitle_ids": [
+        245
+      ],
+      "start": 489.919,
+      "end": 494.4,
+      "text": "स्पाइक आ जाता और तुरंत फिर भसीन उस स्टॉक"
+    },
+    {
+      "subtitle_ids": [
+        246
+      ],
+      "start": 491.84,
+      "end": 497.36,
+      "text": "को एग्जिट कर लेते। जैसे कि 11 जनवरी 2022"
+    },
+    {
+      "subtitle_ids": [
+        247
+      ],
+      "start": 494.4,
+      "end": 499.199,
+      "text": "को 1:33 पर इन्होंने LNT टेक्नोलॉजी"
+    },
+    {
+      "subtitle_ids": [
+        248
+      ],
+      "start": 497.36,
+      "end": 501.199,
+      "text": "सर्विज को बाय करने की सलाह दी जिसका"
+    },
+    {
+      "subtitle_ids": [
+        249
+      ],
+      "start": 499.199,
+      "end": 502.56,
+      "text": "स्क्रीनशॉट भी आप यहां पर देख सकते हो और"
+    },
+    {
+      "subtitle_ids": [
+        250
+      ],
+      "start": 501.199,
+      "end": 505.44,
+      "text": "लोगों से कहा कि जो करंट प्राइस है"
+    },
+    {
+      "subtitle_ids": [
+        251
+      ],
+      "start": 502.56,
+      "end": 507.919,
+      "text": "5600.80 इस पर आप खरीद लीजिए। टारगेट"
+    },
+    {
+      "subtitle_ids": [
+        252
+      ],
+      "start": 505.44,
+      "end": 511.199,
+      "text": "प्राइस है ₹5800। स्टॉप लॉस लगाना है"
+    },
+    {
+      "subtitle_ids": [
+        253
+      ],
+      "start": 507.919,
+      "end": 512.88,
+      "text": "₹5520 का एंड बाय इट फॉर लॉन्ग टर्म। बहुत"
+    },
+    {
+      "subtitle_ids": [
+        254
+      ],
+      "start": 511.199,
+      "end": 514.399,
+      "text": "लॉन्ग टर्म के लिए होल्ड करना है आपको। और"
+    },
+    {
+      "subtitle_ids": [
+        255
+      ],
+      "start": 512.88,
+      "end": 515.919,
+      "text": "फिर आप जैसे ही आप देख सकते हो प्राइस"
+    },
+    {
+      "subtitle_ids": [
+        256
+      ],
+      "start": 514.399,
+      "end": 518.0,
+      "text": "बताने के तुरंत बाद स्टॉक में"
+    },
+    {
+      "subtitle_ids": [
+        257
+      ],
+      "start": 515.919,
+      "end": 519.919,
+      "text": "सिग्निफिकेंट सर्च देखने मिला और आफ्टर 15"
+    },
+    {
+      "subtitle_ids": [
+        258
+      ],
+      "start": 518.0,
+      "end": 521.599,
+      "text": "मिनट्स भी शेयर प्राइस अच्छी खासी बढ़ गई।"
+    },
+    {
+      "subtitle_ids": [
+        259
+      ],
+      "start": 519.919,
+      "end": 523.599,
+      "text": "अब टीवी पर रिकमेंड करने से पहले उन्होंने"
+    },
+    {
+      "subtitle_ids": [
+        260
+      ],
+      "start": 521.599,
+      "end": 525.68,
+      "text": "राजीव को कॉल किया शेयर्स खरीदने बोला"
+    },
+    {
+      "subtitle_ids": [
+        261
+      ],
+      "start": 523.599,
+      "end": 527.839,
+      "text": "मल्टीपल टाइम उन्होंने बोला कि यह लिमिट"
+    },
+    {
+      "subtitle_ids": [
+        262
+      ],
+      "start": 525.68,
+      "end": 529.68,
+      "text": "प्राइस लगाओ वो लिमिट प्राइस लगाओ शेयर्स"
+    },
+    {
+      "subtitle_ids": [
+        263
+      ],
+      "start": 527.839,
+      "end": 531.68,
+      "text": "खरीदो वगैरह और जैसे ही रिकमेंडेशन दे"
+    },
+    {
+      "subtitle_ids": [
+        264
+      ],
+      "start": 529.68,
+      "end": 534.0,
+      "text": "दिया तुरंत एक कॉल किया बोला राजीव सेल द"
+    },
+    {
+      "subtitle_ids": [
+        265
+      ],
+      "start": 531.68,
+      "end": 537.04,
+      "text": "शेयर्स और फिर तुरंत उस एक ट्रेड से ही"
+    },
+    {
+      "subtitle_ids": [
+        266
+      ],
+      "start": 534.0,
+      "end": 540.0,
+      "text": "मेड ₹1,36,000 का प्रॉफिट। यह तो एक ट्रेड"
+    },
+    {
+      "subtitle_ids": [
+        267
+      ],
+      "start": 537.04,
+      "end": 542.24,
+      "text": "का रहा है। यू कैन इमेजिन पिछले 10 सालों"
+    },
+    {
+      "subtitle_ids": [
+        268
+      ],
+      "start": 540.0,
+      "end": 544.56,
+      "text": "में संजीव भसीन ने कितने रिकमेंडेशंस दिए"
+    },
+    {
+      "subtitle_ids": [
+        269
+      ],
+      "start": 542.24,
+      "end": 546.399,
+      "text": "हैं और कितना पैसा कमाया है। और कहानी"
+    },
+    {
+      "subtitle_ids": [
+        270
+      ],
+      "start": 544.56,
+      "end": 548.399,
+      "text": "सिर्फ टीवी तक लिमिटेड नहीं थी। Telegram"
+    },
+    {
+      "subtitle_ids": [
+        271
+      ],
+      "start": 546.399,
+      "end": 550.88,
+      "text": "चैनल भी एक्टिव था। वहां पर भी वह लोगों"
+    },
+    {
+      "subtitle_ids": [
+        272
+      ],
+      "start": 548.399,
+      "end": 552.959,
+      "text": "को बताते कि क्या बाय करना है, क्या सेल"
+    },
+    {
+      "subtitle_ids": [
+        273
+      ],
+      "start": 550.88,
+      "end": 554.8,
+      "text": "करना है और अगेन बताने से पहले खुद पोजीशन"
+    },
+    {
+      "subtitle_ids": [
+        274
+      ],
+      "start": 552.959,
+      "end": 556.72,
+      "text": "ले ली। बताने के बाद शेयर एग्जिट करके"
+    },
+    {
+      "subtitle_ids": [
+        275
+      ],
+      "start": 554.8,
+      "end": 558.959,
+      "text": "पैसा कमा लिया। तो सेबी ने इस पर जो कहा"
+    },
+    {
+      "subtitle_ids": [
+        276
+      ],
+      "start": 556.72,
+      "end": 560.959,
+      "text": "है वह यह है कि संजीव ने 100 से ज्यादा"
+    },
+    {
+      "subtitle_ids": [
+        277
+      ],
+      "start": 558.959,
+      "end": 564.16,
+      "text": "रिकमेंडेशंस दी है अलग-अलग टाइप की और"
+    },
+    {
+      "subtitle_ids": [
+        278
+      ],
+      "start": 560.959,
+      "end": 566.64,
+      "text": "कंबाइंड प्रॉफिट कमाया है ₹1.37 करोड़ का।"
+    },
+    {
+      "subtitle_ids": [
+        279
+      ],
+      "start": 564.16,
+      "end": 568.72,
+      "text": "अब सेबी ने संजू भसीन को पकड़ लिया है और"
+    },
+    {
+      "subtitle_ids": [
+        280
+      ],
+      "start": 566.64,
+      "end": 570.88,
+      "text": "संजीव भसीन के खिलाफ एक्शन भी स्टार्ट कर"
+    },
+    {
+      "subtitle_ids": [
+        281
+      ],
+      "start": 568.72,
+      "end": 572.959,
+      "text": "दी है। कौन-कौन से एक्शन है वह भी देखते"
+    },
+    {
+      "subtitle_ids": [
+        282
+      ],
+      "start": 570.88,
+      "end": 574.48,
+      "text": "हैं। अब देखिए सेबी के हाथ में वो पावर"
+    },
+    {
+      "subtitle_ids": [
+        283
+      ],
+      "start": 572.959,
+      "end": 576.399,
+      "text": "नहीं है कि सेबी किसी को जेल में डाल दे।"
+    },
+    {
+      "subtitle_ids": [
+        284
+      ],
+      "start": 574.48,
+      "end": 578.0,
+      "text": "तो सेबी ने सबसे पहले संजीव भसीन को बैन"
+    },
+    {
+      "subtitle_ids": [
+        285
+      ],
+      "start": 576.399,
+      "end": 579.839,
+      "text": "किया और 12 लोगों को जो इस चीज में"
+    },
+    {
+      "subtitle_ids": [
+        286
+      ],
+      "start": 578.0,
+      "end": 582.08,
+      "text": "इनवॉल्वड हैं। अब देखिए इस पूरी चीज में"
+    },
+    {
+      "subtitle_ids": [
+        287
+      ],
+      "start": 579.839,
+      "end": 583.92,
+      "text": "दो लोगों के और भी नाम हैं जिसके नाम सेबी"
+    },
+    {
+      "subtitle_ids": [
+        288
+      ],
+      "start": 582.08,
+      "end": 585.36,
+      "text": "ने डिस्क्लोज नहीं किए। हालांकि हमने भी"
+    },
+    {
+      "subtitle_ids": [
+        289
+      ],
+      "start": 583.92,
+      "end": 587.279,
+      "text": "बहुत कोशिश की इन दो लोगों के नाम पता"
+    },
+    {
+      "subtitle_ids": [
+        290
+      ],
+      "start": 585.36,
+      "end": 589.12,
+      "text": "करने की लेकिन थोड़ा टफ लग रहा है। सेबी"
+    },
+    {
+      "subtitle_ids": [
+        291
+      ],
+      "start": 587.279,
+      "end": 591.2,
+      "text": "ने इन सारे लोगों के डीमेट अकाउंट और बैंक"
+    },
+    {
+      "subtitle_ids": [
+        292
+      ],
+      "start": 589.12,
+      "end": 593.04,
+      "text": "अकाउंट फ्रीज़ कर दिए। शो कॉज नोटिस"
+    },
+    {
+      "subtitle_ids": [
+        293
+      ],
+      "start": 591.2,
+      "end": 595.04,
+      "text": "उन्हें भेज दिया है और इन सारे लोगों को"
+    },
+    {
+      "subtitle_ids": [
+        294
+      ],
+      "start": 593.04,
+      "end": 596.959,
+      "text": "यह भी बोला है कि अपने सारे एसेट्स को आप"
+    },
+    {
+      "subtitle_ids": [
+        295
+      ],
+      "start": 595.04,
+      "end": 599.04,
+      "text": "डिस्क्लोज करो। अब कितना पैसा सेबी इनसे"
+    },
+    {
+      "subtitle_ids": [
+        296
+      ],
+      "start": 596.959,
+      "end": 600.959,
+      "text": "वसूलती है वह तो देखने वाली बात है। वो तो"
+    },
+    {
+      "subtitle_ids": [
+        297
+      ],
+      "start": 599.04,
+      "end": 602.48,
+      "text": "बाद में पता चलेगा। तो आपको बता दूं कि"
+    },
+    {
+      "subtitle_ids": [
+        298
+      ],
+      "start": 600.959,
+      "end": 604.32,
+      "text": "ठीक है मतलब संजू भसीन पे जो भी एक्शन"
+    },
+    {
+      "subtitle_ids": [
+        299
+      ],
+      "start": 602.48,
+      "end": 606.24,
+      "text": "होगी मेनी अ टाइम्स दे आर अगेन बैक इन द"
+    },
+    {
+      "subtitle_ids": [
+        300
+      ],
+      "start": 604.32,
+      "end": 608.16,
+      "text": "मार्केट। थोड़ा टाइम गुजरने के बाद यह लोग"
+    },
+    {
+      "subtitle_ids": [
+        301
+      ],
+      "start": 606.24,
+      "end": 610.16,
+      "text": "वापस मार्केट में आते हैं। उनका बैन खत्म"
+    },
+    {
+      "subtitle_ids": [
+        302
+      ],
+      "start": 608.16,
+      "end": 612.0,
+      "text": "होने के बाद फिर से वापस सेम चीजें शुरू"
+    },
+    {
+      "subtitle_ids": [
+        303
+      ],
+      "start": 610.16,
+      "end": 613.68,
+      "text": "करते हैं और फिर वापस लोग सेम चीज में"
+    },
+    {
+      "subtitle_ids": [
+        304
+      ],
+      "start": 612.0,
+      "end": 615.68,
+      "text": "फंसते हैं। बेसिकली लोगों को यह लगता है"
+    },
+    {
+      "subtitle_ids": [
+        305
+      ],
+      "start": 613.68,
+      "end": 617.36,
+      "text": "कि स्टॉक मार्केट इज समथिंग लाइक कि चारप"
+    },
+    {
+      "subtitle_ids": [
+        306
+      ],
+      "start": 615.68,
+      "end": 618.72,
+      "text": "लोगों को पता है क्या होने वाला है। सबको"
+    },
+    {
+      "subtitle_ids": [
+        307
+      ],
+      "start": 617.36,
+      "end": 620.64,
+      "text": "क्विक रिटर्न्स कमा रहे हैं तो लोग ज्यादा"
+    },
+    {
+      "subtitle_ids": [
+        308
+      ],
+      "start": 618.72,
+      "end": 622.88,
+      "text": "सोचते नहीं है। एफसी ही इज़ सेइंग समथिंग"
+    },
+    {
+      "subtitle_ids": [
+        309
+      ],
+      "start": 620.64,
+      "end": 624.399,
+      "text": "ट्राई करके देखते हैं और यही सारी चीजों"
+    },
+    {
+      "subtitle_ids": [
+        310
+      ],
+      "start": 622.88,
+      "end": 625.76,
+      "text": "में लोग अपना पैसा गवाते हैं। बट मेरे"
+    },
+    {
+      "subtitle_ids": [
+        311
+      ],
+      "start": 624.399,
+      "end": 627.68,
+      "text": "हिसाब से स्टॉक मार्केट में अगर पैसा"
+    },
+    {
+      "subtitle_ids": [
+        312
+      ],
+      "start": 625.76,
+      "end": 629.92,
+      "text": "बनाना है तो प्रॉपर लॉन्ग टर्म"
+    },
+    {
+      "subtitle_ids": [
+        313
+      ],
+      "start": 627.68,
+      "end": 632.48,
+      "text": "इन्वेस्टिंग ही आपको अच्छा खासा पैसा यहां"
+    },
+    {
+      "subtitle_ids": [
+        314
+      ],
+      "start": 629.92,
+      "end": 634.24,
+      "text": "पर कमा कर देगी। 99% ऑफ मिलेनियर्स एंड"
+    },
+    {
+      "subtitle_ids": [
+        315
+      ],
+      "start": 632.48,
+      "end": 636.32,
+      "text": "बिलेनियर्स जिन्होंने स्टॉक मार्केट से"
+    },
+    {
+      "subtitle_ids": [
+        316
+      ],
+      "start": 634.24,
+      "end": 637.519,
+      "text": "पैसा कमाया दे आर ऑल लॉन्ग टर्म। तो बेटर"
+    },
+    {
+      "subtitle_ids": [
+        317
+      ],
+      "start": 636.32,
+      "end": 639.92,
+      "text": "है कि आप इन्वेस्टमेंट्स के बारे में"
+    },
+    {
+      "subtitle_ids": [
+        318
+      ],
+      "start": 637.519,
+      "end": 641.68,
+      "text": "सीखें। लालच को अपने आप से दूर रखें। नहीं"
+    },
+    {
+      "subtitle_ids": [
+        319
+      ],
+      "start": 639.92,
+      "end": 644.16,
+      "text": "तो इस तरह की चीजें होती रहेगी। आप फंसते"
+    },
+    {
+      "subtitle_ids": [
+        320
+      ],
+      "start": 641.68,
+      "end": 646.399,
+      "text": "रहेंगे और आपकी नादानी का फायदा लेकर कोई"
+    },
+    {
+      "subtitle_ids": [
+        321
+      ],
+      "start": 644.16,
+      "end": 648.56,
+      "text": "लोग करोड़ों रुपए कमा कर गायब हो जाएंगे।"
+    },
+    {
+      "subtitle_ids": [
+        322
+      ],
+      "start": 646.399,
+      "end": 649.92,
+      "text": "जैसे कि संजू भसीन की तरह। मिलते हैं अगले"
+    },
+    {
+      "subtitle_ids": [
+        323
+      ],
+      "start": 648.56,
+      "end": 651.68,
+      "text": "वीडियो में। आशा करते हैं कि आपको वीडियो"
+    },
+    {
+      "subtitle_ids": [
+        324
+      ],
+      "start": 649.92,
+      "end": 653.44,
+      "text": "पसंद आया होगा। जाते-जाते हमारे वैल्यू"
+    },
+    {
+      "subtitle_ids": [
+        325
+      ],
+      "start": 651.68,
+      "end": 654.64,
+      "text": "इन्वेस्टिंग कोहट को जरूर चेक आउट कीजिए।"
+    },
+    {
+      "subtitle_ids": [
+        326
+      ],
+      "start": 653.44,
+      "end": 656.72,
+      "text": "यह एक अपोरर्चुनिटी है आपको एक रियल"
+    },
+    {
+      "subtitle_ids": [
+        327
+      ],
+      "start": 654.64,
+      "end": 658.72,
+      "text": "वैल्यू इन्वेस्टिंग सीखने की ताकि आप खुद"
+    },
+    {
+      "subtitle_ids": [
+        328
+      ],
+      "start": 656.72,
+      "end": 660.8,
+      "text": "एक आत्मनिर्भर इन्वेस्टर बन जाए ताकि"
+    },
+    {
+      "subtitle_ids": [
+        329
+      ],
+      "start": 658.72,
+      "end": 662.64,
+      "text": "संजीव भसिन जैसे लोगों पर आपको डिपेंड"
+    },
+    {
+      "subtitle_ids": [
+        330
+      ],
+      "start": 660.8,
+      "end": 664.48,
+      "text": "रहने की जरूरत कभी ना पड़े। तो इस वैल्यू"
+    },
+    {
+      "subtitle_ids": [
+        331
+      ],
+      "start": 662.64,
+      "end": 666.079,
+      "text": "इन्वेस्टिंग कोहट के वेट लिस्ट की जो लिंक"
+    },
+    {
+      "subtitle_ids": [
+        332
+      ],
+      "start": 664.48,
+      "end": 668.24,
+      "text": "है वो आपको नीचे कमेंट बॉक्स में मिल"
+    },
+    {
+      "subtitle_ids": [
+        333
+      ],
+      "start": 666.079,
+      "end": 669.76,
+      "text": "जाएगी। उसे जरूर फील आउट कीजिए। उसके बाद"
+    },
+    {
+      "subtitle_ids": [
+        334
+      ],
+      "start": 668.24,
+      "end": 671.36,
+      "text": "आपको हमारा एक सेशन ज्वाइन करना है जहां"
+    },
+    {
+      "subtitle_ids": [
+        335
+      ],
+      "start": 669.76,
+      "end": 673.12,
+      "text": "पर हम डिटेल में बताएंगे आपको कि क्या कुछ"
+    },
+    {
+      "subtitle_ids": [
+        336
+      ],
+      "start": 671.36,
+      "end": 675.36,
+      "text": "इस वैल्यू इन कोहर्ट में हम कवर करने वाले"
+    },
+    {
+      "subtitle_ids": [
+        337
+      ],
+      "start": 673.12,
+      "end": 678.88,
+      "text": "हैं। सो सी यू देर। थैंक यू सो मच। बाय-ब"
+    },
+    {
+      "subtitle_ids": [
+        338
+      ],
+      "start": 675.36,
+      "end": 678.88,
+      "text": "टेक केयर। सी यू इन द नेक्स्ट वन।"
+    }
+  ]
+}

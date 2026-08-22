@@ -1,0 +1,86 @@
+{
+  "raw_record": {
+    "log_metrics": {
+      "video_id": "gY6unuo8Q9I",
+      "model_id": "qwen3.5-9b-claude-4.6-opus-reasoning-distilled-v2",
+      "target_window_seconds": 90.0,
+      "max_window_seconds": 120.0,
+      "actual_opening_duration": 91.8,
+      "final_end_timestamp": 95.519,
+      "number_of_segments": 2,
+      "input_character_count": 5087,
+      "output_character_count": 2324,
+      "latency_seconds": 164.891,
+      "temperature": 0.1,
+      "max_tokens": 2500,
+      "json_valid": true,
+      "validation_issues": [],
+      "parse_error": ""
+    },
+    "formatted_prompt_input": "[SEGMENT 1]\nTIME: 3.72 - 47.94\nLANGUAGE: HINDI\nTEXT:\nइनकी ऐड आपने जरूर कभी ना कभी देखी होगी जो अपने आप को शी वुल्फ ऑफ द स्टॉक मार्केट कहलाती है और वादा करती कि सिर्फ 15 मिनट के अंदर आप ट्रेडिंग शुरू कर सकते हो और अगर आप हमारे कोर्सेस लेते हो तो आप 100% प्रॉफिट कमा सकते हो इसी तरह हजारों की संख्या में लोगों ने इनके कोर्सेस खरीद लिए लेकिन आगे क्या हुआ जिसके चलते सेबी ने सीधा इनका 54 करोड़ का फंड फ्रीज कर दिया है और इसके साथ ही सेबी ने एक शो कॉज नोटिस भी भेजा है कि और 50 करोड़ आपके हम क्यों फ्रीज ना करें तो मैं बात कर रहा हं स्टॉक मार्केट में आए एक नए फ्रॉड की जिसकी हर जगह चर्चा चल रही है और आज के इस वीडियो में हम इसके बारे में बहुत ही डिटेल में बात करेंगे इस वीडियो को बनाने के लिए हमने अस्मिता पटेल पर सेबी की जो ऑर्डर आई है उसे डिटेल में पढ़ा और वो पूरी स्टोरी आज हम आपके सामने लेकर आए हैं नमस्कार मैं प्रसाद आपका आज के इस वीडियो\n\n[SEGMENT 2]\nTIME: 47.94 - 95.52\nLANGUAGE: HINDI\nTEXT:\nमें स्वागत करता हूं सो सबसे पहले जानते हैं कि अस्मिता पटेल है कौन तो अस्मिता पटेल की कंपनी है अस्मिता पटेल ग्लोबल स्कूल ऑफ ट्रेडिंग जहां पर वो स्टॉक ट्रेडिंग की ट्रेनिंग देती है जिसमें उनका एम पैट यानी मास्टर्स इन प्राइस एक्शन ट्रेडिंग यह एक कोर्स चलता है एलएम आईटी यानी लेट्स मेक इंडिया ट्रेड इसके अलावा ओम यानी ऑप्शंस मल्टीप्लायर और ट्रेड फॉलोइंग इनकम सिस्टम इस जैसे अलग-अलग कोर्सेस चलते हैं एक चीज आपने जरूर ऑब्जर्व की होगी कि इन सबके जो नाम है वो काफी कूल और फैंसी है ताकि ज्यादा से ज्यादा लोग उसकी तरफ अट्रैक्ट हो पाए और एगजैक्टली वैसा हुआ भी इन कोर्सेस का एक पर्टिकुलर पैटर्न में बता दूं बट अल्टीमेट गोल यह था इस कोर्सेस का कि नो लॉस ट्रेनिंग आप सीधा प्रॉफिट ही कमाएंगे तो इसके लिए शुरुआत में ये लोग प्री एट नाम का कोर्स बेचते थे जब लोग प्री एट की भी अच्छी खासी प्राइस पे करते करते थे तो लोगों को लगता था कि यहां पर कुछ सीखने मिलेगा लेकिन वहां पर सिखाया नहीं जाता था",
+    "raw_response": "{\n    \"video_id\": \"gY6unuo8Q9I\",\n    \"opening_analysis\": {\n        \"hook\": {\n            \"text\": \"इनकी ऐड आपने जरूर कभी ना कभी देखी होगी जो अपने आप को शी वुल्फ ऑफ द स्टॉक मार्केट कहलाती है और वादा करती कि सिर्फ 15 मिनट के अंदर आप ट्रेडिंग शुरू कर सकते हो\",\n            \"start_time\": 3.72,\n            \"end_time\": 47.94,\n            \"hook_type\": \"story | controversy | mixed\",\n            \"confidence\": 0.95\n        },\n        \"core_topic\": {\n            \"description\": \"SEBI-exposed stock market fraud involving Asmita Patel's trading courses and frozen funds.\",\n            \"explicit\": true,\n            \"confidence\": 0.95,\n            \"evidence\": {\n                \"start_time\": 3.72,\n                \"end_time\": 47.94,\n                \"text\": \"मैं बात कर रहा हं स्टॉक मार्केट में आए एक नए फ्रॉड की जिसकी हर जगह चर्चा चल रही है और आज के इस वीडियो में हम इसके बारे में बहुत ही डिटेल में बात करेंगे\"\n            }\n        },\n        \"viewer_problem_or_question\": {\n            \"description\": \"What happened after people bought these courses, leading to SEBI freezing funds?\",\n            \"explicit\": true,\n            \"confidence\": 0.90,\n            \"evidence\": {\n                \"start_time\": 37.5,\n                \"end_time\": 42.0,\n                \"text\": \"लेकिन आगे क्या हुआ जिसके चलते सेबी ने सीधा इनका 54 करोड़ का फंड फ्रीज कर दिया है\"\n            }\n        },\n        \"promise\": {\n            \"description\": \"Detailed explanation of the fraud case and what happened after course purchases.\",\n            \"explicit\": true,\n            \"confidence\": 0.90,\n            \"evidence\": {\n                \"start_time\": 42.0,\n                \"end_time\": 47.94,\n                \"text\": \"और आज के इस वीडियो में हम इसके बारे में बहुत ही डिटेल में बात करेंगे\"\n            }\n        },\n        \"expected_points\": [],\n        \"expected_direction\": \"Explain the SEBI-exposed fraud case involving Asmita Patel's trading courses, including course names, promises made to students, and consequences.\",\n        \"opening_summary\": \"The opening introduces a stock market fraud story about Asmita Patel's trading courses that were exposed by SEBI, promising detailed analysis of what happened after people bought these courses. The creator mentions having read SEBI's order details for the video.\",\n        \"analysis_confidence\": 0.92\n    }\n}"
+  },
+  "parsed_analysis": {
+    "video_id": "gY6unuo8Q9I",
+    "opening_analysis": {
+      "hook": {
+        "text": "इनकी ऐड आपने जरूर कभी ना कभी देखी होगी जो अपने आप को शी वुल्फ ऑफ द स्टॉक मार्केट कहलाती है और वादा करती कि सिर्फ 15 मिनट के अंदर आप ट्रेडिंग शुरू कर सकते हो",
+        "start_time": 3.72,
+        "end_time": 47.94,
+        "hook_type": "story | controversy | mixed",
+        "confidence": 0.95
+      },
+      "core_topic": {
+        "description": "SEBI-exposed stock market fraud involving Asmita Patel's trading courses and frozen funds.",
+        "explicit": true,
+        "confidence": 0.95,
+        "evidence": {
+          "start_time": 3.72,
+          "end_time": 47.94,
+          "text": "मैं बात कर रहा हं स्टॉक मार्केट में आए एक नए फ्रॉड की जिसकी हर जगह चर्चा चल रही है और आज के इस वीडियो में हम इसके बारे में बहुत ही डिटेल में बात करेंगे"
+        }
+      },
+      "viewer_problem_or_question": {
+        "description": "What happened after people bought these courses, leading to SEBI freezing funds?",
+        "explicit": true,
+        "confidence": 0.9,
+        "evidence": {
+          "start_time": 37.5,
+          "end_time": 42.0,
+          "text": "लेकिन आगे क्या हुआ जिसके चलते सेबी ने सीधा इनका 54 करोड़ का फंड फ्रीज कर दिया है"
+        }
+      },
+      "promise": {
+        "description": "Detailed explanation of the fraud case and what happened after course purchases.",
+        "explicit": true,
+        "confidence": 0.9,
+        "evidence": {
+          "start_time": 42.0,
+          "end_time": 47.94,
+          "text": "और आज के इस वीडियो में हम इसके बारे में बहुत ही डिटेल में बात करेंगे"
+        }
+      },
+      "expected_points": [],
+      "expected_direction": "Explain the SEBI-exposed fraud case involving Asmita Patel's trading courses, including course names, promises made to students, and consequences.",
+      "opening_summary": "The opening introduces a stock market fraud story about Asmita Patel's trading courses that were exposed by SEBI, promising detailed analysis of what happened after people bought these courses. The creator mentions having read SEBI's order details for the video.",
+      "analysis_confidence": 0.92
+    }
+  },
+  "log_metrics": {
+    "video_id": "gY6unuo8Q9I",
+    "model_id": "qwen3.5-9b-claude-4.6-opus-reasoning-distilled-v2",
+    "target_window_seconds": 90.0,
+    "max_window_seconds": 120.0,
+    "actual_opening_duration": 91.8,
+    "final_end_timestamp": 95.519,
+    "number_of_segments": 2,
+    "input_character_count": 5087,
+    "output_character_count": 2324,
+    "latency_seconds": 164.891,
+    "temperature": 0.1,
+    "max_tokens": 2500,
+    "json_valid": true,
+    "validation_issues": [],
+    "parse_error": ""
+  }
+}

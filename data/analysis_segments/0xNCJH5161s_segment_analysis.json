@@ -1,0 +1,172 @@
+{
+  "video_id": "0xNCJH5161s",
+  "opening_segments_count": 2,
+  "analyzed_segments_count": 15,
+  "segments": [
+    {
+      "segment_id": 3,
+      "start_time": 90.119,
+      "end_time": 131.779,
+      "primary_point": "P2 | P4",
+      "function": "EXAMPLE",
+      "relevance": "DIRECT",
+      "confidence": 0.95,
+      "evidence": "उस शख्स का फिर से कॉल आता है कि ठीक है आपको कुछ नहीं करना है अपना जो सिम कार्ड है वो इस एड फोन में डालना है और उसके बाद वहां से आप अपने क्रेडिट कार्ड को एक्टिवेट कर सकते हैं",
+      "evidence_validation": "PASSED"
+    },
+    {
+      "segment_id": 4,
+      "start_time": 131.779,
+      "end_time": 179.079,
+      "primary_point": "P3",
+      "function": "EVIDENCE",
+      "relevance": "SUPPORTING",
+      "confidence": 0.92,
+      "evidence": "आरबीआई के अकॉर्डिंग अप्रैल 2023 में इंडियंस ने डेबिट कार्ड के जरिए 53000 करोड़ के ट्रांजैक्शंस किए और क्रेडिट कार्ड से 1.33 लाख करोड़ के",
+      "evidence_validation": "PASSED"
+    },
+    {
+      "segment_id": 5,
+      "start_time": 179.079,
+      "end_time": 221.099,
+      "primary_point": "P3",
+      "function": "COMPARISON",
+      "relevance": "SUPPORTING",
+      "confidence": 0.9,
+      "evidence": "कार्ड का जो यूज़ है वो ज्यादा हो हो रहा है कंपेयर्ड टू डेबिट कार्ड आप ये क्रेडिट कार्ड आउटस्टैंडिंग का ग्राफ देख सकते हैं जिससे हमें यह पता चलता है कि हमारा जो क्रेडिट कार्ड का यूसेज है वो बहुत तेजी से बढ़ रहा है कितना तो पिछले सिर्फ एक साल में वो 20 पर से बढ़ा है अभी जुलाई 2023 में हमारा जो टोटल क्रेडिट कार्ड आउटस्टैंडिंग था वो था 2",
+      "evidence_validation": "PASSED"
+    },
+    {
+      "segment_id": 6,
+      "start_time": 221.099,
+      "end_time": 269.88,
+      "primary_point": "P1",
+      "function": "CONTEXT",
+      "relevance": "RELATED",
+      "confidence": 0.88,
+      "evidence": "इंडिया में 100 में से 71 क्रेडिट कार्ड्स यह चार प्लेयर्स ही इशू करते हैं जिसमें से सबसे पहला जो प्लेयर है वोह है hdfcfund.com",
+      "evidence_validation": "PASSED"
+    },
+    {
+      "segment_id": 7,
+      "start_time": 269.88,
+      "end_time": 313.14,
+      "primary_point": "P4",
+      "function": "EXAMPLE",
+      "relevance": "DIRECT",
+      "confidence": 0.93,
+      "evidence": "अब देखिए वो इतने कॉन्फिडेंटली सारा डाटा बताते हैं कि आपको लगता है कि बैंक से ही बात कर ें और आपको यह बताते कि आपके जो रिवॉर्ड पॉइंट्स हैं",
+      "evidence_validation": "PASSED"
+    },
+    {
+      "segment_id": 8,
+      "start_time": 313.14,
+      "end_time": 360.08,
+      "primary_point": "P2 | P3",
+      "function": "SUPPORTING_EXPLANATION",
+      "relevance": "DIRECT",
+      "confidence": 0.95,
+      "evidence": "ये लोग आपको एक लिंक भेजते हैं जिसके बाद आपसे डिटेल लिए जाते हैं तो सारे डिटेल्स उनके पास आ गए अब उनको चाहिए ओटीपी उसके लिए ये लोग क्या करते हैं",
+      "evidence_validation": "PASSED"
+    },
+    {
+      "segment_id": 9,
+      "start_time": 360.08,
+      "end_time": 400.039,
+      "primary_point": "P1 | P2",
+      "function": "DIRECT_POINT",
+      "relevance": "DIRECT",
+      "confidence": 0.95,
+      "evidence": "लेकिन लोग उससे सतर्क हो गए हैं इसलिए लोग ओटीपी देते नहीं है तो इन लोगों ने कुछ इस तरह के अभी नए-नए तरीके निकाले हैं",
+      "evidence_validation": "PASSED"
+    },
+    {
+      "segment_id": 10,
+      "start_time": 400.039,
+      "end_time": 441.619,
+      "primary_point": "P4",
+      "function": "RELATED_EXTENSION",
+      "relevance": "RELATED",
+      "confidence": 0.85,
+      "evidence": "क्रेडिट कार्ड का भी एक बहुत इंपॉर्टेंट फैसिलिटी है जो इंडिया में जो अमीर लोग हैं वो यूज करते हैं",
+      "evidence_validation": "PASSED"
+    },
+    {
+      "segment_id": 11,
+      "start_time": 441.619,
+      "end_time": 508.44,
+      "primary_point": "P3",
+      "function": "SUPPORTING_EXPLANATION",
+      "relevance": "DIRECT",
+      "confidence": 0.9,
+      "evidence": "आपकी गलती से तो आपकी लायबिलिटी 25000 तक है मैक्सिमम यानी कि आपकी गलती हुई और आपके साथ क्रेडिट कार्ड के जरिए",
+      "evidence_validation": "PASSED"
+    },
+    {
+      "segment_id": 12,
+      "start_time": 508.44,
+      "end_time": 539.519,
+      "primary_point": "NONE",
+      "function": "OFF_TOPIC",
+      "relevance": "OFF_TOPIC",
+      "confidence": 0.95,
+      "evidence": "hdfcfund.com विद इन इंडिया मिलती है पाय 5x रिवॉर्ड पॉइंट्स ऑन मार्क्स एंड स्पेंसर mitra.in",
+      "evidence_validation": "PASSED"
+    },
+    {
+      "segment_id": 13,
+      "start_time": 539.519,
+      "end_time": 580.7,
+      "primary_point": "P2 | P3",
+      "function": "SUPPORTING_EXPLANATION",
+      "relevance": "DIRECT",
+      "confidence": 0.95,
+      "evidence": "42 पर इंडियंस के साथ किसी ना किसी तरीके का फाइनेंशियल फ्रॉड हुआ है और इसमें से 18 पर लोग ऐसे हैं जिनके साथ या तो क्रेडिट कार्ड या फिर डेबिट कार्ड का स्कैम हुआ है",
+      "evidence_validation": "PASSED"
+    },
+    {
+      "segment_id": 14,
+      "start_time": 580.7,
+      "end_time": 626.28,
+      "primary_point": "P2 | P3",
+      "function": "EVIDENCE",
+      "relevance": "DIRECT",
+      "confidence": 0.95,
+      "evidence": "₹1 लाख से कम के जो प्रॉड्स हुए हैं वो 2017 से 2019 के बीच वो 110000 है और इसकी जो अमाउंट निकल कर आती है स्कैम की वो 371 करोड़ की है",
+      "evidence_validation": "PASSED"
+    },
+    {
+      "segment_id": 15,
+      "start_time": 626.28,
+      "end_time": 658.24,
+      "primary_point": "NONE",
+      "function": "CONCLUSION",
+      "relevance": "RELATED",
+      "confidence": 0.9,
+      "evidence": "जारी रख रहे हैं अलग-अलग टेक्निक्स के जरिए इसके लिए इन्हें बस जरूरत होती है एक फोन की इस वीडियो को जरूर अपने ज्यादा से ज्यादा दोस्तों के साथ शेयर कीजिए जो क्रेडिट कार्ड यूज़ करते हैं या फिर लेने की प्लानिंग कर रहे हैं क्योंकि इन स्कैम्स का अगला टारगेट यही लोग हैं और साथ ही हमें यह भी समझना है कि ऑनलाइन ट्रांजैक्शंस में हमारा सबसे अच्छा साथी भी क्रेडिट कार्ड ही हो सकता है जो हमारे बैंक अकाउंट को सेफ रखता है और हमारी बैंकिंग आइडेंटिटी या फिर डेबिट कार्ड आइडेंटिटी को कहीं पर एक्सपोज नहीं होने देता और अगर आप एक बेटर क्रेडिट कार्ड की तलाश में हैं तो",
+      "evidence_validation": "PASSED"
+    },
+    {
+      "segment_id": 16,
+      "start_time": 658.24,
+      "end_time": 689.36,
+      "primary_point": "UNCERTAIN",
+      "function": "UNCERTAIN",
+      "relevance": "UNCERTAIN",
+      "confidence": 0.0,
+      "evidence": "hdfcergo",
+      "evidence_validation": "PASSED"
+    },
+    {
+      "segment_id": 17,
+      "start_time": 689.36,
+      "end_time": 703.48,
+      "primary_point": "UNCERTAIN",
+      "function": "UNCERTAIN",
+      "relevance": "UNCERTAIN",
+      "confidence": 0.0,
+      "evidence": "जिसका नाम था द एएए ट्रैप तो अभी यहां पर क्लिक करके या फिर youtube1 ट्रैप सर्च करके इस डॉक्यूमेंट्री को जरूर देखिए और ज़्यादा से ज़्यादा लोगों को एलएम स्कैम्स के बारे में अवेयर कीजिए मिलते हैं अगले वीडियो में थैंक यू सो मच फॉर वाचिंग दिस वीडियो",
+      "evidence_validation": "PASSED"
+    }
+  ]
+}

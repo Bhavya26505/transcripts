@@ -1,0 +1,229 @@
+{
+  "video_id": "gY6unuo8Q9I",
+  "source_language": "hi",
+  "promise_status": "NO_EXPLICIT_PROMISE",
+  "promised_points_count": 0,
+  "point_coverage": null,
+  "point_coverage_status": "NOT_APPLICABLE",
+  "hook": {},
+  "creator_promise": {},
+  "expected_points": [],
+  "segment_analysis": [
+    {
+      "segment_id": 3,
+      "start_time": 95.519,
+      "end_time": 145.48,
+      "primary_point": "P2 | P3",
+      "function": "SUPPORTING_EXPLANATION",
+      "relevance": "DIRECT",
+      "confidence": 0.95,
+      "evidence": "वहां पर आपको एम पैट के लिए प्रिपेयर किया जाता था जो अगला कोर्स है उसके बारे में आपको बताया जाता था क्यों एट जरूरी है",
+      "evidence_validation": "PASSED"
+    },
+    {
+      "segment_id": 4,
+      "start_time": 145.48,
+      "end_time": 194.399,
+      "primary_point": "P2 | P3",
+      "function": "SUPPORTING_EXPLANATION",
+      "relevance": "DIRECT",
+      "confidence": 0.95,
+      "evidence": "आपके पास म्यूचुअल फंड्स होंगे आपके पास आपकी और इन्वेस्टमेंट्स होंगी आपके पास बिजनेस होंगे कुछ हिस्सा बेच दीजिए",
+      "evidence_validation": "PASSED"
+    },
+    {
+      "segment_id": 5,
+      "start_time": 194.399,
+      "end_time": 235.919,
+      "primary_point": "P3",
+      "function": "EVIDENCE",
+      "relevance": "DIRECT",
+      "confidence": 0.92,
+      "evidence": "हमने अपनी म्यूचुअल फंड्स भेज दए हमने अपने प्रोविडेंट फंड भेज दिए हमने अपने बिजनेस का कुछ हिस्सा बेज दिया",
+      "evidence_validation": "PASSED"
+    },
+    {
+      "segment_id": 6,
+      "start_time": 235.919,
+      "end_time": 283.039,
+      "primary_point": "P3",
+      "function": "SUPPORTING_EXPLANATION",
+      "relevance": "DIRECT",
+      "confidence": 0.94,
+      "evidence": "जो पैसा पे किया है उसे रिकवर तो जरूर कर सकते हैं तो इसके चलते 42 लोगों ने सेबी के पास कंप्लेंट फाइल की",
+      "evidence_validation": "PASSED"
+    },
+    {
+      "segment_id": 7,
+      "start_time": 283.039,
+      "end_time": 325.84,
+      "primary_point": "P3",
+      "function": "EVIDENCE",
+      "relevance": "DIRECT",
+      "confidence": 0.93,
+      "evidence": "इन्होंने लोगों को एक टे ग्रा ग्रुप में ऐड करना शुरू किया और वहां पर इन्हें टिप्स मिलते थे कि हम आपको बताएंगे कि कौन सा आपको कॉल लेना है",
+      "evidence_validation": "PASSED"
+    },
+    {
+      "segment_id": 8,
+      "start_time": 325.84,
+      "end_time": 371.82,
+      "primary_point": "P1 | P2 | P3 | P4 | NONE | MULTIPLE | UNCERTAIN",
+      "function": "DIRECT_POINT",
+      "relevance": "DIRECT",
+      "confidence": 0.95,
+      "evidence": "अस्मिता पटेल ने कोर्सेस के नाम पर बहुत ज्यादा पैसा छाप लिया था 04 करोड़ इन्होंने कमा लिए थे",
+      "evidence_validation": "PASSED"
+    },
+    {
+      "segment_id": 9,
+      "start_time": 371.82,
+      "end_time": 414.02,
+      "primary_point": "P1 | P2 | P3 | P4 | NONE | MULTIPLE | UNCERTAIN",
+      "function": "DIRECT_POINT",
+      "relevance": "DIRECT",
+      "confidence": 0.95,
+      "evidence": "सेबी ने 554 करोड़ फ्रीज किए और बाकी 50 करोड़ भी फ्रीज करने की सेबी तैयारी में है",
+      "evidence_validation": "PASSED"
+    },
+    {
+      "segment_id": 10,
+      "start_time": 414.02,
+      "end_time": 458.539,
+      "primary_point": "P1 | P2 | P3 | P4 | NONE | MULTIPLE | UNCERTAIN",
+      "function": "DIRECT_POINT",
+      "relevance": "DIRECT",
+      "confidence": 0.95,
+      "evidence": "ये सारे जो सिग्नल्स और टिप्स यहां पर मिलती थी वो सारी मैनिपुलेटेड थी इनमें किसी भी तरह की ऑथेंटिसिटी नहीं थी",
+      "evidence_validation": "PASSED"
+    },
+    {
+      "segment_id": 11,
+      "start_time": 458.539,
+      "end_time": 497.34,
+      "primary_point": "P1 | P2 | P3 | P4 | NONE | MULTIPLE | UNCERTAIN",
+      "function": "DIRECT_POINT",
+      "relevance": "DIRECT",
+      "confidence": 0.95,
+      "evidence": "इंडिया में आज भी लोग फंस रहे हैं तो इन्हें बचने के लिए आपको मार्केट को सही तरीके से समझना पड़ेगा",
+      "evidence_validation": "PASSED"
+    },
+    {
+      "segment_id": 12,
+      "start_time": 497.34,
+      "end_time": 543.959,
+      "primary_point": "P1 | P2 | P3 | P4 | NONE | MULTIPLE | UNCERTAIN",
+      "function": "DIRECT_POINT",
+      "relevance": "DIRECT",
+      "confidence": 0.95,
+      "evidence": "इंडिया में जितने भी प्रूवन मिलियर है बिलिनियर है जो भी मार्केट से बने हैं इन्वेस्टमेंट से बने हैं मोर देन 98 पर ऑफ देम हैव मेड देयर मनी फ्रॉम लॉन्ग टर्म इन्वेस्टिंग",
+      "evidence_validation": "PASSED"
+    },
+    {
+      "segment_id": 13,
+      "start_time": 543.959,
+      "end_time": 590.14,
+      "primary_point": "P1 | P2 | NONE | MULTIPLE | UNCERTAIN",
+      "function": "DIRECT_POINT",
+      "relevance": "DIRECT",
+      "confidence": 0.95,
+      "evidence": "क्विक मनी के पीछे मत भागी ये बहुत सारी चीजें बहुत फैंसी है मार्केट में पैसा बनता है तो बोरिंग तरीके से बनता है",
+      "evidence_validation": "PASSED"
+    },
+    {
+      "segment_id": 14,
+      "start_time": 590.14,
+      "end_time": 630.019,
+      "primary_point": "P1 | P2 | NONE | MULTIPLE | UNCERTAIN",
+      "function": "SUPPORTING_EXPLANATION",
+      "relevance": "DIRECT",
+      "confidence": 0.95,
+      "evidence": "मार्केट में असली पैसा कहीं और बनता है तो जैसे कि बड़े-बड़े इन्वेस्टर्स कहते हैं कि अपनी गलतियों से सीखना इज वन",
+      "evidence_validation": "PASSED"
+    },
+    {
+      "segment_id": 15,
+      "start_time": 630.019,
+      "end_time": 677.1,
+      "primary_point": "P1 | P2 | NONE | MULTIPLE | UNCERTAIN",
+      "function": "RELATED_EXTENSION",
+      "relevance": "DIRECT",
+      "confidence": 0.9,
+      "evidence": "तो हमारा कमो कोर्स आप ट्राई कर सकते हो फाउंडेशन 2.0 और फंडामेंटल 2.0 जिसमें स्टॉक मार्केट की बेसिक से लेकर एडवांस लेवल तक सारी चीजें प्रैक्टिकल तरीके से समझाई गई है",
+      "evidence_validation": "PASSED"
+    },
+    {
+      "segment_id": 16,
+      "start_time": 677.1,
+      "end_time": 717.939,
+      "primary_point": "P1 | P2 | NONE | MULTIPLE | UNCERTAIN",
+      "function": "SUPPORTING_EXPLANATION",
+      "relevance": "DIRECT",
+      "confidence": 0.95,
+      "evidence": "बता बताकर मैं थक गया हूं लेकिन अब बड़े-बड़े जब स्कैम्स आते हैं बड़े-बड़े जो फ्रॉड बाहर आते हैं तब उन्हें कवर करना जरूरी हो जाता है",
+      "evidence_validation": "PASSED"
+    },
+    {
+      "segment_id": 17,
+      "start_time": 717.939,
+      "end_time": 740.839,
+      "primary_point": "P1 | P2 | NONE | MULTIPLE | UNCERTAIN",
+      "function": "CONCLUSION",
+      "relevance": "DIRECT",
+      "confidence": 0.95,
+      "evidence": "मिलते हैं अगले वीडियो में थैंक यू सो मच फॉर वाचिंग और चैनल को जरूर सब्सक्राइब करके रखिए",
+      "evidence_validation": "PASSED"
+    }
+  ],
+  "metrics": {
+    "point_coverage": null,
+    "clear_relevance": {
+      "rel_durations": {
+        "DIRECT": 645.32,
+        "SUPPORTING": 0.0,
+        "RELATED": 0.0,
+        "TRANSITION": 0.0,
+        "UNCERTAIN": 0.0,
+        "OFF_TOPIC": 0.0
+      },
+      "rel_percentages": {
+        "DIRECT": 100.0,
+        "SUPPORTING": 0.0,
+        "RELATED": 0.0,
+        "TRANSITION": 0.0,
+        "UNCERTAIN": 0.0,
+        "OFF_TOPIC": 0.0
+      },
+      "clearly_relevant_duration": 645.32,
+      "clearly_relevant_percentage": 100.0,
+      "off_topic_duration": 0.0,
+      "off_topic_percentage": 0.0
+    },
+    "off_topic_percentage": 0.0,
+    "off_topic_episode_count": 0,
+    "missing_points": []
+  },
+  "adherence_score": {
+    "point_coverage_weight": 0.6,
+    "clear_relevance_weight": 0.25,
+    "topic_discipline_weight": 0.15,
+    "point_coverage_score": null,
+    "clear_relevance_score": 100.0,
+    "topic_discipline_score": 100.0,
+    "final_score": null
+  },
+  "validation": {
+    "timeline_integrity": true,
+    "evidence_integrity": true,
+    "metric_integrity": true,
+    "score_integrity": true,
+    "all_validations_pass": true
+  },
+  "performance": {
+    "phase7_latency": 164.9,
+    "phase8_latency": 601.49,
+    "llm_calls_count": 4,
+    "retries_count": 0,
+    "total_processing_time": 766.52
+  }
+}

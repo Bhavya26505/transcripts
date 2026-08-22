@@ -1,0 +1,86 @@
+{
+  "raw_record": {
+    "log_metrics": {
+      "video_id": "7dQQa91RLls",
+      "model_id": "qwen3.5-9b-claude-4.6-opus-reasoning-distilled-v2",
+      "target_window_seconds": 90.0,
+      "max_window_seconds": 120.0,
+      "actual_opening_duration": 118.16,
+      "final_end_timestamp": 119.519,
+      "number_of_segments": 3,
+      "input_character_count": 5256,
+      "output_character_count": 2185,
+      "latency_seconds": 191.248,
+      "temperature": 0.1,
+      "max_tokens": 2500,
+      "json_valid": true,
+      "validation_issues": [],
+      "parse_error": ""
+    },
+    "formatted_prompt_input": "[SEGMENT 1]\nTIME: 1.36 - 31.40\nLANGUAGE: HINDI\nTEXT:\nआपने हर्षद मेहता का नाम तो सुना होगा। वही स्कैम 1992 5000 करोड़ एक कैरिस्मेटिक ब्रोकर ड्रामेटिक राइज ड्रामेटिक फॉल पूरी दुनिया ने देखा। लेकिन आज मैं यहां पर आपको एक ऐसी स्टोरी सुनाऊंगा जहां पर जो कोलैप्स था वो हर्षद मेहता स्कैम से 20 गुना ज्यादा था। द एफएफआईओ हैज़ अलेज्ड दैट द कंडक्ट ऑफ द कंपनीज़ मैनेजमेंट, इट्स डायरेक्टर्स एंड स्टचटरी ऑडिटर्स अमाउंट्स टू फ्रॉड अंडर कंपनी लॉ एंड क्रिमिनल कंस्परेसी अंडर द इंडियन पीनल कोड।\n\n[SEGMENT 2]\nTIME: 31.40 - 77.52\nLANGUAGE: HINDI\nTEXT:\nऔर हैरत की बात तो यह है कि आज तक इस पर कोई Netflix शो नहीं बना। बस एक क्वाइट कोलैप्स और बिलियंस ऑफ रूपीस एक आम इन्वेस्टर के हाथों से चुपचाप निकल गए। और आप जानते हैं इसमें सबसे इंटरेस्टिंग बात क्या है? इस फ्रॉड के वक्त तीनों रेटिंग एजेंसीज ने इस कंपनी को ट्रिपल ए रेटिंग दे रखी ट्रिपल ए मतलब यह इन्वेस्टमेंट बिल्कुल सेफ है और फिर एक दिन सब कुछ ढह गया। लेकिन यह सिर्फ एक कंपनी की स्टोरी नहीं है। यह स्टोरी है कैसे एक पूरा फाइनेंसियल सिस्टम अजमशंस पर चल रहा था और जब ट्रस्ट टूटा तो सिस्टम हिल गया। आज के इस वीडियो में हम बात करेंगे इंडिया के सबसे बड़े कोलैप्सेस में से एक आयरलैंड एफएस के बारे में। आइलैंड एफएस इंफ्रास्ट्रक्चर लीजिंग एंड फाइनेंसियल सर्विज।\n\n[SEGMENT 3]\nTIME: 77.52 - 119.52\nLANGUAGE: HINDI\nTEXT:\nसाल 1987 इंडिया में अब तक लिबरलाइजेशन नहीं हुआ था। बैंक्स सरकारी है। प्राइवेट कैपिटल आने से डरता है। लेकिन इंडिया को चाहिए रोड्स, ब्रिजेस, पोर्ट्स और पावर प्लांट्स। तो सरकार ने एक सशन निकाला। तीन सबसे पावरफुल इंस्टीटशंस को साथ लाया गया। सेंट्रल बैंक ऑफ इंडिया, HDFC और यूनिट ट्रस्ट ऑफ इंडिया। और सबने मिलकर एक नई एंटिटी बनाई जो कि ना पूरा बैंड था ना पूरा इंफ्रास्ट्रक्चर डेवलपर कुछ बीच का। नाम रखा गया आयल एंड एफएस। आईडिया सिंपल था मार्केट से पैसा उधार लेना है। उससे इंफ्रास्ट्रक्चर प्रोजेक्ट्स बिल्ड करने हैं। फिर टोल लगाकर फीस लेकर और रेवेन्यू से पैसा वापस चुका देना है। और सरकार का यह प्लान काम भी कर गया। बाय 2018 आयलैंड एफएस डायरेक्टली या इनडायरेक्टली लिंक थी दिल्ली मेट्रो प्रोजेक्ट से।",
+    "raw_response": "{\n    \"video_id\": \"7dQQa91RLls\",\n    \"opening_analysis\": {\n        \"hook\": {\n            \"text\": \"आपने हर्षद मेहता का नाम तो सुना होगा। वही स्कैम 1992 5000 करोड़... लेकिन आज मैं यहां पर आपको एक ऐसी स्टोरी सुनाऊंगा जहां पर जो कोलैप्स था वो हर्षद मेहता स्कैम से 20 गुना ज्यादा था।\",\n            \"start_time\": 1.36,\n            \"end_time\": 31.40,\n            \"hook_type\": \"curiosity\",\n            \"confidence\": 0.95\n        },\n        \"core_topic\": {\n            \"description\": \"India's largest infrastructure leasing company collapse (Ireland FS)\",\n            \"explicit\": true,\n            \"confidence\": 0.95,\n            \"evidence\": {\n                \"start_time\": 77.52,\n                \"end_time\": 119.52,\n                \"text\": \"आज के इस वीडियो में हम बात करेंगे इंडिया के सबसे बड़े कोलैप्सेस में से एक आयरलैंड एफएस के बारे में।\"\n            }\n        },\n        \"viewer_problem_or_question\": {\n            \"description\": \"How a triple-A rated investment could collapse and what it reveals about financial systems\",\n            \"explicit\": true,\n            \"confidence\": 0.90,\n            \"evidence\": {\n                \"start_time\": 31.40,\n                \"end_time\": 77.52,\n                \"text\": \"एक दिन सब कुछ ढह गया। लेकिन यह सिर्फ एक कंपनी की स्टोरी नहीं है।\"\n            }\n        },\n        \"promise\": {\n            \"description\": \"To tell a story about India's biggest financial collapse beyond Harshad Mehta\",\n            \"explicit\": true,\n            \"confidence\": 0.90,\n            \"evidence\": {\n                \"start_time\": 1.36,\n                \"end_time\": 31.40,\n                \"text\": \"आज मैं यहां पर आपको एक ऐसी स्टोरी सुनाऊंगा जहां पर जो कोलैप्स था वो हर्षद मेहता स्कैम से 20 गुना ज्यादा था।\"\n            }\n        },\n        \"expected_points\": [],\n        \"expected_direction\": \"Explore Ireland FS formation, business model, infrastructure connections, and financial system collapse\",\n        \"opening_summary\": \"Creator uses Harshad Mehta as curiosity hook to introduce India's largest infrastructure leasing company collapse. They promise a story about a financial collapse 20 times bigger than the famous scam.\",\n        \"analysis_confidence\": 0.92\n    }\n}"
+  },
+  "parsed_analysis": {
+    "video_id": "7dQQa91RLls",
+    "opening_analysis": {
+      "hook": {
+        "text": "आपने हर्षद मेहता का नाम तो सुना होगा। वही स्कैम 1992 5000 करोड़... लेकिन आज मैं यहां पर आपको एक ऐसी स्टोरी सुनाऊंगा जहां पर जो कोलैप्स था वो हर्षद मेहता स्कैम से 20 गुना ज्यादा था।",
+        "start_time": 1.36,
+        "end_time": 31.4,
+        "hook_type": "curiosity",
+        "confidence": 0.95
+      },
+      "core_topic": {
+        "description": "India's largest infrastructure leasing company collapse (Ireland FS)",
+        "explicit": true,
+        "confidence": 0.95,
+        "evidence": {
+          "start_time": 77.52,
+          "end_time": 119.52,
+          "text": "आज के इस वीडियो में हम बात करेंगे इंडिया के सबसे बड़े कोलैप्सेस में से एक आयरलैंड एफएस के बारे में।"
+        }
+      },
+      "viewer_problem_or_question": {
+        "description": "How a triple-A rated investment could collapse and what it reveals about financial systems",
+        "explicit": true,
+        "confidence": 0.9,
+        "evidence": {
+          "start_time": 31.4,
+          "end_time": 77.52,
+          "text": "एक दिन सब कुछ ढह गया। लेकिन यह सिर्फ एक कंपनी की स्टोरी नहीं है।"
+        }
+      },
+      "promise": {
+        "description": "To tell a story about India's biggest financial collapse beyond Harshad Mehta",
+        "explicit": true,
+        "confidence": 0.9,
+        "evidence": {
+          "start_time": 1.36,
+          "end_time": 31.4,
+          "text": "आज मैं यहां पर आपको एक ऐसी स्टोरी सुनाऊंगा जहां पर जो कोलैप्स था वो हर्षद मेहता स्कैम से 20 गुना ज्यादा था।"
+        }
+      },
+      "expected_points": [],
+      "expected_direction": "Explore Ireland FS formation, business model, infrastructure connections, and financial system collapse",
+      "opening_summary": "Creator uses Harshad Mehta as curiosity hook to introduce India's largest infrastructure leasing company collapse. They promise a story about a financial collapse 20 times bigger than the famous scam.",
+      "analysis_confidence": 0.92
+    }
+  },
+  "log_metrics": {
+    "video_id": "7dQQa91RLls",
+    "model_id": "qwen3.5-9b-claude-4.6-opus-reasoning-distilled-v2",
+    "target_window_seconds": 90.0,
+    "max_window_seconds": 120.0,
+    "actual_opening_duration": 118.16,
+    "final_end_timestamp": 119.519,
+    "number_of_segments": 3,
+    "input_character_count": 5256,
+    "output_character_count": 2185,
+    "latency_seconds": 191.248,
+    "temperature": 0.1,
+    "max_tokens": 2500,
+    "json_valid": true,
+    "validation_issues": [],
+    "parse_error": ""
+  }
+}

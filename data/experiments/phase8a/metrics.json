@@ -1,0 +1,35 @@
+[
+  {
+    "strategy": "Strategy A",
+    "segments_per_call": 2,
+    "number_of_calls": 4,
+    "total_input_characters": 17287,
+    "total_output_characters": 4124,
+    "total_latency_seconds": 918.1,
+    "average_latency_per_call": 229.53,
+    "average_output_per_segment": 515.5,
+    "json_validation_status": "PASS"
+  },
+  {
+    "strategy": "Strategy B",
+    "segments_per_call": 5,
+    "number_of_calls": 2,
+    "total_input_characters": 12099,
+    "total_output_characters": 3557,
+    "total_latency_seconds": 413.09,
+    "average_latency_per_call": 206.55,
+    "average_output_per_segment": 444.6,
+    "json_validation_status": "PASS"
+  },
+  {
+    "strategy": "Strategy C",
+    "segments_per_call": 8,
+    "number_of_calls": 1,
+    "total_input_characters": 9505,
+    "total_output_characters": 3483,
+    "total_latency_seconds": 290.09,
+    "average_latency_per_call": 290.09,
+    "average_output_per_segment": 435.4,
+    "json_validation_status": "PASS"
+  }
+]

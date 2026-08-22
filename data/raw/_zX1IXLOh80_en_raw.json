@@ -1,0 +1,21 @@
+{
+  "video_id": "_zX1IXLOh80",
+  "source_type": "srt",
+  "language": "ENGLISH",
+  "file_path": "C:\\Users\\ADMIN\\Downloads\\UCUMccND2H_CVS0dMZKCPCXA\\UCUMccND2H_CVS0dMZKCPCXA\\_zX1IXLOh80\\transcript\\en.srt",
+  "total_entries": 0,
+  "time_range": {
+    "start": 0.0,
+    "end": 0.0,
+    "duration": 0.0
+  },
+  "overlap_summary": {
+    "overlap_count": 0,
+    "has_overlap": false,
+    "max_overlap_seconds": 0.0
+  },
+  "parsing_issues": [
+    "Failed to find valid timestamp line in block: '<html><head><meta http-equiv=\"content-type\" content=\"text/ht'"
+  ],
+  "segments": []
+}

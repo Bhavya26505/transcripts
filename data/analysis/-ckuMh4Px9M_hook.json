@@ -1,0 +1,46 @@
+{
+  "video_id": "-ckuMh4Px9M",
+  "opening_analysis": {
+    "hook": {
+      "text": "वीडियो शुरू करने से पहले यह क्लिप जरूर देख लीजिए",
+      "start_time": 0.16,
+      "end_time": 5.0,
+      "hook_type": "promise",
+      "confidence": 0.92
+    },
+    "core_topic": {
+      "description": "Indian banking crisis and investment protection through fundamentals analysis",
+      "explicit": true,
+      "confidence": 0.95,
+      "evidence": {
+        "start_time": 10.0,
+        "end_time": 40.0,
+        "text": "रिसेंट ट्रेन को देखा जाए तो बहुत सारे लोग अपना पैसा सेविंग अकाउंट में नहीं रख रहे हैं फिर कहां रख रहे हैं वो रख रहे हैं म्यूचुअल फंड्स में इक्विटी में यानी शेयर मार्केट में"
+      }
+    },
+    "viewer_problem_or_question": {
+      "description": "Beginners losing money in stocks by choosing wrong investments",
+      "explicit": true,
+      "confidence": 0.92,
+      "evidence": {
+        "start_time": 75.0,
+        "end_time": 85.0,
+        "text": "कई सारे बिगिनर्स वहां पर पैसा गवा रहे हैं क्योंकि उन्हें यह पता ही नहीं है कि किसे सही स्टॉक को या फिर सही कंपनी को कैसे चुनना है"
+      }
+    },
+    "promise": {
+      "description": "Teach fundamentals and valuation analysis to avoid investment pitfalls",
+      "explicit": true,
+      "confidence": 0.9,
+      "evidence": {
+        "start_time": 85.0,
+        "end_time": 90.0,
+        "text": "अब अगर आप इन सारी चीजों से बचने के लिए कंपनी के फंडामेंटल्स और कंपनी के वैल्युएशन को अच्छे से समझना चाहते हो सीखना चाहते हो तो"
+      }
+    },
+    "expected_points": [],
+    "expected_direction": "Explain investment risks for beginners, teach fundamentals and valuation analysis methods to protect savings from banking crisis impacts",
+    "opening_summary": "RBI Governor discusses why Indians shift savings from banks to capital markets due to banking crisis. Creator promises to teach fundamental analysis skills to help viewers avoid common stock market mistakes.",
+    "analysis_confidence": 0.91
+  }
+}
