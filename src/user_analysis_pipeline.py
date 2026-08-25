@@ -6,6 +6,12 @@ import time
 import uuid
 import hashlib
 import csv
+if sys.platform == "win32":
+    try:
+        sys.stdout.reconfigure(encoding="utf-8", errors="replace")
+        sys.stderr.reconfigure(encoding="utf-8", errors="replace")
+    except Exception:
+        pass
 from pathlib import Path
 from typing import Dict, List, Any, Optional, Tuple
 
@@ -59,10 +65,17 @@ def validate_upload_file(file_path: Path) -> Tuple[bool, str]:
     if content is None or not content.strip():
         return False, "Transcript could not be decoded or contains no readable text."
 
+    # Reject HTML error / rate limit response
+    lower_content = content.lower().strip()
+    if lower_content.startswith(("<!doctype html", "<html", "<?xml")) or "<html" in lower_content[:300] or "<title>sorry" in lower_content or "automated queries" in lower_content:
+        return False, "File contains an HTML error or rate-limit response, not a valid transcript."
+
     # Check for subtitle structure
     entries, issues = parse_srt_string(content)
     if not entries:
-        # Fallback timestamp parser for basic .txt or .vtt if standard srt block missing
+        if ext in {".srt", ".vtt"}:
+            return False, f"File format '{ext}' contains no valid subtitle timestamp entries (e.g. '00:00:00,000 --> 00:00:05,000')."
+        # Fallback line parser for raw .txt
         lines = [line.strip() for line in content.splitlines() if line.strip()]
         if not lines:
             return False, "No valid text lines found in uploaded file."

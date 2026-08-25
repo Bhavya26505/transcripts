@@ -153,3 +153,65 @@ class LMStudioClient:
             "raw_response": raw_content,
             "parsed_response": parsed_json
         }
+
+
+def extract_json_from_llm_response(raw_response_text: str) -> Tuple[Optional[Any], str]:
+    """
+    Robustly extracts and parses JSON from LLM response text.
+    Handles:
+    - <think>...</think> reasoning traces from reasoning models (e.g. Qwen 3.5 / DeepSeek R1 / Claude Opus reasoning)
+    - Markdown ```json ... ``` code blocks
+    - Direct raw JSON strings
+    - Unenclosed { ... } or [ ... ] objects/arrays
+    Returns (parsed_json_object, error_message). If successful, error_message is "".
+    """
+    if not raw_response_text or not raw_response_text.strip():
+        return None, "Empty response from LLM"
+
+    # 1. Strip reasoning traces if present
+    cleaned = re.sub(r'<think>[\s\S]*?</think>', '', raw_response_text, flags=re.IGNORECASE).strip()
+    if not cleaned:
+        cleaned = raw_response_text.strip()
+
+    # 2. Try markdown json block
+    json_block = re.search(r'```(?:json)?\s*([\{\[][\s\S]*?[\}\]])\s*```', cleaned, flags=re.IGNORECASE)
+    if json_block:
+        block_text = json_block.group(1).strip()
+        try:
+            return json.loads(block_text), ""
+        except Exception:
+            pass
+
+    # 3. Try stripped markdown backticks
+    stripped = re.sub(r'^```(?:json)?\s*', '', cleaned, flags=re.IGNORECASE)
+    stripped = re.sub(r'\s*```$', '', stripped).strip()
+    try:
+        return json.loads(stripped), ""
+    except Exception:
+        pass
+
+    # 4. Try finding the outermost JSON object { ... }
+    match_obj = re.search(r'(\{[\s\S]*\})', cleaned)
+    if match_obj:
+        try:
+            return json.loads(match_obj.group(1)), ""
+        except Exception:
+            pass
+
+    # 5. Try finding the outermost JSON array [ ... ]
+    match_arr = re.search(r'(\[[\s\S]*\])', cleaned)
+    if match_arr:
+        try:
+            return json.loads(match_arr.group(1)), ""
+        except Exception:
+            pass
+
+    # 6. Last resort: try from raw text in case <think> strip was too aggressive
+    match_raw = re.search(r'```(?:json)?\s*([\{\[][\s\S]*?[\}\]])\s*```', raw_response_text, flags=re.IGNORECASE)
+    if match_raw:
+        try:
+            return json.loads(match_raw.group(1)), ""
+        except Exception as e:
+            return None, f"JSON parse error: {e}"
+
+    return None, "Failed to locate valid JSON object or array in LLM response."
